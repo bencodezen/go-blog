@@ -1,10 +1,12 @@
 ---
 title: 2014 Resolutions
+date: 2014-01-01 19:55:17
 id: 4414
 categories:
-  - Journal
-date: 2014-01-01 19:55:17
+	- Journal
+	- Progress Reports
 tags:
+	- goals
 ---
 
 Happy new years everyone! 2013 has come and gone and 2014 is now upon us! And though I'm one that comes from the philosophy of living each day to the fullest and not waiting till the beginning of the year to start change, I thought it wouldn't hurt to do a little new years resolution for the blog!

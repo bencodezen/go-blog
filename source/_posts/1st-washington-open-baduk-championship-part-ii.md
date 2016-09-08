@@ -1,23 +1,16 @@
 ---
 title: 1st Washington Open Baduk Championship - Part II
-tags:
-  - 1st place
-  - baduk
-  - championship
-  - compete
-  - competition
-  - korean
-  - myung wang kim
-  - open
-  - park sohyun
-  - tournament
-  - tournaments
+date: 2014-05-01 22:13:42
 id: 5139
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2014-05-01 22:13:42
+	- Journal
+	- Events
+tags:
+	- kifu
+	- tournaments
+	- pros
+	- myung-wan-kim
+	- park-sohyun
 ---
 
 [Part I](http://www.bengozen.com/1st-washington-open-baduk-championship-part/ "1st Washington Open Baduk Championship — Part I") - [Interlude](http://www.bengozen.com/wgw-38-i-want-play-go-like-that/ "WGW 38: I Want to Play Go Like That…") - **Part II**

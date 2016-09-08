@@ -1,11 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 72'
+date: 2016-04-04 08:00:54
 id: 6001
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2016-04-04 08:00:54
+	- Commentaries
+	- Monday Go Meditation
 tags:
+	- kifu
 ---
 
 What you have before you is not a game of miraculous play or some game I'm particularly proud of. Instead, this is evidence of someone who has simply taken the first steps to playing once again.

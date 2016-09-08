@@ -1,13 +1,10 @@
 ---
 title: A Frustrating Evening
-tags:
-  - daily overview
-  - frustrated
-  - growth
+date: 2010-10-03 23:37:00
 id: 87
 categories:
-  - Journal
-date: 2010-10-03 23:37:00
+	- Journal
+tags:
 ---
 
 <div style="clear: both; text-align: center;"></div>

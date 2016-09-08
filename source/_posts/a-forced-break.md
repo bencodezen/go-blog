@@ -1,13 +1,12 @@
 ---
 title: A Forced Break
-tags:
-  - go problems
-  - training
-  - tsumego
+date: 2010-09-23 23:21:00
 id: 100
 categories:
-  - Journal
-date: 2010-09-23 23:21:00
+	- Journal
+tags:
+	- training
+	- tsumego
 ---
 
 So like most people, my world is not solely my own and is constantly impacted by the people around me.  This has forced me to take a break from playing full games of Go online, but on the upside I've been trying to take what Justin advised me to do to heart.

@@ -1,16 +1,10 @@
 ---
 title: A Full Brain
-tags:
-  - full brain
-  - no playing
-  - no studying
-  - refresh
-  - vacate
-  - vacation
+date: 2013-05-01 17:30:31
 id: 2669
 categories:
-  - Journal
-date: 2013-05-01 17:30:31
+	- Journal
+tags:
 ---
 
 I had an interesting conversation with frozensoul today. For all my efforts at figuring out what's wrong with me, something I had not considered is that my head is filled to the brim with go material. I am constantly playing and trying to cram more information, but it may be time for me to just completely stop playing and studying.

@@ -1,14 +1,11 @@
 ---
 title: An Exhilarating Battle
-tags:
-  - baduk
-  - go
-  - kifu
-  - weiqi
+date: 2012-09-07 17:00:00
 id: 34
 categories:
-  - Kifu
-date: 2012-09-07 17:00:00
+	- Journal
+tags:
+	- kifu
 ---
 
 _In light of the new blog redesign and format, I will also be including a new section in every game that I post: My Opponent, Mistakes and (if relevant) Prized Moments. [OUTDATED]_

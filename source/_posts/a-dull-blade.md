@@ -1,17 +1,10 @@
 ---
 title: A Dull Blade
-tags:
-  - a dull blade
-  - blunt
-  - clubbing my opponents
-  - inability to cut
-  - no edge
-  - no skill
-  - wild attacks
+date: 2013-03-07 17:00:30
 id: 2171
 categories:
-  - Journal
-date: 2013-03-07 17:00:30
+	- Journal
+tags:
 ---
 
 In the past month, I've been wrestling with the inconsistency of my games. At times, I can give high SDK's a run for their money. Then, to my utter surprise, I find myself getting beat by players around 6 kyu in the following games. So what gives?
