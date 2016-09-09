@@ -2,4 +2,4 @@
 
 ## About
 
-**Version**: 3.0-alpha
+**Version**: 3.0.0-alpha
