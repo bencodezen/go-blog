@@ -1,11 +1,10 @@
 ---
 title: Getting Stronger at Go (Overview)
 date: 2012-10-10 09:00:00
-
 id: 23
 categories:
 	- Articles
-		- Weekly Go Wednesday
+	- Weekly Go Wednesday
 tags:
 	- advice
 ---

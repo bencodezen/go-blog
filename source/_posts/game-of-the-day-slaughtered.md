@@ -1,15 +1,12 @@
 ---
 title: 'Game of the Day: Slaughtered'
-tags:
-  - 15k
-  - 3 stones
-  - black
-  - defeat
-  - handicap go
+date: 2010-10-06 12:09:00
 id: 79
 categories:
-  - Kifu
-date: 2010-10-06 12:09:00
+	- Journal
+tags:
+	- kifu
+	- handicap-go
 ---
 
 So I think I'll start summarizing my games with one word synopsis to describe the what I believe to be the ultimate aura and ambiance of the game. Today's choice of word: slaughtered. In other words, like a lamb being led to the slaughter, I let a 12 kyu draw me into fighting situations where my (already poor) reading ability ruined any chance I had of beating him in the game. Let me run a few off my hand.... misreading capturing races, missing shortage of liberties, blatantly trying to save a group that was in atari which missed my reading. I do think I should have won. My strategy was far more solid overall, but I got drawn back into focusing on the fighting. There's a little guy in my head right now yelling, "TERRITORY YOU IDIOT! THIS IS NOT FIRST CAPTURE!" Sigh... Enjoy the following horrific game that I am so ashamed to call my own.

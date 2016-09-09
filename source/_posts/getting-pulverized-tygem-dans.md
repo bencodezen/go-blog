@@ -1,13 +1,12 @@
 ---
 title: Getting Pulverized by Tygem Dans
-tags:
-  - korean players
-  - losing
-  - tygem
+date: 2014-05-06 21:53:03
 id: 5242
 categories:
-  - Journal
-date: 2014-05-06 21:53:03
+	- Journal
+tags:
+	- korean-players
+	- tygem
 ---
 
 I mentioned recently that I wanted to turn my attention Tygem because of how different the players are there. I tried explaining it to a friend a night or two ago but couldn't find the right game to really illustrate it.

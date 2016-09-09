@@ -1,15 +1,13 @@
 ---
 title: Giving Your Opponent a Wedgie
-tags:
-  - go tactics
-  - wedge
+date: 2012-10-17 09:00:00
+
 id: 17
 categories:
-  - Articles
-  - Lessons
-  - Tactics
-  - Weekly Go Wednesday
-date: 2012-10-17 09:00:00
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- tactics
 ---
 
 ## _Weekly Go Wednesday, Issue #4_
