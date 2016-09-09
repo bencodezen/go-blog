@@ -1,20 +1,16 @@
 ---
 title: North American Go Convention - Day 4
-tags:
-  - 9p
-  - food
-  - james
-  - myung wan kim
-  - nagc
-  - north american go convention
-  - smartgo
-  - tournament
+date: 2013-02-20 17:00:25
 id: 1932
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2013-02-20 17:00:25
+	- Journal
+	- Events
+tags:
+	- james
+	- myung-wan-kim
+	- tournaments
+	- pros
+	- kifu
 ---
 
 [Introduction](http://www.bengozen.com/north-american-go-convention/ "North American Go Convention!!!") -- [Day 1](http://www.bengozen.com/north-american-go-convention-day-1/ "North American Go Convention — Day 1") -- [Day 2](http://www.bengozen.com/north-american-go-convention-day-2/ "North American Go Convention — Day 2") -- [Day 3](http://www.bengozen.com/north-american-go-convention-day-3/ "North American Go Convention — Day 3") -- **Day 4** -- [Day 5](http://www.bengozen.com/north-american-go-convention-day-5/ "North American Go Convention — Day 5") -- [Conclusion](http://www.bengozen.com/north-american-go-convention-conclusion/ "North American Go Convention — Conclusion")

@@ -1,18 +1,15 @@
 ---
 title: NOVA Pumpkin Classic Tournament 2012 - Round 2
-tags:
-  - 4 stones
-  - 8k
-  - handicap go
-  - nova
-  - pumpkin classic
-  - tournament
-  - white
+date: 2012-11-06 09:00:48
 id: 936
 categories:
-  - Journal
-  - Kifu
-date: 2012-11-06 09:00:48
+	- Journal
+	- Events
+tags:
+	- nova
+	- tournaments
+	- handicap-go
+	- kifu
 ---
 
 [Introduction](http://www.bengozen.com/nova-pumpkin-class-2012-intro/ "NOVA Pumpkin Classic Tournament 2012 — Introduction") --- [Round 1](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-1/ "NOVA Pumpkin Classic Tournament 2012 — Round 1") --- **Round 2** --- [Round 3](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-3/ "NOVA Pumpkin Classic Tournament 2012 — Round 3") --- [Round 4](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-4/ "NOVA Pumpkin Classic Tournament 2012 — Round 4") --- [Conclusion](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-conclusion/ "NOVA Pumpkin Classic Tournament 2012 — Conclusion")

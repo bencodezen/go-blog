@@ -1,15 +1,12 @@
 ---
 title: North American Go Convention!!!
-tags:
-  - '2013'
-  - go event
-  - nagc
-  - north american go convention
-  - tournament
+date: 2012-11-29 14:30:55
 id: 1178
 categories:
-  - Events
-date: 2012-11-29 14:30:55
+	- Journal
+	- Events
+tags:
+	- tournaments
 ---
 
 **Introduction** --- [Day 1](http://www.bengozen.com/north-american-go-convention-day-1/ "North American Go Convention — Day 1") --- [Day 2](http://www.bengozen.com/north-american-go-convention-day-2/ "North American Go Convention — Day 2") --- [Day 3](http://www.bengozen.com/north-american-go-convention-day-3/ "North American Go Convention — Day 3") --- [Day 4](http://www.bengozen.com/north-american-go-convention-day-4/ "North American Go Convention — Day 4") --- [Day 5](http://www.bengozen.com/north-american-go-convention-day-5/ "North American Go Convention — Day 5") --- [Conclusion](http://www.bengozen.com/north-american-go-convention-conclusion/ "North American Go Convention — Conclusion")

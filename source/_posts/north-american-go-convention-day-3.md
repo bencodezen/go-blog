@@ -1,19 +1,16 @@
 ---
 title: North American Go Convention - Day 3
-tags:
-  - 9p
-  - james
-  - myung wan kim
-  - nagc
-  - north american go convention
-  - simul game
-  - tournament
+date: 2013-02-19 12:00:59
 id: 1929
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2013-02-19 12:00:59
+	- Journal
+	- Events
+tags:
+	- james
+	- myung-wan-kim
+	- pro-simuls
+	- tournaments
+	- kifu
 ---
 
 [Introduction](http://www.bengozen.com/north-american-go-convention/ "North American Go Convention!!!") --- [Day 1](http://www.bengozen.com/north-american-go-convention-day-1/ "North American Go Convention — Day 1") --- [Day 2](http://www.bengozen.com/north-american-go-convention-day-2/ "North American Go Convention — Day 2") --- **Day 3** --- [Day 4](http://www.bengozen.com/north-american-go-convention-day-4/ "North American Go Convention — Day 4") --- [Day 5](http://www.bengozen.com/north-american-go-convention-day-5/ "North American Go Convention — Day 5") --- [Conclusion](http://www.bengozen.com/north-american-go-convention-conclusion/ "North American Go Convention — Conclusion")

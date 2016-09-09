@@ -1,16 +1,12 @@
 ---
 title: October 2013 Bonus Review - Game 1
-tags:
-  - canada go league
-  - division b5
-  - even game
-  - resignation
-  - victory
-  - white
+date: 2013-10-02 11:23:39
 id: 4098
 categories:
-  - Kifu
-date: 2013-10-02 11:23:39
+	- Commentaries
+tags:
+ 	- canada-go-league
+	- kifu
 ---
 
 [caption id="attachment_4099" align="aligncenter" width="360"][![Credit to Zeasonal](http://www.bengozen.com/wp-content/uploads/2013/10/Cosplay___Hikaru_no_Go_by_Zeasonal.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/Cosplay___Hikaru_no_Go_by_Zeasonal.jpg) Credit to [Zeasonal](http://zeasonal.deviantart.com/art/Cosplay-Hikaru-no-GO-2007-63984274)[/caption]

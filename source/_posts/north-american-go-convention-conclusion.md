@@ -1,15 +1,13 @@
 ---
 title: North American Go Convention - Conclusion
-tags:
-  - convention
-  - major
-  - north american
-  - tournament
+date: 2013-02-23 09:00:31
 id: 1938
 categories:
-  - Events
-  - Journal
-date: 2013-02-23 09:00:31
+	- Journal
+	- Events
+tags:
+	- tournaments
+	- dc
 ---
 
 [Introduction](http://www.bengozen.com/north-american-go-convention/ "North American Go Convention!!!") --- [Day 1](http://www.bengozen.com/north-american-go-convention-day-1/ "North American Go Convention — Day 1") --- [Day 2](http://www.bengozen.com/north-american-go-convention-day-2/ "North American Go Convention — Day 2") --- [Day 3](http://www.bengozen.com/north-american-go-convention-day-3/ "North American Go Convention — Day 3") --- [Day 4](http://www.bengozen.com/north-american-go-convention-day-4/ "North American Go Convention — Day 4") --- [Day 5](http://www.bengozen.com/north-american-go-convention-day-5/ "North American Go Convention — Day 5") --- **Conclusion**

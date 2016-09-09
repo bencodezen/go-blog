@@ -1,13 +1,13 @@
 ---
 title: Pointers from a Stronger Player
-tags:
-  - fundamentals
-  - justin
-  - progress report
+date: 2010-09-22 00:13:00
 id: 102
 categories:
-  - Journal
-date: 2010-09-22 00:13:00
+	- Journal
+	- Progress Reports
+tags:
+	- fundamentals
+	- odnihs
 ---
 
 So I had the pleasant surprise of having Justin watch over one of my games tonight.  It's always funny how obvious the mistakes I make are when a stronger player points them out... or more obvious moves.  But he did leave me with an interesting thought...

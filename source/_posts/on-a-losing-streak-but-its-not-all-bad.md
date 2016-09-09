@@ -1,14 +1,11 @@
 ---
 title: On a Losing Streak... But It's Not All Bad
-tags:
-  - chinese opening
-  - dempsey roll
-  - losing streak
-  - silver lining
+date: 2013-07-30 21:46:02
 id: 3687
 categories:
-  - Journal
-date: 2013-07-30 21:46:02
+	- Journal
+tags:
+	- losing-streak
 ---
 
 So as some of you might have noticed, I've been playing a lot more games recently. However, it seems I am on a losing streak; but it's not all bad since it means I'm back in experimental mode. My rank has even dropped down to 6k it seems, but this is partially due to the fact that I haven't played enough ranked games where I actually have time to think. So I really don't give much credence to my rank drop.

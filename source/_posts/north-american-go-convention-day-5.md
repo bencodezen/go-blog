@@ -1,20 +1,16 @@
 ---
 title: North American Go Convention - Day 5
-tags:
-  - 1p
-  - 9p
-  - first professional win
-  - myung wan kim
-  - nagc
-  - north american go convention
-  - stephanie yin
-  - tournament
+date: 2013-02-22 17:00:01
 id: 1934
 categories:
-  - Events
   - Journal
-  - Kifu
-date: 2013-02-22 17:00:01
+  - Events
+tags:
+  - myung-wan-kim
+  - stephanie-yin
+  - pros
+  - kifu
+  - tournaments
 ---
 
 [Introduction](http://www.bengozen.com/north-american-go-convention/ "North American Go Convention!!!") --- [Day 1](http://www.bengozen.com/north-american-go-convention-day-1/ "North American Go Convention — Day 1") --- [Day 2](http://www.bengozen.com/north-american-go-convention-day-2/ "North American Go Convention — Day 2") --- [Day 3](http://www.bengozen.com/north-american-go-convention-day-3/ "North American Go Convention — Day 3") --- [Day 4](http://www.bengozen.com/north-american-go-convention-day-4/ "North American Go Convention — Day 4") --- **Day 5** --- [Conclusion](http://www.bengozen.com/north-american-go-convention-conclusion/ "North American Go Convention — Conclusion")

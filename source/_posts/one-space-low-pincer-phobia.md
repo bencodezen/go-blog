@@ -1,15 +1,11 @@
 ---
 title: One-Space Low Pincer-Phobia
-tags:
-  - 21st century dictionary of basic joseki
-  - fear
-  - joseki
-  - obstacles
-  - one space low pincer
+date: 2014-12-04 14:09:03
 id: 5941
 categories:
-  - Journal
-date: 2014-12-04 14:09:03
+	- Journal
+tags:
+	- joseki
 ---
 
 As I’ve been starting to unravel the tightly wound knot that has been at the core of my fear to play games the way I used to, one of the things I noticed is that there is one joseki in particular that has played a major role in my discomfort at playing full games.

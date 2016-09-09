@@ -1,20 +1,16 @@
 ---
 title: North American Go Convention - Day 2
-tags:
-  - 6p
-  - 9p
-  - joanne missingham
-  - myung wan kim
-  - nagc
-  - professional review
-  - smartgo
-  - tournament
+date: 2013-02-15 17:00:09
 id: 1915
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2013-02-15 17:00:09
+	- Journal
+	- Events
+tags:
+	- joanne-missingham
+	- myung-wan-kim
+	- tournaments
+	- kifu
+	- pros
 ---
 
 [Introduction](http://www.bengozen.com/north-american-go-convention/ "North American Go Convention!!!") --- [Day 1](http://www.bengozen.com/north-american-go-convention-day-1/ "North American Go Convention — Day 1") --- **Day 2** --- [Day 3](http://www.bengozen.com/north-american-go-convention-day-3/ "North American Go Convention — Day 3") --- [Day 4](http://www.bengozen.com/north-american-go-convention-day-4/ "North American Go Convention — Day 4") --- [Day 5](http://www.bengozen.com/north-american-go-convention-day-5/ "North American Go Convention — Day 5") --- [Conclusion](http://www.bengozen.com/north-american-go-convention-conclusion/ "North American Go Convention — Conclusion")

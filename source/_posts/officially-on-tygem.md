@@ -1,14 +1,12 @@
 ---
 title: Officially on Tygem
-tags:
-  - fighting
-  - tygem
-  - white
+date: 2013-01-01 09:00:08
 id: 1570
 categories:
-  - Journal
-  - Kifu
-date: 2013-01-01 09:00:08
+  	- Journal
+tags:
+	- kifu
+	- tygem
 ---
 
 ## Happy 2013!!!!

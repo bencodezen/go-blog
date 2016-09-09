@@ -1,11 +1,11 @@
 ---
 title: On Second Thought...
-tags:
-  - sabbatical
+date: 2010-12-29 21:30:00
 id: 43
 categories:
-  - Journal
-date: 2010-12-29 21:30:00
+	- Journal
+tags:
+	- sabbatical
 ---
 
 <div style="clear: both; text-align: left;">

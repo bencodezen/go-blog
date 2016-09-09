@@ -1,13 +1,10 @@
 ---
 title: Pursuing Zen Under Siege
-tags:
-  - risky
-  - siege
-  - zen
+date: 2013-11-05 18:36:41
 id: 4281
 categories:
-  - Journal
-date: 2013-11-05 18:36:41
+	- Journal
+tags:
 ---
 
 I've been thinking a lot about life lately something about myself. For those who know me in real life, it's probably safe to say that I can get a little overly excited about something most people would consider mundane. It's not because I was deprived as a child or anything; but I believe that each day should be lived to the fullest and that every moment we have is something to be excited about.

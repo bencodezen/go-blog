@@ -1,14 +1,10 @@
 ---
 title: One Two... Parry... One Two... Endure...
-tags:
-  - boxing
-  - endure
-  - hajime no ippo
-  - patience
+date: 2013-05-22 17:00:17
 id: 2756
 categories:
-  - Journal
-date: 2013-05-22 17:00:17
+	- Journal
+tags:
 ---
 
 Lately I have been on a [Hajime no Ippo](http://en.wikipedia.org/wiki/Fighting_Spirit_(manga)) kick and can't seem to put it down. With each match that I read, I'm severely reminded of how much they endure in order to be crowned the victor at the end of each match. Of course, some of their battles are won in a one round KO; but for the most part, the victor rarely comes out unscathed and is often sweating profusely and breathing heavily when holding is victory pose.

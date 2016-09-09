@@ -1,15 +1,11 @@
 ---
 title: Numb and Detached Go
-tags:
-  - dead man marching
-  - detached
-  - no fun
-  - numb
+date: 2013-02-13 09:00:37
 id: 1863
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2013-02-13 09:00:37
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## _Weekly Go Wednesday, Issue #17_

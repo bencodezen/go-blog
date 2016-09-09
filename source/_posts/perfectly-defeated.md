@@ -1,12 +1,11 @@
 ---
 title: Perfectly Defeated...
-tags:
-  - losing
-  - on tilt
+date: 2012-11-19 17:00:11
 id: 1129
 categories:
   - Journal
-date: 2012-11-19 17:00:11
+tags:
+  - on-tilt
 ---
 
 So over the past week, my rank on KGS actually went up to 6k and I managed to defend it properly against a 5k. Good news right? I'm back at 7k now. (-.-) How does that happen you might wonder? Losing four straight games in a row. That's how. Haha.

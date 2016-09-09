@@ -1,14 +1,12 @@
 ---
 title: October 2013 Bonus Review - Game 2
-tags:
-  - canada go league
-  - resignation
-  - victory
-  - white
+date: 2013-10-09 07:00:35
 id: 4103
 categories:
-  - Kifu
-date: 2013-10-09 07:00:35
+	- Commentaries
+tags:
+ 	- canada-go-league
+	- kifu
 ---
 
 For your second bonus game review, we will be continuing with my second game from the Canada Go League! Similar to what I mentioned in [last week's game](http://www.bengozen.com/october-2013-bonus-review-game-1/ "October 2013 Bonus Review — Game 1"), though my opponent was supposed to be in the 5-6 kyu range, I was not going to be underestimate my opponent.

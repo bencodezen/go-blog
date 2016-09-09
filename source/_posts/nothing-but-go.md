@@ -1,17 +1,11 @@
 ---
 title: Nothing But Go
-tags:
-  - constant pursuit
-  - discipline
-  - focus
-  - getting stronger
-  - growth
-  - nothing but go
+date: 2013-07-24 17:00:15
 id: 3645
 categories:
-  - Advice
-  - Journal
-date: 2013-07-24 17:00:15
+	- Journal
+tags:
+	- getting-stronger
 ---
 
 It occurred to me recently that it seems that all I do is nothing but study, play or write about go. Though I would love that to be the case, I can assure you that it is not the case. I am like any other working soul in society: I have a 9 to 5 job, I live on my own (which means I have to cook, clean, and do all those non-go related chores xD), I have other interests (e.g., web design, coding, tennis, sports, etc.), and I have more familial responsibility than most might care to have. Nonetheless, I have somehow managed to squeeze in go in between all the other things that I care about. Why am I writing about this? Good question.

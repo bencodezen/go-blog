@@ -1,16 +1,12 @@
 ---
 title: 'New Discovery: Nova Go Server'
-tags:
-  - awesome
-  - go server
-  - live go
-  - new
-  - nova
-  - turn based
+date: 2013-04-05 12:00:21
 id: 2470
 categories:
-  - Journal
-date: 2013-04-05 12:00:21
+	- Journal
+tags:
+	- correspondence-go
+	- go-servers
 ---
 
 For those who have veered away from turn based go due to the antiquity of the Dragon Go Server system, I am super excited to tell you about a new go server that was introduced to me by flakeman2!

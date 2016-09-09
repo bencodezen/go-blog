@@ -1,14 +1,10 @@
 ---
 title: Not Dead But Deep Fried
-tags:
-  - brain
-  - exhausted
-  - fried
-  - tired
+date: 2013-02-18 21:55:53
 id: 1940
 categories:
-  - Journal
-date: 2013-02-18 21:55:53
+	- Journal
+tags:
 ---
 
 No worries. I'm not dead. I apologize for not being able to update on a daily basis for the [NAGC](http://www.bengozen.com/north-american-go-convention-day-1/ "North American Go Convention — Day 1"). After Friday, there was just no way I could keep up with writing and the convention at the same time. On the upside though, there will definitely be posts coming in the near future with game reviews and all. So there should be some good content heading your way.

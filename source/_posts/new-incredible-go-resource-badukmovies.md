@@ -1,12 +1,13 @@
 ---
 title: 'New Incredible Go Resource: BadukMovies!!!'
+date: 2012-11-10 08:10:27
+id: 1095
+categories:
+	- Other
+	- Announcements
 tags:
   - badukmovies
   - videos
-id: 1095
-categories:
-  - Websites
-date: 2012-11-10 08:10:27
 ---
 
 Hey everyone. I just discovered a brand new go resource that got me so excited I had to post about it instantly!
