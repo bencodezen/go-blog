@@ -1,15 +1,14 @@
 ---
 title: 'Book Review: Graded Go Problems for Beginners, Vol. 4'
-tags:
-  - advanced
-  - go problems
-  - intermediate
-  - tsumego
+date: 2012-12-26 12:04:01
 id: 1422
 categories:
-  - Books
-  - Reviews
-date: 2012-12-26 12:04:01
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- go-problems
+	- tsumego
 ---
 
 ![graded-go-problems-for-beginners-volume-4](http://www.bengozen.com/wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-4.jpg)
@@ -60,10 +59,10 @@ Although I am a 6 kyu, I know that this volume is still quite difficult for me t
 2.  Glossary
 3.  Problems
 
-    1.  Advanced Problems: Level One
-    2.  Advanced Problems: Level Two
-    3.  Advanced Problems: Level Three - Life and Death Problems
-    4.  Advanced Problems: Level Four - Life and Death Problems
+		1.  Advanced Problems: Level One
+		2.  Advanced Problems: Level Two
+		3.  Advanced Problems: Level Three - Life and Death Problems
+		4.  Advanced Problems: Level Four - Life and Death Problems
 
 4.  Answers
 5.  National Go Association

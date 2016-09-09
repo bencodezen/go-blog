@@ -1,15 +1,13 @@
 ---
 title: 'Book Review: In the Beginning'
-tags:
-  - go
-  - in the beginning
-  - opening
-  - opening theory
+date: 2012-12-19 09:00:00
 id: 133
 categories:
-  - Books
-  - Reviews
-date: 2012-12-19 09:00:00
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- opening
 ---
 
 [![](http://www.bengozen.com/wp-content/uploads/2010/08/in-the-beginning_5.jpg "In the Beginning Cover")](http://www.bengozen.com/wp-content/uploads/2010/08/in-the-beginning_5.jpg)
@@ -40,30 +38,30 @@ Length, 152 Pages
 *   Introduction
 *   Chapter 1
 
-    1.  The First Moves of the Game
-    2.  The 3–4 Point
-    3.  The 3–3 Point
-    4.  The 4–4 Point
-    5.  The 3–5 Point
-    6.  The 4–5 Point
-    7.  Example Opening
-    8.  Extending Along the Side
-    9.  Pincer Attacks
-    10.  Invasions
-    11.  Extending into the Center
-    12.  Pushing and Crawling
+	1.  The First Moves of the Game
+	2.  The 3–4 Point
+	3.  The 3–3 Point
+	4.  The 4–4 Point
+	5.  The 3–5 Point
+	6.  The 4–5 Point
+	7.  Example Opening
+	8.  Extending Along the Side
+	9.  Pincer Attacks
+	10.  Invasions
+	11.  Extending into the Center
+	12.  Pushing and Crawling
 
 *   Chapter 2 - Nine Concepts
 
-    1.  Make Your Stones Work Together
-    2.  Efficiency
-    3.  Play Away from Strength
-    4.  Thickness and Walls
-    5.  Open at the Bottom
-    6.  The Third Line and the Fourth
-    7.  Reverse Strategy
-    8.  Light and Heavy
-    9.  Attack and Defense
+	1.  Make Your Stones Work Together
+	2.  Efficiency
+	3.  Play Away from Strength
+	4.  Thickness and Walls
+	5.  Open at the Bottom
+	6.  The Third Line and the Fourth
+	7.  Reverse Strategy
+	8.  Light and Heavy
+	9.  Attack and Defense
 
 *   Chapter 3 - Ten Problems
 [/expand]
@@ -83,15 +81,15 @@ Length, 152 Pages
 
 *   Textbook Approach
 
-    *   Content is organized in a curriculum format and follows a lecture style of writing.
+	*   Content is organized in a curriculum format and follows a lecture style of writing.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations with example diagrams
+	*   Explanations with example diagrams
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems
+	*   Practice problems
 **What aspect can be improved on?**
 
 *   I would have liked to see more problems in the book to allow the reader to practice what he/she learned.

@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: The Sanren-Sei Opening'
-tags:
-  - opening theory
-  - sanrensei
-  - star point
+date: 2012-12-21 16:00:50
 id: 1159
 categories:
-  - Books
-  - Reviews
-date: 2012-12-21 16:00:50
+	- Reviews
+	- Books
+tags:
+	- fuseki
+	- opening
+	- sanrensei
 ---
 
 [![Power of the Star Point Cover](http://www.bengozen.com/wp-content/uploads/2012/12/starpointpowercover.jpg "Power of the Star Point Cover")](http://www.bengozen.com/wp-content/uploads/2012/12/starpointpowercover.jpg)
@@ -51,15 +51,15 @@ The Power of the Star Point is a magnificent insight into the opening, handicap 
 3.  Chapter One: Sanren-sei Fundamentals
 4.  Chapter Two: Sanren-sei Josekis
 
-    1.  The Inside Approach Move
-    2.  The Attach-and-Extend Joseki
-    3.  The Attach-and-Extend Joseki (2)
-    4.  The One-space Jump
-    5.  The One-space Pincer
-    6.  The Two-space High Pincer
-    7.  The Three-space High Pincer
-    8.  The Knight Capping Move
-    9.  The 3-3 Invasion
+		1.  The Inside Approach Move
+		2.  The Attach-and-Extend Joseki
+		3.  The Attach-and-Extend Joseki (2)
+		4.  The One-space Jump
+		5.  The One-space Pincer
+		6.  The Two-space High Pincer
+		7.  The Three-space High Pincer
+		8.  The Knight Capping Move
+		9.  The 3-3 Invasion
 
 5.  Chapter Three: The Sanren-sei in Action
 6.  Fuseki Interlude

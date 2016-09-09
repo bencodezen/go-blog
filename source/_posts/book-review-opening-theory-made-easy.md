@@ -1,14 +1,13 @@
 ---
 title: 'Book Review: Opening Theory Made Easy'
-tags:
-  - good shape
-  - opening theory
-  - strategy
+date: 2010-10-06 09:10:00
 id: 81
 categories:
-  - Books
-  - Reviews
-date: 2010-10-06 09:10:00
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- opening
 ---
 
 [![opening-theory-made-easy-cover](http://www.bengozen.com/wp-content/uploads/2010/10/opening-theory-made-easy-cover.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/opening-theory-made-easy-cover.jpg)
@@ -52,32 +51,32 @@ In summary though, if you are even remotely interested in the opening theory of 
 
 1.  Chapter One - Fuseki Fundamentals
 
-    1.  Corner enclosures aim at side extensions
-    2.  Be flexible in deploying from the star-point
-    3.  Find the right pincer
-    4.  Have a counterplan to deal with invasions
-    5.  The 5-4 stone aims at outside influence
-    6.  The 4th line is the line of development, the 3rd line is the line of completion
-    7.  Build box-like moyos
+	1.  Corner enclosures aim at side extensions
+	2.  Be flexible in deploying from the star-point
+	3.  Find the right pincer
+	4.  Have a counterplan to deal with invasions
+	5.  The 5-4 stone aims at outside influence
+	6.  The 4th line is the line of development, the 3rd line is the line of completion
+	7.  Build box-like moyos
 
 2.  Chapter Two - Good Shape
 
-    1.  Family feuds waste resources
-    2.  Don't permit a hane at the head of your stones
-    3.  You can never catch up if you push from behind
-    4.  The empty triangle is bad shape
-    5.  The ponnuki is worth 30 points
-    6.  Don't atari automatically | Beginners Play Atari
+	1.  Family feuds waste resources
+	2.  Don't permit a hane at the head of your stones
+	3.  You can never catch up if you push from behind
+	4.  The empty triangle is bad shape
+	5.  The ponnuki is worth 30 points
+	6.  Don't atari automatically | Beginners Play Atari
 
 3.  Chapter Three - Strategy
 
-    1.  Attack the opponent by stealing his base
-    2.  Don't attach against weak stones
-    3.  Try to kill two birds with one stone
-    4.  Use thickness to attack
-    5.  Keep away from solid positions
-    6.  Reduce a large moyo lightly
-    7.  Don't cling to stones that have served their purpose
+	1.  Attack the opponent by stealing his base
+	2.  Don't attach against weak stones
+	3.  Try to kill two birds with one stone
+	4.  Use thickness to attack
+	5.  Keep away from solid positions
+	6.  Reduce a large moyo lightly
+	7.  Don't cling to stones that have served their purpose
 
 ### <span style="text-decoration: underline;">Recommended Vendors</span>
 

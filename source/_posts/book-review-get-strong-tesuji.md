@@ -1,15 +1,14 @@
 ---
 title: 'Book Review: Get Strong at Tesuji'
-tags:
-  - bozulich
-  - get strong
-  - kiseido
-  - tesuji
+date: 2013-09-28 07:00:01
 id: 4014
 categories:
-  - Books
-  - Reviews
-date: 2013-09-28 07:00:01
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- tesuji
+	- go-problems
 ---
 
 [![getstrongv6](http://www.bengozen.com/wp-content/uploads/2013/09/getstrongv6.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/getstrongv6.jpg)

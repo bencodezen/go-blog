@@ -1,17 +1,15 @@
 ---
 title: 'Book Review: Whole Board Thinking in Joseki, Vol 2'
-tags:
-  - far kakari
-  - global strategy
-  - high kakari
-  - joseki
-  - whole board
-  - yi lun yang
+date: 2013-07-26 22:00:39
 id: 3568
 categories:
-  - Books
   - Reviews
-date: 2013-07-26 22:00:39
+  - Books
+tags:
+  - Slate-and-Shell
+  - joseki
+  - strategy
+  - go-problems
 ---
 
 [![Whole Board Thinking in Joseki Vol 2 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/Whole-Board-Joseki-2.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/Whole-Board-Joseki-2.jpg)

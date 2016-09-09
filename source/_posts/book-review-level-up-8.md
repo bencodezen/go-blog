@@ -1,18 +1,15 @@
 ---
 title: 'Book Review: Level Up 8'
-tags:
-  - capturing races
-  - educational
-  - joseki
-  - korean style
-  - level up
-  - life and death
-  - proper move
+date: 2013-07-25 05:00:01
 id: 3629
 categories:
-  - Books
-  - Reviews
-date: 2013-07-25 05:00:01
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up 8 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup8cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup8cover.jpg)
@@ -111,17 +108,17 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Primary Learning Mechanism:
 
-    *   Practice problems
+		*   Practice problems
 
 *   Other Learning Mechanisms:
 
-    *   Cute and entertaining comics to teach and/or reinforce lessons.
-    *   Simple explantations that are accompanied by equally simple diagrams.
-    *   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
+		*   Cute and entertaining comics to teach and/or reinforce lessons.
+		*   Simple explantations that are accompanied by equally simple diagrams.
+		*   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
 **What aspect can be improved on?**
 
 *   No complaints here!

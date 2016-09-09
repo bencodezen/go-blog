@@ -1,14 +1,11 @@
 ---
 title: Buried in Photos...
-tags:
-  - hong kong
-  - overloaded
-  - photography
-  - photos
+date: 2014-04-03 18:58:59
 id: 4853
 categories:
-  - Journal
-date: 2014-04-03 18:58:59
+	- Journal
+tags:
+	- hong-kong
 ---
 
 I know that it's been over a week since I came back from Hong Kong, so first off, I apologize that I haven't been able to post about Hong Kong yet.

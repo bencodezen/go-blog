@@ -1,17 +1,15 @@
 ---
 title: 'Book Review: The Direction of Play'
-tags:
-  - direction of play
-  - fuseki
-  - global thinking
-  - opening
-  - strategy
-  - whole board strategy
+date: 2013-07-07 05:00:48
 id: 2924
 categories:
-  - Books
-  - Reviews
-date: 2013-07-07 05:00:48
+	- Reviews
+	- Books
+tags:
+	- Kiseido
+	- direction-of-play
+	- fuseki
+	- strategy
 ---
 
 [![directionofplaycover](http://www.bengozen.com/wp-content/uploads/2013/07/directionofplaycover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/directionofplaycover.jpg)
@@ -78,16 +76,16 @@ Length, 250 Pages
 
 *   Lecture Approach
 
-    *   While there are numerous diagrams to try and illustrate the Kajiwara's point, the gold mine of information in this book lies in his explanations and opinions about direction of play.
+		*   While there are numerous diagrams to try and illustrate the Kajiwara's point, the gold mine of information in this book lies in his explanations and opinions about direction of play.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations with diagrams.
+		*   Explanations with diagrams.
 
 *   Other Learning Mechanisms:
 
-    *   Examples from actual games
-    *   Practice problems
+		*   Examples from actual games
+		*   Practice problems
 **What aspect(s) can be improved on?**
 
 *   While I loved the explanations and accompanying diagrams, it would have been great to have more practice problems.

@@ -1,11 +1,15 @@
 ---
 title: 'Book Review: The Workshop Lectures Volume 6'
+date: 2013-09-03 07:00:02
 id: 3877
 categories:
-  - Books
-  - Reviews
-date: 2013-09-03 07:00:02
+	- Reviews
+	- Books
 tags:
+	- Slate-and-Shell
+	- principles
+	- strategy
+	- opening
 ---
 
 [![The Workshop Lectures Volume 6 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv6.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv6.jpg)

@@ -1,16 +1,15 @@
 ---
 title: 'Book Review: Level Up 7'
-tags:
-  - baduktopia
-  - educational
-  - korean
-  - level up
-  - training
+date: 2013-07-23 05:00:03
 id: 3610
 categories:
-  - Books
-  - Reviews
-date: 2013-07-23 05:00:03
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up 7 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup7cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup7cover.jpg)
@@ -102,17 +101,17 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Primary Learning Mechanism:
 
-    *   Practice problems
+		*   Practice problems
 
 *   Other Learning Mechanisms:
 
-    *   Cute and entertaining comics to teach and/or reinforce lessons.
-    *   Simple explantations that are accompanied by equally simple diagrams.
-    *   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
+		*   Cute and entertaining comics to teach and/or reinforce lessons.
+		*   Simple explantations that are accompanied by equally simple diagrams.
+		*   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
 **What aspect can be improved on?**
 
 *   No complaints here!

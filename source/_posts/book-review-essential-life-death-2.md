@@ -1,19 +1,17 @@
 ---
 title: 'Book Review: Essential Life & Death 2'
-tags:
-  - korean style
-  - life and death
-  - problems
-  - reading
-  - school
-  - training
-  - tsumego
-  - workbook
+date: 2013-07-13 05:00:06
 id: 2895
 categories:
-  - Books
-  - Reviews
-date: 2013-07-13 05:00:06
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- training
+	- korean-style
+	- life-and-death
+	- tsumego
+	- go-problems
 ---
 
 [![eldv2cover](http://www.bengozen.com/wp-content/uploads/2013/06/eldv2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/eldv2cover.jpg)
@@ -161,11 +159,11 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Teaching Mechanism:
 
-    *   Practice problems
+		*   Practice problems
 **What aspect can be improved on?**
 
 *   If I had to request one thing, it's that I was hoping that the difficulty of the problems would be more gradual. The difficulty of the problems increased faster than I was expecting. Though this should be taken with a grain of salt since I have a feeling this is just an indicator of how weak my reading abilities are instead of it being the book's problem.

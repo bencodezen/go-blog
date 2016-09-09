@@ -1,18 +1,15 @@
 ---
 title: 'Book Review: Jump Level Up 1'
-tags:
-  - baduktopia
-  - educational
-  - jump level up
-  - korean
-  - level up
-  - practice
-  - workbook
+date: 2013-09-05 06:00:02
 id: 3885
 categories:
-  - Books
-  - Reviews
-date: 2013-09-05 06:00:02
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Jump Level Up 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/jumplevelup1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/jumplevelup1cover.jpg)

@@ -1,9 +1,9 @@
 ---
 title: Broken Moves and Thoughts
+date: 2013-10-22 16:18:12
 id: 4209
 categories:
-  - Journal
-date: 2013-10-22 16:18:12
+	- Journal
 tags:
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: 'Book Review: First Kyu'
-tags:
-  - first kyu
-  - story
+date: 2012-12-29 10:30:00
 id: 116
 categories:
-  - Books
-  - Reviews
-date: 2012-12-29 10:30:00
+	- Reviews
+	- Books
+tags:
+	- novel
 ---
 
 [![first-kyu-cover](http://www.bengozen.com/wp-content/uploads/2010/09/first-kyu-cover.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/first-kyu-cover.jpg)

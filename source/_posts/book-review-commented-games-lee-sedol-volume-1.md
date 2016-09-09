@@ -1,14 +1,12 @@
 ---
 title: 'Book Review: Commented Games by Lee Sedol: Volume 1'
-tags:
-  - commentary
-  - lee sedol
-  - professional
+date: 2013-09-10 12:15:43
 id: 3942
 categories:
-  - Books
-  - Reviews
-date: 2013-09-10 12:15:43
+	- Reviews
+	- Books
+tags:
+	- lee-sedol
 ---
 
 [![leesedolv1cover](http://www.bengozen.com/wp-content/uploads/2013/09/leesedolv1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/leesedolv1cover.jpg)
@@ -41,45 +39,45 @@ Length, 319 Pages
 *   Writer's Preface
 *   Chapter 1
 
-    *   The 8th Baedalwang Tournament, Title Match - Game 4 (Yoo Chang Hyuk 9P) vs. Lee Sedol 9P)
-    *   Episodes
+	*   The 8th Baedalwang Tournament, Title Match - Game 4 (Yoo Chang Hyuk 9P) vs. Lee Sedol 9P)
+	*   Episodes
 
-            *   First Encounter with Baduk
-        *   Baduk Study I
-        *   The Pizza Tree
-        *   Baduk Study II
-        *   Fetching Makgeolli
-        *   Father's Tears
+			*   First Encounter with Baduk
+		*   Baduk Study I
+		*   The Pizza Tree
+		*   Baduk Study II
+		*   Fetching Makgeolli
+		*   Father's Tears
 
-        *   Chapter 1 - Epilogue 1
-    *   Chapter 1 - Epilogue 2: The Challenger Determining Match
+		*   Chapter 1 - Epilogue 1
+	*   Chapter 1 - Epilogue 2: The Challenger Determining Match
 
 *   Chapter 2
 
-    *   The 5th LG Cup International Tournament, Title Match - Game 3 (Lee Changho 9P vs. Lee Sedol 3P)
-    *   Episodes
+	*   The 5th LG Cup International Tournament, Title Match - Game 3 (Lee Changho 9P vs. Lee Sedol 3P)
+	*   Episodes
 
-            *   Favorite Books and Movies
-        *   The Most Difficult Part of Baduk
-        *   Accompany
-        *   Playing Online
-        *   Competition and Mental Discipline
-        *   Improving Skills
+			*   Favorite Books and Movies
+		*   The Most Difficult Part of Baduk
+		*   Accompany
+		*   Playing Online
+		*   Competition and Mental Discipline
+		*   Improving Skills
 
-        *   Chapter 2 - Epilogue
+		*   Chapter 2 - Epilogue
 
 *   Chapter 1
 
-    *   The 15th Fujitsu Cup, Final Round (Yoo Chang Hyuk 9P vs. Lee Sedol 3P)
-    *   Episodes
+	*   The 15th Fujitsu Cup, Final Round (Yoo Chang Hyuk 9P vs. Lee Sedol 3P)
+	*   Episodes
 
-            *   Baduk Style
-        *   Tournament Participation and Debts
-        *   A Game with Yoo Chang Hyuk 9P
-        *   Father's Teaching Philosophy
-        *   Naming
+			*   Baduk Style
+		*   Tournament Participation and Debts
+		*   A Game with Yoo Chang Hyuk 9P
+		*   Father's Teaching Philosophy
+		*   Naming
 
-        *   Chapter 3 - Epilogue
+		*   Chapter 3 - Epilogue
 [/expand]
 
 [expand title="Before I Read This Book..." trigclass="expandTitle"]
@@ -119,26 +117,26 @@ And finally, yes, it may take a long time before I'm able to fully comprehend th
 
 1.  A one page introduction to the game with the following information:
 
-    *   Prize Money (1st Place)
-    *   Winner's Purse (2nd Place)
-    *   Tournament Regulations (Time Allotted for Each Game)
-    *   Short summary of the tournament's background and general structure.
-    *   The tournament pairing chart.
+	*   Prize Money (1st Place)
+	*   Winner's Purse (2nd Place)
+	*   Tournament Regulations (Time Allotted for Each Game)
+	*   Short summary of the tournament's background and general structure.
+	*   The tournament pairing chart.
 
 2.  A title page featuring:
 
-    *   A black and white picture from the actual game itself (with the respective players included).
-    *   The tournament and round that the game was played in.
-    *   The date that the game was played.
-    *   Indication of who played which color and what rank they were at the time.
+	*   A black and white picture from the actual game itself (with the respective players included).
+	*   The tournament and round that the game was played in.
+	*   The date that the game was played.
+	*   Indication of who played which color and what rank they were at the time.
 
 3.  For the commentary portion of each chapter, each figure had the following structure:
 
-    1.  A large kifu that made it easy to read and figure out where each move was.
-    2.  Below each kifu was at least a few lines from Lee Sedol commenting on his mental state of mind or thoughts he was having at the time. This is not to be confused with go related commentary, since it is more of a psychological introspection than anything else.
-    3.  Approximately a paragraph long of Lee Sedol's explanation of what happened in the featured sequence and some of his thoughts on it (e.g., why he played the way he did, etc.).
-    4.  As you can expect from any game review, the discussion of variations and numerous diagrams appear with each sequence.
-    5.  At the end of each game, Lee Sedol goes through and summarizes the highlights of each game and discusses the importance of that moment.
+	1.  A large kifu that made it easy to read and figure out where each move was.
+	2.  Below each kifu was at least a few lines from Lee Sedol commenting on his mental state of mind or thoughts he was having at the time. This is not to be confused with go related commentary, since it is more of a psychological introspection than anything else.
+	3.  Approximately a paragraph long of Lee Sedol's explanation of what happened in the featured sequence and some of his thoughts on it (e.g., why he played the way he did, etc.).
+	4.  As you can expect from any game review, the discussion of variations and numerous diagrams appear with each sequence.
+	5.  At the end of each game, Lee Sedol goes through and summarizes the highlights of each game and discusses the importance of that moment.
 
 4.  An epilogue of Lee Sedol's thoughts of the tournament as a whole along with any thoughts he had about himself as a player and his psychological state at the time. In other words, it's as if you got the opportunity to talk to Lee Sedol and hear his thoughts on the tournament. Extremely enjoyable to read.
 5.  Finally, spread throughout the chapters, players will also find anecdotes and random tidbits (called Episodes in the Table of Contents) about Lee Sedol that serve as an extremely enjoyable break.

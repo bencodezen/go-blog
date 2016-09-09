@@ -1,15 +1,16 @@
 ---
 title: 'Book Review: Basic Techniques of Go'
-tags:
-  - endgame
-  - handicap go
-  - opening
-  - tesuji
+date: 2013-11-03 18:35:07
 id: 4253
 categories:
-  - Books
-  - Reviews
-date: 2013-11-03 18:35:07
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- endgame
+	- handicap-go
+	- opening
+	- tesuji
 ---
 
 [![basictechniquesofgocover](http://www.bengozen.com/wp-content/uploads/2013/10/basictechniquesofgocover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/basictechniquesofgocover.jpg)
@@ -41,54 +42,54 @@ Length, 172 Pages
 *   Technial Terms
 *   Chapter One
 
-    *   Principles of Even-Game Openings
+	*   Principles of Even-Game Openings
 
-            *   Opening Moves
-        *   Corner Enclosures
-        *   Approach Moves
-        *   Proper Timing of Enclosures, Approach Moves, and Extensions
+			*   Opening Moves
+		*   Corner Enclosures
+		*   Approach Moves
+		*   Proper Timing of Enclosures, Approach Moves, and Extensions
 
-        *   How to Play Handicap Go
+		*   How to Play Handicap Go
 
 *   Chapter Two
 
-    *   The Nine-Stone Handicap and the Attach-and-Extend Joseki
+	*   The Nine-Stone Handicap and the Attach-and-Extend Joseki
 
 *   Chapter Three
 
-    *   Six Stone Handicap Opening Strategy
+	*   Six Stone Handicap Opening Strategy
 
-            *   White's Capping Strategy
-        *   Invading the Sides
+			*   White's Capping Strategy
+		*   Invading the Sides
 
 *   Chapter Four
 
-    *   Four-Stone Handicap and the One-Space Jump Joseki
-    *   The One-Space Jump in Four-Stone Handicap Openings
+	*   Four-Stone Handicap and the One-Space Jump Joseki
+	*   The One-Space Jump in Four-Stone Handicap Openings
 
-            *   The Pincer
-        *   Double Approach Moves
-        *   Double Pincer
-        *   The Attachment
-        *   Capping
-        *   The Invasion
+			*   The Pincer
+		*   Double Approach Moves
+		*   Double Pincer
+		*   The Attachment
+		*   Capping
+		*   The Invasion
 
 *   Chapter Five
 
-    *   A Survey of Tesuji
+	*   A Survey of Tesuji
 
-            *   Tesuji Problems
-        *   Answer to the Tesuji Problems
+			*   Tesuji Problems
+		*   Answer to the Tesuji Problems
 
 *   Chapter Six
 
-    *   The Endgame
+	*   The Endgame
 
-            *   Counting the Size of a Territory
-        *   Sente Endgame
-        *   Coutning the Size of an Endgame Play
-        *   Endgame Tesujis
-        *   Endgame Problems
+			*   Counting the Size of a Territory
+		*   Sente Endgame
+		*   Coutning the Size of an Endgame Play
+		*   Endgame Tesujis
+		*   Endgame Problems
 
 *   Appendix
 [/expand]

@@ -1,15 +1,13 @@
 ---
 title: 'Book Review: Perceiving the Direction of Play'
-tags:
-  - direction of play
-  - heart of go series
-  - kobayashi
-  - whole board thinking
+date: 2013-10-13 07:00:10
 id: 4144
 categories:
-  - Books
-  - Reviews
-date: 2013-10-13 07:00:10
+    - Reviews
+    - Books
+tags:
+    - Hinoki-Press
+    - direction-of-play
 ---
 
 [![heartofgov1cover](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov1cover.jpg)

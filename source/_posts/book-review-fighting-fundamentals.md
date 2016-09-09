@@ -1,15 +1,14 @@
 ---
 title: Book Review - Fighting Fundamentals
-tags:
-  - fighting
-  - fundamental
-  - jasiek
-  - textbook
+date: 2014-02-20 09:00:13
 id: 4665
 categories:
-  - Books
-  - Reviews
-date: 2014-02-20 09:00:13
+	- Reviews
+	- Books
+tags:
+	- fighting
+	- fundamentals
+	- jasiek
 ---
 
 [![Fighting_Fundamentals_Cover](http://www.bengozen.com/wp-content/uploads/2014/02/Fighting_Fundamentals_Cover.png)](http://www.bengozen.com/wp-content/uploads/2014/02/Fighting_Fundamentals_Cover.png)
@@ -38,111 +37,111 @@ Length, 256 Pages
 *   Chapter 1 - Introduction
 *   Chapter 2 - Basics
 
-    *   The Most Basic Terms and Ideas
-    *   Important and Valuable
-    *   Life and Death
-    *   Stability
-    *   Thickness and Influence
-    *   Aji
+	*   The Most Basic Terms and Ideas
+	*   Important and Valuable
+	*   Life and Death
+	*   Stability
+	*   Thickness and Influence
+	*   Aji
 
 *   Chapter 3 - Types of Fights
 
-    *   Problems
-    *   Mutual Settling Fight
-    *   Reduction
-    *   Mutual Reduction Fight
-    *   Invasion
-    *   Attack on One Group
-    *   Splitting Attack
-    *   Multiple Groups Fight
-    *   Mutual Running Fight
-    *   Cutting Fight
-    *   Leaning Attack
-    *   Exchange
-    *   Capturing Race
-    *   Complex Fight
-    *   Answers
+	*   Problems
+	*   Mutual Settling Fight
+	*   Reduction
+	*   Mutual Reduction Fight
+	*   Invasion
+	*   Attack on One Group
+	*   Splitting Attack
+	*   Multiple Groups Fight
+	*   Mutual Running Fight
+	*   Cutting Fight
+	*   Leaning Attack
+	*   Exchange
+	*   Capturing Race
+	*   Complex Fight
+	*   Answers
 
 *   Chapter 4 - Primary Aims
 
-    *   Problems
-    *   Defended Life
-    *   Capture versus Sacrifice and Exchange
-    *   Threatened versus Prevented Capture of a Group
-    *   Threatened versus Prevented Capture of Part of a Group
-    *   Threatened versus Defended Stability
-    *   Offering a Strategic Choice
+	*   Problems
+	*   Defended Life
+	*   Capture versus Sacrifice and Exchange
+	*   Threatened versus Prevented Capture of a Group
+	*   Threatened versus Prevented Capture of Part of a Group
+	*   Threatened versus Defended Stability
+	*   Offering a Strategic Choice
 
 *   Chapter 5 - Secondary Aims
 
-    *   Territory
+	*   Territory
 
-            *   Making Territory
-        *   Shifting the Territory Balance
-        *   Strengthening One's Own Territory
-        *   Preventing Opposing Territory
+			*   Making Territory
+		*   Shifting the Territory Balance
+		*   Strengthening One's Own Territory
+		*   Preventing Opposing Territory
 
-        *   Influence
+		*   Influence
 
-            *   Making Influence
-        *   Strengthening One's Own Influence
-        *   Preventing or Restricting Opposing Influence
+			*   Making Influence
+		*   Strengthening One's Own Influence
+		*   Preventing or Restricting Opposing Influence
 
-        *   Aji
+		*   Aji
 
-            *   Exploiting Aji
-        *   Creating Aji
-        *   Eliminating Aji
+			*   Exploiting Aji
+		*   Creating Aji
+		*   Eliminating Aji
 
-        *   Playing Elsewhere
-    *   Answer
+		*   Playing Elsewhere
+	*   Answer
 
 *   Chapter 6 - Fighting Techniques and Moves
 
-    *   Problems
-    *   Reading
-    *   interruption
-    *   Attacking Life
+	*   Problems
+	*   Reading
+	*   interruption
+	*   Attacking Life
 
-            *   Capturing
-        *   Cut
-        *   Blocking Directions
-        *   Attacking Eyespace
-        *   Maintaining Connection and Life
-        *   Flexibility
-        *   Severity
+			*   Capturing
+		*   Cut
+		*   Blocking Directions
+		*   Attacking Eyespace
+		*   Maintaining Connection and Life
+		*   Flexibility
+		*   Severity
 
-        *   Defending Life
+		*   Defending Life
 
-            *   Simplicity
-        *   Maintaining Connection
-        *   Connection to Another Group
-        *   Improving Eyespace
-        *   Running
-        *   Capturing
-        *   Options
-        *   Contact Plays
-        *   Flexibility
-        *   Efficiency
+			*   Simplicity
+		*   Maintaining Connection
+		*   Connection to Another Group
+		*   Improving Eyespace
+		*   Running
+		*   Capturing
+		*   Options
+		*   Contact Plays
+		*   Flexibility
+		*   Efficiency
 
-        *   Forcing
+		*   Forcing
 
-            *   The Attacker's Forcing
-        *   The Defender's Forcing
-        *   Combining Attack and Defense
-        *   Resistance
+			*   The Attacker's Forcing
+		*   The Defender's Forcing
+		*   Combining Attack and Defense
+		*   Resistance
 
-        *   Timing
-    *   Sacrifice
-    *   Answers
+		*   Timing
+	*   Sacrifice
+	*   Answers
 
 *   Chapter 7 - Strategy
 
-    *   Problems
-    *   About What and Where to Fight
-    *   General Fighting Strategy
-    *   Reduction and Invasion
-    *   Answers
+	*   Problems
+	*   About What and Where to Fight
+	*   General Fighting Strategy
+	*   Reduction and Invasion
+	*   Answers
 
 *   Chapter 8 - Index
 [/expand]

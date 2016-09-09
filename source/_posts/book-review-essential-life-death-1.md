@@ -1,16 +1,17 @@
 ---
 title: 'Book Review: Essential Life & Death 1'
-tags:
-  - korean style
-  - life and death
-  - progressive
-  - school like training
-  - tsumego
+date: 2013-06-16 05:00:33
 id: 2886
 categories:
-  - Books
-  - Reviews
-date: 2013-06-16 05:00:33
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- training
+	- korean-style
+	- life-and-death
+	- tsumego
+	- go-problems
 ---
 
 [![eldv1cover](http://www.bengozen.com/wp-content/uploads/2013/06/eldv1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/eldv1cover.jpg)

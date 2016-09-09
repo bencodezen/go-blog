@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: Graded Go Problems for Beginners, Vol. 3'
-tags:
-  - go problems
-  - intermediate
-  - tsumego
+date: 2012-12-26 12:03:23
 id: 1416
 categories:
-  - Books
-  - Reviews
-date: 2012-12-26 12:03:23
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- go-problems
+	- tsumego
 ---
 
 ![graded-go-problems-for-beginners-volume-3](http://www.bengozen.com/wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-3.jpg)
@@ -55,28 +55,28 @@ For overall content quality explanation, see the content quality section in the 
 2.  Glossary
 3.  Part One: Problems
 
-    1.  Intermediate Problems: Level One
+		1.  Intermediate Problems: Level One
 
-            1.  Section 1\. Middle Game Problems
-        2.  Section 2\. Opening Problems
-        3.  Section 3\. Living Groups and Dead Groups
-        4.  Section 4\. Endgame Problems
+						1.  Section 1\. Middle Game Problems
+				2.  Section 2\. Opening Problems
+				3.  Section 3\. Living Groups and Dead Groups
+				4.  Section 4\. Endgame Problems
 
-        2.  Intermediate Problems: Level Two
+				2.  Intermediate Problems: Level Two
 
-            1.  Section 1\. Middle Game Problems
-        2.  Section 2\. Opening Problems
-        3.  Section 3\. Living Groups and Dead Groups
-        4.  Section 4\. Endgame Problems
+						1.  Section 1\. Middle Game Problems
+				2.  Section 2\. Opening Problems
+				3.  Section 3\. Living Groups and Dead Groups
+				4.  Section 4\. Endgame Problems
 
-        3.  Intermediate Problems: Level Three - Life and Death Problems
+				3.  Intermediate Problems: Level Three - Life and Death Problems
 
-            1.  Section 1\. Life and Death
-        2.  Section 2\. Ko
-        3.  Section 3\. Seki
-        4.  Section 4\. Capturing Races
+						1.  Section 1\. Life and Death
+				2.  Section 2\. Ko
+				3.  Section 3\. Seki
+				4.  Section 4\. Capturing Races
 
-        4.  Intermediate Problems: Level Four - Life and Death Problems
+				4.  Intermediate Problems: Level Four - Life and Death Problems
 
 4.  Part Two: Answers
 5.  National Go Association

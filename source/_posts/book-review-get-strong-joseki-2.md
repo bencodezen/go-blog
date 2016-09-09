@@ -1,16 +1,14 @@
 ---
 title: 'Book Review: Get Strong at Joseki 2'
-tags:
-  - 5-3
-  - 5-4
-  - joseki
-  - kiseido
-  - whole board
+date: 2013-09-07 06:00:13
 id: 3888
 categories:
-  - Books
-  - Reviews
-date: 2013-09-07 06:00:13
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- joseki
+	- go-problems
 ---
 
 [![Get Strong at Joseki 2 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/getstrongv3cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/getstrongv3cover.jpg)

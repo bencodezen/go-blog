@@ -1,16 +1,14 @@
 ---
 title: 'Book Review: Tesuji'
-tags:
-  - clever moves
-  - problems
-  - tactics
-  - tesuji
-  - tesujis
+date: 2013-07-06 11:00:05
 id: 2997
 categories:
-  - Books
-  - Reviews
-date: 2013-07-06 11:00:05
+	- Reviews
+	- Books
+tags:
+	- Kiseido
+	- go-problems
+	- tesuji
 ---
 
 [![egstesujicover](http://www.bengozen.com/wp-content/uploads/2013/06/egstesujicover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/egstesujicover.jpg)
@@ -86,15 +84,15 @@ Length, 200 Pages
 
 *   Textbook Approach
 
-    *   Organized in a curriculum format that reflects the learning style one might normally find in school.
+		*   Organized in a curriculum format that reflects the learning style one might normally find in school.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations with example diagrams
+		*   Explanations with example diagrams
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems
+		*   Practice problems
 **What aspect can be improved on?**
 
 *   I would have liked to see more introductory problems for each tesuji since there was no predicting how complicated the problems would be at the end of each chapter.

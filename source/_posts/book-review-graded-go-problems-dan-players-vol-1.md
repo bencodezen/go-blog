@@ -1,18 +1,16 @@
 ---
 title: 'Book Review: Graded Go Problems for Dan Players - Vol. 1'
-tags:
-  - collection
-  - dan
-  - go problems
-  - kiseido
-  - life and death
-  - reading
-  - tsumego
+date: 2014-03-02 07:15:22
 id: 4735
 categories:
-  - Books
-  - Reviews
-date: 2014-03-02 07:15:22
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- go-problems
+	- kiseido
+	- life-and-death
+	- tsumego
 ---
 
 [![ggpdpv1cover](http://www.bengozen.com/wp-content/uploads/2014/02/ggpdpv1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/ggpdpv1cover.jpg)

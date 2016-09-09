@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: Graded Go Problems for Beginners, Vol. 1'
-tags:
-  - beginner
-  - go problems
-  - tsumego
+date: 2012-12-26 12:01:03
 id: 1402
 categories:
-  - Books
-  - Reviews
-date: 2012-12-26 12:01:03
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- go-problems
+	- tsumego
 ---
 
 ![graded-go-problems-for-beginners-volume-1](http://www.bengozen.com/wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-1.jpg)
@@ -56,53 +56,53 @@ For overall content quality explanation, see the content quality section in the 
 3.  Glossary
 4.  Part One: Problems
 
-    1.  Introductory Problems: Level One
+	1.  Introductory Problems: Level One
 
-            1.  Section 1\. How to Capture Stones
-        2.  Section 2\. How to Save Endangered Stones
-        3.  Section 3\. Recognizing Atari
-        4.  Section 4\. Connecting and Separating Stones
-        5.  Section 5\. Ko
-        6.  Section 6\. Ladders
-        7.  Section 7\. Living Groups and Dead Groups
-        8.  Section 8\. How to Play in the Opening
-        9.  Section 9\. Endgame and Other Moves
+			1.  Section 1\. How to Capture Stones
+		2.  Section 2\. How to Save Endangered Stones
+		3.  Section 3\. Recognizing Atari
+		4.  Section 4\. Connecting and Separating Stones
+		5.  Section 5\. Ko
+		6.  Section 6\. Ladders
+		7.  Section 7\. Living Groups and Dead Groups
+		8.  Section 8\. How to Play in the Opening
+		9.  Section 9\. Endgame and Other Moves
 
-        2.  Introductory Problems: Level Two
+		2.  Introductory Problems: Level Two
 
-            1.  Section 1\. How to Capture Stones
-        2.  Section 2\. How to Save Endangered Stones
-        3.  Section 3\. How to Give Atari
-        4.  Section 4\. Ladders
-        5.  Section 5\. Snapback and Related Moves
-        6.  Section 6\. Connecting and Separating Stones
-        7.  Section 7\. Living Groups and Dead Groups
-        8.  Section 8\. Ko
-        9.  Section 9\. How to Play in the Opening
-        10.  Endgame
+			1.  Section 1\. How to Capture Stones
+		2.  Section 2\. How to Save Endangered Stones
+		3.  Section 3\. How to Give Atari
+		4.  Section 4\. Ladders
+		5.  Section 5\. Snapback and Related Moves
+		6.  Section 6\. Connecting and Separating Stones
+		7.  Section 7\. Living Groups and Dead Groups
+		8.  Section 8\. Ko
+		9.  Section 9\. How to Play in the Opening
+		10.  Endgame
 
-        3.  Introductory Problems: Level Three - Life and Death Problems
+		3.  Introductory Problems: Level Three - Life and Death Problems
 
-            1.  Section 1\. Making Life
-        2.  Section 2\. How to Save Endangered Stones
-        3.  Section 3\. How to Give Atari
-        4.  Section 4\. Ladders
-        5.  Section 5\. Snapback and Related Moves
-        6.  Section 6\. Connecting and Separating Stones
+			1.  Section 1\. Making Life
+		2.  Section 2\. How to Save Endangered Stones
+		3.  Section 3\. How to Give Atari
+		4.  Section 4\. Ladders
+		5.  Section 5\. Snapback and Related Moves
+		6.  Section 6\. Connecting and Separating Stones
 
-        4.  Introductory Problems: Level Four
+		4.  Introductory Problems: Level Four
 
-            1.  Section 1\. Atari
-        2.  Section 2\. Capturing Races
-        3.  Section 3\. Nets
-        4.  Section 4\. Snapback
-        5.  Section 5\. Oiotoshi
-        6.  Section 6\. Brilliant Moves and Bad Moves
-        7.  Section 7\. Seki
-        8.  Section 8\. Connecting and Separating Stones
-        9.  Section 9\. Living Groups and Dead Groups
-        10.  Section 10\. How to Play in the Opening
-        11.  Section 11\. Endgame
+			1.  Section 1\. Atari
+		2.  Section 2\. Capturing Races
+		3.  Section 3\. Nets
+		4.  Section 4\. Snapback
+		5.  Section 5\. Oiotoshi
+		6.  Section 6\. Brilliant Moves and Bad Moves
+		7.  Section 7\. Seki
+		8.  Section 8\. Connecting and Separating Stones
+		9.  Section 9\. Living Groups and Dead Groups
+		10.  Section 10\. How to Play in the Opening
+		11.  Section 11\. Endgame
 
 5.  Part Two: Answers
 

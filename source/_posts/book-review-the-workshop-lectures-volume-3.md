@@ -1,16 +1,14 @@
 ---
 title: 'Book Review: The Workshop Lectures Volume 3'
-tags:
-  - forcing moves
-  - opening
-  - weak groups
-  - workshop
-  - yilun yang
+date: 2013-08-22 05:00:25
 id: 3777
 categories:
-  - Books
-  - Reviews
-date: 2013-08-22 05:00:25
+	- Reviews
+	- Books
+tags:
+	- Slate-and-Shell
+	- principles
+	- strategy
 ---
 
 [![The Workshop Lectures Volume 3 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv3.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv3.jpg)
@@ -70,15 +68,15 @@ Length, 76 Pages
 
 *   Workshop Format
 
-    *   Topics of broken down into its simplest format and represents more of an outline than a thorough textbook.
+		*   Topics of broken down into its simplest format and represents more of an outline than a thorough textbook.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations with accompanying diagrams
+		*   Explanations with accompanying diagrams
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems
+		*   Practice problems
 **What aspect can be improved on?**
 
 *   Though the examples can be helpful, I found that they slightly overwhelming after some time since I am still having issues actually understanding the concept solidly. A good example of this is whether or not a forcing move is good or bad. I have a general idea, but that's all. So before I get into the weeds of how to use it, it would have been better to have more basic practice questions.

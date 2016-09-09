@@ -1,15 +1,13 @@
 ---
 title: 'Book Review: Scent of Victory'
-tags:
-  - heart of go series
-  - o rissei
-  - pro style
-  - scent of victory
+date: 2013-10-19 12:00:19
 id: 4183
 categories:
-  - Books
-  - Reviews
-date: 2013-10-19 12:00:19
+	- Reviews
+	- Books
+tags:
+	- Hinoki-Press
+	- strategy
 ---
 
 [![heartofgov2cover](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov2cover.jpg)
@@ -40,44 +38,44 @@ Length, 270 Pages
 
 *   Chapter 1 － Rissei Style Strategy in the Opening
 
-    *   Strategy 1 - A Knight's Move Enclosure Aimed at a Star Point
-    *   Strategy 2 - A Shoulder Hit Against a Knight's Move Corner Enclosure
-    *   Strategy 3 - Simply Attaching and Drawing Back from a 3-4 Point
-    *   Strategy 4 - A Resourceful Attachment Against the Side
-    *   Strategy 5 - A Single Two Space High Attack On the Corner to Force (1)
-    *   Strategy 6 - A Single Two Space High Attack On the Corner to Force (2)
-    *   Strategy 7 - Playing Elsewhere in Response to a One Space Pincer
-    *   Strategy 8 - A Favorite Attach and Draw Back from a One Space Pincer
-    *   Strategy 9 - A One Space Jump After a Opne Space High Corner Attack
-    *   Strategy 10 - Extending in Response to an Inside Attachment Against a Large Knight's Move Enclosure
-    *   Strategy 11 - Priority to Sliding Rather Than Making a Corner Enclosure
-    *   Strategy 12 - Protecting the Corner During a Fencing-In Joseki
-    *   Strategy 13 - Racing Ahead for Profit in a Favorite Joseki
-    *   Strategy 14 - An Inside Attachment After a Two Space High Corner Attack
-    *   Strategy 15 - Awareness of an Unfavorable Ladder
-    *   Strategy 16 - Building Outward Influence Versus a Chinese Style Opening
+	*   Strategy 1 - A Knight's Move Enclosure Aimed at a Star Point
+	*   Strategy 2 - A Shoulder Hit Against a Knight's Move Corner Enclosure
+	*   Strategy 3 - Simply Attaching and Drawing Back from a 3-4 Point
+	*   Strategy 4 - A Resourceful Attachment Against the Side
+	*   Strategy 5 - A Single Two Space High Attack On the Corner to Force (1)
+	*   Strategy 6 - A Single Two Space High Attack On the Corner to Force (2)
+	*   Strategy 7 - Playing Elsewhere in Response to a One Space Pincer
+	*   Strategy 8 - A Favorite Attach and Draw Back from a One Space Pincer
+	*   Strategy 9 - A One Space Jump After a Opne Space High Corner Attack
+	*   Strategy 10 - Extending in Response to an Inside Attachment Against a Large Knight's Move Enclosure
+	*   Strategy 11 - Priority to Sliding Rather Than Making a Corner Enclosure
+	*   Strategy 12 - Protecting the Corner During a Fencing-In Joseki
+	*   Strategy 13 - Racing Ahead for Profit in a Favorite Joseki
+	*   Strategy 14 - An Inside Attachment After a Two Space High Corner Attack
+	*   Strategy 15 - Awareness of an Unfavorable Ladder
+	*   Strategy 16 - Building Outward Influence Versus a Chinese Style Opening
 
 *   Chapter 2 - Starting One's Sensors to Take Advantage of a Good Opportunity
 
-    *   Game 1 - Entering the Tiger's Lair
-    *   Game 2 - Dripping Cold Sweat
-    *   Game 3 - A Single Horseman Fighting Courageously
-    *   Game 4 - A Lightning Strike
-    *   Game 5 - Resolutely Sacrificing Stones
-    *   Game 6 - Missing Chances, Then Grinding Out the Win
-    *   Game 7 - Favorable Wind, Full Speed Ahead
-    *   Game 8 - A Game Where Recklessness Succeeds
-    *   Game 9 - A Good Turn of Fortune
-    *   Game 10 - Hope and Despair by Turns
+	*   Game 1 - Entering the Tiger's Lair
+	*   Game 2 - Dripping Cold Sweat
+	*   Game 3 - A Single Horseman Fighting Courageously
+	*   Game 4 - A Lightning Strike
+	*   Game 5 - Resolutely Sacrificing Stones
+	*   Game 6 - Missing Chances, Then Grinding Out the Win
+	*   Game 7 - Favorable Wind, Full Speed Ahead
+	*   Game 8 - A Game Where Recklessness Succeeds
+	*   Game 9 - A Good Turn of Fortune
+	*   Game 10 - Hope and Despair by Turns
 
 *   Chapter 3 - Sharpening One's Sense of Smell for Victory
 
-    *   Game 1 - An Upset Win With One Stroke
-    *   Game 2 - A Game of Alert Incursion
-    *   Game 3 - Thoroughly Winning From Start to Finish
-    *   Game 4 - Indomitable Perseverance
-    *   Game 5 - A Game to Recapture the Oza Title
-    *   Game 6 - A Game to Capture the Kisei Best of Seven Title
+	*   Game 1 - An Upset Win With One Stroke
+	*   Game 2 - A Game of Alert Incursion
+	*   Game 3 - Thoroughly Winning From Start to Finish
+	*   Game 4 - Indomitable Perseverance
+	*   Game 5 - A Game to Recapture the Oza Title
+	*   Game 6 - A Game to Capture the Kisei Best of Seven Title
 
 *   Chapter 4 - O Rissei Go Record
 [/expand]

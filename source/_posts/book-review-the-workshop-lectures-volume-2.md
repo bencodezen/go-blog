@@ -1,16 +1,15 @@
 ---
 title: 'Book Review: The Workshop Lectures Volume 2'
-tags:
-  - moyo style
-  - side extensions
-  - territorial style
-  - the proper pincer
-  - yilung yang
+date: 2013-08-06 12:00:54
 id: 3752
 categories:
-  - Books
-  - Reviews
-date: 2013-08-06 12:00:54
+	- Reviews
+	- Books
+tags:
+	- Slate-and-Shell
+	- moyo
+	- strategy
+	- techniques
 ---
 
 [![The Workshop Lectures Volume 2 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv2.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv2.jpg)
@@ -71,15 +70,15 @@ Length, 81 Pages
 
 *   Workshop Format
 
-    *   Topics of broken down into its simplest format and represents more of an outline than a thorough textbook.
+		*   Topics of broken down into its simplest format and represents more of an outline than a thorough textbook.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations with accompanying diagrams
+		*   Explanations with accompanying diagrams
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems with explanations for each solution
+		*   Practice problems with explanations for each solution
 **What aspect can be improved on?**
 
 *   No complaints here!

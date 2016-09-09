@@ -1,14 +1,15 @@
 ---
 title: 'Book Review: Level Up Review 1'
-tags:
-  - baduktopia
-  - great introduction
-  - level up
+date: 2013-07-19 22:00:32
 id: 3512
 categories:
-  - Books
-  - Reviews
-date: 2013-07-19 22:00:32
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up Review 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelupr1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelupr1cover.jpg)

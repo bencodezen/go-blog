@@ -1,15 +1,12 @@
 ---
 title: Burnt Out and Quitting Go
-tags:
-  - april fools
-  - challenge
-  - go congress
-  - preparation
-  - time to get serious
+date: 2014-04-01 14:18:59
 id: 4859
 categories:
-  - Journal
-date: 2014-04-01 14:18:59
+	- Journal
+tags:
+	- april-fools
+	- go-congress
 ---
 
 [caption id="attachment_4860" align="aligncenter" width="300"][![justkidding](http://www.bengozen.com/wp-content/uploads/2014/04/justkidding.gif)](http://www.bengozen.com/wp-content/uploads/2014/04/justkidding.gif) Credit to [Giphy](http://giphy.com/gifs/11RUijoqnc1yJW)[/caption]

@@ -1,18 +1,15 @@
 ---
 title: 'Book Review: Get Strong at the Opening'
-tags:
-  - chinese opening
-  - fuseki
-  - ninrensei
-  - opening
-  - practice problems
-  - sanrensei
-  - shusaku
+date: 2013-08-07 20:00:55
 id: 3769
 categories:
-  - Books
-  - Reviews
-date: 2013-08-07 20:00:55
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- fuseki
+	- opening
+	- go-problems
 ---
 
 [![Get Strong at the Opening Cover](http://www.bengozen.com/wp-content/uploads/2013/08/getstrongv1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/getstrongv1cover.jpg)
@@ -73,15 +70,15 @@ Problems, 175 Problems
 
 *   Drill Seargent Style
 
-    *   Once you get your direction, it's do or die as you attempt to pick the right answer!
+		*   Once you get your direction, it's do or die as you attempt to pick the right answer!
 
 *   Primary Learning Mechanism:
 
-    *   Practice Problems
+		*   Practice Problems
 
 *   Other Learning Mechanisms:
 
-    *   Short introduction to the fusekis used in the book.
+		*   Short introduction to the fusekis used in the book.
 **What aspects can be improved on?**
 
 *   Trivial request: It would be cool to see problems on the Orthodox fuseki.

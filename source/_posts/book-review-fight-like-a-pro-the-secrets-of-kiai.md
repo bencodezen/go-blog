@@ -1,18 +1,14 @@
 ---
 title: 'Book Review: Fight Like a Pro - The Secrets of Kiai'
-tags:
-  - fight
-  - fighting
-  - innovative
-  - kiai
-  - pro
-  - resistance
-  - spirit
+date: 2013-09-04 05:00:09
 id: 3586
 categories:
-  - Books
-  - Reviews
-date: 2013-09-04 05:00:09
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- fighting
+	- kiai
 ---
 
 [![Mastering the Basics 8 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/mtbsv8cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/mtbsv8cover.jpg)

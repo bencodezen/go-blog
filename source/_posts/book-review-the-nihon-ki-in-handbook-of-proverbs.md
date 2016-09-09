@@ -1,16 +1,13 @@
 ---
 title: 'Book Review: The Nihon Ki-in Handbook of Proverbs'
-tags:
-  - 5 ponnuki revew
-  - fighting strategy
-  - proverbs
-  - shape theory
-  - strategy
+date: 2012-12-06 12:30:00
 id: 5
 categories:
-  - Books
-  - Reviews
-date: 2012-12-06 12:30:00
+	- Reviews
+	- Books
+tags:
+	- proverbs
+	- principles
 ---
 
 ![](http://www.bengozen.com/wp-content/uploads/2012/01/proverbs.jpg "Nihon Ki-in Handbook of Proverbs")

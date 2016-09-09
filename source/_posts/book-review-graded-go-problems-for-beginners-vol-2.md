@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: Graded Go Problems for Beginners, Vol. 2'
-tags:
-  - beginner
-  - go problems
-  - tsumego
+date: 2012-12-26 12:02:21
 id: 1412
 categories:
-  - Books
-  - Reviews
-date: 2012-12-26 12:02:21
+    - Reviews
+    - Books
+tags:
+    - kiseido
+    - go-problems
+    - tsumego
 ---
 
 ![graded-go-problems-for-beginners-volume-2](http://www.bengozen.com/wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-2.jpg)

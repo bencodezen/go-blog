@@ -1,19 +1,14 @@
 ---
 title: 'Book Review: The Fighting Styles of Kato Masao and Seo Bong Soo'
-tags:
-  - attacking
-  - defense
-  - fighting
-  - fighting style
-  - kato masao
-  - killer
-  - korean
-  - seo bong soo
+date: 2013-11-16 08:00:47
 id: 4301
 categories:
-  - Books
-  - Reviews
-date: 2013-11-16 08:00:47
+	- Reviews
+	- Books
+tags:
+	- slate-and-shell
+	- attack-and-defense
+	- fighting
 ---
 
 [![MasterPlay fighting](http://www.bengozen.com/wp-content/uploads/2013/11/MasterPlay-fighting.jpg)](http://www.bengozen.com/wp-content/uploads/2013/11/MasterPlay-fighting.jpg)

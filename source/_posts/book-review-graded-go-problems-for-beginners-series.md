@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: Graded Go Problems for Beginners Series'
-tags:
-  - classic
-  - go problems
-  - tsumego
+date: 2012-12-26 12:00:00
 id: 140
 categories:
-  - Books
-  - Reviews
-date: 2012-12-26 12:00:00
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- go-problems
+	- tsumego
 ---
 
 ![graded go problems for beginners](http://www.bengozen.com/wp-content/uploads/2010/08/graded-go-problems-for-beginners.jpg)
@@ -61,25 +61,25 @@ PPS. For individual book reviews, see the links below.
 
 1.  **Graded Go Problems for Beginners, Volume 1 [[Review](http://www.bengozen.com/book-review-graded-go-problems-for-beginners-vol-1/ "Book Review: Graded Go Problems for Beginners, Vol. 1")]**
 
-    1.  GoGameGuru - [$20.99](http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-1/?acc=e4da3b7fbbce2345d7772b0674a318d5) (S&amp;H not included)
-    2.  Kiseido - [$21.00](http://kiseido.com/go_books.htm) (S&amp;H not included)
-    3.  SmartGo Books [E-book] - [$4.99](https://itunes.apple.com/app/smartgo-books/id428149193?mt=8 "SmartGo Books App Download") (Apple users only)
+		1.  GoGameGuru - [$20.99](http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-1/?acc=e4da3b7fbbce2345d7772b0674a318d5) (S&amp;H not included)
+		2.  Kiseido - [$21.00](http://kiseido.com/go_books.htm) (S&amp;H not included)
+		3.  SmartGo Books [E-book] - [$4.99](https://itunes.apple.com/app/smartgo-books/id428149193?mt=8 "SmartGo Books App Download") (Apple users only)
 
 2.  **Graded Go Problems for Beginners, Volume 2 <strong>[[Review](http://www.bengozen.com/book-review-graded-go-problems-for-beginners-vol-2/ "Book Review: Graded Go Problems for Beginners, Vol. 2")]**</strong>
 
-    1.  GoGameGuru - [$20.99](http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-2/?acc=e4da3b7fbbce2345d7772b0674a318d5) (S&amp;H not included)
-    2.  Kiseido - [$21.00](http://kiseido.com/go_books.htm) (S&amp;H not included)
-    3.  SmartGo Books [E-book] - [$4.99](https://itunes.apple.com/app/smartgo-books/id428149193?mt=8 "SmartGo Books App Download") (Apple users only)
+		1.  GoGameGuru - [$20.99](http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-2/?acc=e4da3b7fbbce2345d7772b0674a318d5) (S&amp;H not included)
+		2.  Kiseido - [$21.00](http://kiseido.com/go_books.htm) (S&amp;H not included)
+		3.  SmartGo Books [E-book] - [$4.99](https://itunes.apple.com/app/smartgo-books/id428149193?mt=8 "SmartGo Books App Download") (Apple users only)
 
 3.  **Graded Go Problems for Beginners, Volume 3 <strong>[[Review](http://www.bengozen.com/book-review-graded-go-problems-for-beginners-vol-3/ "Book Review: Graded Go Problems for Beginners, Vol. 3")]**</strong>
 
-    1.  GoGameGuru - [$20.99](http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-3/?acc=e4da3b7fbbce2345d7772b0674a318d5) (S&amp;H not included)
-    2.  Kiseido - [$21.00](http://kiseido.com/go_books.htm) (S&amp;H not included)
+		1.  GoGameGuru - [$20.99](http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-3/?acc=e4da3b7fbbce2345d7772b0674a318d5) (S&amp;H not included)
+		2.  Kiseido - [$21.00](http://kiseido.com/go_books.htm) (S&amp;H not included)
 
 4.  **Graded Go Problems for Beginners, Volume 4 <strong>[[Review](http://www.bengozen.com/book-review-graded-go-problems-for-beginners-vol-4/ "Book Review: Graded Go Problems for Beginners, Vol. 4")]**</strong>
 
-    1.  GoGameGuru - [$20.99](http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-4/?acc=e4da3b7fbbce2345d7772b0674a318d5) (S&amp;H not included)
-    2.  Kiseido - [$21.00](http://kiseido.com/go_books.htm) (S&amp;H not included)
+		1.  GoGameGuru - [$20.99](http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-4/?acc=e4da3b7fbbce2345d7772b0674a318d5) (S&amp;H not included)
+		2.  Kiseido - [$21.00](http://kiseido.com/go_books.htm) (S&amp;H not included)
 
 _Last Updated December 24th, 2012 - 6 kyu_
 

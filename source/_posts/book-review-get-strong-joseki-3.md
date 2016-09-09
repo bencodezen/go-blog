@@ -1,17 +1,14 @@
 ---
 title: 'Book Review: Get Strong at Joseki 3'
-tags:
-  - bozulich
-  - get strong
-  - joseki
-  - kaz
-  - kiseido
-  - star point
+date: 2013-09-14 16:25:23
 id: 3972
 categories:
-  - Books
-  - Reviews
-date: 2013-09-14 16:25:23
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- joseki
+	- go-problems
 ---
 
 [![getstrongv4cover](http://www.bengozen.com/wp-content/uploads/2013/09/getstrongv4cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/getstrongv4cover.jpg)
