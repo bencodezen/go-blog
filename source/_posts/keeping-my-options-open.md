@@ -1,14 +1,12 @@
 ---
 title: Keeping My Options Open
-tags:
-  - freedom
-  - frozensoul
-  - new concept
-  - self-imposed constraints
+date: 2013-07-29 18:00:11
 id: 3681
 categories:
-  - Journal
-date: 2013-07-29 18:00:11
+	- Journal
+tags:
+	- frozensoul
+	- lightbulbs
 ---
 
 Today I played an interesting teaching game with frozensoul. After losing (as I normally do), he made a very insightful comment about my play: I have a tendency to settle positions quickly. In other words, instead of keeping my options open, I choose to instead play out a local area to completion before I'm entirely sure of what my strategy is for the game. As a result, it becomes a lot easier for stronger opponents to figure out what I'm aiming at and ultimately nullify it.

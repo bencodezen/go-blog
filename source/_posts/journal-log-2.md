@@ -1,15 +1,15 @@
 ---
 title: 'Journal Log #2'
-tags:
-  - betsy
-  - gwgc
-  - halb
-  - in person go
-  - justin
+date: 2010-09-03 23:58:00
 id: 125
 categories:
-  - Journal
-date: 2010-09-03 23:58:00
+	- Journal
+tags:
+	- betsy
+	- gwgc
+	- go-club
+	- hal
+	- odnihs
 ---
 
 So I visited the Greater Washington Go Club today.  Man... it was definitely a different experience playing with people in person.  I met a lot of great people, and my cousin and I learned a whole ton through their helpful comments and lessons.  We spent a lot of time playing out various positions based on the 3-3 point invasion on the 4-4 star, and that was super helpful.

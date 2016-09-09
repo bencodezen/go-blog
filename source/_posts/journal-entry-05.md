@@ -1,11 +1,10 @@
 ---
 title: 'Journal Entry: #05'
-tags:
-  - kiseido
+date: 2014-10-07 13:27:24
 id: 5864
 categories:
-  - Journal
-date: 2014-10-07 13:27:24
+	- Journal
+tags:
 ---
 
 As I’ve started to ramp things up again, I am noticing that I’m entering that dangerous zone of treading the line between being productive or becoming so busy I eventually enter burnout. In order to temper that, I’ve been keeping better track of my time so that I don’t lose myself in my endeavors too much. It seems to be moderately successful so far, but I’ll need to keep close watch as the weeks progress.

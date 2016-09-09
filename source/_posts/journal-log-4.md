@@ -1,13 +1,12 @@
 ---
 title: 'Journal Log #4'
-tags:
-  - computer go
-  - played go
-  - training
+date: 2010-09-07 19:53:00
 id: 121
 categories:
-  - Journal
-date: 2010-09-07 19:53:00
+	- Journal
+tags:
+	- computer-go
+	- training
 ---
 
 So I'm back online!  With two online games under my belt today, I'm feeling pretty good.

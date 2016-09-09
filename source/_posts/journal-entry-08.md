@@ -1,18 +1,16 @@
 ---
 title: 'Journal Entry: #08'
-tags:
-  - 2 stone handicap
-  - defeat
-  - nova
-  - pumpkin classic
-  - resignation
-  - tournament
-  - white
+
 id: 5907
 categories:
-  - Events
-  - Journal
+	- Journal
+	- Events
 date: 2014-10-28 19:28:43
+tags:
+	- handicap-go
+	- tournaments
+	- nova
+	- kifu
 ---
 
 [caption id="attachment_5909" align="aligncenter" width="587"][![novapumpkinclassic2014](http://www.bengozen.com/wp-content/uploads/2014/10/novapumpkinclassic2014-1024x768.jpeg)](http://www.bengozen.com/wp-content/uploads/2014/10/novapumpkinclassic2014.jpeg) Thanks to Gurujeet for this photo![/caption]

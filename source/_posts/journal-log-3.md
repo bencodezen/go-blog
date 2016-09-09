@@ -1,12 +1,10 @@
 ---
 title: 'Journal Log #3'
-tags:
-  - funk
-  - labor day
+date: 2010-09-06 16:41:00
 id: 123
 categories:
-  - Journal
-date: 2010-09-06 16:41:00
+	- Journal
+tags:
 ---
 
 Hope everyone has had a restful Labor Day Weekend.  Mine has been filled with 21st birthdays and craziness, but it's time to get back to Go!

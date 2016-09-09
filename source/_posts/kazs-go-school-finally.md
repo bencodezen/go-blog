@@ -1,14 +1,15 @@
 ---
 title: Kaz's Go School is Finally Here!
-tags:
-  - getting stronger
-  - kaz
-  - lessons
-  - online go school
+date: 2014-01-22 11:33:51
 id: 4513
 categories:
-  - Events
-date: 2014-01-22 11:33:51
+	- Other
+	- Announcements
+tags:
+	- getting-stronger
+	- kaz
+	- lessons
+	- online-go-school
 ---
 
 Kaz's Online Go School is finally here! For those who don't know about Kaz, I discovered him from his site ([http://www.kazsensei.com](http://www.kazsensei.com)) a couple of years ago and have been waiting for his website to become fully live and functional. The website is a bit hard to navigate, but after going through it, I thought that it would be great if I ever got a chance to learn from him. So after waiting for a couple of years, I am psyched to tell you that the opportunity is finally here!

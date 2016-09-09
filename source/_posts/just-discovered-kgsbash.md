@@ -1,14 +1,12 @@
 ---
 title: Just Discovered KGSBash...
-tags:
-  - funny
-  - humor
-  - kgs
-  - kgsbash
+date: 2013-08-15 15:57:13
 id: 3803
 categories:
-  - Journal
-date: 2013-08-15 15:57:13
+	- Journal
+tags:
+	- humor
+	- kgs
 ---
 
 I've been feeling rather off the last couple of days. Not sick or anything, but just feeling a little out of it. Haven't really felt like studying, but it's been fun playing a casual game here and there. But on a more important note, I just discovered a site called [KGSBash](http://kgsbash.org). And if you're wondering what it's about, here are some that had me laughing...

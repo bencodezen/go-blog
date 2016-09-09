@@ -1,9 +1,9 @@
 ---
 title: 'Journal Entry: #02'
+date: 2014-09-16 15:37:42
 id: 5628
 categories:
-  - Journal
-date: 2014-09-16 15:37:42
+	- Journal
 tags:
 ---
 
