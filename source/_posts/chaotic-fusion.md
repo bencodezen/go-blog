@@ -1,14 +1,10 @@
 ---
 title: Chaotic Fusion
-tags:
-  - compartmentalization
-  - frustrated
-  - no growth
-  - whole board thinking
+date: 2010-09-17 10:26:00
 id: 108
 categories:
-  - Journal
-date: 2010-09-17 10:26:00
+	- Journal
+tags:
 ---
 
 It's funny sometimes, how everyone thinks that they can compartmentalize portions of their lives: work, school, family, relationship, friends, and hobbies. We reserve parts of ourselves to deal with the independent portions, yet we all have moments where one compartment overflows to another. This brings to question how realistic compartmentalizing everything is.

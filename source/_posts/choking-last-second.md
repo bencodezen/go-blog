@@ -1,9 +1,9 @@
 ---
 title: Choking At the Last Second
+date: 2014-08-20 13:16:41
 id: 5570
 categories:
-  - Journal
-date: 2014-08-20 13:16:41
+	- Journal
 tags:
 ---
 

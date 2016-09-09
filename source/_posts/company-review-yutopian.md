@@ -1,10 +1,13 @@
 ---
 title: 'Company Review: Yutopian'
+date: 2010-09-08 08:11:00
 id: 118
 categories:
-  - Vendors
-date: 2010-09-08 08:11:00
+	- Reviews
+	- Vendors
 tags:
+	- Yutopian
+	- shops
 ---
 
 <div style="clear: both; text-align: center;">[![](http://1.bp.blogspot.com/_R3zwHD97QhU/TId82agyfDI/AAAAAAAAAIw/eLl9lzN1J7k/s320/yutopian.gif)](http://1.bp.blogspot.com/_R3zwHD97QhU/TId82agyfDI/AAAAAAAAAIw/eLl9lzN1J7k/s1600/yutopian.gif)</div>

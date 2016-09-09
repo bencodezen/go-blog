@@ -1,15 +1,11 @@
 ---
 title: Canadian Go League
-tags:
-  - byoyomi
-  - canada
-  - canadian
-  - league
-  - new format
+date: 2013-09-04 23:39:01
 id: 3920
 categories:
-  - Journal
-date: 2013-09-04 23:39:01
+	- Journal
+tags:
+	- canadian-go-league
 ---
 
 [![CANADA](http://www.bengozen.com/wp-content/uploads/2013/09/CANADA.jpeg)](http://www.bengozen.com/wp-content/uploads/2013/09/CANADA.jpeg)

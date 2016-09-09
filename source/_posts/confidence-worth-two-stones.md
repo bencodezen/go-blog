@@ -1,14 +1,11 @@
 ---
 title: Confidence is Worth Two Stones
-tags:
-  - confidence
-  - stop being negative
-  - zen
+date: 2013-10-03 13:59:25
 id: 4059
 categories:
-  - Advice
-  - Journal
-date: 2013-10-03 13:59:25
+	- Journal
+tags:
+
 ---
 
 [caption id="attachment_4111" align="aligncenter" width="400"][![Credit to treeofknowledge](http://www.bengozen.com/wp-content/uploads/2013/10/confidence-building.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/confidence-building.jpg) Credit to [treeofknowledge](http://www.treeof.com/confidence-building/)[/caption]

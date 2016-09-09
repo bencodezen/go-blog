@@ -1,11 +1,10 @@
 ---
 title: Coming up!
-tags:
-  - upcoming content
+date: 2010-09-12 18:33:00
 id: 115
 categories:
-  - Journal
-date: 2010-09-12 18:33:00
+	- Journal
+tags:
 ---
 
 So I'm back from a three day hiatus.  A lot has happened over the last couple days, and you can look forward to the following posts:

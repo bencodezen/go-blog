@@ -1,9 +1,9 @@
 ---
 title: Checking In
+date: 2014-08-18 12:34:18
 id: 5567
 categories:
-  - Journal
-date: 2014-08-18 12:34:18
+	- Journal
 tags:
 ---
 

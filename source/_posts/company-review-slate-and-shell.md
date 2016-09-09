@@ -1,10 +1,13 @@
 ---
 title: 'Company Review: Slate and Shell'
+date: 2010-09-01 09:14:00
 id: 131
 categories:
-  - Vendors
-date: 2010-09-01 09:14:00
+	- Reviews
+	- Vendors
 tags:
+	- Slate-and-Shell
+	- shops
 ---
 
 <div style="clear: both; text-align: center;"><span style="font-family: inherit;">![](http://3.bp.blogspot.com/_R3zwHD97QhU/TH5NHVwFgpI/AAAAAAAAAEw/EnmCit3xP8M/s200/slateandshell+logo.gif)</span></div><div><span style="font-family: inherit;">

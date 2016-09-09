@@ -1,11 +1,11 @@
 ---
 title: Coming Up with Joseki On Your Own
-tags:
-  - joseki
+date: 2012-11-27 09:00:32
 id: 1128
 categories:
-  - Journal
-date: 2012-11-27 09:00:32
+	- Journal
+tags:
+	- joseki
 ---
 
 You ever have one of those moments where you play an opening and wonder how far you deviated from the joseki? Well, when you had one of those moments, did you ever happen to find out that you managed to play the proper moves without any joseki knowledge? Because that happened to me a couple of weeks ago, and it was one of greatest moments ever because I felt that it was a sign of growth and understanding of why certain moves are played.
