@@ -1,17 +1,12 @@
 ---
 title: The Divine Move Movie
-tags:
-  - go
-  - goBum
-  - korean
-  - kung fu
-  - movie
-  - the divine move
-  - twitter
+date: 2014-05-18 11:31:37
 id: 5331
 categories:
-  - Journal
-date: 2014-05-18 11:31:37
+	- Journal
+tags:
+	- goBum
+	- movie
 ---
 
 In case you're not involved in the [Go Twitter Community](https://twitter.com/bengozen/lists/go-weiqi-baduk "Go Twitter Online Community"), a new movie involving go has been released!!!! There is go and it has kung fu!!! Ahhh!!!!!!

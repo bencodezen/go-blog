@@ -1,14 +1,12 @@
 ---
 title: Discovering My Master Wu
-tags:
-  - first kyu
-  - go seigen
-  - master
-  - master wu
+date: 2014-06-01 21:21:51
 id: 5391
 categories:
-  - Journal
-date: 2014-06-01 21:21:51
+	- Journal
+tags:
+	- go-seigen
+	- master-wu
 ---
 
 As most of you know, I've spent my fair share of money on this game. Perhaps one of my craziest purchases as a beginner was [The Complete Game Records of Go Seigen](http://www.amazon.com/dp/7500917260/?tag=mclambjavier999-20 "Amazon Purchase Link"). Yup. I bought it in [September 2010](http://www.bengozen.com/2010/09/ "BenGoZen September 2010 Archive") when I was a mere 15k.  And though it may have seemed like the biggest waste of money at the time, I can only smile as I think about how funny the world works sometimes.

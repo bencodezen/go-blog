@@ -1,14 +1,11 @@
 ---
 title: DDK vs. SDK
-tags:
-  - ddk
-  - ddk vs sdk
-  - sdk
+date: 2010-10-30 09:40:00
 id: 53
 categories:
-  - Journal
-  - Kifu
-date: 2010-10-30 09:40:00
+	- Journal
+tags:
+	- kifu
 ---
 
 <div style="clear: both; text-align: left;">

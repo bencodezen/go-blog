@@ -1,16 +1,13 @@
 ---
 title: Divide and Conquer
-tags:
-  - even
-  - experimenting
-  - territorial style
-  - victory
-  - white
+date: 2013-01-19 12:07:06
 id: 1700
 categories:
-  - Journal
-  - Kifu
-date: 2013-01-19 12:07:06
+	- Journal
+tags:
+	- kifu
+	- experiments
+	- territorial-style
 ---
 
 In case it hasn't been obvious, lately my style has been a moyo style that emphasizes attacking and capturing groups to win. For today's game, I am proud to announce my first deliberate attempt at playing a territorial style.

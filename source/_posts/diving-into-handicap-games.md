@@ -1,14 +1,11 @@
 ---
 title: Diving into Handicap Games
-tags:
-  - handicap go
-  - playing as black in handicap go
-  - playing as white in handicap go
+date: 2013-05-21 17:00:55
 id: 2748
 categories:
-  - Advice
-  - Journal
-date: 2013-05-21 17:00:55
+	- Articles
+tags:
+	- handicap-go
 ---
 
 As I dive further into handicap games, I'm beginning to gain an appreciation for them. Instead of being something I used to detest and feel powerless to play against, I see each game (regardless of whether I'm Black or White) as an opportunity to prove that I can elevate my game another notch.

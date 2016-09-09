@@ -1,19 +1,15 @@
 ---
 title: Demolished with a Silver Lining
-tags:
-  - battousai
-  - cloudbrows
-  - demolished
-  - frozensoul
-  - lectures series
-  - nate
-  - silver lining
-  - silver liningd
-  - videos
+date: 2013-07-23 17:00:13
 id: 3635
 categories:
-  - Journal
-date: 2013-07-23 17:00:13
+	- Journal
+tags:
+	- battousai
+	- cloudbrows
+	- frozensoul
+	- lessons
+	- nate
 ---
 
 Last night I played a fun game against my friend Nate, but was definitely demolished by the end of the game. A 40 point loss... hahaha. Thought I admit that there was definitely a degree of disappointment in myself for playing so terribly, there is a silver lining in my complete failure.

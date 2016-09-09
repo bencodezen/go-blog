@@ -1,12 +1,11 @@
 ---
 title: Daily Overview
-tags:
-  - training
-  - update
+date: 2010-10-07 16:09:00
 id: 77
 categories:
-  - Journal
-date: 2010-10-07 16:09:00
+	- Journal
+	- Progress Reports
+tags:
 ---
 
 So for those keeping track, I'm sorry that I skipped over a Daily Overview. Ever since that game of infinite cutting points and unprecedented misreads, I haven't played a game since. Now this doesn't mean that I'm like taking a sabbatical from the game or anything. I guess I want to see where my one-week training will take me. I'll be returning to KGS next Wednesday.
