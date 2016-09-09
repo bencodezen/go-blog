@@ -1,18 +1,13 @@
 ---
 title: 'Equipment Review: Folding Wooden Go Board'
-tags:
-  - board
-  - foldable
-  - go
-  - goban
-  - portable
-  - table
-  - wood
+date: 2013-04-21 05:00:00
 id: 76
 categories:
-  - Equipment
-  - Reviews
-date: 2013-04-21 05:00:00
+	- Reviews
+	- Equipment
+tags:
+	- goban
+	- portable-equipment
 ---
 
 ## [![foldWoodenBoard](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard.jpg)

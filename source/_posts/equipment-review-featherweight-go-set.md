@@ -1,21 +1,13 @@
 ---
 title: 'Equipment Review: Featherweight Go Set'
-tags:
-  - board
-  - cloth
-  - fabric
-  - featherweight
-  - go
-  - goban
-  - light
-  - portable
-  - set
-  - stones
+date: 2014-01-09 23:50:29
 id: 4490
 categories:
-  - Equipment
-  - Reviews
-date: 2014-01-09 23:50:29
+	- Reviews
+	- Equipment
+tags:
+	- go-game-set
+	- portable-equipment
 ---
 
 ## [![featherweightgoset01](http://www.bengozen.com/wp-content/uploads/2014/01/featherweightgoset01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/featherweightgoset01.jpg)

@@ -1,17 +1,11 @@
 ---
 title: Experience on the Battlefield
-tags:
-  - battlefield
-  - experience
-  - games
-  - more
-  - playing
-  - studying too much
+date: 2014-05-21 07:15:00
 id: 10
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2014-05-21 07:15:00
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## Weekly Go Wednesday, Issue #41

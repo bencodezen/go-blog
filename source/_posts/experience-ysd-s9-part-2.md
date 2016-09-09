@@ -1,14 +1,13 @@
 ---
 title: My Experience with YSD - S9 - Part 2
-tags:
-  - yunguseng dojang
+date: 2014-07-02 11:33:41
 id: 5515
 categories:
-  - Journal
-  - Kifu
-  - Reviews
-  - Websites
-date: 2014-07-02 11:33:41
+	- Journal
+tags:
+	- kifu
+	- game-reviews
+	- yunguseng-dojang
 ---
 
 [Part I](http://www.bengozen.com/experience-ysd-s9-part-1/ "My Experience with YSD — S9 — Part 1") - **Part II** - Part III

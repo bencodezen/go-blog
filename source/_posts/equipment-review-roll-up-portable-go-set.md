@@ -1,18 +1,13 @@
 ---
 title: 'Equipment Review: Roll Up Portable Go Set'
-tags:
-  - go set
-  - goban
-  - great value
-  - magnetic
-  - portable
-  - stones
-  - travel
+date: 2013-04-09 17:00:00
 id: 99
 categories:
-  - Equipment
-  - Reviews
-date: 2013-04-09 17:00:00
+	- Reviews
+	- Equipment
+tags:
+	- go-game-set
+	- portable-equipment
 ---
 
 [![rollupMagnetSet](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet.jpg)

@@ -1,18 +1,13 @@
 ---
 title: 'Equipment Review: Shin-Kaya - 1-1/2 Go Board'
-tags:
-  - board
-  - floor
-  - goban
-  - good quality
-  - multi-functional
-  - shin-kaya
-  - table
+date: 2013-03-30 09:00:00
 id: 127
 categories:
-  - Equipment
-  - Reviews
-date: 2013-03-30 09:00:00
+	- Reviews
+	- Equipment
+tags:
+	- goban
+	- portable-equipment
 ---
 
 [![shinkayaboard4cm](http://www.bengozen.com/wp-content/uploads/2010/09/shinkayaboard4cm.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/shinkayaboard4cm.jpg)

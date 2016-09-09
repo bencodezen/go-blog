@@ -1,14 +1,12 @@
 ---
 title: Everything is Connected to Everything
-tags:
-  - achieving zen
-  - emotional frustration
-  - tilt
+date: 2010-10-21 11:19:00
 id: 60
 categories:
-  - Journal
-  - Kifu
-date: 2010-10-21 11:19:00
+	- Journal
+tags:
+	- kifu
+	- tilt
 ---
 
 Yesterday I went on tilt and promptly lost four games in a row. After that, with no sleep and a ten page paper on my mind, it was game over for any other games I tried to start. It wasn't until last night where I finally ended my streak with a win over a 14k.

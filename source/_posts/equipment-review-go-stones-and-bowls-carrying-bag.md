@@ -1,16 +1,15 @@
 ---
 title: 'Equipment Review: Go Stones and Bowls Carrying Bag'
-tags:
-  - bag
-  - carrying case
-  - portability
-  - transporting bowls and stones
-  - travel
+date: 2013-03-30 17:00:55
 id: 2375
 categories:
-  - Equipment
-  - Reviews
-date: 2013-03-30 17:00:55
+	- Reviews
+	- Equipment
+tags:
+	- bowls
+	- stones
+	- portable-equipment
+	- accessories
 ---
 
 [![carryingbag](http://www.bengozen.com/wp-content/uploads/2013/03/carryingbag.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/carryingbag.jpg)

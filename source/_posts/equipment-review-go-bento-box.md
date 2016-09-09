@@ -1,16 +1,14 @@
 ---
 title: 'Equipment Review: The Go Bento Box'
-tags:
-  - ceramic stones
-  - glass stones
-  - plastic bowls
-  - portable
-  - size 22
+date: 2013-11-12 22:52:10
 id: 4304
 categories:
-  - Equipment
-  - Reviews
-date: 2013-11-12 22:52:10
+	- Reviews
+	- Equipment
+tags:
+	- stones
+	- glass-stones
+	- portable-equipment
 ---
 
 [![gobentobox01](http://www.bengozen.com/wp-content/uploads/2013/11/gobentobox01.jpg)](http://www.bengozen.com/wp-content/uploads/2013/11/gobentobox01.jpg)

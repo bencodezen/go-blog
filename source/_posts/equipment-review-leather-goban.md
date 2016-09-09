@@ -1,15 +1,14 @@
 ---
 title: 'Equipment Review: Leather Goban'
-tags:
-  - go board
-  - goban
-  - leather
-  - table board
+date: 2014-01-04 17:40:07
 id: 4440
 categories:
-  - Equipment
-  - Reviews
-date: 2014-01-04 17:40:07
+	- Reviews
+	- Equipment
+tags:
+	- goban
+	- leather
+	- portable-equipment
 ---
 
 [![leathergoban01](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban01.jpg)

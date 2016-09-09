@@ -1,15 +1,13 @@
 ---
 title: Epic Day of Tetris... I Mean... Go...
-tags:
-  - badukmovies
-  - beat a dan
-  - milestone
-  - tetris
+date: 2013-09-13 20:53:55
 id: 3960
 categories:
-  - Journal
-  - Kifu
-date: 2013-09-13 20:53:55
+	- Journal
+tags:
+	- kifu
+	- BadukMovies
+	- milestones
 ---
 
 Today has been full of epicness, an incredible milestone, and a hilarious video by BadukMovies.

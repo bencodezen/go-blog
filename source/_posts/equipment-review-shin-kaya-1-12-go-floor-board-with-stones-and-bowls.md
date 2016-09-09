@@ -1,22 +1,15 @@
 ---
 title: 'Equipment Review: Shin-Kaya - 1-1/2 Go Set'
-tags:
-  - board
-  - floor
-  - goban
-  - jujube
-  - kitani
-  - shin-kaya
-  - stones
-  - table
-  - travel bag
-  - travel case
-  - yunzi
+date: 2013-03-31 17:00:00
 id: 130
 categories:
-  - Equipment
   - Reviews
-date: 2013-03-31 17:00:00
+  - Equipment
+tags:
+  - goban
+  - go-game-set
+  - yunzi
+  - portable-equipment
 ---
 
 [![shinkayafloorset](http://www.bengozen.com/wp-content/uploads/2013/03/shinkayafloorset.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/shinkayafloorset.jpg)

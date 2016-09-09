@@ -1,19 +1,13 @@
 ---
 title: 'Equipment Review: Glass Go Stones (Size 36)'
-tags:
-  - big stones
-  - glass
-  - go
-  - korean
-  - professional stones
-  - shiny stones
-  - size 36
-  - stones
+date: 2014-01-07 17:38:11
 id: 4472
 categories:
-  - Equipment
   - Reviews
-date: 2014-01-07 17:38:11
+  - Equipment
+tags:
+  - stones
+  - glass-stones
 ---
 
 [![glassstones3601](http://www.bengozen.com/wp-content/uploads/2014/01/glassstones3601.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/glassstones3601.jpg)

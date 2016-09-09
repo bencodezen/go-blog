@@ -1,12 +1,11 @@
 ---
 title: Encountering My First Chess Advocate
-tags:
-  - chess vs go
-  - enjoyment
+date: 2015-04-28 21:19:04
 id: 5984
 categories:
-  - Journal
-date: 2015-04-28 21:19:04
+	- Journal
+tags:
+	- chess
 ---
 
 Today at work I was talking to my co-worker and was scoffed at when he found out I played go.

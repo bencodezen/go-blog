@@ -1,15 +1,13 @@
 ---
 title: 'Equipment Review: Dirt Cheap Go Set'
-tags:
-  - go game set
-  - plastic board
-  - plastic bowls
-  - plastic stones
+date: 2014-02-27 09:08:45
 id: 4600
 categories:
-  - Equipment
-  - Reviews
-date: 2014-02-27 09:08:45
+	- Reviews
+	- Equipment
+tags:
+	- go-game-set
+	- plastic-equipment
 ---
 
 [![dirtcheapgoset01](http://www.bengozen.com/wp-content/uploads/2014/02/dirtcheapgoset01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/dirtcheapgoset01.jpg)

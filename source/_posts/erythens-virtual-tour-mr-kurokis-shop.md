@@ -1,25 +1,14 @@
 ---
 title: Erythen's Virtual Tour Through Mr. Kuroki's Shop
-tags:
-  - clam
-  - culture
-  - erythen
-  - factory
-  - hyuga
-  - japanese
-  - manufacturing
-  - method
-  - mexican
-  - process
-  - shell
-  - slate
-  - stones
-  - tour
+date: 2014-02-25 10:22:47
 id: 4680
 categories:
-  - Articles
-  - Cultural
-date: 2014-02-25 10:22:47
+	- Articles
+	- Cultural
+tags:
+	- erythen
+	- manufacturing
+	- tour
 ---
 
 [![kurokisitescreenshot](http://www.bengozen.com/wp-content/uploads/2014/02/kurokisitescreenshot.png)](http://www.bengozen.com/wp-content/uploads/2014/02/kurokisitescreenshot.png)
