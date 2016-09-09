@@ -1,11 +1,11 @@
 ---
 title: Blog Redesign
-tags:
-  - blog redesign
+date: 2012-08-23 11:38:00
 id: 38
 categories:
-  - Journal
-date: 2012-08-23 11:38:00
+	- Journal
+tags:
+	- blog-redesign
 ---
 
 For those who are new or still following, a lot of my reviews and links are currently outdated at the moment. In other words, some products that I reviewed are no longer for sale, some stores are no longer selling go equipment, all my old kifu's are broken, etc.

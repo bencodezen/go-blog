@@ -1,16 +1,13 @@
 ---
 title: 'Blitz Go: To Play or Not to Play?'
-tags:
-  - baduk
-  - blitz go
-  - go
-  - weiqi
+date: 2012-10-03 09:00:00
 id: 25
 categories:
-  - Journal
-  - Kifu
-  - Weekly Go Wednesday
-date: 2012-10-03 09:00:00
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- blitz-go
+	- kifu
 ---
 
 ## _Weekly Go Wednesday, Issue #2_

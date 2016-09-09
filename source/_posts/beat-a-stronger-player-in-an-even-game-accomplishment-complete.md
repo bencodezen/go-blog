@@ -1,18 +1,11 @@
 ---
 title: Beat a Stronger Player in an Even Game Accomplishment Complete!
-tags:
-  - achievement
-  - baduk
-  - even game
-  - go
-  - kifu
-  - stronger opponent
-  - weiqi
+date: 2012-10-09 13:00:00
 id: 24
 categories:
   - Journal
-  - Kifu
-date: 2012-10-09 13:00:00
+tags:
+  - kifu
 ---
 
 For those who have never tried it before, playing an even game against a player that is reportedly two stones stronger than you can be a scary feeling. On one hand, you think "This can't be too bad." Yet, on the other hand, the board looks quite naked as you stare at the empty board while knowing that you should have two handicap stones sitting on the board. As someone who's been through a couple experiences recently, it is quite the daunting feeling...

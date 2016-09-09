@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: All About Ko'
-tags:
-  - ko
-  - reference
-  - tsumego
+date: 2013-06-09 05:00:53
 id: 2796
 categories:
-  - Books
-  - Reviews
-date: 2013-06-09 05:00:53
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- ko
+	- tsumego
 ---
 
 ## [![mtbsv6cover](http://www.bengozen.com/wp-content/uploads/2013/05/mtbsv6cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/mtbsv6cover.jpg)

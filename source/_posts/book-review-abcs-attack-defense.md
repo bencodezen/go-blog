@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: The ABC''s of Attack and Defense'
-tags:
-  - attack and defense
-  - fighting
-  - redmond
+date: 2013-08-31 08:00:38
 id: 3868
 categories:
-  - Books
-  - Reviews
-date: 2013-08-31 08:00:38
+    - Reviews
+    - Books
+tags:
+    - attack-and-defense
+    - fighting
+    - redmond
 ---
 
 [![The ABC](http://www.bengozen.com/wp-content/uploads/2013/08/abcattackanddefensecover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/abcattackanddefensecover.jpg)
