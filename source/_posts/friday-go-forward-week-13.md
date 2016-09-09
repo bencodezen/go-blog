@@ -1,13 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 13'
-tags:
-  - regimen
-  - studying pro games
-  - training
+date: 2013-04-26 05:00:07
 id: 2622
 categories:
-  - Progress Reports
-date: 2013-04-26 05:00:07
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- regimen
+	- training
 ---
 
 ## Games

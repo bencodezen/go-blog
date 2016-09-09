@@ -1,13 +1,13 @@
 ---
 title: 'Friday Go Forward: Week #5'
-tags:
-  - goals
-  - hajime no ippo
-  - surpass
+date: 2013-03-01 09:00:18
 id: 2030
 categories:
-  - Progress Reports
-date: 2013-03-01 09:00:18
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- goals
 ---
 
 ## Games

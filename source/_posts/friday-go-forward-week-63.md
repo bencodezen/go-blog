@@ -1,13 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 63'
-tags:
-  - memorial day weekend
-  - progress
-  - report
+date: 2014-05-23 07:15:40
 id: 5319
 categories:
-  - Progress Reports
-date: 2014-05-23 07:15:40
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Overview

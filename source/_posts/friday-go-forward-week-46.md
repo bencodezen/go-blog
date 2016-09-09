@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 46'
+date: 2014-01-10 07:00:32
 id: 4424
 categories:
-  - Progress Reports
-date: 2014-01-10 07:00:32
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

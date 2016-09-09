@@ -1,13 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 24'
-tags:
-  - need to scale back
-  - studying
-  - too many books
+date: 2013-07-19 05:00:15
 id: 3444
 categories:
-  - Progress Reports
-date: 2013-07-19 05:00:15
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- studying
 ---
 
 [caption id="attachment_3555" align="aligncenter" width="230"][![You can never have too many books](http://www.bengozen.com/wp-content/uploads/2013/07/toomanybooks.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/toomanybooks.jpg) Credit to [WordPainting](http://wordpainting.tumblr.com/post/4848869704/you-can-never-have-too-many-books)[/caption]

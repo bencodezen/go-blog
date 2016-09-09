@@ -1,18 +1,13 @@
 ---
 title: Fighting Spirit
-tags:
-  - defeat
-  - even game
-  - fighting spirit
-  - getting stronger at go
-  - resignation
-  - white
+date: 2012-12-12 09:00:08
 id: 1143
 categories:
-  - Advice
-  - Kifu
-  - Weekly Go Wednesday
-date: 2012-12-12 09:00:08
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- kifu
+	- kiai
 ---
 
 ## _ Weekly Go Wednesday, Issue #10_

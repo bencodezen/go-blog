@@ -1,12 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 36'
-tags:
-  - baduktv english
-  - nova.gs
+date: 2013-10-11 05:00:33
 id: 4108
 categories:
-  - Progress Reports
-date: 2013-10-11 05:00:33
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- baduktv
+	- go-server
 ---
 
 ## Friday Go Forward: Week 36

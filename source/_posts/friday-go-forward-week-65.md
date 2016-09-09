@@ -1,14 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 65'
-tags:
-  - progress
-  - report
-  - update
-  - weekly
+date: 2014-06-06 07:15:00
 id: 5374
 categories:
-  - Progress Reports
-date: 2014-06-06 07:15:00
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 [caption id="attachment_5439" align="aligncenter" width="550"][![Credit to Google Doodle](http://www.bengozen.com/wp-content/uploads/2014/06/honinbo-shusaku-550x212.jpg)](http://www.bengozen.com/wp-content/uploads/2014/06/honinbo-shusaku-550x212.jpg) Credit to [Google Doodle](http://www.google.com/doodles/honinbo-shusakus-185th-birthday "Honinbo Shusaku Google Doodle")[/caption]

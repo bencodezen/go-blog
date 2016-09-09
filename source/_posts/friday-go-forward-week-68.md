@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 68'
+date: 2014-06-27 22:10:20
 id: 5464
 categories:
-  - Progress Reports
-date: 2014-06-27 22:10:20
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

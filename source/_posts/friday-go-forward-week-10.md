@@ -1,15 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 10'
-tags:
-  - sgk
-  - studygroupkyu
-  - ux design
-  - web design
-  - website
+date: 2013-04-05 09:00:45
 id: 2341
 categories:
-  - Progress Reports
-date: 2013-04-05 09:00:45
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- study-group-kyu
 ---
 
 ## Games

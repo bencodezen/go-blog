@@ -1,13 +1,12 @@
 ---
 title: Five Days Feels Like Forever...
-tags:
-  - blog redesign
-  - taking a break from playing
-  - training
+date: 2012-10-21 09:34:00
 id: 6
 categories:
-  - Journal
-date: 2012-10-21 09:34:00
+	- Journal
+tags:
+	- blog-redesign
+	- training
 ---
 
 It's been five days since I last played a game of go, but it has felt like an eternity. Haha. I found myself logging onto KGS multiple times a day to look at game records of my friends or watch other games just to prevent myself from getting entangled in a game. It doesn't quite measure up to playing, but it helped to satisfy the urge to just play. I'm looking forward to my game with Nate tomorrow, but I'll probably be avoiding ranked games for a little.

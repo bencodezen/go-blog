@@ -1,9 +1,9 @@
 ---
 title: A Fresh Start
+date: 2014-03-01 17:22:47
 id: 4740
 categories:
   - Journal
-date: 2014-03-01 17:22:47
 tags:
 ---
 

@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 50'
+date: 2014-02-14 07:15:13
 id: 4579
 categories:
-  - Progress Reports
-date: 2014-02-14 07:15:13
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

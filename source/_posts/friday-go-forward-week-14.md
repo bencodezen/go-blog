@@ -1,15 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 14'
-tags:
-  - decrease
-  - rest
-  - slow
-  - vacation
-  - winding down
+date: 2013-05-03 05:00:14
 id: 2660
 categories:
-  - Progress Reports
-date: 2013-05-03 05:00:14
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Games

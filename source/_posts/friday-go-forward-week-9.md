@@ -1,15 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 9'
-tags:
-  - light studying
-  - only played a little
-  - sgkt
-  - update
-  - web design
+date: 2013-03-29 09:00:23
 id: 2276
 categories:
-  - Progress Reports
-date: 2013-03-29 09:00:23
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Games

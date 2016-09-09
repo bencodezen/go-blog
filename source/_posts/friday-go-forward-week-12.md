@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 12'
+date: 2013-04-19 09:00:00
 id: 2558
 categories:
-  - Progress Reports
-date: 2013-04-19 09:00:00
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

@@ -1,16 +1,11 @@
 ---
 title: My First Demotion
-tags:
-  - creative
-  - doubt
-  - frustration
-  - inspired
-  - pity
-  - yunguseng
+date: 2014-05-30 00:22:56
 id: 5378
 categories:
-  - Journal
-date: 2014-05-30 00:22:56
+	- Journal
+tags:
+	- yunguseng-dojang
 ---
 
 Though there was a small chance that I would be able to stay in League A for [Yunguseng Dojang](http://www.yunguseng.com "Yunguseng Dojang Official Page"), unfortunately I was unable to rise to the occasion and will receive my first demotion to League B.

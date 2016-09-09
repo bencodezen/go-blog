@@ -1,17 +1,11 @@
 ---
 title: Free Game Zen
-tags:
-  - 3k
-  - defeat
-  - even game
-  - free games
-  - resignation
-  - white
+date: 2012-12-17 12:00:09
 id: 1364
 categories:
-  - Journal
-  - Kifu
-date: 2012-12-17 12:00:09
+	- Journal
+tags:
+	- kifu
 ---
 
 When I decided to go on a ranked game sabbatical, I will tell you right now that I doubted my own abilities to follow through on it. If I could relate it to a person's diet, it is as if a carnivore  tries to go vegetarian for a month. For most people, the thought is incredibly daunting and seemingly impossible. Just like ranked games, I wasn't sure whether it was entirely possible to go a whole month without playing a single ranked game; but here I am, Day 17, and the differentiation between ranked and free games has become a faint blur. I will be the first to admit that this will not be permanent, but I think this new perspective has allowed my go to be far more creative than before.

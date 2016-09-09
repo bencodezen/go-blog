@@ -1,12 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 11'
-tags:
-  - a lot playing
-  - too much turn based go
+date: 2013-04-12 09:00:37
 id: 2453
 categories:
-  - Progress Reports
-date: 2013-04-12 09:00:37
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- correspondence-go
 ---
 
 ## Games

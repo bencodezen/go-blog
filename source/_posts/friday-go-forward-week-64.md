@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 64'
+date: 2014-05-30 07:15:29
 id: 5354
 categories:
-  - Progress Reports
-date: 2014-05-30 07:15:29
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

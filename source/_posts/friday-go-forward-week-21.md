@@ -1,12 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 21'
-tags:
-  - lots of books
-  - study
+date: 2013-06-28 05:00:08
 id: 3048
 categories:
-  - Progress Reports
-date: 2013-06-28 05:00:08
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- studying
 ---
 
 ## Friday Go Forward: Week 21

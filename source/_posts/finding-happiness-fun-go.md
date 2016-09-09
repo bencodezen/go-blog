@@ -1,18 +1,14 @@
 ---
 title: Finding Happiness and Fun in Go Again
-tags:
-  - festival
-  - folk
-  - fun
-  - happiness
-  - smithsonian
-  - teaching
-  - volunteer
+date: 2014-07-08 22:13:53
 id: 5537
 categories:
-  - Events
-  - Journal
-date: 2014-07-08 22:13:53
+	- Journal
+	- Events
+tags:
+	- cultural
+	- smithsonian
+	- teaching
 ---
 
 During my game review for the first match of the month, I had a disturbing revelation. As Inseong was talking about my mistakes, he then commented on how attacking was one of the most pleasurable aspects of go. Suddenly, a lightbulb went off in my head as I realized what had been missing from my games all this time: I had forgotten how to attack.

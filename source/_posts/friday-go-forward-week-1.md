@@ -1,13 +1,14 @@
 ---
 title: 'Friday Go Forward: Week #1'
-tags:
-  - asr league
-  - promoted to alpha
-  - ranked game sabbatical
+date: 2013-02-01 17:00:21
 id: 1790
 categories:
-  - Progress Reports
-date: 2013-02-01 17:00:21
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- asr
+	- sabbatical
 ---
 
 _After an awesome discussion with Feather , I've been inspired to start another weekly series in order to give you a glimpse into my world of go. It will be a high level overview of my progress every week and will be released every Friday at 5:00 PM. Let me know what you think and I can always update the format if people want!_

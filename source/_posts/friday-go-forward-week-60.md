@@ -1,14 +1,15 @@
 ---
 title: 'Friday Go Forward: Week 60'
-tags:
-  - baduk open championship
-  - changing servers
-  - myung
-  - new training regimen
+date: 2014-05-02 07:15:28
 id: 5135
 categories:
-  - Progress Reports
-date: 2014-05-02 07:15:28
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- tournaments
+	- myung-wan-kim
+	- regimen
 ---
 
 ## Overview

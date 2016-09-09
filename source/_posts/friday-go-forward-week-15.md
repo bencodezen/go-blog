@@ -1,13 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 15'
-tags:
-  - back from vacation
-  - consistency
-  - treading lightly
+date: 2013-05-17 05:00:16
 id: 2677
 categories:
-  - Progress Reports
-date: 2013-05-17 05:00:16
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Overview

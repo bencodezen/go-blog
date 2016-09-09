@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 6'
+date: 2013-03-08 09:00:52
 id: 2130
 categories:
-  - Progress Reports
-date: 2013-03-08 09:00:52
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

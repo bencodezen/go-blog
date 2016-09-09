@@ -1,15 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 55'
-tags:
-  - festival
-  - not overthinking
-  - progress
-  - sakura
-  - streamline
+date: 2014-03-28 07:15:03
 id: 4819
 categories:
-  - Progress Reports
-date: 2014-03-28 07:15:03
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- cultural
+	- sakura-festival
 ---
 
 ## Friday Go Forward: Week 55

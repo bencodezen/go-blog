@@ -1,14 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 67'
-tags:
-  - progress
-  - report
-  - update
-  - weekly
+date: 2014-06-20 07:15:41
 id: 5453
 categories:
-  - Progress Reports
-date: 2014-06-20 07:15:41
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Overview

@@ -1,15 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 57'
-tags:
-  - dojang
-  - jubango
-  - korean insei
-  - yunguseng
+date: 2014-04-11 07:15:54
 id: 4882
 categories:
-  - Journal
-  - Progress Reports
-date: 2014-04-11 07:15:54
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- yunguseng-dojang
 ---
 
 ## Overview

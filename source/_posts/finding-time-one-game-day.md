@@ -1,19 +1,10 @@
 ---
 title: Finding Time for One Game a Day
-tags:
-  - consistently
-  - experience
-  - finding time
-  - getting stronger
-  - one game a day
-  - playing
-  - time
+date: 2013-09-17 16:16:33
 id: 3981
 categories:
-  - Advice
-  - Articles
-  - Journal
-date: 2013-09-17 16:16:33
+	- Articles
+tags:
 ---
 
 [![findingtime](http://www.bengozen.com/wp-content/uploads/2013/09/findingtime.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/findingtime.jpg)

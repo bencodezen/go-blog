@@ -1,15 +1,14 @@
 ---
 title: First Official Shidougo Game
-tags:
-  - baduk
-  - go
-  - shidougo
-  - weiqi
+date: 2012-09-17 17:00:00
 id: 32
 categories:
-  - Journal
-  - Kifu
-date: 2012-09-17 17:00:00
+	- Journal
+tags:
+	- kifu
+	- teaching-game
+	- frozensoul
+	- shidougo
 ---
 
 Prior to this game, I was on a decent winning streak... so I was feeling pretty good. Feeling good enough to think I could outplay a 5d? Apparently so....

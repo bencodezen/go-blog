@@ -1,12 +1,12 @@
 ---
 title: 'Friday Go Forward: Week #4'
-tags:
-  - uneventful
-  - unfruitful
+date: 2013-02-22 09:00:00
 id: 1989
 categories:
-  - Progress Reports
-date: 2013-02-22 09:00:00
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## <span style="line-height: 13px; font-size: 1.17em;">Games</span>

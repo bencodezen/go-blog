@@ -1,19 +1,12 @@
 ---
 title: False Sense of Security
-tags:
-  - 7k
-  - even game
-  - go theory
-  - nate
-  - new opening
-  - resignation
-  - victory
-  - white
+date: 2012-10-19 09:30:00
 id: 7
 categories:
-  - Advice
-  - Kifu
-date: 2012-10-19 09:30:00
+	- Articles
+tags:
+	- nate
+	- kifu
 ---
 
 As a game progresses over time, it is very easy to lose track of the connections between your groups. After all, if you're intently staring at the board for a long time, it's not so far fetched to start seeing groups being connected when in fact they aren't. In fact, if you take a quick look at the kifu snapshot above, it would seem that the top black group is doing alright. Unfortunately, nothing could be further from the truth.

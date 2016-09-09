@@ -1,15 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 26'
-tags:
-  - 6 month birthday
-  - application vs theory
-  - good week
-  - lots of books
-  - playing games again
+date: 2013-08-02 05:00:14
 id: 3655
 categories:
-  - Progress Reports
-date: 2013-08-02 05:00:14
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Friday Go Forward: Week 26

@@ -1,15 +1,10 @@
 ---
 title: A Fresh and New Beginning
-tags:
-  - beginning
-  - fresh
-  - new
-  - productivity
-  - start
+date: 2014-07-01 15:27:11
 id: 5510
 categories:
-  - Journal
-date: 2014-07-01 15:27:11
+	- Journal
+tags:
 ---
 
 Over the weekend, in the midst of my slump, I decided to step back and take a hard look at what I had been doing and what I had to show for it. And though many of you might think otherwise, I realized that I was far behind the pack when it came to what I had accomplished so far.

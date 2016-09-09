@@ -1,13 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 7'
-tags:
-  - learning
-  - less games
-  - studious week
+date: 2013-03-15 09:00:38
 id: 2194
 categories:
-  - Progress Reports
-date: 2013-03-15 09:00:38
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- studying
 ---
 
 ## Games

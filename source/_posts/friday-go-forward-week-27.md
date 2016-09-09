@@ -1,14 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 27'
-tags:
-  - can't attack properly
-  - lots of books
-  - studying a lot
-  - weakness
+date: 2013-08-09 05:00:27
 id: 3705
 categories:
-  - Progress Reports
-date: 2013-08-09 05:00:27
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- studying
 ---
 
 ## Friday Go Forward: Week 27

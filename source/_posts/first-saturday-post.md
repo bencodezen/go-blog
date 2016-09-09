@@ -1,14 +1,12 @@
 ---
 title: First Saturday Post!
-tags:
-  - 14k
-  - blitz go
-  - victory
+date: 2010-10-16 16:17:00
 id: 66
 categories:
-  - Journal
-  - Kifu
-date: 2010-10-16 16:17:00
+	- Journal
+tags:
+	- kifu
+	- blitz-go
 ---
 
 So I think this is my first official Saturday post in terms of posting a game and giving an overview as to my progress. Last night I visited the GWGC, but it was relatively uneventful... just a friendly sparring match with my cousin. For him, go is far more of a recreational activity. So I tried to give him four stones, but that wasn't not enough of a handicap. Oh well, we'll try six stones next time.

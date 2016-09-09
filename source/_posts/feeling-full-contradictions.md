@@ -1,14 +1,10 @@
 ---
 title: Feeling Full of Contradictions
-tags:
-  - confused
-  - contradictions
-  - edison
-  - haze
+date: 2014-07-03 23:55:59
 id: 5530
 categories:
-  - Journal
-date: 2014-07-03 23:55:59
+	- Journal
+tags:
 ---
 
 Managed to win the first round of Yunguseng Dojang tonight. Contrary to most people's expectation however, I'm not feeling particularly good about it. I don't know. Hard to say. Because it feels like to some extend, the games I win I don't like, but then the games I felt good about are the ones I ended up losing. But my head has been in a bit of a haze lately, so it's hard to say if what I'm feeling makes any sense at the moment.

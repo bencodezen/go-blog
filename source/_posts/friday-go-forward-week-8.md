@@ -1,14 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 8'
-tags:
-  - md open
-  - processing speed
-  - stamina
-  - tournament preparation
+date: 2013-03-22 09:00:25
 id: 2234
 categories:
-  - Progress Reports
-date: 2013-03-22 09:00:25
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- tournaments
 ---
 
 ## Games
