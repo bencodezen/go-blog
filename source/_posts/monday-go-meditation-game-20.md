@@ -1,16 +1,14 @@
 ---
 title: 'Monday Go Meditation: Game 20'
-tags:
-  - active
-  - frozensoul
-  - moyo
-  - passive
-  - slow but effective
-  - teaching game
+date: 2013-07-29 05:00:20
 id: 3536
 categories:
-  - Monday Go Meditation
-date: 2013-07-29 05:00:20
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- frozensoul
+	- teaching-game
 ---
 
 ## Introduction

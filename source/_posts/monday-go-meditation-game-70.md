@@ -1,16 +1,15 @@
 ---
 title: 'Monday Go Meditation: Game 70'
-tags:
-  - 2 stone handicap
-  - defeat
-  - pumpkin classic
-  - resignation
-  - white
+date: 2014-11-10 07:15:11
 id: 5922
 categories:
-  - Commentaries
-  - Kifu
-date: 2014-11-10 07:15:11
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- tournaments
+	- nova
+	- handicap-go
 ---
 
 ## Introduction

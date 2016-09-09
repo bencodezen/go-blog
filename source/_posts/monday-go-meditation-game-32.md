@@ -1,16 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 32'
-tags:
-  - 3d opponent
-  - '9.5'
-  - tygem
-  - victory
-  - white
+date: 2013-10-21 05:00:34
 id: 4153
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2013-10-21 05:00:34
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

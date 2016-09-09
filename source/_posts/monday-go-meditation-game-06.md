@@ -1,16 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 06'
-tags:
-  - 6k
-  - automatically responding
-  - black
-  - defeat
-  - even
-  - resign
+date: 2013-04-08 09:00:38
 id: 2337
 categories:
-  - Monday Go Meditation
-date: 2013-04-08 09:00:38
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 [sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/04/2013.04.08-MGM-06.sgf" class="aligncenter"][/sgf]

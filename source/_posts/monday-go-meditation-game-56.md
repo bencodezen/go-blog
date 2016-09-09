@@ -1,17 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 56'
-tags:
-  - defeat
-  - kingdom of baduk
-  - pericles
-  - resign
-  - resignation
-  - stronger opponent
+date: 2014-05-19 07:15:31
 id: 5232
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-05-19 07:15:31
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- pericles
 ---
 
 ## Introduction

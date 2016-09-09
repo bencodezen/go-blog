@@ -1,14 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 41'
-tags:
-  - resigns
-  - victory
-  - white
+date: 2014-02-03 06:50:36
 id: 4524
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-02-03 06:50:36
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

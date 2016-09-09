@@ -1,14 +1,11 @@
 ---
 title: Letting Go of Winning and Losing
-tags:
-  - inner happiness
-  - letting go
-  - the next best move
-  - winning and losing
+date: 2013-03-27 09:00:09
 id: 2244
 categories:
-  - Weekly Go Wednesday
-date: 2013-03-27 09:00:09
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## Weekly Go Wednesday, Issue #21

@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 26'
-tags:
-  - 4k
-  - black
-  - defeat
-  - even
-  - goBum
-  - resignation
+date: 2013-09-09 05:00:24
 id: 3860
 categories:
-  - Monday Go Meditation
-date: 2013-09-09 05:00:24
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- goBum
 ---
 
 ## Introduction

@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 65'
-tags:
-  - black
-  - daurak
-  - even
-  - resign
-  - win
+date: 2014-10-06 07:15:24
 id: 5802
 categories:
-  - Commentaries
-  - Kifu
-date: 2014-10-06 07:15:24
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- daurak
 ---
 
 [![MGM 65](http://www.bengozen.com/wp-content/uploads/2014/10/MGM-65.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/MGM-65.jpg)

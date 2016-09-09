@@ -1,13 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 44'
-tags:
-  - defeat
-  - white
+date: 2014-02-24 07:15:18
 id: 4660
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-02-24 07:15:18
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

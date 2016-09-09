@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 51'
-tags:
-  - black
-  - bloody
-  - cocky
-  - nate
-  - violent
+date: 2014-04-14 07:15:25
 id: 4884
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-04-14 07:15:25
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- nate
 ---
 
 ## Introduction

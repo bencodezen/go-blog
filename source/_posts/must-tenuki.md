@@ -1,13 +1,11 @@
 ---
 title: Must Tenuki For a While
-tags:
-  - break
-  - pause
-  - tenuki
+date: 2014-07-20 23:25:07
 id: 5560
 categories:
-  - Journal
-date: 2014-07-20 23:25:07
+	- Journal
+tags:
+	- sabbatical
 ---
 
 As some of you might have noticed, I’ve been pretty MIA for a while. One of the major events that happened last week was I moved out to a new apartment. And for those who know what it’s like to move, you know how much of a monstrosity that can be when it comes to sorting, packing, and cleaning.

@@ -1,15 +1,13 @@
 ---
 title: My First One Point Lesson
-tags:
-  - 14k
-  - 3 step thinking
-  - shidougo
+date: 2010-10-17 00:23:00
 id: 65
 categories:
-  - Journal
-  - Kifu
-  - Lessons
-date: 2010-10-17 00:23:00
+	- Journal
+tags:
+	- kifu
+	- lessons
+	- shidougo
 ---
 
 So I played my first teaching game on KGS today. It was a pretty quick game with a 3-dan who UTTERLY demolished me. I couldn't help but laugh as I watched my shapes get cut up into tiny little pieces and get swallowed up whole by Leviathan. Don't even want to think about what it would be like to play a pro right now.... *head explodes*

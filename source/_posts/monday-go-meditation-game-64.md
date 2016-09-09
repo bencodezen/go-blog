@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 64'
-tags:
-  - 4k opponent
-  - moyo vs moyo
-  - w+38.5
-  - white
-  - yunguseng dojang
+date: 2014-07-14 13:58:31
 id: 5554
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-07-14 13:58:31
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- yunguseng-dojang
 ---
 
 ## Introduction

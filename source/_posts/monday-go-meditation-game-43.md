@@ -1,15 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 43'
-tags:
-  - black
-  - resignation
-  - tsumego
-  - victory
+date: 2014-02-17 07:15:49
 id: 4589
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-02-17 07:15:49
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

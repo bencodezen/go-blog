@@ -1,14 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 15'
-tags:
-  - 3 stones
-  - defeat
-  - handicap
-  - white
+date: 2013-06-24 05:00:25
 id: 2962
 categories:
-  - Monday Go Meditation
-date: 2013-06-24 05:00:25
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- handicap-go
 ---
 
 ## Introduction

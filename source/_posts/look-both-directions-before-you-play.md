@@ -1,14 +1,11 @@
 ---
 title: Look Both Ways Before You Play
-tags:
-  - basics
-  - common mistake
-  - look both ways
+date: 2013-02-06 09:00:51
 id: 1822
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2013-02-06 09:00:51
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## _Weekly Go Wednesday, Issue #16_

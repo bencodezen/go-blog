@@ -1,18 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 57'
-tags:
-  - april challenge
-  - black
-  - center
-  - commentary
-  - maaike
-  - review
-  - win +39.50
+date: 2014-05-26 07:15:47
 id: 5255
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-05-26 07:15:47
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- maaike
 ---
 
 ## Introduction

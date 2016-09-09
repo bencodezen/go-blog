@@ -1,15 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 23'
-tags:
-  - black
-  - defeat
-  - even
-  - moboy78
-  - resignation
+date: 2013-08-19 05:00:31
 id: 3767
 categories:
-  - Monday Go Meditation
-date: 2013-08-19 05:00:31
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- moboy78
 ---
 
 ## Introduction

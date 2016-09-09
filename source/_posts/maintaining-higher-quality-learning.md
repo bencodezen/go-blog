@@ -1,15 +1,12 @@
 ---
 title: Maintaining a Higher Quality of Learning
-tags:
-  - change
-  - improvement
-  - playing
-  - reviews
-  - revision
+date: 2013-09-25 21:51:12
 id: 4047
 categories:
-  - Journal
-date: 2013-09-25 21:51:12
+	- Journal
+tags:
+	- improving
+	- reviews
 ---
 
 [caption id="attachment_4048" align="aligncenter" width="400"][![Credit to MediaWhiz](http://www.bengozen.com/wp-content/uploads/2013/09/quality-assurance.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/quality-assurance.jpg) Credit to [MediaWhiz](http://www.mediawhiz.com/trust-quality-score-for-quality-results-2)[/caption]

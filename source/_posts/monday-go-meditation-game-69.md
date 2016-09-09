@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 69'
-tags:
-  - bonscott
-  - even
-  - resignation
-  - victory
-  - white
+date: 2014-11-03 07:00:02
 id: 5911
 categories:
-  - Commentaries
-  - Kifu
-date: 2014-11-03 07:00:02
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- bonscott
 ---
 
 ## Introduction

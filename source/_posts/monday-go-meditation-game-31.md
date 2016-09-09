@@ -1,15 +1,11 @@
 ---
 title: 'Monday Go Meditation: Game 31'
-tags:
-  - black
-  - resignation
-  - tygem 3d opponent
-  - victory
+date: 2013-10-14 05:00:06
 id: 4087
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2013-10-14 05:00:06
+	- Commentaries
+	- Monday Go Meditation
+tags:
 ---
 
 ## Introduction

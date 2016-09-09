@@ -1,15 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 45'
-tags:
-  - cross fuseki
-  - even
-  - victory
-  - white
+date: 2014-03-03 07:15:07
 id: 4671
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-03-03 07:15:07
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

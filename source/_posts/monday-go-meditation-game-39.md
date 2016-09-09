@@ -1,16 +1,14 @@
 ---
 title: 'Monday Go Meditation: Game 39'
-tags:
-  - 4k
-  - black
-  - frozensoul
-  - resignation
-  - victory
+date: 2014-01-13 07:00:42
 id: 4421
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-01-13 07:00:42
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- rengo
+	- frozensoul
 ---
 
 ## Introduction

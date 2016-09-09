@@ -1,18 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 53'
-tags:
-  - 3k
-  - ladder
-  - life and death
-  - resignation
-  - victory
-  - white
-  - zak
+date: 2014-04-28 07:15:56
 id: 4964
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-04-28 07:15:56
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

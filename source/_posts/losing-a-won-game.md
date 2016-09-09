@@ -1,16 +1,12 @@
 ---
 title: Losing a Won Game
-tags:
-  - baduk
-  - go
-  - handling a loss
-  - weiqi
+date: 2012-08-30 12:00:00
 id: 36
 categories:
-  - Advice
-  - Journal
-  - Kifu
-date: 2012-08-30 12:00:00
+	- Journal
+tags:
+	- kifu
+	- mindset
 ---
 
 In my experience thus far, one of the most difficult things to swallow is losing a won game. And let me tell you, boy did I royally screw this one up.

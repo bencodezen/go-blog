@@ -1,15 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 22'
-tags:
-  - black
-  - cloudbrows
-  - defeat
-  - even
-  - nate
+date: 2013-08-12 05:00:38
 id: 3697
 categories:
-  - Monday Go Meditation
-date: 2013-08-12 05:00:38
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- nate
 ---
 
 ## Introduction

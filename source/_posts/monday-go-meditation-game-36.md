@@ -1,16 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 36'
-tags:
-  - 13 kyu
-  - '3.5'
-  - black
-  - defeat
-  - loss
+date: 2013-11-18 06:00:29
 id: 4284
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2013-11-18 06:00:29
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

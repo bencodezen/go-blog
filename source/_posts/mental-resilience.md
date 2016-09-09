@@ -1,14 +1,12 @@
 ---
 title: Mental Resilience
-tags:
-  - mental resilience
-  - mental strength
-  - mentality
+date: 2013-04-10 09:00:49
+
 id: 1715
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2013-04-10 09:00:49
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## Weekly Go Wednesday, Issue #23

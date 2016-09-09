@@ -1,14 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 35'
-tags:
-  - 14 kyu
-  - black
-  - defeat
+date: 2013-11-11 06:00:43
 id: 4257
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2013-11-11 06:00:43
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

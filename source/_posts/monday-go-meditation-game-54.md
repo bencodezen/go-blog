@@ -1,14 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 54'
-tags:
-  - black
-  - loss
-  - tilwen
+date: 2014-05-05 07:15:38
 id: 5131
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-05-05 07:15:38
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- tilwen
 ---
 
 ## Introduction

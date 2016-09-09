@@ -1,12 +1,12 @@
 ---
 title: Losing in Style
-tags:
-  - asr league
-  - experimental games
+date: 2012-12-13 13:30:58
 id: 1355
 categories:
-  - Journal
-date: 2012-12-13 13:30:58
+	- Journal
+tags:
+	- asr
+	- experiments
 ---
 
 There's one thing I've learned recently is that leagues are a fantastic place for experimental games. Not convinced? Three reasons:

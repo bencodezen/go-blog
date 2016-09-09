@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 21'
-tags:
-  - cloudbrows
-  - defeat
-  - even
-  - nate
-  - resignation
-  - white
+date: 2013-08-05 05:00:30
 id: 3643
 categories:
-  - Monday Go Meditation
-date: 2013-08-05 05:00:30
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- nate
 ---
 
 ## Introduction

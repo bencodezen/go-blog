@@ -1,19 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 59'
-tags:
-  - april challenge
-  - b+ resign
-  - calm
-  - commentary
-  - kifu
-  - maaike
-  - opponent black
-  - review
+date: 2014-06-09 07:15:50
 id: 5325
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-06-09 07:15:50
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- maaike
 ---
 
 ## Introduction

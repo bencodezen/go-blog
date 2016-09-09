@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 30'
-tags:
-  - even
-  - resign
-  - risingstar
-  - victory
-  - white
+date: 2013-10-07 05:00:30
 id: 4042
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2013-10-07 05:00:30
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- risingstar
 ---
 
 ## Introduction

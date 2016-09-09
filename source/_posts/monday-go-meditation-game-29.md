@@ -1,16 +1,14 @@
 ---
 title: 'Monday Go Meditation: Game 29'
-tags:
-  - 3.5 points
-  - 4 stones
-  - bonscott
-  - handicap
-  - victory
-  - white
+date: 2013-09-30 05:00:09
 id: 3994
 categories:
-  - Monday Go Meditation
-date: 2013-09-30 05:00:09
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- bonscott
+	- handicap-go
 ---
 
 ## Introduction

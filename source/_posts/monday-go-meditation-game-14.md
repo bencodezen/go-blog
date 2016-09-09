@@ -1,14 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 14'
-tags:
-  - 2 stones
-  - handicap
-  - victory
-  - white
+date: 2013-06-17 05:00:57
 id: 2839
 categories:
-  - Monday Go Meditation
-date: 2013-06-17 05:00:57
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+ 	- handicap-go
 ---
 
 ## Introduction

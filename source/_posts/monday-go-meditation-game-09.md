@@ -1,15 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 09'
-tags:
-  - 5d opponent
-  - even
-  - resign
-  - tygem
-  - white
+date: 2013-04-29 05:00:48
 id: 2629
 categories:
-  - Monday Go Meditation
-date: 2013-04-29 05:00:48
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

@@ -1,13 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 03'
-tags:
-  - dan level
-  - deepsnow
-  - game review
+date: 2013-03-18 09:00:42
 id: 2208
 categories:
-  - Monday Go Meditation
-date: 2013-03-18 09:00:42
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 [sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/03/2013.03.18-MGM-03.sgf" class="aligncenter"][/sgf]

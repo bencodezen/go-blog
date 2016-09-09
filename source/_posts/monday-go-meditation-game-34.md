@@ -1,15 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 34'
-tags:
-  - 3 stone handicap
-  - '44.5'
-  - black
-  - defeat
+date: 2013-11-04 06:00:38
 id: 4223
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2013-11-04 06:00:38
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- handicap-go
 ---
 
 ## Introduction

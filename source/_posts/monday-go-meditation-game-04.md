@@ -1,15 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 04'
-tags:
-  - 6k
-  - even
-  - resignation
-  - victory
-  - white
+date: 2013-03-25 09:00:23
 id: 2230
 categories:
-  - Monday Go Meditation
-date: 2013-03-25 09:00:23
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 [sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/03/2013.03.25-MGM-04.sgf" class="aligncenter"][/sgf]

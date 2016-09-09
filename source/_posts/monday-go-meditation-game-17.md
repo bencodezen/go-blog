@@ -1,14 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 17'
-tags:
-  - 2.5 points
-  - defeat
-  - even
-  - white
+date: 2013-07-08 05:00:34
 id: 3142
 categories:
-  - Monday Go Meditation
-date: 2013-07-08 05:00:34
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

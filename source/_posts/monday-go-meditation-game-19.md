@@ -1,15 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 19'
-tags:
-  - 3 stone
-  - defeat
-  - handicap
-  - resignation
-  - white
+date: 2013-07-22 05:00:06
 id: 3436
 categories:
-  - Monday Go Meditation
-date: 2013-07-22 05:00:06
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- handicap-go
 ---
 
 ## Introduction

@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 71'
-tags:
-  - 9x9
-  - black
-  - influence
-  - resign
-  - victory
+date: 2015-04-27 07:00:06
 id: 5980
 categories:
-  - Commentaries
-  - Kifu
-date: 2015-04-27 07:00:06
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- 9x9
 ---
 
 ## Introduction

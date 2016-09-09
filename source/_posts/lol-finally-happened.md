@@ -1,15 +1,10 @@
 ---
 title: LoL Finally Happened...
-tags:
-  - busy
-  - gaming
-  - league of legends
-  - lol
-  - relatives visting
+date: 2013-06-10 17:00:24
 id: 2930
 categories:
-  - Journal
-date: 2013-06-10 17:00:24
+	- Journal
+tags:
 ---
 
 For those who were expecting a Monday Go Meditation post, I apologize for not being able to have a kifu in time for this week. I have relatives visiting from out of the country and the past week has been pretty crazy. I promise that there will definitely be a game for you next week. On a separate note, I feel that I am obligated to record the fact that my journey has hit a little bump on the road.

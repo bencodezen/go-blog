@@ -1,21 +1,12 @@
 ---
 title: Losing Sight of My Go
-tags:
-  - 2k opponent
-  - anti-zen
-  - attached to winning
-  - black
-  - long game
-  - selfish
-  - shameful
-  - undo
-  - w+resign
-  - zen
+date: 2014-06-24 19:05:27
 id: 5480
 categories:
-  - Journal
-  - Kifu
-date: 2014-06-24 19:05:27
+	- Journal
+tags:
+	- kifu
+	- anti-zen
 ---
 
 Today I played a game against a 2k as Black (with 45 min main time settings). It's been a long time since I've played a game with such long time settings where the opponent actually used up most of his/her time. In fact, it was a little nerve wracking because the quality of the moves were quite different. Far less impulsive ones and much more proper moves that were given a lot of thought. I felt I had decent control of the game for the most part, but started losing control of it towards the later half of the middle game. Around this time, my opponent misclicks.
