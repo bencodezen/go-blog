@@ -1,19 +1,13 @@
 ---
 title: GoStyle WebApp Analyzes Your Style!
-tags:
-  - analysis
-  - free
-  - gostyle
-  - great tool
-  - online
-  - style
-  - webapp
+date: 2013-06-18 17:00:03
 id: 3001
 categories:
-  - Journal
-  - Reviews
-  - Software
-date: 2013-06-18 17:00:03
+	- Reviews
+	- Software
+tags:
+	- tools
+	- play-style
 ---
 
 Every other blue moon, we have the opportunity to stumble onto something pretty awesome. Fellow go player Bonscott shared an incredible resource that I think you would all find just as fascinating as I did the first time I tried it:

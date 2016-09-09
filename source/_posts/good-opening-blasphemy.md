@@ -1,9 +1,9 @@
 ---
 title: Good at the Opening? Blasphemy!
+date: 2014-12-08 11:16:58
 id: 5944
 categories:
-  - Journal
-date: 2014-12-08 11:16:58
+	- Journal
 tags:
 ---
 

@@ -1,17 +1,16 @@
 ---
 title: Go Congress 2014 - Day 2
-tags:
-  - go congress
-  - jungsang
-  - ny
-  - pro simul
-  - yuu ho
+date: 2014-09-26 09:00:50
 id: 5665
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2014-09-26 09:00:50
+	- Journal
+	- Events
+tags:
+	- go-congress
+	- jungsang
+	- pro-simul
+	- yuu-ho
+	- kifu
 ---
 
 [Prelude](http://www.bengozen.com/go-congress-2014-prelude/ "Go Congress 2014 — Prelude") - [I](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - **II** - [III](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - [IV](http://www.bengozen.com/go-congress-2014-day-4/ "Go Congress 2014 — Day 4") - [V](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - [VI](http://www.bengozen.com/go-congress-2014-day-6/ "Go Congress 2014 — Day 6") - [VII ](http://www.bengozen.com/go-congress-2014-day-7/ "Go Congress 2014 — Day 7")- [Conclusion](http://www.bengozen.com/go-congress-2014-conclusion/ "Go Congress 2014 — Conclusion")

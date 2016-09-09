@@ -1,18 +1,17 @@
 ---
 title: Go Congress 2014 - Day 5
-tags:
-  - dahye
-  - go congress
-  - jennie shen
-  - jungsang
-  - myung
-  - shirley lin
+date: 2014-10-01 08:00:57
 id: 5732
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2014-10-01 08:00:57
+	- Journal
+	- Events
+tags:
+	- dahye
+	- go-congress
+	- jennie-shen
+	- jungsang
+	- myung-wan-kim
+	- shirley-lin
 ---
 
 [Prelude](http://www.bengozen.com/go-congress-2014-prelude/ "Go Congress 2014 — Prelude") - [I](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - [II](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - [III](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - [IV](http://www.bengozen.com/go-congress-2014-day-4/ "Go Congress 2014 — Day 4") - **V** - [VI](http://www.bengozen.com/go-congress-2014-day-6/ "Go Congress 2014 — Day 6") - [VII ](http://www.bengozen.com/go-congress-2014-day-7/ "Go Congress 2014 — Day 7")- [Conclusion](http://www.bengozen.com/go-congress-2014-conclusion/ "Go Congress 2014 — Conclusion")

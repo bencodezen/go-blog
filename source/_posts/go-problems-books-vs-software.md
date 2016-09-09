@@ -1,15 +1,13 @@
 ---
 title: 'Tsumego: Books vs. Software'
-tags:
-  - books vs. software
-  - go problems
-  - tsumego
+date: 2012-10-31 09:00:00
 id: 14
 categories:
-  - Advice
-  - Articles
-  - Weekly Go Wednesday
-date: 2012-10-31 09:00:00
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- go-problems
+	- tsumego
 ---
 
 ## _Weekly Go Wednesday, Issue #5_
@@ -39,10 +37,10 @@ The following tips will help ensure that you are getting the most out of your ts
 1.  **Read out every variation to the best of your ability before you place a single stone.**
 2.  **If you end up choosing the wrong move...**
 
-    *   **Figure out and understand <span style="text-decoration: underline;">why</span> it doesn't work.**
-    *   Reset the problem to the beginning.
-    *   Read it out again without any stones on the board to reinforce the why it doesn't work.
-    *   Once you can see the entire sequence, play it through once more before moving on.
+		*   **Figure out and understand <span style="text-decoration: underline;">why</span> it doesn't work.**
+		*   Reset the problem to the beginning.
+		*   Read it out again without any stones on the board to reinforce the why it doesn't work.
+		*   Once you can see the entire sequence, play it through once more before moving on.
 
 3.  **Spend more time solving easy to intermediate problems.**
 Remember, being able to carry tsumego with us wherever we go these days is a luxury that we should all appreciate. Just remember that you use it properly and I assure you that you will thank yourself as your continue down the endless path to becoming one stone stronger.

@@ -1,23 +1,24 @@
 ---
 title: Go Congress 2014 - Day 3
-tags:
-  - dalan
-  - deguchi mariko
-  - ding bo
-  - go congress
-  - jungsang
-  - michael
-  - myung
-  - nate
-  - pro simul
-  - satoru
-  - zhang hong yu
+date: 2014-09-28 07:00:52
 id: 5682
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2014-09-28 07:00:52
+	- Journal
+	- Events
+tags:
+	- dalan
+	- deguchi-mariko
+	- ding-bo
+	- go-congress
+	- jungsang
+	- moboy78
+	- myung-wan-kim
+	- nate
+	- pro-simul
+	- satoru
+	- zhang-hong-yu
+	- pros
+	- kifu
 ---
 
 [Prelude](http://www.bengozen.com/go-congress-2014-prelude/ "Go Congress 2014 — Prelude") - [I](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - [II](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - **III** - [IV](http://www.bengozen.com/go-congress-2014-day-4/ "Go Congress 2014 — Day 4") - [V](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - [VI](http://www.bengozen.com/go-congress-2014-day-6/ "Go Congress 2014 — Day 6") - [VII ](http://www.bengozen.com/go-congress-2014-day-7/ "Go Congress 2014 — Day 7")- [Conclusion](http://www.bengozen.com/go-congress-2014-conclusion/ "Go Congress 2014 — Conclusion")

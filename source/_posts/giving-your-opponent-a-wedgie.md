@@ -1,7 +1,6 @@
 ---
 title: Giving Your Opponent a Wedgie
 date: 2012-10-17 09:00:00
-
 id: 17
 categories:
 	- Articles
