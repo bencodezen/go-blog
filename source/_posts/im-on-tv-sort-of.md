@@ -1,12 +1,12 @@
 ---
 title: I'm on TV!! Sort Of...
-tags:
-  - interview
-  - joanne missingham
+date: 2013-03-29 22:35:37
 id: 2410
 categories:
-  - Journal
-date: 2013-03-29 22:35:37
+	- Journal
+tags:
+	- joanne-missingham
+	- pro-simul
 ---
 
 For those of you who read my series of posts on the [North American Go Convention](http://www.bengozen.com/north-american-go-convention/ "North American Go Convention!!!"), you might recall that on [Day 2](http://www.bengozen.com/north-american-go-convention-day-2/ "North American Go Convention — Day 2"), there was a crew doing a special interview with Joanne Missingham. Guess who made the cut? I guess my play was so incredible they decided to feature me! Hahaha. Just kidding! Anyhow, I can't seem to download the video from Facebook. So here is the link to the video and some screenshots below:

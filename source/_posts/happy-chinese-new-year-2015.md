@@ -1,9 +1,9 @@
 ---
 title: Happy Chinese New Year 2015!
+date: 2015-02-19 17:03:37
 id: 5966
 categories:
-  - Journal
-date: 2015-02-19 17:03:37
+	- Journal
 tags:
 ---
 

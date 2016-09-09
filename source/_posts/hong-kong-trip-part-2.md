@@ -1,20 +1,12 @@
 ---
 title: 'Hong Kong Trip: Part 2 - The Food'
-tags:
-  - buffet
-  - delicious
-  - food
-  - hungry
-  - imasa
-  - nom nom
-  - photography
-  - sashimi
+date: 2014-04-16 23:59:39
 id: 4953
 categories:
-  - Cultural
-  - Events
-  - Journal
-date: 2014-04-16 23:59:39
+	- Journal
+	- Events
+tags:
+	- hong-kong
 ---
 
 [Part 1 **—** The Scenery](http://www.bengozen.com/hong-kong-trip-part-1/ "Hong Kong Trip: Part 1 — The Scenery")   ||   _Part 2 — The Food_   ||   [Part 3 — Weiqi](http://www.bengozen.com/hong-kong-trip-part-3/ "Hong Kong Trip: Part 3 — Weiqi")

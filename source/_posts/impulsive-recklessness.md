@@ -1,14 +1,10 @@
 ---
 title: Impulsive Recklessness
-tags:
-  - bad habits
-  - impulsive
-  - obstacle
-  - reckless
+date: 2013-08-22 16:30:03
 id: 3850
 categories:
-  - Journal
-date: 2013-08-22 16:30:03
+	- Journal
+tags:
 ---
 
 Last night I had the pleasure of playing fellow go twitter friend [goBum](http://www.twitter.com/gobum). For our first game against one another, I thought it was exciting and a lot of fun. Afterwards though, we were severely reminded of the numerous mistakes that occurred throughout the game. Of the two of us though, I would have to say that my play was probably the most shameful. Haha. And if you're wondering what kind of moves I'm talking about, I mean the whole gamut of making empty triangles that are thank you moves along with playing impulsive moves that are the equivalent of passing. Needless to say, I got what I deserved when it came to verbal bashing. Haha. xD

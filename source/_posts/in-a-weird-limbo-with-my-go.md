@@ -1,14 +1,10 @@
 ---
 title: In a Weird Limbo with My Go
-tags:
-  - confused
-  - directionless
-  - fog
-  - haze
+date: 2013-10-15 20:55:24
 id: 4170
 categories:
-  - Journal
-date: 2013-10-15 20:55:24
+	- Journal
+tags:
 ---
 
 Over the past weekend, I decided to ramp up my activity on Nova.gs for a few reasons:

@@ -1,19 +1,12 @@
 ---
 title: Hello Again with GoKibitz
-tags:
-  - 9x9
-  - black
-  - even
-  - gokibitz
-  - opponent 1d
-  - resign
-  - victory
+date: 2015-03-26 13:17:06
 id: 5974
 categories:
-  - Commentaries
-  - Journal
-  - Kifu
-date: 2015-03-26 13:17:06
+	- Journal
+tags:
+	- kifu
+	- gokibitz
 ---
 
 Hey everyone. Just wanted to let you know I'm still alive and well. Been getting into some really interesting projects these past few weeks and have been really pondering what I can do with blogging again since I miss doing it. And as someone who hates it when a regular blogger just drops out of the blogosphere, you can rest assured that I won't ever just leave the blog hanging in the event I need to close up shop for awhile.

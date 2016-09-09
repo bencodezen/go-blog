@@ -1,14 +1,13 @@
 ---
 title: How to Embed Eidogo into Your Website
-tags:
-  - blogger
-  - eidogo
-  - how to
-  - nate
+date: 2010-10-03 11:26:00
 id: 90
 categories:
+  - Articles
   - Guides
-date: 2010-10-03 11:26:00
+tags:
+  - guides
+  - nate
 ---
 
 ## <span style="text-decoration: underline;">Blogger / Blogspot (Google)</span>

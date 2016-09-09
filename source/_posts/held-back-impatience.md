@@ -1,11 +1,10 @@
 ---
 title: Held Back by Impatience
-tags:
-  - impatience
+date: 2013-10-24 16:00:53
 id: 4231
 categories:
-  - Journal
-date: 2013-10-24 16:00:53
+	- Journal
+tags:
 ---
 
 Earlier today, I saw that my friend Michael was in the middle of a game and so I decided to pop on in. Upon arrival and scanning the board a bit, it became pretty apparent that it was a one-sided game. Sure enough, it wouldn't be long before his opponent resigned.

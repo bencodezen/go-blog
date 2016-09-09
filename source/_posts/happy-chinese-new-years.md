@@ -2,9 +2,10 @@
 title: Happy Chinese New Years!
 id: 5998
 categories:
-  - Journal
+	- Journal
 date: 2016-02-08 23:04:20
 tags:
+	- sabbatical
 ---
 
 I'm back guys. After a long sabbatical, I'm back.

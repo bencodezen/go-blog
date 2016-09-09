@@ -1,19 +1,14 @@
 ---
 title: 'Hong Kong Trip: Part 3 - Weiqi'
-tags:
-  - go
-  - hong kong
-  - hong kong go association
-  - shiu lao shi
-  - souvenir
-  - trip
-  - weiqi
+date: 2014-04-17 11:50:40
 id: 4956
 categories:
-  - Cultural
-  - Events
-  - Journal
-date: 2014-04-17 11:50:40
+	- Journal
+	- Events
+tags:
+	- hong-kong
+	- hong-kong-go-association
+	- teaching-game
 ---
 
 [Part 1 — The Scenery](http://www.bengozen.com/hong-kong-trip-part-1/ "Hong Kong Trip: Part 1 — The Scenery")   ||   [Part 2 — The Food](http://www.bengozen.com/hong-kong-trip-part-2/ "Hong Kong Trip: Part 2 — The Food")   ||   _Part 3 — Weiqi_
