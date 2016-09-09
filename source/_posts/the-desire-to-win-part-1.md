@@ -1,16 +1,11 @@
 ---
 title: The Desire to Win - Part 1
-tags:
-  - baduk
-  - desire to win
-  - go
-  - weiqi
+date: 2012-09-27 17:00:00
 id: 29
 categories:
-  - Advice
-  - Journal
-  - Kifu
-date: 2012-09-27 17:00:00
+	- Journal
+tags:
+	- kifu
 ---
 
 Today, I am writing about a more solemn topic that I know most people would shy away from posting on. However, I believe that this post touches on something that almost every go player will encounter along their journey: **the desire to win**. It is a difficult topic for me to write at the moment since the disappointing kifu is fresh off the board, but by doing so I hope to capture a vulnerability that we all feel at one point or another.

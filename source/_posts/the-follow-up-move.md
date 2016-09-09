@@ -1,13 +1,12 @@
 ---
 title: The Follow-Up Move
-tags:
-  - follow up move
-  - getting stronger
+date: 2013-01-09 09:00:01
 id: 1537
 categories:
-  - Articles
-  - Weekly Go Wednesday
-date: 2013-01-09 09:00:01
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- getting-stronger
 ---
 
 ## _Weekly Go Wednesday, Issue #12_

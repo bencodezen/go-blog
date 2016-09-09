@@ -1,9 +1,9 @@
 ---
 title: Still Deep in the Trenches
+date: 2014-08-26 21:07:07
 id: 5575
 categories:
-  - Journal
-date: 2014-08-26 21:07:07
+	- Journal
 tags:
 ---
 

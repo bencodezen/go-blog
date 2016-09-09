@@ -1,14 +1,11 @@
 ---
 title: Rematch!
-tags:
-  - 14k
-  - rematch
-  - victory
+date: 2010-10-18 21:48:00
 id: 63
 categories:
-  - Journal
-  - Kifu
-date: 2010-10-18 21:48:00
+	- Journal
+tags:
+	- kifu
 ---
 
 One of the fun things about getting to play go on the internet is the fact that you have a lot of opponents to play with. While that is great in a lot of aspects, I used to always get the itch to rematch with opponents so that I could see if I got any better. Call it a grudge if you will, but for me it's usually more of a curiosity than anything else.

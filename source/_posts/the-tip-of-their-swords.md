@@ -1,16 +1,12 @@
 ---
 title: The Tip of Their Swords...
-tags:
-  - hikaru no go
-  - overcoming fear
-  - sai's wisdom
-  - tip of their swords
+date: 2010-10-22 10:18:00
 id: 59
 categories:
-  - Advice
-  - Journal
-  - Kifu
-date: 2010-10-22 10:18:00
+	- Journal
+tags:
+	- hikaru-no-go
+	- kifu
 ---
 
 Lately I've been looking at my style of play. It's always safe, nice to opponents, and afraid to try anything new for fear of losing. Erm... yeah that wasn't working out. Evolution requires trial and error, to think anything less will only result in a stable condition which will allow others to surpass you.

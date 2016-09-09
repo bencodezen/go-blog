@@ -1,9 +1,9 @@
 ---
 title: A Retrospective on 2013
+date: 2013-12-31 19:19:48
 id: 4410
 categories:
-  - Journal
-date: 2013-12-31 19:19:48
+	- Journal
 tags:
 ---
 

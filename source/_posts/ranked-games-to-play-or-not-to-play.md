@@ -1,11 +1,10 @@
 ---
 title: 'Ranked Games: To Play or Not to Play...'
-tags:
-  - ranked games
+date: 2013-01-04 18:04:10
 id: 1599
 categories:
-  - Journal
-date: 2013-01-04 18:04:10
+	- Journal
+tags:
 ---
 
 That is the question.

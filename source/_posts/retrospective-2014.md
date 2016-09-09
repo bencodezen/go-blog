@@ -1,9 +1,9 @@
 ---
 title: A Retrospective on 2014
+date: 2014-12-31 08:02:31
 id: 5958
 categories:
-  - Journal
-date: 2014-12-31 08:02:31
+	- Journal
 tags:
 ---
 

@@ -1,16 +1,12 @@
 ---
 title: Trying to Counter Bad Habits
-tags:
-  - bad habit
-  - laziness
-  - lazy reading
-  - nate
-  - neagle
-  - need to discipline
+date: 2013-06-11 17:00:32
 id: 2934
 categories:
-  - Journal
-date: 2013-06-11 17:00:32
+	- Journal
+tags:
+	- bad-habits
+	- nate
 ---
 
 As of late, I have been finding it difficult to really get my head in the game. I'm not sure if it's due to the busy schedule of having relatives from out of town, or whether my mind is undergoing some new twists and turns that is changing the way I see the game.

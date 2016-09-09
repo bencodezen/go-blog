@@ -1,16 +1,12 @@
 ---
 title: Stumbling Through the Dark
-tags:
-  - 1k opponent
-  - 2 stone handicap
-  - black
-  - frustrated
-  - w+resign
+date: 2014-06-25 23:24:04
 id: 5484
 categories:
-  - Journal
-  - Kifu
-date: 2014-06-25 23:24:04
+	- Journal
+tags:
+	- kifu
+	- handicap-go
 ---
 
 Today I added another notch to my losses. It was a 2 stone handicap game against a 1k and I completely goofed at the end. No reason I shouldn't have won, but I just couldn't see it through.

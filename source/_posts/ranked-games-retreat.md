@@ -1,14 +1,12 @@
 ---
 title: Ranked Games Retreat
-tags:
-  - asr league
-  - monthly goal
-  - no ranked games
-  - promoted
+date: 2012-12-01 08:30:25
 id: 1195
 categories:
-  - Journal
-date: 2012-12-01 08:30:25
+	- Journal
+tags:
+	- asr
+	- goals
 ---
 
 [![Scenic Imagery of Stones - Credit to YellowStonePackTrips](http://www.bengozen.com/wp-content/uploads/2012/12/retreat2.jpg "Retreat Stones")](http://www.bengozen.com/wp-content/uploads/2012/12/retreat2.jpg)

@@ -1,17 +1,13 @@
 ---
 title: 'Thursday Go Tygem: Game 01'
-tags:
-  - commentary
-  - kifu
-  - korean
-  - review
-  - server
-  - tygem
+date: 2014-05-08 14:50:34
 id: 5256
 categories:
-  - Kifu
-  - Thursday Go Tygem
-date: 2014-05-08 14:50:34
+	- Commentaries
+	- Thursday Go Tygem
+tags:
+	- kifu
+	- tygem
 ---
 
 ## Introduction

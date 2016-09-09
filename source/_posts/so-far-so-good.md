@@ -1,13 +1,11 @@
 ---
 title: So Far So Good...
-tags:
-  - free games
-  - getting stronger
-  - the next horizon
+date: 2012-12-11 17:48:43
 id: 1349
 categories:
-  - Journal
-date: 2012-12-11 17:48:43
+	- Journal
+tags:
+	- getting-stronger
 ---
 
 Contrary to my previous attempts at abstaining from ranked games, I'm happy to report that I have kept to that promise thus far. I won't say that it hasn't been difficult, since I can't help but stare at the numerous opponents I could be playing. Nevertheless, the free games that I've been playing have helped to abate that desire. In addition, I'm also very happy to report that my apprehensiveness at playing White has diminished significantly since that [last post](http://www.bengozen.com/resistant-to-playing-white/ "Resistant to Playing White").

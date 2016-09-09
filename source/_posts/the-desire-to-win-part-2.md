@@ -1,16 +1,10 @@
 ---
 title: The Desire to Win - Part 2
-tags:
-  - baduk
-  - desire to win
-  - go
-  - weiqi
+date: 2012-09-28 11:23:00
 id: 28
 categories:
-  - Advice
-  - Articles
   - Journal
-date: 2012-09-28 11:23:00
+tags:
 ---
 
 I have to admit that the responses that I received yesterday from my post have certainly made me reconsider my position from yesterday's post, but ultimately I think it is more of a paradigm shift than necessarily regretting my decision to resign.

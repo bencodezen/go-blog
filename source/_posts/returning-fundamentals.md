@@ -1,15 +1,13 @@
 ---
 title: Returning to the Fundamentals
-tags:
-  - building blocks
-  - directionless
-  - fundamentals
-  - kageyama
-  - lessons in the fundamentals of go
+date: 2014-06-11 07:15:59
 id: 5442
 categories:
-  - Weekly Go Wednesday
-date: 2014-06-11 07:15:59
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- fundamentals
+	- kageyama
 ---
 
 ## Weekly Go Wednesday, Issue #44

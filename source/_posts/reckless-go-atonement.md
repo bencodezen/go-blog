@@ -1,14 +1,11 @@
 ---
 title: Reckless Go Atonement
-tags:
-  - atonement
-  - redemption
-  - the list
+date: 2012-12-20 12:00:46
 id: 1435
 categories:
-  - Journal
-  - Lessons
-date: 2012-12-20 12:00:46
+	- Journal
+tags:
+	- lessons
 ---
 
 As promised, here is evidence of my redemption for yesterday's atrocious play.

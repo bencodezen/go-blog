@@ -1,12 +1,11 @@
 ---
 title: Slightly Winded
-tags:
-  - lesson learned
-  - look both directions before you play
+date: 2013-02-04 17:30:13
 id: 1818
 categories:
-  - Journal
-date: 2013-02-04 17:30:13
+	- Journal
+tags:
+	- lessons
 ---
 
 Man.... it's only day four of February's training regimen and I can already feel the weight of it bearing down on me. On top of that, I'm playing even more even games with players 5+ stones stronger than me and getting crushed left and right. Not feeling bad about myself or anything, but definitely slightly winded. The good thing is that I think I'm starting to become more immune to losing, but we'll have to wait and see if that's true. =D

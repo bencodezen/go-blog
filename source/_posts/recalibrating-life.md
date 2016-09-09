@@ -1,9 +1,9 @@
 ---
 title: Recalibrating My Life
+date: 2014-01-20 22:02:23
 id: 4511
 categories:
-  - Journal
-date: 2014-01-20 22:02:23
+	- Journal
 tags:
 ---
 

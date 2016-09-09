@@ -1,9 +1,9 @@
 ---
 title: Rushing to the Finish Line
+date: 2013-06-12 23:48:37
 id: 2947
 categories:
-  - Journal
-date: 2013-06-12 23:48:37
+	- Journal
 tags:
 ---
 

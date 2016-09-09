@@ -1,16 +1,12 @@
 ---
 title: Return to ASR League
-tags:
-  - asr
-  - baduk
-  - go
-  - weiqi
+date: 2012-08-24 10:31:00
 id: 37
 categories:
-  - Advice
-  - Journal
-  - Kifu
-date: 2012-08-24 10:31:00
+	- Journal
+tags:
+	- asr
+	- kifu
 ---
 
 For my debut back in the ASR League, I am slightly embarrassed to report that my return to the stage was far less than spectacular. It's not so much that I played terribly, it's just that I ended up fighting out a ko battle that was very good for my opponent.

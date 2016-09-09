@@ -1,13 +1,11 @@
 ---
 title: Ranked Games = Bloodlust?
-tags:
-  - bloodlust
-  - overly aggressive
-  - playing style flaw
+date: 2013-01-19 17:27:46
 id: 1711
 categories:
-  - Journal
-date: 2013-01-19 17:27:46
+	- Journal
+tags:
+	- play-style
 ---
 
 I have no idea what's going on. It's like whenever I play a ranked game, my personality changes and I become hell-bent on destroying groups. Any notion of growth or progress that I've made seems to be thrown out the window. How frustrating!

@@ -1,16 +1,12 @@
 ---
 title: Trying to Put the Pieces Back Together
-tags:
-  - dojang
-  - journey
-  - one step at a time
-  - progress
-  - yunguseng
+date: 2014-07-10 11:55:20
 id: 5545
 categories:
-  - Journal
-  - Kifu
-date: 2014-07-10 11:55:20
+	- Journal
+tags:
+	- kifu
+	- yunguseng-dojang
 ---
 
 I played the second round of my Yunguseng match tonight. To be honest, it was a game of mixed feelings. Though I hate to admit it, I'm not quite out of my slump yet. I could definitely feel it as I started getting antsy when the game began. I started being negative and worried that I would lose again. Yet on the other hand, there were moments where I managed to give my game some life as I surged forth with a desire to attack and try to harass my opponent's group with as much vigor as I could muster up.

@@ -1,16 +1,11 @@
 ---
 title: The Surrounding Game Package Part 1
-tags:
-  - clavin sun
-  - daniel ko
-  - package
-  - stone
-  - t-shirt
-  - the surrounding game
+date: 2013-08-11 15:32:51
 id: 3785
 categories:
-  - Journal
-date: 2013-08-11 15:32:51
+	- Journal
+tags:
+	- the-surrounding-game
 ---
 
 [![Surrounding Game T-Shirt, Postcard, Stone, and Kifu](http://www.bengozen.com/wp-content/uploads/2013/08/surroundinggamepackage1.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/surroundinggamepackage1.jpg)

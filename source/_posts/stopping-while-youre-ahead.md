@@ -1,12 +1,11 @@
 ---
 title: Stopping While You're Ahead
-tags:
-  - flaws
-  - mistakes
+date: 2013-01-30 18:30:42
 id: 1781
 categories:
-  - Journal
-date: 2013-01-30 18:30:42
+	- Journal
+tags:
+	- losing-streak
 ---
 
 I've been on a losing streak these last couple of days. I could blame it on any number of things, but I know that one of my immediate problems is not knowing when to stop while I'm ahead.

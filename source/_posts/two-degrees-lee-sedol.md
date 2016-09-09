@@ -1,15 +1,13 @@
 ---
 title: Two Degrees of Lee Sedol
-tags:
-  - eric lui
-  - insight
-  - lee sedol
-  - mind blown
-  - studying
+date: 2013-09-07 23:39:47
 id: 3931
 categories:
-  - Journal
-date: 2013-09-07 23:39:47
+	- Journal
+tags:
+	- eric-lui
+	- lee-sedol
+	- studying
 ---
 
 [caption id="attachment_3934" align="aligncenter" width="560"][![That](http://www.bengozen.com/wp-content/uploads/2013/09/Lee-Sedol-Eric-Lui-2013-Samsung-Cup.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/Lee-Sedol-Eric-Lui-2013-Samsung-Cup.jpg) That's my friend Eric Lui playing against Lee Sedol!!! AHH!!!!!!!! Photo Credit to [GoGameGuru](http://gogameguru.com/2013-samsung-cup-group-stage-wrap-up/)[/caption]

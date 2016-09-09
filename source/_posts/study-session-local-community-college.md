@@ -1,13 +1,11 @@
 ---
 title: Study Session at the Local Community College
-tags:
-  - awesome
-  - guessed a pro's move
-  - milestone
+date: 2013-09-03 19:18:01
 id: 3901
 categories:
-  - Journal
-date: 2013-09-03 19:18:01
+	- Journal
+tags:
+	- achievements
 ---
 
 [caption id="attachment_3902" align="aligncenter" width="300"][![mcstudysession2](http://www.bengozen.com/wp-content/uploads/2013/09/mcstudysession2.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/mcstudysession2.jpg) For those curious ones, the books are Fight Like a Pro, Jump Level Up 2 + Answer Book, and Get Strong at Joseki 3, and the set I'm using is a portable shin-kaya board with biconvex yunzi stones in kitani bowls.[/caption]

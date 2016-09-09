@@ -1,11 +1,10 @@
 ---
 title: Resistant to Playing White
-tags:
-  - playing as white
+date: 2012-11-28 17:00:02
 id: 1166
 categories:
-  - Journal
-date: 2012-11-28 17:00:02
+	- Journal
+tags:
 ---
 
 In my entire go playing thus far, I never actually found a real preference for one color over another... until recently.

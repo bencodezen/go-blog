@@ -1,12 +1,10 @@
 ---
 title: Ten Minute Games
-tags:
-  - game length
-  - short games
+date: 2012-11-15 17:07:34
 id: 1104
 categories:
-  - Journal
-date: 2012-11-15 17:07:34
+	- Journal
+tags:
 ---
 
 [![](http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.15-Ten-Minute-Games-300x298.png "2012.11.15 - Ten Minute Games")](http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.15-Ten-Minute-Games.png)

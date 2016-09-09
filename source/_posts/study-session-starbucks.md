@@ -1,14 +1,11 @@
 ---
 title: Study Session at Starbucks
-tags:
-  - new idea
-  - productive
-  - starbucks
-  - study session
+date: 2013-09-21 16:04:36
 id: 4004
 categories:
-  - Journal
-date: 2013-09-21 16:04:36
+	- Journal
+tags:
+	- studying
 ---
 
 Over the last couple of weeks, I've been making it a habit to head out to the local Starbucks to remove myself from the distractions of being in the apartment (aka putting on shows on Netflix or rewatching _Hikaru no Go_ for the five millionth time). And overall I have to say that I definitely enjoy and look forward to these study sessions.

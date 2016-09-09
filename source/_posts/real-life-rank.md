@@ -1,14 +1,10 @@
 ---
 title: Real Life Rank
-tags:
-  - in person rank
-  - rank
-  - real life rank
+date: 2012-12-05 09:00:56
 id: 708
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2012-12-05 09:00:56
+	- Articles
+	- Weekly Go Wednesday
 ---
 
 ## _Weekly Go Wednesday, Issue #9_

@@ -1,18 +1,13 @@
 ---
 title: 'Thursday Go Tygem: Game 06'
-tags:
-  - b+resign
-  - black
-  - commentary
-  - korean
-  - opponent 1d
-  - review
-  - tygem
+date: 2014-06-12 07:15:34
 id: 5366
 categories:
-  - Kifu
-  - Thursday Go Tygem
-date: 2014-06-12 07:15:34
+	- Commentaries
+	- Thursday Go Tygem
+tags:
+	- kifu
+	- tygem
 ---
 
 ## Introduction

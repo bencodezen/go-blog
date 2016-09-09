@@ -1,13 +1,11 @@
 ---
 title: Rematch 2!
-tags:
-  - new opening
-  - rematch
+date: 2010-10-19 10:20:00
 id: 62
 categories:
-  - Journal
-  - Kifu
-date: 2010-10-19 10:20:00
+	- Journal
+tags:
+	- kifu
 ---
 
 This will be my only game for today. It was played pretty poorly in my opinion. That's what I get for playing first thing in the morning I guess. The fun part is that I got to play an opponent that I had played before on my zenix account. At the time, he was 16k and I was 19k, and I managed to win by 30 points! Needless to say, I was excited at the prospect of being able to play with him again on equal grounds!

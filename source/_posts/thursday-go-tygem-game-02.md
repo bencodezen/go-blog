@@ -1,18 +1,13 @@
 ---
 title: 'Thursday Go Tygem: Game 02'
-tags:
-  - 2d opponent
-  - commentary
-  - korean
-  - review
-  - server
-  - tygem
-  - white
+date: 2014-05-15 07:15:02
 id: 5275
 categories:
-  - Kifu
-  - Thursday Go Tygem
-date: 2014-05-15 07:15:02
+	- Commentaries
+	- Thursday Go Tygem
+tags:
+	- kifu
+	- tygem
 ---
 
 ## Introduction
