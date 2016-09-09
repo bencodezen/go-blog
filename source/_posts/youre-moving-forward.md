@@ -1,13 +1,10 @@
 ---
 title: If You're Not Moving Forward...
-tags:
-  - effort
-  - moving forward
-  - progress
+date: 2014-09-05 16:51:19
 id: 5620
 categories:
-  - Journal
-date: 2014-09-05 16:51:19
+	- Journal
+tags:
 ---
 
 As I’ve been fighting off the onslaught of work and priorities that keep coming my way, I hate to admit that I’ve fallen quite behind on my go studies. In fact, they have become practically non-existent. I think the most exposure I’ve gotten to go is flipping through the new books that have been arriving. However, that cannot even begin to amount to any noteworthy type of study.

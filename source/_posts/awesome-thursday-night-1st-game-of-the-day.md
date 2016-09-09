@@ -4,8 +4,8 @@ date: 2010-10-15 09:37:00
 id: 67
 categories:
 	- Journal
-	- Kifu
 tags:
+	- kifu
 	- nate
 ---
 

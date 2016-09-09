@@ -1,21 +1,16 @@
 ---
 title: Yuan Zhou Monthly Workshop
-tags:
-  - 2 stones
-  - black
-  - defeat
-  - handicap
-  - monthly workshop
-  - nate
-  - resignation
-  - workshop
-  - yuan zhou
+date: 2012-12-07 09:00:11
 id: 1228
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2012-12-07 09:00:11
+	- Journal
+	- Events
+tags:
+	- kifu
+	- handicap-gp
+	- workshop
+	- nate
+	- yuan-zhou
 ---
 
 [caption id="attachment_1234" align="aligncenter" width="300"][![Yuan Zhou explaining a game](http://www.bengozen.com/wp-content/uploads/2012/12/yuanzhou.jpg "Yuan Zhou")](http://www.bengozen.com/wp-content/uploads/2012/12/yuanzhou.jpg) Credit to [TriangleGoClub](http://trianglegoclub.org/ "Triangle Go Club")[/caption]

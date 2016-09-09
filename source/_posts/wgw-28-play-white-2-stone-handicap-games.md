@@ -1,12 +1,12 @@
 ---
 title: 'WGW 28: How to Play as White in 2 Stone Handicap Games'
-tags:
-  - 2 stones handicap
-  - playing as white
+date: 2013-11-20 07:00:30
 id: 4348
 categories:
-  - Weekly Go Wednesday
-date: 2013-11-20 07:00:30
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- handicap-go
 ---
 
 ## Weekly Go Wednesday, Issue #28

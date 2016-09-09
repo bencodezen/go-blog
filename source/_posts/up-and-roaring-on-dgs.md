@@ -1,13 +1,12 @@
 ---
 title: Up and Roaring on DGS
-tags:
-  - dgs
-  - dragon go server
-  - turn based go
+date: 2013-03-16 09:07:18
 id: 2250
 categories:
-  - Journal
-date: 2013-03-16 09:07:18
+	- Journal
+tags:
+	- dgs
+	- correspondence-go
 ---
 
 Thanks to Paul, it seems that I may never ever be in a playing slump ever again. Haha. I am now officially active on [Dragon Go Server](http://www.dragongoserver.net) (DGS)!

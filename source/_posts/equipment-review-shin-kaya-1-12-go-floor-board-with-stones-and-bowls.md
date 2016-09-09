@@ -3,13 +3,13 @@ title: 'Equipment Review: Shin-Kaya - 1-1/2 Go Set'
 date: 2013-03-31 17:00:00
 id: 130
 categories:
-  - Reviews
-  - Equipment
+	- Reviews
+	- Equipment
 tags:
-  - goban
-  - go-game-set
-  - yunzi
-  - portable-equipment
+	- goban
+	- go-game-set
+	- yunzi
+	- portable-equipment
 ---
 
 [![shinkayafloorset](http://www.bengozen.com/wp-content/uploads/2013/03/shinkayafloorset.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/shinkayafloorset.jpg)

@@ -1,14 +1,11 @@
 ---
 title: Weekend Overview
-tags:
-  - basic techniques of go
-  - congress of go
-  - lessons in the funadmentals of go
-  - training
+date: 2010-10-10 13:29:00
 id: 73
 categories:
-  - Journal
-date: 2010-10-10 13:29:00
+	- Journal
+tags:
+	- training
 ---
 
 So this weekend has been pretty good so far. I've been trying to study Go as often as possible. I've diverted my attention slightly to two more theory books: <span style="text-decoration: underline;">Lessons in the Fundamentals of Go</span> along with <span style="text-decoration: underline;">Basic Techniques of Go</span>. No worries though, I'm still doing lots of problems!

@@ -4,8 +4,8 @@ date: 2010-11-16 10:54:00
 id: 46
 categories:
 	- Journal
-	- Kifu
 tags:
+	- kifu
 	- trolls
 ---
 

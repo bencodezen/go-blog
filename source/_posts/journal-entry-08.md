@@ -1,11 +1,10 @@
 ---
 title: 'Journal Entry: #08'
-
+date: 2014-10-28 19:28:43
 id: 5907
 categories:
 	- Journal
 	- Events
-date: 2014-10-28 19:28:43
 tags:
 	- handicap-go
 	- tournaments

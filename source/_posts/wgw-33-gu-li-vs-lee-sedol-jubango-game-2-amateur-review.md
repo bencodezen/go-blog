@@ -1,18 +1,14 @@
 ---
 title: 'WGW 33: Gu Li vs Lee Sedol - Jubango Game 2 Amateur Review'
-tags:
-  - amateur review
-  - battle
-  - game 2
-  - gu li
-  - jubango
-  - lee sedol
+date: 2014-03-05 10:14:16
 id: 4770
 categories:
-  - Events
-  - Kifu
-  - Weekly Go Wednesday
-date: 2014-03-05 10:14:16
+	- Commentaries
+tags:
+	- kifu
+	- gu-li
+	- jubango
+	- lee-sedol
 ---
 
 ## Weekly Go Wednesday: Issue #33

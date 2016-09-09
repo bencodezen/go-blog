@@ -1,12 +1,11 @@
 ---
 title: 'WGW 26: How to Play as White in Even Games'
-tags:
-  - playing as white
+date: 2013-11-06 06:00:28
 id: 4263
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2013-11-06 06:00:28
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## Weekly Go Wednesday, Issue #26

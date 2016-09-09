@@ -3,10 +3,10 @@ title: My First Steps
 date: 2010-08-20 14:37:00
 id: 144
 categories:
-  - Journal
+	- Journal
 tags:
-  - beginners
-  - learning
+	- beginners
+	- learning
 ---
 
 As someone who had no background of the game (and I mean NO background since none of my family members even knew how to play the game), the first step I would have to take was to figure out the best way to learn the game.

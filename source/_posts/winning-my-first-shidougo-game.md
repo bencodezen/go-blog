@@ -1,15 +1,13 @@
 ---
 title: Winning My First Shidougo Game
-tags:
-  - baduk
-  - go
-  - shidougo
-  - weiqi
+date: 2012-10-01 14:31:00
 id: 27
 categories:
-  - Journal
-  - Kifu
-date: 2012-10-01 14:31:00
+	- Journal
+tags:
+	- kifu
+	- shidougo
+	- teaching-game
 ---
 
 _Today's shidougo lesson comes from a person that I've come to befriend and look up to: frozensoul. If you'd like to help support his efforts in helping out players trying to get stronger, please visit [his site](http://www.clossiusreviewroom.com/) for more information!_

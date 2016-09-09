@@ -7,7 +7,7 @@ categories:
 	- Monday Go Meditation
 tags:
 	- kifu
- 	- handicap-go
+	- handicap-go
 ---
 
 ## Introduction

@@ -3,13 +3,13 @@ title: 'Book Review: Whole Board Thinking in Joseki, Vol 2'
 date: 2013-07-26 22:00:39
 id: 3568
 categories:
-  - Reviews
-  - Books
+	- Reviews
+	- Books
 tags:
-  - Slate-and-Shell
-  - joseki
-  - strategy
-  - go-problems
+	- Slate-and-Shell
+	- joseki
+	- strategy
+	- go-problems
 ---
 
 [![Whole Board Thinking in Joseki Vol 2 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/Whole-Board-Joseki-2.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/Whole-Board-Joseki-2.jpg)
@@ -82,16 +82,16 @@ Problems, 106 Problems
 
 *   Off the Cliff Style
 
-    *   There is no gradual progression into the material.
-    *   You learn through trial and error as you progress through the book.
+		*   There is no gradual progression into the material.
+		*   You learn through trial and error as you progress through the book.
 
 *   Primary Learning Mechanism:
 
-    *   Multiple choice practice problems.
+		*   Multiple choice practice problems.
 
 *   Other Learning Mechanisms:
 
-    *   Clear and concise explanations with an accompanying diagram to illustrate his point.
+		*   Clear and concise explanations with an accompanying diagram to illustrate his point.
 **What aspect can be improved on?**
 
 *   They need to come out with another volume on star point joseki! That would be awesome!

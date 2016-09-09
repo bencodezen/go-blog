@@ -1,15 +1,13 @@
 ---
 title: 'WGW 34: The Value of Repetition'
-tags:
-  - again
-  - basics
-  - fundamentals
-  - repeat
-  - repetition
+date: 2014-03-12 07:15:24
 id: 4792
 categories:
-  - Weekly Go Wednesday
-date: 2014-03-12 07:15:24
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- advice
+	- fundamentals
 ---
 
 ## Weekly Go Wednesday: Issue #34

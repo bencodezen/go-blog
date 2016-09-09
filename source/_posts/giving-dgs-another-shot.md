@@ -1,9 +1,9 @@
 ---
 title: Giving DGS Another Shot
+date: 2015-01-04 10:21:07
 id: 5963
 categories:
 	- Journal
-date: 2015-01-04 10:21:07
 tags:
 	- correspondence-go
 ---

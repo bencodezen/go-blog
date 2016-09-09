@@ -1,14 +1,11 @@
 ---
 title: Weekend Hiatus Again....
-tags:
-  - fundamentals
-  - growth
-  - need patience
-  - weekend hiatus
+date: 2010-09-28 08:41:00
 id: 98
 categories:
-  - Journal
-date: 2010-09-28 08:41:00
+	- Journal
+tags:
+	- fundamentals
 ---
 
 [caption id="attachment_852" align="aligncenter" width="300"]![](http://www.bengozen.com/wp-content/uploads/2010/09/dirty-dozen-impatience-300x294.jpg "Dirty Dozen Impatience")Credit to Sunny and Fit[/caption]

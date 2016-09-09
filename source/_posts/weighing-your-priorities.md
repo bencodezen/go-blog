@@ -1,14 +1,11 @@
 ---
 title: Weighing Your Priorities
-tags:
-  - go theory
-  - philosophy
-  - priorities
-  - whole board thinking
+date: 2010-09-16 00:13:00
 id: 111
 categories:
-  - Articles
-date: 2010-09-16 00:13:00
+	- Articles
+tags:
+	- philosophy
 ---
 
 [caption id="attachment_863" align="aligncenter" width="337"]![Priorities by xkcd](http://www.bengozen.com/wp-content/uploads/2010/09/priorities.png "Priorities by xkcd") Priorities by xkcd[/caption]

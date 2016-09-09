@@ -3,13 +3,13 @@ title: 'Equipment Review: Yunzi Biconvex Stones Set'
 date: 2013-03-31 09:00:00
 id: 107
 categories:
-  - Reviews
-  - Equipment
+	- Reviews
+	- Equipment
 tags:
-  - stones
-  - yunzi-stones
-  - bowls
-  - portable-equipment
+	- stones
+	- yunzi-stones
+	- bowls
+	- portable-equipment
 ---
 
 [![biconvexyunzisetproduct](http://www.bengozen.com/wp-content/uploads/2010/09/biconvexyunzisetproduct.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/biconvexyunzisetproduct.jpg)

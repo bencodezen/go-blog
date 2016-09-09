@@ -3,10 +3,10 @@ title: Korean Training Reboot!
 date: 2013-07-01 17:37:22
 id: 3196
 categories:
-  - Journal
+	- Journal
 tags:
-  - training
-  - tygem
+	- training
+	- tygem
 ---
 
 [caption id="attachment_3197" align="aligncenter" width="400"][![koreanbooks](http://www.bengozen.com/wp-content/uploads/2013/07/koreanbooks.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/koreanbooks.jpg) Just came in today![/caption]

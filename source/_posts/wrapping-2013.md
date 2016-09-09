@@ -1,9 +1,9 @@
 ---
 title: Wrapping Up 2013
+date: 2013-12-10 21:22:57
 id: 4396
 categories:
-  - Journal
-date: 2013-12-10 21:22:57
+	- Journal
 tags:
 ---
 

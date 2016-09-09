@@ -1,14 +1,12 @@
 ---
 title: 'WGW 35: Stop Overthinking'
-tags:
-  - overthinking
-  - too much thinking
+date: 2014-03-26 21:33:15
 id: 4839
 categories:
-  - Advice
-  - Articles
-  - Weekly Go Wednesday
-date: 2014-03-26 21:33:15
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- advice
 ---
 
 ## Weekly Go Wednesday: Issue #35

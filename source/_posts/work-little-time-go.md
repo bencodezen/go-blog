@@ -1,9 +1,9 @@
 ---
 title: All Work And Little Time for Go
+date: 2013-11-26 20:37:32
 id: 4383
 categories:
-  - Journal
-date: 2013-11-26 20:37:32
+	- Journal
 tags:
 ---
 

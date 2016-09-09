@@ -1,13 +1,11 @@
 ---
 title: Your Rank is Dead to Me
-tags:
-  - mental impact
-  - opponent's rank
-  - rank
+date: 2013-04-17 05:00:14
 id: 1645
 categories:
-  - Weekly Go Wednesday
-date: 2013-04-17 05:00:14
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## Weekly Go Wednesday, Issue #24

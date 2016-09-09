@@ -3,12 +3,12 @@ title: 'Book Review: The Workshop Lectures Volume 4'
 date: 2013-08-24 05:00:57
 id: 3825
 categories:
-  - Reviews
-  - Books
+	- Reviews
+	- Books
 tags:
-  - Slate-and-Shell
-  - principles
-  - strategy
+	- Slate-and-Shell
+	- principles
+	- strategy
 ---
 
 [![The Workshop Lectures Volume 4 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv4.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv4.jpg)

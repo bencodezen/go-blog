@@ -3,11 +3,11 @@ title: 'Equipment Review: Glass Go Stones (Size 36)'
 date: 2014-01-07 17:38:11
 id: 4472
 categories:
-  - Reviews
-  - Equipment
+	- Reviews
+	- Equipment
 tags:
-  - stones
-  - glass-stones
+	- stones
+	- glass-stones
 ---
 
 [![glassstones3601](http://www.bengozen.com/wp-content/uploads/2014/01/glassstones3601.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/glassstones3601.jpg)

@@ -1,14 +1,12 @@
 ---
 title: 'WGW 29: Why I Never Counted'
-tags:
-  - board position
-  - counting
-  - estimating
-  - evaluation
+date: 2013-11-27 06:00:55
 id: 4360
 categories:
-  - Weekly Go Wednesday
-date: 2013-11-27 06:00:55
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- counting
 ---
 
 ## Weekly Go Wednesday, Issue #29

@@ -1,16 +1,12 @@
 ---
 title: Under 100 Moves Resignation Achievement Complete!
-tags:
-  - achievement
-  - baduk
-  - go
-  - opponent resigns
-  - weiqi
+date: 2012-09-13 17:00:00
 id: 33
 categories:
-  - Journal
-  - Kifu
-date: 2012-09-13 17:00:00
+	- Journal
+tags:
+	- kifu
+	- achievements
 ---
 
 That's right. I have achieved my first "Under 100 Moves Resignation." I know that there is a high likelihood that I might have one in the past for some stupid reason, but this is the first time I felt like I truly earned it.

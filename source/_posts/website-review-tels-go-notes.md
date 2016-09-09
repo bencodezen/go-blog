@@ -1,9 +1,10 @@
 ---
 title: 'Website Review: Tel''s Go Notes'
+date: 2010-10-05 20:51:00
 id: 83
 categories:
-  - Websites
-date: 2010-10-05 20:51:00
+	- Reviews
+	- Websites
 tags:
 ---
 

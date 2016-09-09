@@ -3,7 +3,7 @@ title: The Desire to Win - Part 2
 date: 2012-09-28 11:23:00
 id: 28
 categories:
-  - Journal
+	- Journal
 tags:
 ---
 

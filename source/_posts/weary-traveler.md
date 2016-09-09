@@ -1,13 +1,11 @@
 ---
 title: Weary Traveler
-tags:
-  - burning out
-  - tired
-  - weary
+date: 2013-04-17 17:00:15
 id: 2587
 categories:
-  - Journal
-date: 2013-04-17 17:00:15
+	- Journal
+tags:
+	- burning-out
 ---
 
 Lately, I've noticed that I can't seem to get my head in the game. Each move feels more lackluster than the last, and I seem to consistently find myself in do or die situations. I don't know if it's because I'm tired, or whether I'm actually starting to burn out.

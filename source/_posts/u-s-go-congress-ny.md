@@ -1,18 +1,12 @@
 ---
 title: U.S. Go Congress in NY!
-tags:
-  - '2014'
-  - convention
-  - go congress
-  - manhattan
-  - new york
-  - ny
-  - united states
-  - us
+date: 2014-03-04 22:34:51
 id: 4749
 categories:
-  - Events
-date: 2014-03-04 22:34:51
+	- Journal
+	- Events
+tags:
+	- go-congress
 ---
 
 In case anyone doesn't get the [AGA E-Journal](http://www.usgo.org/news/2014/02/u-s-go-congress-coming-to-the-big-apple/), it's been officially announced that Go Congress will be held in New York this year!

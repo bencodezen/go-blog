@@ -1,16 +1,12 @@
 ---
 title: 'WGW 30: Tiny Habits'
-tags:
-  - big impact
-  - bj fogg
-  - getting stronger
-  - small change
-  - tedxtalk
-  - tiny habits
+date: 2014-01-08 10:47:28
 id: 4465
 categories:
-  - Weekly Go Wednesday
-date: 2014-01-08 10:47:28
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- getting-stronger
 ---
 
 ## Weekly Go Wednesday, Issue #30
