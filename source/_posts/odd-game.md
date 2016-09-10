@@ -1,14 +1,12 @@
 ---
 title: Odd Game
-tags:
-  - 15k
-  - handicap go
-  - victory
+date: 2010-10-14 10:36:00
 id: 69
 categories:
-  - Journal
-  - Kifu
-date: 2010-10-14 10:36:00
+	- Journal
+tags:
+	- kifu
+	- handicap-go
 ---
 
 So I just played against an 11k? and I have to say it was quite an unusual game. He essentially did four 3-3 invasions, and then attempted to stir fights. Now I don't know if it's simply because my estimated strength on KGS is no longer accurate, but I really felt like I should've been giving him 4 stones. He failed to make life for his groups three out of four times. I think that's highly irregular for someone who's potentially in the 11kyu range. I also checked out his rank graph, and it looks NUTS! I don't get the progression considering the number of games he played. It's not like he dominated every opponent.

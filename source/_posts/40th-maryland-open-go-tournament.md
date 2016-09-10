@@ -1,14 +1,12 @@
 ---
 title: 40th Maryland Open - Go Tournament!
-tags:
-  - competition
-  - go tournament
-  - maryland open
-  - md open
+date: 2013-03-19 12:30:14
 id: 2257
 categories:
-  - Events
-date: 2013-03-19 12:30:14
+	- Other
+	- Announcements
+tags:
+	- tournaments
 ---
 
 For those who are on the East Coast or have plans to be in the area during Memorial Weekend, be sure to try and come out for the 40th Maryland Open Go Tournament! Here is a basic rundown of the event for those who are curious:

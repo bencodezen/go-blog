@@ -1,14 +1,11 @@
 ---
 title: Preparing for the Next Hurdle
-tags:
-  - goal
-  - hurdles
-  - obstacles
-  - preparation
+date: 2013-01-24 17:30:41
 id: 1757
 categories:
-  - Journal
-date: 2013-01-24 17:30:41
+	- Journal
+tags:
+	- goals
 ---
 
 I'm happy to report that my ranked game today went very well. Each move was calculated and had an intended purpose. There were a few mistakes in my reading here and there, but overall it was a success when you consider some of my previous ranked games from a little while ago. So here's to hoping that the [tweak](http://www.bengozen.com/the-6k-screwup/ "The 6k Screwup") I've made to the ranked games I play will allow me to begin to achieve my actual rank (whatever it is).

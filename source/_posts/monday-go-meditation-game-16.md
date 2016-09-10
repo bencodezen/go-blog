@@ -1,15 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 16'
-tags:
-  - black
-  - chinese opening
-  - even
-  - nate
-  - victory
+date: 2013-07-01 05:00:02
 id: 3044
 categories:
-  - Monday Go Meditation
-date: 2013-07-01 05:00:02
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- nate
 ---
 
 ## Introduction

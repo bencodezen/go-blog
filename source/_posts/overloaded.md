@@ -1,15 +1,11 @@
 ---
 title: Overloaded
-tags:
-  - burning out
-  - need change
-  - overloaded
-  - overwhelmed
-  - time management
+date: 2013-04-11 17:00:39
 id: 2552
 categories:
-  - Journal
-date: 2013-04-11 17:00:39
+	- Journal
+tags:
+	- burning-out
 ---
 
 While I was at work yesterday, I got a call about possibly being hired to play piano this coming Sunday. While I was excited and such at the time, when I quickly surveyed my timeline and how much time I had to prepare, I was left with the dreaded feeling that I might be on the verge of burning out.

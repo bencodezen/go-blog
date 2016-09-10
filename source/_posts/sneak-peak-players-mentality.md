@@ -1,11 +1,10 @@
 ---
 title: 'Sneak Peak: Player''s Mentality'
-tags:
-  - player's mentality
+date: 2010-10-25 22:22:00
 id: 57
 categories:
-  - Journal
-date: 2010-10-25 22:22:00
+	- Journal
+tags:
 ---
 
 So I've spent most of the day pretty swamped. I played two games, but I won't be posting those just to give everyone a break from my kifus. I've spent a lot of time watching a lot of frodwith's games. It's been very enlightening and fun just to watch games from a spectator point of view. I won't dabble on it too much tonight since I have midterms coming up, but we talked about a player's mentality and how much that affects a person's game.

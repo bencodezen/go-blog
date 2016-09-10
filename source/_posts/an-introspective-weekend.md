@@ -1,14 +1,10 @@
 ---
 title: An Introspective Weekend
-tags:
-  - full effort
-  - introspection
-  - proper attention
-  - respecting opponents
+date: 2013-01-28 22:57:31
 id: 1774
 categories:
-  - Journal
-date: 2013-01-28 22:57:31
+	- Journal
+tags:
 ---
 
 Over the last couple of days, I've been doing a bit of self-reflection. Amidst the thinking and introspection, one of the things that I realized was that I had a really inconsistent approach to my games. Although I didn't realize it at the time, I often found myself trying to play a game for the heck of it or to try and fit in a quick win before I needed to do something else. Then, on the complete opposite end, there were times when I played games where time was not a factor and I could completely immerse myself in my games. As one might expect, this made a significant impact on the results of my games.

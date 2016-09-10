@@ -1,19 +1,13 @@
 ---
 title: The Importance of Struggling
-tags:
-  - Daniel Coyle
-  - deliberate
-  - getting stronger
-  - learning
-  - saxmaam
-  - struggling
-  - The Talent Code
+date: 2014-05-28 10:19:25
 id: 5370
 categories:
-  - Advice
-  - Articles
-  - Weekly Go Wednesday
-date: 2014-05-28 10:19:25
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- getting-stronger
+	- saxmaam
 ---
 
 ## Weekly Go Wednesday, Issue #42

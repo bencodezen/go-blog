@@ -1,12 +1,11 @@
 ---
 title: Daily Overview
-tags:
-  - daily overview
-  - studying go in china
+date: 2010-10-05 23:01:00
 id: 82
 categories:
-  - Journal
-date: 2010-10-05 23:01:00
+	- Journal
+	- Progress Reports
+tags:
 ---
 
 So today was productive. Two solid games under my belt. Finished <span style="text-decoration: underline;">Nihon Ki-in's Handbook of Proverbs</span> and working my way towards the finish line for <span style="text-decoration: underline;">Fundamental Principles of Go</span>. Worked solidly on <span style="text-decoration: underline;">Get Strong at Life and Death</span>.

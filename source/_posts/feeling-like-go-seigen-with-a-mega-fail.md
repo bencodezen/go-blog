@@ -1,18 +1,13 @@
 ---
 title: Feeling Like Go Seigen with a Mega-Fail
-tags:
-  - 0.5 komi
-  - black
-  - defeat
-  - even
-  - go seigen
-  - nate
-  - resignation
+date: 2013-01-08 17:30:25
 id: 1625
 categories:
-  - Journal
-  - Kifu
-date: 2013-01-08 17:30:25
+	- Journal
+tags:
+	- kifu
+	- go-seigen
+	- nate
 ---
 
 It's been awhile since I last posted a kifu on here, and for my first KGS game post for 2013, it is only fitting that I post this one.

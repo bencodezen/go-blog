@@ -1,21 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 58'
-tags:
-  - april challenge
-  - calm
-  - capturing race
-  - commentary
-  - game
-  - kifu
-  - maaike
-  - review
-  - semeai
-  - white
+date: 2014-06-02 07:15:20
 id: 5316
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-06-02 07:15:20
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- maaike
 ---
 
 ## Introduction

@@ -1,15 +1,12 @@
 ---
 title: Playing Against Yourself
-tags:
-  - internal control
-  - looking inwards
-  - man vs self
-  - playing against yourself
-  - self-improvement
+date: 2013-03-13 09:00:45
 id: 2155
 categories:
-  - Weekly Go Wednesday
-date: 2013-03-13 09:00:45
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- improvement
 ---
 
 ## Weekly Go Wednesday, Issue #19

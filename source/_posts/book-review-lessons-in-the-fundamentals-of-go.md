@@ -1,18 +1,16 @@
 ---
 title: 'Book Review: Lessons in the Fundamentals of Go'
-tags:
-  - basics
-  - fundamentals
-  - getting stronger
-  - kageyama
-  - lessons
-  - shape
-  - tesuji
+date: 2013-03-09 09:00:27
 id: 1393
 categories:
-  - Books
-  - Reviews
-date: 2013-03-09 09:00:27
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- fundamentals
+	- lessons
+	- shape
+	- tesuji
 ---
 
 ## [![lessonsinthefundamentalsofgocover](http://www.bengozen.com/wp-content/uploads/2013/03/lessonsinthefundamentalsofgocover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/lessonsinthefundamentalsofgocover.jpg)

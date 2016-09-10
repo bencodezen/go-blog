@@ -1,15 +1,12 @@
 ---
 title: 'Equipment Review: Kitani Jujube Bowls'
-tags:
-  - bowls
-  - jujube
-  - kitani
-  - wood
+date: 2013-03-29 17:00:45
 id: 2358
 categories:
-  - Equipment
-  - Reviews
-date: 2013-03-29 17:00:45
+	- Reviews
+	- Equipment
+tags:
+	- bowls
 ---
 
 [![kitanibowls](http://www.bengozen.com/wp-content/uploads/2013/03/kitanibowls.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/kitanibowls.jpg)

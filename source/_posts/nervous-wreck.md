@@ -1,9 +1,9 @@
 ---
 title: A Nervous Wreck
+date: 2013-11-21 11:41:47
 id: 4377
 categories:
-  - Journal
-date: 2013-11-21 11:41:47
+	- Journal
 tags:
 ---
 

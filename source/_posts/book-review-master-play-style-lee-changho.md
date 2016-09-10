@@ -1,16 +1,14 @@
 ---
 title: 'Book Review: Master Play - The Style of Lee Changho'
-tags:
-  - calm
-  - lee changho
-  - patient
-  - professional commentary
-  - style
+date: 2013-10-10 12:00:00
 id: 4127
 categories:
-  - Books
-  - Reviews
-date: 2013-10-10 12:00:00
+	- Reviews
+	- Books
+tags:
+	- Slate-and-Shell
+	- Lee-Changho
+	- play-style
 ---
 
 [![Master Play Lee Changho Cover](http://www.bengozen.com/wp-content/uploads/2013/10/Master-Play-Lee-Changho-Cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/Master-Play-Lee-Changho-Cover.jpg)

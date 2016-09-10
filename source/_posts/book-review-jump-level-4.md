@@ -1,15 +1,15 @@
 ---
 title: 'Book Review: Jump Level Up 4'
-tags:
-  - educational
-  - jump level up
-  - korean
-  - training
+date: 2013-10-20 21:54:12
 id: 4196
 categories:
-  - Books
-  - Reviews
-date: 2013-10-20 21:54:12
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![jumplevelup4cover](http://www.bengozen.com/wp-content/uploads/2013/10/jumplevelup4cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/jumplevelup4cover.jpg)

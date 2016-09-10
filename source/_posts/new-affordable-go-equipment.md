@@ -1,15 +1,13 @@
 ---
 title: New and Affordable Go Equipment!!!
-tags:
-  - affordable
-  - budget
-  - go equipment
-  - gogameguru
+date: 2013-10-29 12:00:20
 id: 4239
 categories:
-  - Events
-  - Journal
-date: 2013-10-29 12:00:20
+	- Other
+	- Announcements
+tags:
+	- go-equipment
+	- gogameguru
 ---
 
 For those who haven't heard the news, I am super excited to inform you about [GoGameGuru's announcement on introducing new and affordable go equipment](http://gogameguru.com/new-affordable-go-equipment/)!! As an avid go enthusiast who is constantly checking local stores and online retailers for go equipment, it is really exciting to see GoGameGuru fill a niche of go equipment that I think is desperately lacking right now. Here are the featured products that are coming to GoGameGuru:

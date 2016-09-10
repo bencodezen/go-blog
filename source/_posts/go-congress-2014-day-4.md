@@ -1,23 +1,21 @@
 ---
 title: Go Congress 2014 - Day 4
-tags:
-  - dalan
-  - dice
-  - evan
-  - go congress
-  - haengma
-  - mark
-  - michael
-  - myung
-  - nate
-  - nathan
-  - satoru
-  - variant
+date: 2014-09-29 08:00:33
 id: 5710
 categories:
-  - Events
-  - Journal
-date: 2014-09-29 08:00:33
+	- Journal
+	- Events
+tags:
+	- dalan
+	- evan
+	- go-congress
+	- mark
+	- moboy78
+	- myung-wan-kim
+	- nate
+	- nathan
+	- satoru
+	- pros
 ---
 
 [Prelude](http://www.bengozen.com/go-congress-2014-prelude/ "Go Congress 2014 — Prelude") - [I](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - [II](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - [III](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - **IV** - [V](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - [VI](http://www.bengozen.com/go-congress-2014-day-6/ "Go Congress 2014 — Day 6") - [VII ](http://www.bengozen.com/go-congress-2014-day-7/ "Go Congress 2014 — Day 7")- [Conclusion](http://www.bengozen.com/go-congress-2014-conclusion/ "Go Congress 2014 — Conclusion")

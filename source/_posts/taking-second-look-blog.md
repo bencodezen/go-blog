@@ -1,16 +1,11 @@
 ---
 title: Taking a Second Look at the Blog
-tags:
-  - blog
-  - content
-  - new
-  - revising
-  - strategy
-  - update
+date: 2014-06-18 17:00:44
 id: 5462
 categories:
-  - Journal
-date: 2014-06-18 17:00:44
+	- Journal
+tags:
+	- blog-redesign
 ---
 
 Lately I've been reconsidering what direction the blog has been heading in. Although it's been great starting a new series and having content flow consistently, lately the blog has felt more like a newspaper or e-magazine of sorts instead of a personal journal. For example, the game reviews that are being published are now usually like a month behind where I am now, which can be confusing for you as a reader and also throws my blog into a weird clashing timeline.

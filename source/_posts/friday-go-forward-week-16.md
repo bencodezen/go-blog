@@ -1,14 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 16'
-tags:
-  - boxing
-  - handicap go
-  - one step at a time
-  - patience
+date: 2013-05-24 05:00:54
 id: 2720
 categories:
-  - Progress Reports
-date: 2013-05-24 05:00:54
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- handicap-go
 ---
 
 ## Overview

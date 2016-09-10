@@ -1,15 +1,12 @@
 ---
 title: 'Equipment Review: Rosewood Go Bowls with Carved Orchids'
-tags:
-  - art
-  - engraved
-  - go bowls
-  - orchid
+date: 2014-01-05 18:54:01
 id: 4453
 categories:
-  - Equipment
-  - Reviews
-date: 2014-01-05 18:54:01
+	- Reviews
+	- Equipment
+tags:
+	- bowls
 ---
 
 [![rosewood-go-bowls-16-t](http://www.bengozen.com/wp-content/uploads/2014/01/rosewood-go-bowls-16-t.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/rosewood-go-bowls-16-t.jpg)

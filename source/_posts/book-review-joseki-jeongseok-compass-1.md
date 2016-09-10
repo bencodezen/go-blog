@@ -1,18 +1,15 @@
 ---
 title: 'Book Review: Joseki Jeongseok Compass 1'
-tags:
-  - baduktopia
-  - compass
-  - elementary
-  - introductory
-  - jeongseok
-  - joseki
-  - level up
+date: 2013-08-29 05:00:53
 id: 3843
 categories:
-  - Books
-  - Reviews
-date: 2013-08-29 05:00:53
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- go-problems
+	- jeongseok
+	- joseki
 ---
 
 [![Joseki Jeongseuok Compass 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/josekicompassv1.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/josekicompassv1.jpg)
@@ -93,11 +90,11 @@ Length, 168 Pages
 2.  A brief review on the proper way to extend.
 3.  All chapters on joseki then following the format below:
 
-    1.  Basic overview of the sequence for the joseki with accompanying one line explanations for each move.
-    2.  A page or two on how to deal with mistakes and why the mistakes are good or bad for the respective player.
-    3.  Practice problems for how to respond to different situations. This includes mistakes along with proper moves.
-    4.  One to two problems where you have to evaluation a kifu (approximately 10-30 moves long) and determine which player played better and which move was the mistake.
-    5.  One to two sample professional openings that usually contain the joseki that the reader just learned.
+		1.  Basic overview of the sequence for the joseki with accompanying one line explanations for each move.
+		2.  A page or two on how to deal with mistakes and why the mistakes are good or bad for the respective player.
+		3.  Practice problems for how to respond to different situations. This includes mistakes along with proper moves.
+		4.  One to two problems where you have to evaluation a kifu (approximately 10-30 moves long) and determine which player played better and which move was the mistake.
+		5.  One to two sample professional openings that usually contain the joseki that the reader just learned.
 **What aspect can be improved on?**
 
 *   There are some useful proverbs that are placed on the bottom of the page (e.g., "Even a moron connects against a peep."), but they can be rather cryptic at times. This is possibly due to the fact they were translated from Korean, but they're not as helpful as I was hoping. Although to be clear, this is not the focus of the book, so it's not a big deal.

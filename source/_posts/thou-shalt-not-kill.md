@@ -1,14 +1,12 @@
 ---
 title: Thou Shalt Not Kill...
-tags:
-  - bad habits
-  - focus on profit
-  - overly aggressive
+date: 2013-01-17 17:30:17
 id: 1686
 categories:
-  - Journal
-  - Lessons
-date: 2013-01-17 17:30:17
+	- Journal
+tags:
+	- bad-habits
+	- lessons
 ---
 
 Lately, I have noticed that my games have become quite violent. =D And by that, I mean that the theme of my games are: threaten to make a huge moyo, and then kill whatever comes inside of it.

@@ -1,15 +1,11 @@
 ---
 title: Switching to Time Based Training
-tags:
-  - change
-  - new
-  - time based
-  - time management
-  - training
+date: 2013-09-28 17:35:21
 id: 4057
 categories:
-  - Journal
-date: 2013-09-28 17:35:21
+	- Journal
+tags:
+	- training
 ---
 
 A couple days ago, I suffered a rather one handed defeat that was a rather rude awakening. Not only did I lose convincingly, but I made three very critical misreads during the game that sealed the deal. Needless to say, it was rather dishearteningly en you consider how much time I've put into my studying.

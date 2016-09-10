@@ -1,13 +1,10 @@
 ---
 title: Green Eyed Go
-tags:
-  - attacking
-  - greed
-  - reckless go
+date: 2013-01-07 23:51:07
 id: 1621
 categories:
-  - Journal
-date: 2013-01-07 23:51:07
+	- Journal
+tags:
 ---
 
 Today has been quite an interesting day. In all the games I played today, there seemed to be one consistent theme: When the opponent gives me an opportunity to attack, I am in attack mode the rest of the game.

@@ -1,13 +1,15 @@
 ---
 title: How to Oil Your Yunzi Stones
-tags:
-  - how to
-  - oil
-  - yunzi stones
+date: 2010-10-07 10:50:00
 id: 78
 categories:
-  - Guides
-date: 2010-10-07 10:50:00
+	- Articles
+	- Guides
+tags:
+  - guides
+  - yunzi-stones
+  - stones-maintenance
+  - oil-stones
 ---
 
 _So you've decided to find out what responsibilities come with purchasing Yunzi stones, well don't fear!  Here is an easy to follow guide. Enjoy!_

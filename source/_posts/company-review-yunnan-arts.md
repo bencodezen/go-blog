@@ -1,21 +1,13 @@
 ---
 title: 'Company Review: Yunnan Arts'
-tags:
-  - buy
-  - dc
-  - equipment
-  - md
-  - metro
-  - sell
-  - shop
-  - va
-  - vendors
-  - yunnan
-id: 109
-categories:
-  - Reviews
-  - Vendors
 date: 2010-09-16 23:54:00
+id: 109
+tags:
+	- Yunnan-Arts
+	- shops
+categories:
+	- Reviews
+	- Vendors
 ---
 
 <div style="text-align: center;">

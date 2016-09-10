@@ -1,13 +1,11 @@
 ---
 title: Prologue
-tags:
-  - bengozen
-  - origin
-  - prologue
+date: 2010-08-19 23:18:00
 id: 145
 categories:
-  - Journal
-date: 2010-08-19 23:18:00
+	- Journal
+tags:
+	- origin
 ---
 
 To begin, I think every story deserves an introduction as to how it all began.

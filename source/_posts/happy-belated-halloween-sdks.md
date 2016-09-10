@@ -1,12 +1,10 @@
 ---
 title: Happy Belated Halloween & SDK's
-tags:
-  - crushed by sdks
-  - halloween
+date: 2010-11-03 10:10:00
 id: 52
 categories:
-  - Journal
-date: 2010-11-03 10:10:00
+	- Journal
+tags:
 ---
 
 So I know... where have I been over this past weekend? A myriad of events and things to do. A belated Happy Halloween to everyone on the blogosphere. Midterms are past now, and I managed to pull off an A- in the Data Analysis class and a 101% in the Applied Social class. Sweet. Moving on to my Go progress, there is five more days before month three is up. As to how I'm doing, I just got off my winning streak and was promptly crushed by 10 kyus.

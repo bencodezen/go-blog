@@ -1,15 +1,12 @@
 ---
 title: To Resign or Not to Resign
-tags:
-  - bad habits
-  - kyu players
-  - resigning
-  - when to resign
+date: 2013-03-06 09:00:39
 id: 1904
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2013-03-06 09:00:39
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- bad-habits
 ---
 
 ## Weekly Go Wednesday, Issue #18

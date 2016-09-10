@@ -1,15 +1,13 @@
 ---
 title: 'Go Seigen, Freedom and an AGA Online Tournament'
-tags:
-  - aga
-  - freedom
-  - go seigen
-  - online
-  - tournament
+date: 2013-09-24 11:18:53
 id: 4034
 categories:
-  - Journal
-date: 2013-09-24 11:18:53
+	- Journal
+tags:
+	- aga
+	- go-seigen
+	- tournaments
 ---
 
 I recently finished _Master Play: The Style of Go Seigen_ (Review coming soon!), and it has really given me a lot to think about in regards to the way I play go.

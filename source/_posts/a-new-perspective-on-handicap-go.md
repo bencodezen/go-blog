@@ -1,14 +1,10 @@
 ---
 title: A New Perspective on Handicap Go
-tags:
-  - excited
-  - handicap go
-  - new perspective
-  - the possibilities
+date: 2013-05-18 05:00:59
 id: 2725
 categories:
-  - Journal
-date: 2013-05-18 05:00:59
+	- Journal
+tags:
 ---
 
 Over the last couple months, one of the things I've been really wrestling with is my aversion to handicap games: regardless of which side I was on. I can't really pinpoint the reason for this fear of playing handicap games, but it was leading me down a path where I was starting to avoid playing handicap games all together.

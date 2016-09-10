@@ -1,14 +1,13 @@
 ---
 title: Maryland Open 2013
-tags:
-  - '2013'
-  - md open
-  - tournament
+date: 2013-06-01 05:00:23
 id: 2803
 categories:
-  - Events
-  - Journal
-date: 2013-06-01 05:00:23
+	- Journal
+	- Events
+tags:
+	- maryland-open
+	- tournaments
 ---
 
 [![2013-05-25 14.09.38](http://www.bengozen.com/wp-content/uploads/2013/05/2013-05-25-14.09.38.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/2013-05-25-14.09.38.jpg)

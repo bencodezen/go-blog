@@ -1,20 +1,20 @@
 ---
 title: Go Congress 2014 - Day 6
-tags:
-  - anders
-  - dahye
-  - diego
-  - francis meyers
-  - keith
-  - myung
-  - nate
-  - pro simul
+date: 2014-10-02 08:15:21
 id: 5779
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2014-10-02 08:15:21
+	- Journal
+	- Events
+tags:
+	- anders
+	- dahye
+	- diego
+	- francis-meyers
+	- keith
+	- myung-wan-kim
+	- nate
+	- pro-simul
+	- kifu
 ---
 
 [Prelude](http://www.bengozen.com/go-congress-2014-prelude/ "Go Congress 2014 — Prelude") - [I](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - [II](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - [III](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - [IV](http://www.bengozen.com/go-congress-2014-day-4/ "Go Congress 2014 — Day 4") - [V](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - **VI** - [VII ](http://www.bengozen.com/go-congress-2014-day-7/ "Go Congress 2014 — Day 7")- [Conclusion](http://www.bengozen.com/go-congress-2014-conclusion/ "Go Congress 2014 — Conclusion")

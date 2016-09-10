@@ -1,15 +1,14 @@
 ---
 title: How to Study Tsumego
-tags:
-  - getting stronger
-  - how to
-  - tsumego
+date: 2012-11-14 09:00:00
 id: 9
 categories:
-  - Advice
-  - Guides
-  - Tactics
-date: 2012-11-14 09:00:00
+	- Articles
+	- Guides
+tags:
+	- getting-stronger
+	- guides
+	- tsumego
 ---
 
 [![Empty Board by Eidogo](http://www.bengozen.com/wp-content/uploads/2012/11/Blank-300x300.png "Empty Board")](http://www.bengozen.com/wp-content/uploads/2012/11/Blank.png)

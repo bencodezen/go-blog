@@ -1,11 +1,11 @@
 ---
 title: Sad I'm Not at US Go Congress 2013
-tags:
-  - go congress 2013
+date: 2013-08-07 12:00:51
 id: 3774
 categories:
-  - Journal
-date: 2013-08-07 12:00:51
+	- Journal
+tags:
+	- go-congress
 ---
 
 As many of you are aware, the US Go Congress 2013 is currently going on and everyone's focus is on it. Though I have been living vicariously through some friends who were able to go and try to watch the games that are featured on KGS, I must say that I am rather sad that I was unable to attend this year. It would have been an incredible to be able to experience and blog about a go convention of that level; but alas, I am here and they are there.

@@ -1,16 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 48'
-tags:
-  - black
-  - bloody
-  - resignation
-  - victory
-  - violence
+date: 2014-03-24 07:15:12
 id: 4804
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-03-24 07:15:12
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

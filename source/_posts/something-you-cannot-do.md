@@ -1,17 +1,13 @@
 ---
 title: Do Something You Cannot Do
-tags:
-  - discover
-  - experiment
-  - explore
-  - ideas
-  - learn
-  - new
-  - try
+date: 2014-05-14 07:15:46
 id: 4520
 categories:
-  - Weekly Go Wednesday
-date: 2014-05-14 07:15:46
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- experiments
+	- lessons
 ---
 
 ## Weekly Go Wednesday, Issue #40

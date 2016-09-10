@@ -1,13 +1,11 @@
 ---
 title: 'Journal Log #5'
-tags:
-  - computer go
-  - lost to a computer
-  - playing go
+date: 2010-09-08 23:30:00
 id: 117
 categories:
-  - Journal
-date: 2010-09-08 23:30:00
+	- Journal
+tags:
+	- computer-go
 ---
 
 So I've logged quite a few games today. Three online, and one in person.

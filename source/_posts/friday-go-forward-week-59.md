@@ -1,16 +1,17 @@
 ---
 title: 'Friday Go Forward: Week 59'
-tags:
-  - life and death
-  - new blog
-  - risingstar
-  - tesuji
-  - tournament
-  - washington open
+date: 2014-04-25 07:15:52
 id: 5041
 categories:
-  - Progress Reports
-date: 2014-04-25 07:15:52
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- life-and-death
+	- risingstar
+	- tesuji
+	- tournaments
+	- tsumego
 ---
 
 ## Overview
@@ -25,15 +26,15 @@ PS. In case you didn't know, fellow go player Risingstar just started his own [b
 
 *   **Life and Death Problems **
 
-    *   Book: Jump Level Up 5
-    *   Frequency: Daily
-    *   Task: 10 minutes working through problems
+		*   Book: Jump Level Up 5
+		*   Frequency: Daily
+		*   Task: 10 minutes working through problems
 
 *   **<span style="line-height: 1.5em;">Tesuji Problems</span>**
 
-    *   <span style="line-height: 1.5em;"> Book: Graded Go Problems for Dan Players (Vol. 2) - 300 Tesuji Problems</span>
-    *   Frequency: Daily
-    *   Task: 10 minutes working through problems
+		*   <span style="line-height: 1.5em;"> Book: Graded Go Problems for Dan Players (Vol. 2) - 300 Tesuji Problems</span>
+		*   Frequency: Daily
+		*   Task: 10 minutes working through problems
 
 ## Games
 

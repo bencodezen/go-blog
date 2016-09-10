@@ -1,16 +1,15 @@
 ---
 title: 'Book Review: Level Up 3'
-tags:
-  - beginner
-  - educational
-  - korean
-  - level up
-  - practice problems
+date: 2013-07-11 05:00:38
 id: 3373
 categories:
-  - Books
-  - Reviews
-date: 2013-07-11 05:00:38
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up 3 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup3cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup3cover.jpg)
@@ -98,17 +97,17 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Primary Learning Mechanism:
 
-    *   Practice problems.
+		*   Practice problems.
 
 *   Other Learning Mechanisms:
 
-    *   Simple explanations accompanied by equally simple diagrams.
-    *   Fun comics to help explain concepts like life and death.
-    *   Multiple choice and matching questions to reinforce what the reader is learning. For example, match the number of each move to the right term.
+		*   Simple explanations accompanied by equally simple diagrams.
+		*   Fun comics to help explain concepts like life and death.
+		*   Multiple choice and matching questions to reinforce what the reader is learning. For example, match the number of each move to the right term.
 **What aspect can be improved on?**
 
 *   I noticed that the answer book is sometimes incorrect or simply has the wrong diagram. This should be fixed since newer players could find it frustrating or end up learning the incorrect material.

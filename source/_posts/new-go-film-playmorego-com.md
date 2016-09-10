@@ -1,14 +1,12 @@
 ---
 title: 'New Go Film: PlayMoreGo.com'
-tags:
-  - film
-  - playmorego.com
-  - trailer
-  - video
+date: 2013-02-03 08:11:39
 id: 1808
 categories:
-  - Events
-date: 2013-02-03 08:11:39
+	- Other
+	- Announcements
+tags:
+	- film
 ---
 
 This weekend has been pretty crazy and busy, but I thought I would let you guys know about something my friend azural found in his perusing of a go forum: [PlayMoreGo.com](http://www.playmorego.com).

@@ -1,14 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 25'
-tags:
-  - 5k
-  - black
-  - even game
-  - victory
+date: 2013-09-02 05:00:31
 id: 3823
 categories:
-  - Monday Go Meditation
-date: 2013-09-02 05:00:31
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

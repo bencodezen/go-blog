@@ -1,17 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 47'
-tags:
-  - black
-  - dragons
-  - hunt
-  - killing
-  - resignation
-  - victory
+date: 2014-03-17 07:15:27
 id: 4783
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-03-17 07:15:27
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

@@ -1,12 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 18'
-tags:
-  - not as much playing
-  - study mode
+date: 2013-06-07 05:00:46
 id: 2815
 categories:
-  - Progress Reports
-date: 2013-06-07 05:00:46
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Overview

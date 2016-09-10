@@ -1,14 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 61'
-tags:
-  - dojang
-  - myung
-  - playing more
-  - yunguseng
+date: 2014-05-09 07:15:09
 id: 5202
 categories:
-  - Progress Reports
-date: 2014-05-09 07:15:09
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- myung-wan-kim
+	- yunguseng-djang
 ---
 
 ## Overview

@@ -1,10 +1,13 @@
 ---
 title: 'Company Review: Kiseido'
+date: 2010-08-24 18:19:00
 id: 141
 categories:
-  - Vendors
-date: 2010-08-24 18:19:00
+	- Reviews
+	- Vendors
 tags:
+	- Kiseido
+	- shops
 ---
 
 <div style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px;"><div style="clear: both; margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px; text-align: center;">[![](http://2.bp.blogspot.com/_R3zwHD97QhU/TH6IeEVZ33I/AAAAAAAAAF4/hpfwGbSNXXc/s200/kiseido+logo.jpg)](http://2.bp.blogspot.com/_R3zwHD97QhU/TH6IeEVZ33I/AAAAAAAAAF4/hpfwGbSNXXc/s1600/kiseido+logo.jpg)</div></div><div style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px;"><div style="margin-bottom: 0px; margin-left: 0px; margin-right: 0px; margin-top: 0px;">

@@ -1,20 +1,16 @@
 ---
 title: Pro Event at the Japanese Embassy
-tags:
-  - 4p
-  - japan
-  - japanese
-  - narumi osawa
-  - pro
-  - professional
-  - rengo
-  - smartgo
+date: 2013-04-04 17:00:28
 id: 2299
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2013-04-04 17:00:28
+	- Journal
+	- Events
+tags:
+	- narumi-osawa
+	- pros
+	- rengo
+	- kifu
+	- pro-simul
 ---
 
 [![japanembassy](http://www.bengozen.com/wp-content/uploads/2013/04/japanembassy.jpg)](http://www.bengozen.com/wp-content/uploads/2013/04/japanembassy.jpg)

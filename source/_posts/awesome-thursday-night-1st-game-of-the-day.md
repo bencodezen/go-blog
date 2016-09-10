@@ -1,14 +1,12 @@
 ---
 title: Awesome Thursday Night + Game of the Day
-tags:
-  - 14k
-  - defeat
-  - nate
+date: 2010-10-15 09:37:00
 id: 67
 categories:
-  - Journal
-  - Kifu
-date: 2010-10-15 09:37:00
+	- Journal
+tags:
+	- kifu
+	- nate
 ---
 
 So last night I had some unexpected bro-time.  It was great to be able to end class and head over to hangout with Nate and discuss philosophy, theology, and then one of the most intense games I've ever played so far.  Man... here's to you Nate.  That was an awesome game. (Unfortunately, I do not have the game record; so lessons learned for next time!)

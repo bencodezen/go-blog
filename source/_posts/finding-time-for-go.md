@@ -1,15 +1,11 @@
 ---
 title: Finding Time for Go
-tags:
-  - aspirations
-  - busy
-  - consistent exposure
-  - finding time for go
-  - realistic expectations
+date: 2013-04-03 09:00:16
 id: 2288
 categories:
-  - Weekly Go Wednesday
-date: 2013-04-03 09:00:16
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## Weekly Go Wednesday, Issue #22

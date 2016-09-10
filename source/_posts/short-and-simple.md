@@ -1,16 +1,12 @@
 ---
 title: Short and Simple
-tags:
-  - baduk
-  - go
-  - kifu
-  - tripleko
-  - weiqi
+date: 2010-11-09 23:31:00
 id: 48
 categories:
-  - Journal
-  - Kifu
-date: 2010-11-09 23:31:00
+	- Journal
+tags:
+	- kifu
+	- tripleko
 ---
 
 So today was pretty eventful. I am actually flooded in terms of material I want to write about, but my brain is nearly decomposed due to a lack of sleep and an overload of Go. So this post will be short and sweet.

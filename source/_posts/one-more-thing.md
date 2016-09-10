@@ -1,12 +1,11 @@
 ---
 title: One More Thing...
-tags:
-  - concept of an even game
-  - estimating territory
+date: 2013-05-30 17:00:06
 id: 2809
 categories:
-  - Journal
-date: 2013-05-30 17:00:06
+	- Journal
+tags:
+	- counting
 ---
 
 [![uncle](http://www.bengozen.com/wp-content/uploads/2013/05/uncle.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/uncle.jpg)

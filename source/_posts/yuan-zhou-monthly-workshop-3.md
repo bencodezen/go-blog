@@ -1,19 +1,15 @@
 ---
 title: Yuan Zhou Monthly Workshop
-tags:
-  - black
-  - even game
-  - lee sedol
-  - lian xiao
-  - monthly
-  - pro game review
-  - wokrshop
-  - yuan zhou
+date: 2013-07-27 13:00:20
 id: 3614
 categories:
-  - Events
-  - Journal
-date: 2013-07-27 13:00:20
+	- Journal
+	- Events
+tags:
+	- lee-sedol
+	- lian-xiao
+	- workshop
+	- yuan-zhou
 ---
 
 On Sunday, July 21st, I was able to finally join my friends at [Yuan Zhou](http://www.zhouyuan.com)'s Monthly Workshop! Though I was originally unable to go, I'm glad that I was able to make it out!

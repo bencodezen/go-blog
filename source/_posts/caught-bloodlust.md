@@ -1,11 +1,10 @@
 ---
 title: Caught In Bloodlust Again...
-tags:
-  - bloodlust
+date: 2014-02-11 11:01:13
 id: 4645
 categories:
-  - Journal
-date: 2014-02-11 11:01:13
+	- Journal
+tags:
 ---
 
 I've been making a more active effort lately to play more. Although it has been good to play real games once again, I have been on a bit of a losing streak.

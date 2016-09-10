@@ -1,10 +1,12 @@
 ---
 title: 'Company Review: W.J. Bookstore'
+date: 2010-09-21 14:21:00
 id: 103
 categories:
-  - Vendors
-date: 2010-09-21 14:21:00
+	- Reviews
+	- Vendors
 tags:
+	- shops
 ---
 
 <span style="font-family: inherit;">_So as I've been working on the guides for purchasing Go equipment, I realized that one of the killer aspects of buying online is the shipping cost.  It makes it near impossible for me to write the guides since some of the products which deliver some of the best quality are within the (let's say) $50 range but shipping makes it like $60-$70\.  So one of the things I thought of was to see how available Go equipment might be in the area. _</span>

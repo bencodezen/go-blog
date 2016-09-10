@@ -1,15 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 24'
-tags:
-  - 5k
-  - even
-  - loss
-  - resignation
-  - white
+date: 2013-08-26 05:00:58
 id: 3801
 categories:
-  - Monday Go Meditation
-date: 2013-08-26 05:00:58
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

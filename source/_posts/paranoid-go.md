@@ -1,15 +1,11 @@
 ---
 title: Paranoid Go
-tags:
-  - haphazard
-  - lack of focus
-  - obstacle
-  - paranoid go
-  - zen
+date: 2013-04-23 17:00:07
 id: 2640
 categories:
-  - Journal
-date: 2013-04-23 17:00:07
+	- Journal
+tags:
+	- anti-zen
 ---
 
 As you know, I have been in a rather "meh" mood when it comes to playing go. It's not so much that I've lost interest in the game, but I found my play style becoming very scattered and ugly. It wasn't until recently that frozensoul helped to shed light on the issue and told me that I have entered a "paranoid go" phase. My moves are played haphazardly and often lack a sense of focus and purpose. Although I once wrote of this roadblock as being a "mood" issue, it seems that it may actually be a rather large obstacle that I must overcome.

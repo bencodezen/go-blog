@@ -1,14 +1,13 @@
 ---
 title: Experimental Games
-tags:
-  - experimental games
-  - getting stronger
+date: 2012-11-21 09:00:00
 id: 13
 categories:
-  - Advice
-  - Articles
-  - Weekly Go Wednesday
-date: 2012-11-21 09:00:00
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- experiments
+	- getting-stronger
 ---
 
 ## _Weekly Go Wednesday, Issue #7_
@@ -26,7 +25,7 @@ For those who don't quite understand what I'm talking about,** experimental game
 
 There are those who may argue that reading about new moves and seeing them in professional games should help to expand a player's knowledge on its own. To those who believe this, I refer you to the following quotation:
 > How We Learn
-> 
+>
 > 10% of what we READ
 > 20% of what we HEAR
 > 30% of what we SEE
@@ -34,7 +33,7 @@ There are those who may argue that reading about new moves and seeing them in pr
 > 70% of what is DISCUSSED with OTHERS
 > 80% of what is EXPERIENCED PERSONALLY
 > 95% of what we TEACH TO SOMEONE ELSE
-> 
+>
 > ~William Glasser
 Whether you like it or not, simply reading about high level moves has very little impact on your actual gameplay. After all, if simply reading or being exposed to new concepts and ideas were enough to gain us strength, I'm sure many of us can attest that we'd be a lot stronger than we actually are.
 

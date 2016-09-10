@@ -1,17 +1,12 @@
 ---
 title: How to Keep Studying Interesting
-tags:
-  - bored
-  - consistency
-  - entertaining
-  - exploring
-  - fun
-  - studying
-  - topics of interest
+date: 2013-04-24 05:00:02
 id: 2548
 categories:
-  - Weekly Go Wednesday
-date: 2013-04-24 05:00:02
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- studying
 ---
 
 ## Weekly Go Wednesday, Issue #25

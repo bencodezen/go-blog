@@ -1,12 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 38'
-tags:
-  - baduktv english
-  - gogameguru
+date: 2013-10-25 06:00:18
 id: 4193
 categories:
-  - Progress Reports
-date: 2013-10-25 06:00:18
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- baduktv
+	- gogameguru
 ---
 
 ## Friday Go Forward: Week 38

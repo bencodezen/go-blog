@@ -1,14 +1,11 @@
 ---
 title: Not a Sandbagger
-tags:
-  - defeat
-  - my ego
-  - ranked games
-  - tilt
+date: 2013-01-10 00:30:56
 id: 1637
 categories:
-  - Journal
-date: 2013-01-10 00:30:56
+	- Journal
+tags:
+	- tilt
 ---
 
 Originally, as you all well know, I had intended on just continuing abstaining from ranked games, but it seems that the time has come for me to return to ranked games. What spurred this sudden change of ideas?

@@ -1,18 +1,12 @@
 ---
 title: Estimating Territory
-tags:
-  - counting
-  - estimating territory
-  - estimation
-  - getting stronger
-  - good habits
+date: 2013-01-02 17:30:49
 id: 1586
 categories:
-  - Advice
-  - Articles
-  - Tactics
-  - Weekly Go Wednesday
-date: 2013-01-02 17:30:49
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- counting
 ---
 
 ## **_Weekly Go Wednesday, Issue #11_**

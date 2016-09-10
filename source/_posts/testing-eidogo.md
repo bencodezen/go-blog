@@ -1,16 +1,12 @@
 ---
 title: Testing Eidogo
-tags:
-  - 15k
-  - black
-  - eidogo
-  - even game
-  - nate
-  - victory
+date: 2010-10-03 11:09:00
 id: 91
 categories:
-  - Kifu
-date: 2010-10-03 11:09:00
+ 	- Journal
+tags:
+	- kifu
+	- nate
 ---
 
 EIDOGO WORKS!!! Many thanks to Nate for helping me get it up and running!!!

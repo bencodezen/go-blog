@@ -1,14 +1,13 @@
 ---
 title: NOVA Pumpkin Classic Tournament 2012 — Conclusion
-tags:
-  - nova
-  - pumpkin classic
-  - tournament
+date: 2012-11-09 09:00:12
 id: 930
 categories:
-  - Advice
-  - Journal
-date: 2012-11-09 09:00:12
+	- Journal
+	- Events
+tags:
+	- nova
+	- tournaments
 ---
 
 [Introduction](http://www.bengozen.com/nova-pumpkin-class-2012-intro/ "NOVA Pumpkin Classic Tournament 2012 — Introduction") --- [Round 1](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-1/ "NOVA Pumpkin Classic Tournament 2012 — Round 1") --- [Round 2](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-2/ "NOVA Pumpkin Classic Tournament 2012 — Round 2") --- [Round 3](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-3/ "NOVA Pumpkin Classic Tournament 2012 — Round 3") --- [Round 4](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-4/ "NOVA Pumpkin Classic Tournament 2012 — Round 4") --- **Conclusion**

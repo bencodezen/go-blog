@@ -1,16 +1,14 @@
 ---
 title: Watching BadukTV for the First Time
-tags:
-  - baduktv
-  - episode
-  - gogameguru
-  - lee changho
-  - lee sedol
-  - tv
+date: 2013-09-19 12:00:44
 id: 4001
 categories:
-  - Journal
-date: 2013-09-19 12:00:44
+	- Journal
+tags:
+	- baduktv
+	- gogameguru
+	- lee-changho
+	- lee-sedol
 ---
 
 After I got back from boxing last night, I was pretty much wiped out. The funny thing about me is that no matter how tired I am though, it seems that I somehow manage to find the energy and motivation to do something go related. So I decided to check out my first episode of a BadukTV English game review of Lee Changho 9P vs. Lee Sedol 9P.

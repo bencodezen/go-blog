@@ -1,18 +1,13 @@
 ---
 title: Enter the Eagle
-tags:
-  - baduk
-  - go
-  - kifu
-  - nate
-  - origin
-  - weiqi
+date: 2012-09-26 09:00:0
 id: 30
 categories:
-  - Journal
-  - Kifu
-  - Weekly Go Wednesday
-date: 2012-09-26 09:00:00
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- kifu
+	- nate
 ---
 
 ## _Weekly Go Wednesday, Issue #1_

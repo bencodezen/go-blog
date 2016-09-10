@@ -1,16 +1,15 @@
 ---
 title: 'Monday Go Meditation: Game 68'
-tags:
-  - 4p
-  - 5 stones handicap
-  - dahye lee
-  - professional
-  - simul
+date: 2014-10-27 07:15:59
 id: 5897
 categories:
-  - Commentaries
-  - Kifu
-date: 2014-10-27 07:15:59
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- dahye-lee
+	- pros
+	- pro-simul
 ---
 
 ## Introduction

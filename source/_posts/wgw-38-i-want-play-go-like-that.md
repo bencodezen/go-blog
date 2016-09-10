@@ -1,23 +1,15 @@
 ---
 title: 'WGW 38: I Want to Play Go Like That...'
-tags:
-  - baduk
-  - beautiful
-  - championship
-  - grace
-  - hikaru no go
-  - inspirational
-  - inspired
-  - inspiring
-  - interlude
-  - open
-  - park sohyun
-  - tournament
-  - washington
+date: 2014-04-30 15:25:41
 id: 5141
 categories:
-  - Weekly Go Wednesday
-date: 2014-04-30 15:25:41
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- hikaru-no-go
+	- inspirational
+	- park-sohyun
+	- tournaments
 ---
 
 [Part I](http://www.bengozen.com/1st-washington-open-baduk-championship-part/ "1st Washington Open Baduk Championship — Part I") - **Interlude** - [Part II](http://www.bengozen.com/1st-washington-open-baduk-championship-part-ii/ "1st Washington Open Baduk Championship — Part II")

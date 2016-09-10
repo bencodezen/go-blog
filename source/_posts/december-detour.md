@@ -1,9 +1,9 @@
 ---
 title: A December Detour
+date: 2013-12-30 17:34:16
 id: 4408
 categories:
-  - Journal
-date: 2013-12-30 17:34:16
+	- Journal
 tags:
 ---
 

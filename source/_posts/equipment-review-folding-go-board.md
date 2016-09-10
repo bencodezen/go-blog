@@ -1,15 +1,13 @@
 ---
 title: 'Equipment Review: Folding Go Board'
-tags:
-  - folding
-  - go board
-  - goban
-  - portable
+date: 2013-11-14 23:04:04
 id: 4326
 categories:
-  - Equipment
-  - Reviews
-date: 2013-11-14 23:04:04
+	- Reviews
+	- Equipment
+tags:
+	- goban
+	- portable-equipment
 ---
 
 [![foldinggoban01](http://www.bengozen.com/wp-content/uploads/2013/11/foldinggoban01.jpg)](http://www.bengozen.com/wp-content/uploads/2013/11/foldinggoban01.jpg)

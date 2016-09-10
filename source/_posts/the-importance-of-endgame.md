@@ -1,17 +1,12 @@
 ---
 title: The Importance of Endgame
-tags:
-  - 6k
-  - black
-  - defeat
-  - endgame
-  - even game
+date: 2012-11-30 09:00:07
 id: 1188
 categories:
-  - Advice
-  - Journal
-  - Kifu
-date: 2012-11-30 09:00:07
+	- Journal
+tags:
+	- kifu
+	- endgame
 ---
 
 So for those who don't play on KGS, I actually managed to climb back up to 6k and hang on to it (*knock on wood*). As it is everyday, I had an urge to play a ranked game and decided to play against an opponent who is actually more along the lines of 5k but recently got downgraded to 6k. Although I was resistant to playing him at first, I decided to plunge ahead since I planned on beating stronger opponents anyways.

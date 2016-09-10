@@ -1,15 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 18'
-tags:
-  - 3 stones
-  - handicap
-  - resignation
-  - victory
-  - white
+date: 2013-07-15 05:00:46
 id: 3237
 categories:
-  - Monday Go Meditation
-date: 2013-07-15 05:00:46
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- handicap-go
 ---
 
 ## Introduction

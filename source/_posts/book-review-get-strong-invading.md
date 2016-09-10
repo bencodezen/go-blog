@@ -1,15 +1,13 @@
 ---
 title: 'Book Review: Get Strong at Invading'
-tags:
-  - bozulich
-  - get strong
-  - invading
-  - kiseido
+date: 2013-09-24 09:58:14
 id: 4011
 categories:
-  - Books
-  - Reviews
-date: 2013-09-24 09:58:14
+	- Reviews
+	- Books
+tags:
+	- invading
+	- kiseido
 ---
 
 [![getstrongv5cover](http://www.bengozen.com/wp-content/uploads/2013/09/getstrongv5cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/getstrongv5cover.jpg)

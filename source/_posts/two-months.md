@@ -1,12 +1,11 @@
 ---
 title: Two Months
-tags:
-  - monthly progress update
-  - reading go books
+date: 2010-10-08 10:19:00
 id: 75
 categories:
-  - Journal
-date: 2010-10-08 10:19:00
+	- Journal
+	- Progress Reports
+tags:
 ---
 
 So today marks my two month milestone. Let's overview my original goal shall we?

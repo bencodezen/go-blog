@@ -1,17 +1,13 @@
 ---
 title: NOVA Pumpkin Classic Tournament 2012 - Round 3
-tags:
-  - even
-  - nova
-  - pumpkin classic
-  - tournament
-  - white
+date: 2012-11-07 09:00:27
 id: 948
 categories:
-  - Journal
-  - Kifu
-  - Weekly Go Wednesday
-date: 2012-11-07 09:00:27
+	- Journal
+	- Events
+tags:
+	- nova
+	- tournaments
 ---
 
 ## _Weekly Go Wednesday, Issue #6_

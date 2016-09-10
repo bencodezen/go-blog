@@ -1,19 +1,17 @@
 ---
 title: 'Book Review: Essential Life & Death 3'
-tags:
-  - intense
-  - korean
-  - life and death
-  - problems
-  - raining
-  - reading
-  - school
-  - workbook
+date: 2013-07-18 05:00:12
 id: 2900
 categories:
-  - Books
-  - Reviews
-date: 2013-07-18 05:00:12
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- training
+	- korean-style
+	- life-and-death
+	- tsumego
+	- go-problems
 ---
 
 [![eldv3cover](http://www.bengozen.com/wp-content/uploads/2013/06/eldv3cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/eldv3cover.jpg)
@@ -153,11 +151,11 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Teaching Mechanism:
 
-    *   Practice problems
+		*   Practice problems
 **What aspect can be improved on?**
 
 *   I felt that the problems got a lot more difficult very quickly. However, this should be taken with a grain of salt since there is a good chance that the reader is supposed to already have a more solid reading ability than I have before working on this book.

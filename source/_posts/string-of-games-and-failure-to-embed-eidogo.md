@@ -1,12 +1,10 @@
 ---
 title: String of Games and Failure to Embed Eidogo
-tags:
-  - dropped rank
-  - eidogo
+date: 2010-09-29 12:39:00
 id: 94
 categories:
-  - Journal
-date: 2010-09-29 12:39:00
+	- Journal
+tags:
 ---
 
 So today was nice. I got to play a few games in the morning. Can't figure out for the life of me how to embed my games into the blog. I am definitely moderately web design savvy, but I guess my ability to figure out how to embed EidoGo into my blog = failure. If anyone knows how to do it, including where to upload the files so I can properly code the src and sgf urls... I'd be indebted to you.

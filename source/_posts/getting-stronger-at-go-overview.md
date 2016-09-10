@@ -1,18 +1,12 @@
 ---
 title: Getting Stronger at Go (Overview)
-tags:
-  - baduk
-  - getting stronger
-  - go
-  - one stone stronger
-  - weiqi
+date: 2012-10-10 09:00:00
 id: 23
 categories:
-  - Advice
-  - Articles
-  - Guides
-  - Weekly Go Wednesday
-date: 2012-10-10 09:00:00
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- advice
 ---
 
 <div style="text-align: center;">

@@ -1,19 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 55'
-tags:
-  - big moyo
-  - black
-  - bloody
-  - kill
-  - resignation
-  - slaughter
-  - victory
-  - violent
+date: 2014-05-12 07:15:43
 id: 5227
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-05-12 07:15:43
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

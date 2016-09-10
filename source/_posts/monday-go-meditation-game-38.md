@@ -1,14 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 38'
-tags:
-  - even
-  - victory
-  - white
+date: 2014-01-06 07:00:52
 id: 4418
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-01-06 07:00:52
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

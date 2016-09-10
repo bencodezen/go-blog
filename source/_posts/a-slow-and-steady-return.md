@@ -1,13 +1,11 @@
 ---
 title: A Slow and Steady Return
-tags:
-  - im back
-  - new approach
-  - return
+date: 2013-05-13 17:00:10
 id: 2683
 categories:
-  - Journal
-date: 2013-05-13 17:00:10
+	- Journal
+tags:
+	- sabbatical
 ---
 
 While I already miss the awesome weather, incredible scenery (aka awesome beaches with super clear water), and not to mention amazing food, I am glad to be back!

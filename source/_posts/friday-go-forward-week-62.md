@@ -1,16 +1,15 @@
 ---
 title: 'Friday Go Forward: Week 62'
-tags:
-  - dojang
-  - experimenting
-  - level up
-  - losing
-  - territorial style
-  - yunguseng
+date: 2014-05-16 07:15:36
 id: 5250
 categories:
-  - Progress Reports
-date: 2014-05-16 07:15:36
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- experiments
+	- territorial-style
+	- yunguseng-dojang
 ---
 
 ## Overview

@@ -1,15 +1,15 @@
 ---
 title: 'Book Review: The Chinese Opening (Zhou)'
-tags:
-  - chinese
-  - fuseki
-  - opening
-  - yuan zhou
+date: 2013-06-26 23:00:26
 id: 2875
 categories:
-  - Books
-  - Reviews
-date: 2013-06-26 23:00:26
+	- Reviews
+	- Books
+tags:
+	- Slate-and-Shell
+	- chinese-opening
+	- fuseki
+	- opening
 ---
 
 [![chineseopeningzhoucover](http://www.bengozen.com/wp-content/uploads/2013/06/chineseopeningzhoucover.jpeg)](http://www.bengozen.com/wp-content/uploads/2013/06/chineseopeningzhoucover.jpeg)
@@ -62,31 +62,31 @@ To put it simply, if your goal is to devote yourself solely to the Chinese Openi
 1.  Chapter One: Beginnings
 2.  Chapter Two: Understanding the Chinese Opening
 
-    1.  Early Developments
-    2.  The High Chinese Opening
-    3.  The Primary Direction of the Chinese Opening
-    4.  The Ideal Development of the Chinese Opening
+		1.  Early Developments
+		2.  The High Chinese Opening
+		3.  The Primary Direction of the Chinese Opening
+		4.  The Ideal Development of the Chinese Opening
 
 3.  Chapter Three: Recent Games with the Chinese Opening
 4.  Appendix
 
-    1.  Go Seigen on the Chinese Opening
-    2.  Complete Records of Games Mentioned in this Book
+		1.  Go Seigen on the Chinese Opening
+		2.  Complete Records of Games Mentioned in this Book
 
-            1.  Inoue Dosa Inseki vs Honinbo Dosaku
-        2.  Go Seigen vs Hayashi Yutaro
-        3.  Go Seigen vs Fujisawa Hosai
-        4.  Chen Zude vs Miyamoto Naoki
-        5.  Kato Masao vs Takemiya Masaki
-        6.  Chen Zude vs Kajiwara Takeo
-        7.  Go Seigen vs Ohira Shuzo
-        8.  Kato Masao vs Fujisawa Shuko
-        9.  Go Seigen vs Sakata Eio
-        10.  Rin Kaiho vs Takemiya Masaki
-        11.  Chang Hao vs Lee Chang Ho
-        12.  Yoo Chang Hyuk vs Yu Bin
-        13.  Chen Yaoye vs Cho Chikun
-        14.  Zhou vs Park Jung Hwan
+						1.  Inoue Dosa Inseki vs Honinbo Dosaku
+				2.  Go Seigen vs Hayashi Yutaro
+				3.  Go Seigen vs Fujisawa Hosai
+				4.  Chen Zude vs Miyamoto Naoki
+				5.  Kato Masao vs Takemiya Masaki
+				6.  Chen Zude vs Kajiwara Takeo
+				7.  Go Seigen vs Ohira Shuzo
+				8.  Kato Masao vs Fujisawa Shuko
+				9.  Go Seigen vs Sakata Eio
+				10.  Rin Kaiho vs Takemiya Masaki
+				11.  Chang Hao vs Lee Chang Ho
+				12.  Yoo Chang Hyuk vs Yu Bin
+				13.  Chen Yaoye vs Cho Chikun
+				14.  Zhou vs Park Jung Hwan
 
 ### Recommended Vendors:
 

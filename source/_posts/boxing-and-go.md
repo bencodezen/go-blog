@@ -1,16 +1,11 @@
 ---
 title: Boxing and Go
-tags:
-  - boxing
-  - consistency
-  - fundamentals
-  - improving
-  - menu
-  - training
+date: 2013-08-13 12:00:29
 id: 3794
 categories:
-  - Journal
-date: 2013-08-13 12:00:29
+	- Journal
+tags:
+
 ---
 
 [caption id="attachment_3796" align="aligncenter" width="400"][![Credit to CrazyThemes](http://www.bengozen.com/wp-content/uploads/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg) Credit to CrazyThemes[/caption]

@@ -1,18 +1,12 @@
 ---
 title: 'Book Review: The Master of Go'
-tags:
-  - biography
-  - elegy
-  - fictional
-  - historical
-  - honinbo
-  - novel
-  - shusai
+date: 2013-07-24 05:00:32
 id: 3086
 categories:
-  - Books
-  - Reviews
-date: 2013-07-24 05:00:32
+	- Reviews
+	- Books
+tags:
+	- novel
 ---
 
 [![masterofgocover](http://www.bengozen.com/wp-content/uploads/2013/12/masterofgocover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/12/masterofgocover.jpg)

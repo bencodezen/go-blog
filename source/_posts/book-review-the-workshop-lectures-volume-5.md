@@ -1,19 +1,15 @@
 ---
 title: 'Book Review: The Workshop Lectures Volume 5'
-tags:
-  - lecture
-  - opening
-  - position
-  - protecting
-  - unusual moves
-  - unusual opening
-  - workshop
-  - yilun yang
+date: 2013-09-01 08:00:39
 id: 3871
 categories:
-  - Books
-  - Reviews
-date: 2013-09-01 08:00:39
+	- Reviews
+	- Books
+tags:
+	- Slate-and-Shell
+	- principles
+	- strategy
+	- opening
 ---
 
 [![The Workshop Lectures Volume 5 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv5.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv5.jpg)

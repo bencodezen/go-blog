@@ -1,14 +1,11 @@
 ---
 title: Fear
-tags:
-  - fear
-  - getting stronger
+date: 2010-10-27 12:40:00
 id: 56
 categories:
-  - Articles
-  - Journal
-  - Kifu
-date: 2010-10-27 12:40:00
+	- Journal
+tags:
+	- kifu
 ---
 
 I recently wrote a post concerning being able to overcome the blade of your opponent.  To not fear it, but to step forth and dive into the abyss.

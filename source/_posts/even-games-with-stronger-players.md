@@ -1,15 +1,11 @@
 ---
 title: Even Games with Stronger Players
-tags:
-  - even games with stronger players
-  - getting stronger
-  - growth
-  - tactics
+date: 2013-01-16 09:00:36
 id: 1658
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2013-01-16 09:00:36
+	- Articles
+	- Weekly Go Wednesday
+tags:
 ---
 
 ## _Weekly Go Wednesday, Issue #13_

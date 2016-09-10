@@ -1,24 +1,14 @@
 ---
 title: My Experience with YSD - S9 - Part 1
-tags:
-  - anatoly
-  - brian
-  - commentary
-  - dojang
-  - kifu
-  - league
-  - oren
-  - reviews
-  - sauk
-  - season 9
-  - yunguseng
+date: 2014-06-03 07:15:39
 id: 5395
 categories:
-  - Journal
-  - Kifu
-  - Reviews
-  - Websites
-date: 2014-06-03 07:15:39
+	- Journal
+tags:
+	- kifu
+	- oren
+	- game-reviews
+	- yunguseng-dojang
 ---
 
 **Part I** - [Part II](http://www.bengozen.com/experience-ysd-s9-part-2/ "My Experience with YSD — S9 — Part 2") - Part III

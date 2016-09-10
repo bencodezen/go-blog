@@ -1,18 +1,14 @@
 ---
 title: 'Book Review: The Road Map to Shodan, Volume 2'
-tags:
-  - kiseido
-  - middle game
-  - opening
-  - principles
-  - richard bozulich
-  - rob van zeijst
-  - sabaki
+date: 2014-10-19 13:39:00
 id: 5887
 categories:
-  - Books
-  - Reviews
-date: 2014-10-19 13:39:00
+	- Reviews
+	- Books
+tags:
+	- Kiseido
+	- opening
+	- principles
 ---
 
 [![roadmaptoshodanv2cover](http://www.bengozen.com/wp-content/uploads/2014/10/roadmaptoshodanv2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/roadmaptoshodanv2cover.jpg)
@@ -45,69 +41,69 @@ Problems, 45 problems
 2.  A Brief Glossary of Go Terms and Concepts
 3.  Section I: Extensions and Efficiency
 
-    1.  Principle 1A
-    2.  Principle 1B
-    3.  Principle 1C
-    4.  Principle 2
-    5.  Principle 3
-    6.  Problems 1 to 8
-    7.  Answers to Problems 1 to 8
+	1.  Principle 1A
+	2.  Principle 1B
+	3.  Principle 1C
+	4.  Principle 2
+	5.  Principle 3
+	6.  Problems 1 to 8
+	7.  Answers to Problems 1 to 8
 
 4.  Section II: Confinement, Linkage, and Separation
 
-    1.  Principle 4A
-    2.  Principle 4B
-    3.  Principle 5
-    4.  Problems 9 to 14
-    5.  Answers to Problems 9 to 14
+	1.  Principle 4A
+	2.  Principle 4B
+	3.  Principle 5
+	4.  Problems 9 to 14
+	5.  Answers to Problems 9 to 14
 
 5.  Section III: Weak Stones and Weak Positions
 
-    1.  Principle 6A
-    2.  Principle 6B
-    3.  Principle 7A
-    4.  Principle 7B
-    5.  Principle 8
-    6.  Problems 15 to 22
-    7.  Answer to Problems 15 to 22
+	1.  Principle 6A
+	2.  Principle 6B
+	3.  Principle 7A
+	4.  Principle 7B
+	5.  Principle 8
+	6.  Problems 15 to 22
+	7.  Answer to Problems 15 to 22
 
 6.  Section IV: Handling Moyos &amp; Escaping
 
-    1.  Principle 9A
-    2.  Principle 9B
-    3.  Principle 10
-    4.  Problems 23 to 28
-    5.  Answers to Problems 23 to 28
+	1.  Principle 9A
+	2.  Principle 9B
+	3.  Principle 10
+	4.  Problems 23 to 28
+	5.  Answers to Problems 23 to 28
 
 7.  Section V: Handling Thickness
 
-    1.  Principle 11
-    2.  Principle 12
-    3.  Principle 13
-    4.  Principle 14
-    5.  Problems 29 to 32
-    6.  Answers to Problems 29 to 32
+	1.  Principle 11
+	2.  Principle 12
+	3.  Principle 13
+	4.  Principle 14
+	5.  Problems 29 to 32
+	6.  Answers to Problems 29 to 32
 
 8.  Section VI: The Third and Fourth Lines in the Opening &amp; Defending Against a 3-3 Invasion
 
-    1.  Principle 15
-    2.  Principle 16
-    3.  Principle 17
-    4.  Principle 18
-    5.  Problems 33 to 38
-    6.  Answer to Problems 33 to 38
+	1.  Principle 15
+	2.  Principle 16
+	3.  Principle 17
+	4.  Principle 18
+	5.  Problems 33 to 38
+	6.  Answer to Problems 33 to 38
 
 9.  Section VII: Turning a Moyo into Territory
 
-    1.  Principle 19
-    2.  Problems 39 to 40
-    3.  Answers to Problems 39 to 40
+	1.  Principle 19
+	2.  Problems 39 to 40
+	3.  Answers to Problems 39 to 40
 
 10.  Section VIII: How to Make Sabaki
 
-    1.  Principle 20
-    2.  Problems 41 to 45
-    3.  Answers to Problems 41 to 45
+	1.  Principle 20
+	2.  Problems 41 to 45
+	3.  Answers to Problems 41 to 45
 [/expand]
 
 [expand title="My Review" trigclass="expandTitle" expanded="true"]

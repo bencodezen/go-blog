@@ -1,12 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 28'
-tags:
-  - patience
-  - think
+date: 2013-09-23 05:00:56
 id: 3954
 categories:
-  - Monday Go Meditation
-date: 2013-09-23 05:00:56
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

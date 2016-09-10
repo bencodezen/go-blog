@@ -1,11 +1,13 @@
 ---
 title: 'Weekly Progress Report: #06'
-tags:
-  - my cat plays baduk
+date: 2014-10-25 07:15:59
 id: 5895
 categories:
-  - Progress Reports
-date: 2014-10-25 07:15:59
+	- Journal
+	- Progress Reports
+tags:
+	- my-cat-plays-baduk
+	- new-blog
 ---
 
 ## Overview

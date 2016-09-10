@@ -1,20 +1,16 @@
 ---
 title: 1st Washington Open Baduk Championship - Part I
-tags:
-  - baduk
-  - compete
-  - competition
-  - korean
-  - myung wan kim
-  - park sohyun
-  - tournament
-  - tournaments
+date: 2014-04-29 20:48:05
 id: 5140
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2014-04-29 20:48:05
+	- Journal
+	- Events
+tags:
+	- kifu
+	- tournaments
+	- pros
+	- myung-wan-kim
+	- park-sohyun
 ---
 
 **Part I** - [Interlude](http://www.bengozen.com/wgw-38-i-want-play-go-like-that/ "WGW 38: I Want to Play Go Like That…") - [Part II](http://www.bengozen.com/1st-washington-open-baduk-championship-part-ii/ "1st Washington Open Baduk Championship — Part II")
@@ -115,6 +111,6 @@ Once the lecture was finished, the crowd dispersed into different groups. A blit
 
 Earlier during the lecture, I had seen Park Sohyun (3p) come in and then leave the room with one of the VIP with a board and stones. While some people went up to ask Myung some questions, I decided to go check and see what she was up to. As I prepared to walk around, the following quotation from [First Kyu](http://www.amazon.com/First-Kyu-Sung-Hwa-Hong/dp/0964479699) popped in my head:
 > "First kyu, a player of the first rank? Really? Have you ever competed in a professional qualifying tournament? No? Then you are not, I repeat NOT first kyu!
-> 
+>
 > I know I know. Nowadays all kinds of bad players call themselves first kyu."
 "Maybe I'm just a fake 3 kyu," I thought as I walked to find her, "Perhaps I was too naive and arrogant in thinking I could compete, let alone win, as a 3 kyu..."

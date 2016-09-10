@@ -1,15 +1,14 @@
 ---
 title: 'Go Tournament: 41st Maryland Open'
-tags:
-  - baltimore
-  - competition
-  - go tournament
-  - maryland
-  - open
+date: 2014-03-13 07:15:26
 id: 4810
 categories:
-  - Events
-date: 2014-03-13 07:15:26
+	- Journal
+	- Events
+tags:
+	- tournaments
+	- go-tournament
+	- maryland-open
 ---
 
 It's that time of year again! The 41st Maryland Open Go Tournament is upon us once again! So if you live in the DC Metro Area or simply don't mind making the trip down to Baltimore, Maryland, be sure to check out the flier below for more information.

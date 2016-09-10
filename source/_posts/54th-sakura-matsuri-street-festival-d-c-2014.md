@@ -1,22 +1,13 @@
 ---
 title: 54th Sakura Matsuri Street Festival - D.C. 2014
-tags:
-  - '2014'
-  - cherry blossom
-  - community
-  - dc
-  - intiatives
-  - matsuri
-  - outreach
-  - sakura
-  - street festival
-  - teaching
-  - workshop
+date: 2014-04-22 07:15:37
 id: 5096
 categories:
-  - Cultural
-  - Events
-date: 2014-04-22 07:15:37
+	- Journal
+	- Events
+tags:
+	- dc
+	- teaching
 ---
 
 [caption id="attachment_5097" align="aligncenter" width="360"][![2014SakuraMatsuri-01](http://www.bengozen.com/wp-content/uploads/2014/04/2014SakuraMatsuri-01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014SakuraMatsuri-01.jpg) The official brochure for the 54th Sakura Matsuri Festival of D.C.[/caption]

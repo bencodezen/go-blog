@@ -1,12 +1,10 @@
 ---
 title: Twitter Up and Running!
-tags:
-  - announcement
-  - twitter
+date: 2010-10-03 12:07:00
 id: 88
 categories:
-  - Journal
-date: 2010-10-03 12:07:00
+	- Journal
+tags:
 ---
 
 <div style="clear: both; text-align: center;">

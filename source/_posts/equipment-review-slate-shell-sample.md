@@ -1,15 +1,13 @@
 ---
 title: 'Equipment Review: Slate and Shell Sample'
-tags:
-  - biconvex
-  - size 36
-  - slate and shell
-  - stones
+date: 2014-02-08 07:15:46
 id: 4591
 categories:
-  - Equipment
-  - Reviews
-date: 2014-02-08 07:15:46
+	- Reviews
+	- Equipment
+tags:
+	- stones
+	- slate-and-shell-stones
 ---
 
 [![slateshellsample01](http://www.bengozen.com/wp-content/uploads/2014/02/slateshellsample01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/slateshellsample01.jpg)

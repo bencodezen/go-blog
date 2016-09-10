@@ -1,19 +1,13 @@
 ---
 title: 'Thursday Go Tygem: Game 05'
-tags:
-  - 2d opponent
-  - commentary
-  - korean
-  - review
-  - server
-  - tygem
-  - w+resign
-  - win
+date: 2014-06-05 07:15:49
 id: 5345
 categories:
-  - Kifu
-  - Thursday Go Tygem
-date: 2014-06-05 07:15:49
+	- Commentaries
+	- Thursday Go Tygem
+tags:
+	- kifu
+	- tygem
 ---
 
 ## Introduction

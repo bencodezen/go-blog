@@ -1,14 +1,11 @@
 ---
 title: One Game A Day
-tags:
-  - experience
-  - getting stronger
-  - playing games
-  - universe
+date: 2013-09-10 19:20:46
 id: 3950
 categories:
-  - Journal
-date: 2013-09-10 19:20:46
+	- Journal
+tags:
+	- getting-stronger
 ---
 
 As most of you are aware, I am pretty diligent and hard working when it comes to my studies. The vast quantity of information that I ingest is probably quite frightening for some. The only downside to this, however, is that being able to digest it is a completely different matter. In addition, you have to realize that I am often more focused on finishing the books instead of truly mastering the topic at hand in order to fulfill my goal of having the most comprehensive book reviews for go. So at the end of the day, I have to really question how I'm really going to get stronger.

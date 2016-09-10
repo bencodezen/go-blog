@@ -1,12 +1,11 @@
 ---
 title: Pool and Blitz Go
-tags:
-  - blitz go
-  - pool
+date: 2012-12-27 12:04:16
 id: 1524
 categories:
-  - Journal
-date: 2012-12-27 12:04:16
+	- Journal
+tags:
+	- blitz-go
 ---
 
 So lately, I've been playing pool with my family, and I have to say that I realized how accustomed I've become to the manner of play in go. For those who aren't familiar with pool, a player can theoretically play the entire game from start to finish without ever letting the opponent have a single turn. Can you imagine how I felt as a go player?! It's as if I passed every time an opponent put down a stone. AHHHHHHH!!!!!

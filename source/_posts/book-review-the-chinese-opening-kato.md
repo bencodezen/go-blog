@@ -1,15 +1,15 @@
 ---
 title: 'Book Review: The Chinese Opening (Kato)'
-tags:
-  - chinese
-  - fuseki
-  - kato
-  - opening
+date: 2013-06-05 17:00:46
 id: 2799
 categories:
-  - Books
-  - Reviews
-date: 2013-06-05 17:00:46
+	- Reviews
+	- Books
+tags:
+	- Kiseido
+	- chinese-opening
+	- fuseki
+	- opening
 ---
 
 ## [![chineseopeningkatocover](http://www.bengozen.com/wp-content/uploads/2013/06/chineseopeningkatocover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/chineseopeningkatocover.jpg)

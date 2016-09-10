@@ -1,12 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 29'
-tags:
-  - discipline
-  - new format
+date: 2013-08-23 05:00:10
 id: 3806
 categories:
-  - Progress Reports
-date: 2013-08-23 05:00:10
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Friday Go Forward: Week 29

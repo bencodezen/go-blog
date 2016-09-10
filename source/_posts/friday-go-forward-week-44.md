@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 44'
+date: 2013-12-06 11:16:30
 id: 4393
 categories:
-  - Progress Reports
-date: 2013-12-06 11:16:30
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

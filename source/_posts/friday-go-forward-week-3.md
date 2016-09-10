@@ -1,13 +1,12 @@
 ---
 title: 'Friday Go Forward: Week #3'
-tags:
-  - hope
-  - nagc
-  - not much training
+date: 2013-02-15 09:00:50
 id: 1898
 categories:
-  - Progress Reports
-date: 2013-02-15 09:00:50
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## <span style="font-size: 1.17em;">Games</span>

@@ -1,12 +1,13 @@
 ---
 title: Blogging Goals
-tags:
-  - blog content redesign
-  - training
+date: 2010-10-03 11:34:00
 id: 89
 categories:
-  - Journal
-date: 2010-10-03 11:34:00
+	- Journal
+tags:
+	- blog-redesign
+	- goals
+	- training
 ---
 
 So in lieu of trying to gain more credibility as a Go expert and blogger, I'll be trying to implement the following goals for increasing blogging content:

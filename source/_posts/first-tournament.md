@@ -1,13 +1,12 @@
 ---
 title: First Tournament!
-tags:
-  - fall 2010
-  - tournament
-  - umbc go tournament
+date: 2010-10-24 10:03:00
 id: 58
 categories:
-  - Journal
-date: 2010-10-24 10:03:00
+	- Journal
+tags:
+	- tournaments
+	- umbc
 ---
 
 So the UMBC Go Tournament was the first tournament I helped to run and play in. What a fortunate occasion! Anyhow, it was a bit of craziness trying to transport everything. I need to figure out a better system for the future (although thank goodness I had portable carts, an empty box, and an empty luggage).

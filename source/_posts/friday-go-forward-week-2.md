@@ -1,12 +1,12 @@
 ---
 title: 'Friday Go Forward: Week #2'
-tags:
-  - rough week
-  - tough times
+date: 2013-02-08 17:00:39
 id: 1797
 categories:
-  - Progress Reports
-date: 2013-02-08 17:00:39
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Games

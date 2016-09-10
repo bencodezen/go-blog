@@ -1,14 +1,10 @@
 ---
 title: A Boxer's Spirit
-tags:
-  - boxing
-  - endurance
-  - hajime no ippo
-  - spirit
+date: 2013-04-30 17:00:03
 id: 2665
 categories:
-  - Journal
-date: 2013-04-30 17:00:03
+	- Journal
+tags:
 ---
 
 I recently finished the arc (in [Hajime no Ippo](http://en.wikipedia.org/wiki/Fighting_Spirit_(manga))) where Ippo and Sendou fighting for the championship, and I couldn't help but realize that a game of go is very much like a match in boxing. With each stone, each player prepares the battlefield. Before you know it, a furious chase and battle occurs where the one is rushing forward in a series of attacks while the other is stepping backwards and trying to gain solid footing. When the barrage is over however, the tide changes as the opponent regains his foothold and then returns a series of attack back as you try to ensure the safety of your attacking group.

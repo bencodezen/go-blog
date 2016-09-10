@@ -1,12 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 25'
-tags:
-  - calm
-  - reasonable
+date: 2013-07-26 05:00:25
 id: 3558
 categories:
-  - Progress Reports
-date: 2013-07-26 05:00:25
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Friday Go Forward: Week 25

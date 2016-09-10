@@ -1,17 +1,11 @@
 ---
 title: No More Cutting Corners
-tags:
-  - basics
-  - dojang
-  - level up
-  - no cutting corners
-  - review
-  - studying
-  - yunguseng
+date: 2014-05-11 20:43:01
 id: 5283
 categories:
-  - Journal
-date: 2014-05-11 20:43:01
+	- Journal
+tags:
+	- yunguseng-dojang
 ---
 
 Up till now, my go studies have been pretty sporadic. I may have read my fair share of books and watched my fair share of videos, but I would have to say that I really never spent the time and energy really absorbing them. Sure, I was exposed to lots of new concepts and ideas; but implementing them in my games was a whole different animal.

@@ -1,16 +1,15 @@
 ---
 title: 'Book Review: Level Up 10'
-tags:
-  - baduktopia
-  - educational
-  - korean style
-  - level up
-  - training
+date: 2013-07-29 12:00:53
 id: 3677
 categories:
-  - Books
-  - Reviews
-date: 2013-07-29 12:00:53
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up 10 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup10cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup10cover.jpg)
@@ -110,17 +109,17 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Primary Learning Mechanism:
 
-    *   Practice problems
+		*   Practice problems
 
 *   Other Learning Mechanisms:
 
-    *   Cute and entertaining comics to teach and/or reinforce lessons.
-    *   Simple explantations that are accompanied by equally simple diagrams.
-    *   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
+		*   Cute and entertaining comics to teach and/or reinforce lessons.
+		*   Simple explantations that are accompanied by equally simple diagrams.
+		*   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
 **What aspect can be improved on?**
 
 *   Page 95 Problem 6 has no solution aka impossible to solve.

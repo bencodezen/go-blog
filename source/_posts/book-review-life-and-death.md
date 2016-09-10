@@ -1,18 +1,16 @@
 ---
 title: 'Book Review: Life and Death'
-tags:
-  - groups
-  - kill
-  - life and death
-  - reading
-  - safety
-  - save
-  - tsumego
+date: 2013-07-10 05:00:27
 id: 3098
 categories:
-  - Books
-  - Reviews
-date: 2013-07-10 05:00:27
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
+	- tsumego
 ---
 
 [![egslifeanddeathcover](http://www.bengozen.com/wp-content/uploads/2013/06/egslifeanddeathcover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/egslifeanddeathcover.jpg)
@@ -112,15 +110,15 @@ Length, 160 Pages
 
 *   Textbook Approach
 
-    *   Organized in a curriculum format that reflects the learning style one might normally find in school.
+		*   Organized in a curriculum format that reflects the learning style one might normally find in school.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations with example diagrams
+		*   Explanations with example diagrams
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems
+		*   Practice problems
 **What aspect can be improved on?**
 
 *   Though the fact that it uses "what is the status of this group" problems is a good thing for the most part, I feel that this is counter-productive to anyone learning life and death for the first time since status problems can actually be rather difficult for players who are not accustomed to reading multiple rather complex variations in life and death situations.

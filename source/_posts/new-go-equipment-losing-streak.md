@@ -1,15 +1,12 @@
 ---
 title: New Go Equipment and My Losing Streak
-tags:
-  - confronting my weakness
-  - en
-  - equipment
-  - gogameguru
-  - losing
+date: 2013-11-07 22:43:43
 id: 4288
 categories:
-  - Journal
-date: 2013-11-07 22:43:43
+	- Journal
+tags:
+	- equipment
+	- gogameguru
 ---
 
 [![gogamegurustuff](http://www.bengozen.com/wp-content/uploads/2013/11/gogamegurustuff.jpg)](http://www.bengozen.com/wp-content/uploads/2013/11/gogamegurustuff.jpg)

@@ -1,16 +1,10 @@
 ---
 title: Shattered Blade
-tags:
-  - blade
-  - broken
-  - reforge
-  - starting over
-  - sword
-  - weak attacks
+date: 2013-08-05 17:00:58
 id: 3740
 categories:
-  - Journal
-date: 2013-08-05 17:00:58
+	- Journal
+tags:
 ---
 
 [![narsil_shards](http://www.bengozen.com/wp-content/uploads/2013/08/narsil_shards.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/narsil_shards.jpg)Over the weekend, I have been giving a lot of thought to some insight that I received recently from my friend moboy78\.  I am paraphrasing a bit, but the bottom line message I remember was:

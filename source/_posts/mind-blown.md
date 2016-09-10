@@ -1,14 +1,11 @@
 ---
 title: Mind Blown...
-tags:
-  - 5k
-  - even
-  - victory
-  - white
+date: 2012-12-17 22:54:48
 id: 1376
 categories:
-  - Kifu
-date: 2012-12-17 22:54:48
+	- Journal
+tags:
+	- kifu
 ---
 
 I normally try not to post two games in one day, but tonight I just played a game that blew my mind. I literally went into this game expecting to lose and toy with an idea here or there. Before I knew it though... everything just kind of came together.... It was completely surreal.....

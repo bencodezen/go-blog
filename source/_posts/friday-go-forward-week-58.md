@@ -1,13 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 58'
-tags:
-  - lynx
-  - trying new things
-  - yunguseng dojang
+date: 2014-04-18 11:15:51
 id: 4900
 categories:
-  - Progress Reports
-date: 2014-04-18 11:15:51
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- lynx
+	- yunguseng dojang
 ---
 
 ## Overview
@@ -24,15 +25,15 @@ I'm still trying to create a training schedule that works well for me, so you'll
 
 *   **Life and Death Problems **
 
-    *   Software: MagicBaduk
-    *   Frequency: Daily
-    *   Task: (1) 10 minutes or (2) Finish an entire problem set (250-300 problems depending on difficulty). Whichever comes second.
+		*   Software: MagicBaduk
+		*   Frequency: Daily
+		*   Task: (1) 10 minutes or (2) Finish an entire problem set (250-300 problems depending on difficulty). Whichever comes second.
 
 *   **<span style="line-height: 1.5em;">Tesuji Problems</span>**
 
-    *   <span style="line-height: 1.5em;"> Software: MagicBaduk</span>
-    *   Frequency: Daily
-    *   Task: (1) 10 minutes exploring the problem set and practicing problems I've learned before.
+		*   <span style="line-height: 1.5em;"> Software: MagicBaduk</span>
+		*   Frequency: Daily
+		*   Task: (1) 10 minutes exploring the problem set and practicing problems I've learned before.
 
 ## Games
 

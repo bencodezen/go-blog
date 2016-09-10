@@ -1,14 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 42'
-tags:
-  - black
-  - resignation
-  - victory
+date: 2014-02-10 07:15:45
 id: 4584
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-02-10 07:15:45
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

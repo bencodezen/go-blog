@@ -1,19 +1,13 @@
 ---
 title: 'Thursday Go Tygem: Game 07'
-tags:
-  - commentary
-  - korean
-  - opponent 1d
-  - review
-  - server
-  - tygem
-  - w+resign
-  - white
+date: 2014-06-19 07:15:45
 id: 5423
 categories:
-  - Kifu
-  - Thursday Go Tygem
-date: 2014-06-19 07:15:45
+	- Commentaries
+	- Thursday Go Tygem
+tags:
+	- kifu
+	- tygem
 ---
 
 ## Introduction

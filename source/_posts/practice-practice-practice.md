@@ -1,14 +1,12 @@
 ---
 title: Practice Practice Practice...
-tags:
-  - epiphany
-  - menu
-  - practice
-  - training
+date: 2013-08-17 09:00:04
 id: 3808
 categories:
-  - Journal
-date: 2013-08-17 09:00:04
+	- Journal
+tags:
+	- lightbulbs
+	- training
 ---
 
 [caption id="attachment_3814" align="aligncenter" width="400"][![Credit to Ippo Wikki](http://www.bengozen.com/wp-content/uploads/2013/08/WhiteFang.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/WhiteFang.jpg) Credit to [Ippo Wikki](http://ippo.wikia.com/wiki/White_Fang)[/caption]

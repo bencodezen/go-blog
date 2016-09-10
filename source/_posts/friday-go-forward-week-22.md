@@ -1,14 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 22'
-tags:
-  - back to the basics
-  - fundamentals
-  - lots of studying
-  - polishing reading
+date: 2013-07-05 05:00:35
 id: 3145
 categories:
-  - Progress Reports
-date: 2013-07-05 05:00:35
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- fundamentals
+	- studying
 ---
 
 ## Friday Go Forward: Week 22

@@ -1,12 +1,12 @@
 ---
 title: Blog Redesign Announcement!!!
-tags:
-  - blog redesign
-  - hiatus
+date: 2012-10-22 14:30:05
 id: 436
 categories:
-  - Journal
-date: 2012-10-22 14:30:05
+	- Journal
+tags:
+	- blog-redesign
+	- sabbatical
 ---
 
 As much as I hate to do this, BenGoZen will be on hiatus for the rest of the month to prepare for a brand new blog redesign. I am currently working really hard to not only implement a brand new look and feel for the blog, but I'm also completely revising and improving the information architecture and content quality to make the entire experience more enjoyable and worthy of your time!

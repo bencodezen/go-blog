@@ -1,14 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 28'
-tags:
-  - introspective
-  - laid back
-  - lazier week
-  - utilizing other things to grow in go
+date: 2013-08-16 05:00:49
 id: 3783
 categories:
-  - Progress Reports
-date: 2013-08-16 05:00:49
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Friday Go Forward: Week 28

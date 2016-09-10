@@ -1,18 +1,15 @@
 ---
 title: 'Book Review: Level Up 5'
-tags:
-  - baduktopia
-  - beginner
-  - educational
-  - korean
-  - level up
-  - school
-  - workbook
+date: 2013-07-17 05:00:37
 id: 3450
 categories:
-  - Books
-  - Reviews
-date: 2013-07-17 05:00:37
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up 5 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup5cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup5cover.jpg)
@@ -99,16 +96,16 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Primary Learning Mechanism:
 
-    *   Practice problems
+		*   Practice problems
 
 *   Other Learning Mechanisms:
 
-    *   Cute and entertaining comics to teach and/or reinforce lessons.
-    *   Simple explantations that are accompanied by equally simple diagrams.
+		*   Cute and entertaining comics to teach and/or reinforce lessons.
+		*   Simple explantations that are accompanied by equally simple diagrams.
 **What aspect(s) can be improved on?**
 
 *   No complaints here. I was really happy with the progression of problems in this book.

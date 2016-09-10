@@ -1,14 +1,10 @@
 ---
 title: A Calm Plateau
-tags:
-  - calculated play
-  - calm
-  - new resolution
-  - rank plateau
+date: 2013-05-20 17:00:14
 id: 2744
 categories:
-  - Journal
-date: 2013-05-20 17:00:14
+	- Journal
+tags:
 ---
 
 Over the last few days, something that has been bothering me is the fact that my rank graph has completely plateaued. While I know that I can match stronger opponents in even games sometimes, it was bothering me that I did not have the rank to show for it.

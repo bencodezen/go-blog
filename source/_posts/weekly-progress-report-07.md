@@ -1,9 +1,10 @@
 ---
 title: 'Weekly Progress Report: #07'
+date: 2014-11-01 07:15:40
 id: 5914
 categories:
-  - Progress Reports
-date: 2014-11-01 07:15:40
+	- Journal
+	- Progress Reports
 tags:
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: Level Up! Series - Off to a Good Start
-tags:
-  - happy
-  - korean training
-  - level up
+date: 2013-07-02 17:00:58
 id: 3212
 categories:
-  - Journal
-date: 2013-07-02 17:00:58
+	- Journal
+tags:
+	- studying
+	- training
 ---
 
 It's only Day 2 of my [Korean Training Reboot](http://www.bengozen.com/korean-training-reboot/ "Korean Training Reboot!") and I'm happy to report that I am really enjoying this series. Although I could theoretically fly through most of the beginning books, I have been taking more time to be very thorough with the content. I'm hoping that this will help to reveal any inconsistencies with my basics as I work my way through the series.

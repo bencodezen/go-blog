@@ -1,19 +1,12 @@
 ---
 title: Till the Very End...
-tags:
-  - 0.5 point
-  - black
-  - even
-  - happy new years
-  - new goal
-  - progress
-  - victory
+date: 2012-12-31 12:00:26
 id: 1561
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2012-12-31 12:00:26
+	- Journal
+tags:
+	- goals
+	- kifu
 ---
 
 Well everyone, looks like this will be my final post for 2012. As I look back at 2012 and all the craziness that has come with it, I am definitely glad that go is once again an important part of my life. It's been a fun year with me getting back into go and then bringing the go blog back full force.

@@ -1,16 +1,15 @@
 ---
 title: 'Book Review: Making Good Shape'
-tags:
-  - bad shape
-  - fundamentals
-  - getting stronger
-  - good shape
-  - shape
+date: 2013-01-15 17:30:07
 id: 1546
 categories:
-  - Books
-  - Reviews
-date: 2013-01-15 17:30:07
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- fundamentals
+	- shape
+	- go-problems
 ---
 
 [![makingGoodShapeCover](http://www.bengozen.com/wp-content/uploads/2012/12/makingGoodShapeCover.jpg)](http://www.bengozen.com/wp-content/uploads/2012/12/makingGoodShapeCover.jpg)

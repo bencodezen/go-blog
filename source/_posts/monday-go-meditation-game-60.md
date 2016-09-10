@@ -1,19 +1,14 @@
 ---
 title: 'Monday Go Meditation: Game 60'
-tags:
-  - 1st baduk open championship
-  - april challenge
-  - calm
-  - commentary
-  - kifu
-  - maaike
-  - review
-  - tournament
+date: 2014-06-16 07:15:31
 id: 5387
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-06-16 07:15:31
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- tournaments
+	- maaike
 ---
 
 ## Introduction

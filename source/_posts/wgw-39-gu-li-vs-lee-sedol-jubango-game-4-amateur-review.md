@@ -1,17 +1,14 @@
 ---
 title: 'WGW 39: Gu Li vs Lee Sedol - Jubango Game 4 Amateur Review'
-tags:
-  - 9p
-  - gu li
-  - jubango
-  - lee sedol
-  - micro chinese
+date: 2014-05-07 07:15:07
 id: 5234
 categories:
-  - Events
-  - Kifu
-  - Weekly Go Wednesday
-date: 2014-05-07 07:15:07
+	- Commentaries
+tags:
+	- kifu
+	- gu-li
+	- jubango
+	- lee-sedol
 ---
 
 ## Weekly Go Wednesday: Issue #39

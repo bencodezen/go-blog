@@ -1,16 +1,14 @@
 ---
 title: 'Book Review: Attack and Defense'
-tags:
-  - attack
-  - defense
-  - fighting
-  - kiseido
-  - offense
+date: 2013-07-12 22:00:28
 id: 3104
 categories:
-  - Books
-  - Reviews
-date: 2013-07-12 22:00:28
+	- Reviews
+	- Books
+tags:
+	- attack-and-defense
+	- fighting
+	- kiseido
 ---
 
 [![egsattackanddefensecover](http://www.bengozen.com/wp-content/uploads/2013/06/egsattackanddefensecover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/egsattackanddefensecover.jpg)
@@ -84,16 +82,16 @@ Length, 254 Pages
 
 *   Lecture Approach
 
-    *   The writing is far more substantial in this book than what readers might have become accustomed to in Tesuji and Life and Death.
+		*   The writing is far more substantial in this book than what readers might have become accustomed to in Tesuji and Life and Death.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations with diagrams
+		*   Explanations with diagrams
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems
-    *   Examples from actual games
+		*   Practice problems
+		*   Examples from actual games
 **What aspect(s) can be improved on?**
 
 *   In all honesty, I have a hard time finding anything to criticize about this book; but if I had to request one thing, it would have to be more problems at the end of the book to continue reinforcing what I learned.

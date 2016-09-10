@@ -1,13 +1,11 @@
 ---
 title: Reminded of My Hatred for Blitz
-tags:
-  - blitz sucks
-  - hate blitz
-  - im so stupid
+date: 2013-05-14 17:00:36
 id: 2688
 categories:
-  - Journal
-date: 2013-05-14 17:00:36
+	- Journal
+tags:
+	- blitz-go
 ---
 
 Earlier today, I thought it would be a good idea to get back in the groove of things by playing a quick 10 minute game. I think it was going okay, until my time ran short and then I made a blunder and lost a big group. That might have been okay, but then I thought that it would be an even better idea to play a blitz game with 10 seconds on the clock. Worst. Idea. Ever.

@@ -1,13 +1,13 @@
 ---
 title: 'Book Review: 38 Basic Joseki'
-tags:
-  - joseki
-  - proper sequence
+date: 2013-02-06 18:00:00
 id: 112
 categories:
-  - Books
-  - Reviews
-date: 2013-02-06 18:00:00
+	- Reviews
+	- Books
+tags:
+	- joseki
+	- kiseido
 ---
 
 [![38-basic-joseki-cover](http://www.bengozen.com/wp-content/uploads/2013/01/38-basic-joseki-cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/01/38-basic-joseki-cover.jpg)

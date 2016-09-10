@@ -1,14 +1,11 @@
 ---
 title: The 6k Screwup
-tags:
-  - not rushing
-  - progress
-  - taking your time
+date: 2013-01-22 17:30:56
 id: 1726
 categories:
-  - Advice
-  - Journal
-date: 2013-01-22 17:30:56
+	- Journal
+tags:
+	- lessons
 ---
 
 When I decided to return to ranked games, I will have to be honest in that I expected my graph to just shoot up. In fact, I've even developed a reputation in the ASR League for being a "3k Killer." So it should obviously follow that any even games with 6 and 7 kyus should be something I can win in my sleep right? _**WRONG!**_

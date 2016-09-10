@@ -1,15 +1,16 @@
 ---
 title: 'Book Review: 1001 Life and Death Problems'
-tags:
-  - fundamentals
-  - go problems
-  - life and death
-  - tsumego
+date: 2013-05-19 05:00:17
 id: 1553
 categories:
-  - Books
-  - Reviews
-date: 2013-05-19 05:00:17
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- fundamentals
+	- go-problems
+	- life-and-death
+	- tsumego
 ---
 
 [![mtb2cover](http://www.bengozen.com/wp-content/uploads/2013/04/mtb2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/04/mtb2cover.jpg)

@@ -1,13 +1,13 @@
 ---
 title: 'Review: The Divine Move (Movie)'
-tags:
-  - korean
-  - movie
-  - the divine move
+date: 2014-09-10 13:45:31
 id: 5624
 categories:
-  - Reviews
-date: 2014-09-10 13:45:31
+	- Reviews
+	- Media
+tags:
+	- movies
+	- korean
 ---
 
 [![thedivinemovemovie](http://www.bengozen.com/wp-content/uploads/2014/09/thedivinemovemovie-209x300.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/thedivinemovemovie.jpg)

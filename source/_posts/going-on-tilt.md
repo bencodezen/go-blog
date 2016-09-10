@@ -1,16 +1,12 @@
 ---
 title: Going On Tilt
-tags:
-  - bad habits
-  - emotional state
-  - emotions
-  - frustration
-  - on tilt
-  - poker
+date: 2013-03-20 09:00:44
 id: 2203
 categories:
-  - Weekly Go Wednesday
-date: 2013-03-20 09:00:44
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- tilt
 ---
 
 ## Weekly Go Wednesday #20

@@ -1,15 +1,11 @@
 ---
 title: Playing Go Makes Your Brain Grow!
-tags:
-  - baduk
-  - brain
-  - go
-  - science
-  - weiqi
+date: 2010-09-07 08:08:00
 id: 122
 categories:
-  - Articles
-date: 2010-09-07 08:08:00
+	- Articles
+tags:
+	- educational
 ---
 
 <div style="clear: both; text-align: left;">

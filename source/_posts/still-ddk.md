@@ -1,15 +1,11 @@
 ---
 title: Still DDK...
-tags:
-  - baduk
-  - empty triangle
-  - go
-  - kill every group syndrome
-  - weiqi
+date: 2012-08-13 23:37:00
 id: 41
 categories:
-  - Journal
-date: 2012-08-13 23:37:00
+	- Journal
+tags:
+	- empty-triangle
 ---
 
 [caption id="attachment_548" align="aligncenter" width="300"][![](http://www.bengozen.com/wp-content/uploads/2012/08/0072-300x260.png "0072")](http://www.bengozen.com/wp-content/uploads/2012/08/0072.png) Credit to Empty Triangle[/caption]

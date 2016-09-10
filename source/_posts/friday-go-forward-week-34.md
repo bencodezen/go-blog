@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 34'
+date: 2013-09-27 06:00:10
 id: 3999
 categories:
-  - Progress Reports
-date: 2013-09-27 06:00:10
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

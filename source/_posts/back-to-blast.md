@@ -1,11 +1,11 @@
 ---
 title: Back to Blast
-tags:
-  - return from sabbatical
+date: 2010-12-20 10:56:00
 id: 44
 categories:
-  - Journal
-date: 2010-12-20 10:56:00
+	- Journal
+tags:
+	- sabbatical
 ---
 
 Hey everyone. Sabbatical over. It's time I returned to the game. For all those who have been keeping up with my progress, I have virtually been absent from playing any serious games.  I think the only two online games I have logged online are against the 30k computer. xD

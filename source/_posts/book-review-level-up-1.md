@@ -1,18 +1,15 @@
 ---
 title: 'Book Review: Level Up 1'
-tags:
-  - beginner
-  - education
-  - introductory
-  - korean
-  - level up
-  - new players
-  - school
+date: 2013-07-03 17:00:39
 id: 3216
 categories:
-  - Books
-  - Reviews
-date: 2013-07-03 17:00:39
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up! - Volume 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/10/levelup1cover.jpg "Level Up! - Volume 1 Cover")](http://www.bengozen.com/wp-content/uploads/2013/10/levelup1cover.jpg)
@@ -106,17 +103,17 @@ ISBN, 978-89-90965-81-3
 
 *   Workbook Approach
 
-    *   They introduce concepts within one to two lines with diagrams to support them.
-    *   Once they introduce a concept, they provide multiple opportunities for practice.
+		*   They introduce concepts within one to two lines with diagrams to support them.
+		*   Once they introduce a concept, they provide multiple opportunities for practice.
 
 *   Primary Teaching Mechanism:
 
-    *   Solving simple and easy problems.
+		*   Solving simple and easy problems.
 
 *   Other Teaching Mechanisms:
 
-    *   Explanations with really easy multiple choice questions.
-    *   Kifus (i.e., game records) that are only around 10 moves long with short one line statements of the move's purpose.
+		*   Explanations with really easy multiple choice questions.
+		*   Kifus (i.e., game records) that are only around 10 moves long with short one line statements of the move's purpose.
 **What aspect(s) can be improved on?**
 
 *   Sometimes the directions are misleading. For example, the direction is to atari the marked stones, but the problem's solution is actually to capture. Two different objectives.

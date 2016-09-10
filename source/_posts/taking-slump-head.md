@@ -1,14 +1,10 @@
 ---
 title: Taking This Slump Head On
-tags:
-  - challenge
-  - motivation
-  - quote
-  - risk
+date: 2014-06-26 12:50:04
 id: 5492
 categories:
-  - Journal
-date: 2014-06-26 12:50:04
+	- Journal
+tags:
 ---
 
 The first thing I want to write is that I really appreciate the numerous words of support that have been flooding in. It's been great to hear from everyone and to hear everyone's perspectives on things. In addition, the feedback has helped reassure me that my return to the more journalistic-type blogging was the correct choice.

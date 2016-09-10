@@ -1,16 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 02'
-tags:
-  - 6k
-  - black
-  - even
-  - loss
-  - mistakes
-  - technical win
+date: 2013-03-11 09:00:02
 id: 2137
 categories:
-  - Monday Go Meditation
-date: 2013-03-11 09:00:02
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 [sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/03/2013.03.11-MGM-02.sgf" class="aligncenter"][/sgf]

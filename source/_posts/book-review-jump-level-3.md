@@ -1,17 +1,15 @@
 ---
 title: 'Book Review: Jump Level Up 3'
-tags:
-  - education
-  - elementary
-  - jump level up
-  - korean
-  - level up
-  - training
+date: 2013-10-06 05:00:17
 id: 4113
 categories:
-  - Books
-  - Reviews
-date: 2013-10-06 05:00:17
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![jumplevelup3cover](http://www.bengozen.com/wp-content/uploads/2013/10/jumplevelup3cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/jumplevelup3cover.jpg)
@@ -110,8 +108,8 @@ Bottom line: Though I didn't think they could improve the series much more, this
 
 *   The book is primarily structured as follows:
 
-    *   (1) A one page explanation of the topic that you are about to practice. Example: When behind in liberties. They not only show the sequence for the proper technique, but also include common mistakes and brief explanations as to why they are mistakes.
-    *   (2) A set of very easy to understand and follow practice problems to ensure you understand what you are learning.
+		*   (1) A one page explanation of the topic that you are about to practice. Example: When behind in liberties. They not only show the sequence for the proper technique, but also include common mistakes and brief explanations as to why they are mistakes.
+		*   (2) A set of very easy to understand and follow practice problems to ensure you understand what you are learning.
 **What aspect can be improved on?**
 
 *   Page 145 - Directions should read: Black to play a sente move.

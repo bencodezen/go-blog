@@ -1,18 +1,13 @@
 ---
 title: 'Equipment Review: Dirt Cheap Goban'
-tags:
-  - affordable
-  - cheap
-  - go board
-  - goban
-  - laminate
-  - light
-  - wood
+date: 2014-01-25 16:30:15
 id: 4542
 categories:
-  - Equipment
-  - Reviews
-date: 2014-01-25 16:30:15
+	- Reviews
+	- Equipment
+tags:
+	- goban
+	- plastic-board
 ---
 
 [![dirtcheapgoboard01](http://www.bengozen.com/wp-content/uploads/2014/01/dirtcheapgoboard01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/dirtcheapgoboard01.jpg)

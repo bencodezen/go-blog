@@ -1,15 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 17'
-tags:
-  - aji
-  - forcing moves
-  - good week
-  - new paradigm
-  - probes
+date: 2013-05-31 05:00:12
 id: 2768
 categories:
-  - Progress Reports
-date: 2013-05-31 05:00:12
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Overview

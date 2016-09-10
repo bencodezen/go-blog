@@ -1,16 +1,15 @@
 ---
 title: Gu Li vs Lee Sedol - Jubango Game 5 Amateur Review
-tags:
-  - 9p
-  - gu li
-  - jubango
-  - lee sedol
+date: 2014-06-04 07:15:41
 id: 5399
 categories:
-  - Events
-  - Kifu
-  - Weekly Go Wednesday
-date: 2014-06-04 07:15:41
+	- Commentaries
+	- Kifu
+tags:
+	- kifu
+	- gu-li
+	- jubango
+	- lee-sedol
 ---
 
 ## Weekly Go Wednesday: Issue #43

@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 50'
-tags:
-  - crazy
-  - eyecatcher
-  - nuts
-  - tengen opening
-  - white
+date: 2014-04-07 07:15:05
 id: 4851
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-04-07 07:15:05
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- eyecatcher
 ---
 
 ## Introduction

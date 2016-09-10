@@ -1,14 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 54'
-tags:
-  - go notes
-  - hong kong
-  - lizardfish
-  - steady
+date: 2014-03-14 07:15:10
 id: 4777
 categories:
-  - Progress Reports
-date: 2014-03-14 07:15:10
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- hong-kong
+	- lizardfish
 ---
 
 ## Friday Go Forward: Week 54

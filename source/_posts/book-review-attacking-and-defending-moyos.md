@@ -1,19 +1,14 @@
 ---
 title: 'Book Review: Attacking and Defending Moyos'
-tags:
-  - attacking
-  - defending
-  - frameworks
-  - kiseido
-  - mastering the basics series
-  - moyo
-  - moyos
-  - whole board thinking
+date: 2013-07-16 05:00:05
 id: 2973
 categories:
-  - Books
-  - Reviews
-date: 2013-07-16 05:00:05
+	- Reviews
+	- Books
+tags:
+	- attack-and-defense
+	- kiseido
+	- moyos
 ---
 
 [![mybsv7cover](http://www.bengozen.com/wp-content/uploads/2013/07/mybsv7cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/mybsv7cover.jpg)
@@ -81,13 +76,13 @@ Number of Problems, 151 Problems
 
 *   Multi-Pronged Approach
 
-    *   There are equal parts explanations, practice problems, along with game commentaries.
+		*   There are equal parts explanations, practice problems, along with game commentaries.
 
 *   Learning Mechanisms
 
-    *   Explanations with example diagrams
-    *   Professional games with commentary
-    *   Practice problems
+		*   Explanations with example diagrams
+		*   Professional games with commentary
+		*   Practice problems
 **What aspect can be improved on?**
 
 *   I am happy to say that this book is great as it stands!

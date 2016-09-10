@@ -1,10 +1,13 @@
 ---
 title: 'Company Review: Yellow Mountain Imports'
+date: 2010-09-01 17:55:00
 id: 129
 categories:
-  - Vendors
-date: 2010-09-01 17:55:00
+	- Reviews
+	- Vendors
 tags:
+	- YMImports
+	- shops
 ---
 
 <div style="clear: both; text-align: center;">[![](http://1.bp.blogspot.com/_R3zwHD97QhU/TH7Ivtny8SI/AAAAAAAAAG4/m3rvKlUpH_A/s640/ymimports+logo.gif)](http://1.bp.blogspot.com/_R3zwHD97QhU/TH7Ivtny8SI/AAAAAAAAAG4/m3rvKlUpH_A/s1600/ymimports+logo.gif)</div><div style="text-align: center;">

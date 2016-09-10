@@ -1,17 +1,15 @@
 ---
 title: 'Book Review: The Workshop Lectures Volume 1'
-tags:
-  - attacking
-  - complicated joseki
-  - lectures
-  - opening
-  - workshop
-  - yilun yang
+date: 2013-08-05 20:00:50
 id: 3735
 categories:
-  - Books
-  - Reviews
-date: 2013-08-05 20:00:50
+	- Reviews
+	- Books
+tags:
+	- Slate-and-Shell
+	- attacking
+	- joseki
+	- opening
 ---
 
 [![The Workshop Lectures Volume 1](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv1.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv1.jpg)
@@ -60,15 +58,15 @@ Length, 68 Pages
 
 *   Workshop Format
 
-    *   Topics of broken down into its simplest format and represents more of an outline than a thorough textbook.
+		*   Topics of broken down into its simplest format and represents more of an outline than a thorough textbook.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations with accompanying diagrams
+		*   Explanations with accompanying diagrams
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems with explanations for each solution
+		*   Practice problems with explanations for each solution
 **What aspect can be improved on?**
 
 *   No complaints here!

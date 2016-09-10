@@ -1,14 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 70'
-tags:
-  - consistency
-  - progress
-  - report
-  - slow and steady wins the race
+date: 2014-07-11 19:39:22
 id: 5552
 categories:
-  - Progress Reports
-date: 2014-07-11 19:39:22
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Overview

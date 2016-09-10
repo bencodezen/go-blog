@@ -1,19 +1,20 @@
 ---
 title: Go Congress 2014 - Day 7
-tags:
-  - dahye lee
-  - evan cho
-  - francis meyers
-  - jungsang park
-  - mark
-  - myung wan kim
-  - nate
-  - nathan
+date: 2014-10-03 11:22:28
 id: 5816
 categories:
-  - Events
-  - Journal
-date: 2014-10-03 11:22:28
+	- Journal
+	- Events
+tags:
+	- dahye-lee
+	- evan-cho
+	- francis-meyers
+	- jungsang-park
+	- mark
+	- myung-wan-kim
+	- nate
+	- nathan
+	- go-congress
 ---
 
 [Prelude](http://www.bengozen.com/go-congress-2014-prelude/ "Go Congress 2014 — Prelude") - [I](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - [II](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - [III](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - [IV](http://www.bengozen.com/go-congress-2014-day-4/ "Go Congress 2014 — Day 4") - [V](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - [VI](http://www.bengozen.com/go-congress-2014-day-6/ "Go Congress 2014 — Day 6") - **VII **- [Conclusion](http://www.bengozen.com/go-congress-2014-conclusion/ "Go Congress 2014 — Conclusion")

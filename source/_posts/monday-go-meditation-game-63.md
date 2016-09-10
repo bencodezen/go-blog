@@ -1,18 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 63'
-tags:
-  - 3k
-  - 4k opponent
-  - b+10.5
-  - black
-  - commentary
-  - kifu
-  - review
+date: 2014-07-07 07:15:09
 id: 5501
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-07-07 07:15:09
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

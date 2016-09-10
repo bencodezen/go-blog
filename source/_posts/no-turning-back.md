@@ -1,13 +1,11 @@
 ---
 title: No Turning Back
-tags:
-  - kyu tunnel vision
-  - new perspective
-  - whole board thinking
+date: 2013-05-28 17:00:24
 id: 2791
 categories:
-  - Journal
-date: 2013-05-28 17:00:24
+	- Journal
+tags:
+	- new-perspective
 ---
 
 In the past, the go board was fragmented in my mind. Depending on the tide of the battle or how certain frameworks were developing, my brain would divide the board into various areas of focus. As a result, I very quickly lost sight of the bigger picture and had a difficult time figuring out what to do next or executing any particular strategy well. In fact, the only time I believe I was able to strategically dominate my opponent is when they jumped head first into a framework I was familiar in utilizing (e.g., the Chinese opening).

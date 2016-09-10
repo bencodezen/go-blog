@@ -1,17 +1,12 @@
 ---
 title: Play Against a Troll and Win! Achievement Complete!
-tags:
-  - achievement
-  - how to deal with a troll
-  - kifu
-  - troll
-  - weiqi
+date: 2012-09-20 17:00:00
 id: 31
 categories:
-  - Advice
-  - Journal
-  - Kifu
-date: 2012-09-20 17:00:00
+	- Journal
+tags:
+	- kifu
+	- trolls
 ---
 
 **ANNOUNCEMENT: All the games will now come with full commentary<del> in order to minimize the complication of having to flip back and forth between the blog post and the game</del>. I will do my best to diligently put down any variations I saw and why I played the moves that I did. So please be sure to <del>visit the link and then</del> let me know your thoughts! Enjoy! **

@@ -1,9 +1,10 @@
 ---
 title: How to Print Readable Go Records
+date: 2010-09-02 09:26:00
 id: 126
 categories:
-  - Guides
-date: 2010-09-02 09:26:00
+	- Articles
+	- Guides
 tags:
 ---
 
@@ -35,7 +36,7 @@ For those who have SmartGo2, I contacted their customer service (who got back to
 5.  <span style="border-collapse: collapse;">As with above, here's an example:</span><span style="border-collapse: collapse;"><div style="text-align: center;"><span style="border-collapse: separate;">[![](http://4.bp.blogspot.com/_R3zwHD97QhU/TH-k6zLztHI/AAAAAAAAAIQ/Zs7tZapdgGk/s320/SmartGo+Kifu.jpg)](http://4.bp.blogspot.com/_R3zwHD97QhU/TH-k6zLztHI/AAAAAAAAAIQ/Zs7tZapdgGk/s1600/SmartGo+Kifu.jpg)</span></div></span>
 
 <span style="border-collapse: collapse;">They also recommended a method of exporting the diagrams, but I had no luck with that as of yet.  </span>
-<span style="border-collapse: collapse;"> 
+<span style="border-collapse: collapse;">
 When you compare the two, I'm sure you noticed that t</span><span style="border-collapse: collapse;">here's a coordinate system on the SmartGo2 that you can print out.  As far as I'm aware, you can't do that just yet with CGoban3\.  Another thing I really appreciate about the SmartGo2 is the fact that it prints out all the ko's so that record keeping is easier.  This means when you're recreating your games you're not like, "Where is the #$%& move 119?!?!"   Though this is small, SmartGo2 also automatically prints what diagram it is (e.g. 101-150).</span>
 <div style="text-align: left;"><span style="border-collapse: collapse;">
 </span></div><div style="text-align: left;"><span style="border-collapse: collapse;">Don't get me wrong though, the free one works fantastic and is a great alternative for those who aren't quite ready to drop $50 to buy SmartGo2\.  I'll try and come out with the reviews for the respective softwares soon enough so you can see if it's worth your time.  Hope this helps some of you out!</span></div>

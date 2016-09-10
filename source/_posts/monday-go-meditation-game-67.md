@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 67'
-tags:
-  - black
-  - even
-  - go congress
-  - resign
-  - victory
+date: 2014-10-20 07:00:45
 id: 5878
 categories:
-  - Commentaries
-  - Kifu
-date: 2014-10-20 07:00:45
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- go-congress
 ---
 
 ## Introduction

@@ -1,15 +1,10 @@
 ---
 title: What Do You Look for in a Book Review?
-tags:
-  - book review
-  - help
-  - improving book reviews
-  - need feedback
-  - user inquiry
+date: 2013-06-29 05:00:55
 id: 3151
 categories:
-  - Journal
-date: 2013-06-29 05:00:55
+	- Journal
+tags:
 ---
 
 Since I started reviewing books back in 2010, I have been updating the book review template as time has gone on. Categories were added and removed based on whether or not I felt it was relevant anymore. As some of you might have noticed, the book review format changed recently; but I'm already feeling dissatisfied with it even though I just updated it recently. On top of it all, I'm not sure my opinion is enough to validate whether a category is relevant or not.

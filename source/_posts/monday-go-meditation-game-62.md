@@ -1,17 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 62'
-tags:
-  - 3k opponent
-  - b+resign
-  - black
-  - commentary
-  - kifu
-  - review
+date: 2014-06-30 07:15:07
 id: 5471
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-06-30 07:15:07
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

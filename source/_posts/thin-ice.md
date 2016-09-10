@@ -1,14 +1,11 @@
 ---
 title: On Thin Ice
-tags:
-  - anxious
-  - demotion
-  - promotion
-  - yunguseng dojang
+date: 2014-05-27 00:54:26
 id: 5362
 categories:
-  - Journal
-date: 2014-05-27 00:54:26
+	- Journal
+tags:
+	- yunguseng-dojang
 ---
 
 The first month of [Yunguseng Dojang](http://www.yunguseng.com "Yunguseng Dojang Official Site") (YSD) is almost over and you know what that means: top two players get promoted while the bottom two players get demoted. And as you might have guessed from the title of the post, I am on thin ice this month.

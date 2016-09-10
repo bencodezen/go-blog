@@ -1,12 +1,10 @@
 ---
 title: Losing Sight of Zen
-tags:
-  - calmness
-  - zen
+date: 2013-06-13 18:00:54
 id: 2953
 categories:
-  - Journal
-date: 2013-06-13 18:00:54
+	- Journal
+tags:
 ---
 
 [caption id="attachment_2954" align="aligncenter" width="413"][![moiillusions](http://www.bengozen.com/wp-content/uploads/2013/06/moiillusions.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/moiillusions.jpg) Credit to [moillusions](http://www.moillusions.com/) for the illustration and frozensoul for finding it.[/caption]

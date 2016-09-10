@@ -1,13 +1,13 @@
 ---
 title: Lee Sedol Moving to US?!?!
-tags:
-  - lee sedol
-  - losing streak
+date: 2013-02-11 17:30:34
 id: 1872
 categories:
-  - Events
-  - Journal
-date: 2013-02-11 17:30:34
+	- Other
+	- Announcements
+tags:
+	- lee-sedol
+	- losing-streak
 ---
 
 For those who have not heard the news, there is talk of the possibility of Lee Sedol coming to the United States (Source: [GoGameGuru](http://gogameguru.com/lee-sedol-retirement-move-overseas/)). For those who are not aware of who [Lee Sedol](http://en.wikipedia.org/wiki/Lee_Sedol) is, he is one of the top professional players right now. While many of us in the Western hemisphere could only dream about the possibility of even seeing one of his games live in person, the mere thought that I could possibly meet him in person and (in the ultimate of possibilities) actually get lessons from him is just....

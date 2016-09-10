@@ -1,16 +1,11 @@
 ---
 title: Reckless Go
-tags:
-  - 4k
-  - black
-  - defeat
-  - even
-  - resignation
+date: 2012-12-19 16:54:34
 id: 1428
 categories:
-  - Journal
-  - Kifu
-date: 2012-12-19 16:54:34
+	- Journal
+tags:
+	- kifu
 ---
 
 Life is funny sometimes. Just when I thought I had a breakthrough in my go, I went ahead and played one of the worst games I've played in awhile. For those who have experienced the ups and downs of go, you know what I'm talking about: reckless go. For those who don't know what it is, it consists of the following:

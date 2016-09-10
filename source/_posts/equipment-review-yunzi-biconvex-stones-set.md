@@ -1,19 +1,15 @@
 ---
 title: 'Equipment Review: Yunzi Biconvex Stones Set'
-tags:
-  - bag
-  - biconvex
-  - bowls
-  - carrying case
-  - double convex
-  - kitani
-  - travel
-  - yunzi
+date: 2013-03-31 09:00:00
 id: 107
 categories:
-  - Equipment
-  - Reviews
-date: 2013-03-31 09:00:00
+	- Reviews
+	- Equipment
+tags:
+	- stones
+	- yunzi-stones
+	- bowls
+	- portable-equipment
 ---
 
 [![biconvexyunzisetproduct](http://www.bengozen.com/wp-content/uploads/2010/09/biconvexyunzisetproduct.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/biconvexyunzisetproduct.jpg)

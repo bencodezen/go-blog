@@ -1,17 +1,11 @@
 ---
 title: 'Journal Entry: #11'
-tags:
-  - black
-  - bot
-  - even
-  - ladder anxiety
-  - resignation
-  - victory
 id: 5930
 categories:
-  - Journal
-  - Kifu
+	- Journal
 date: 2014-11-18 18:00:59
+tags:
+	- kifu
 ---
 
 Over the last few days, part of my subconscious was nagging me for spending so much time not playing a single game. And while I did play at least one 9x9 game a day, it has been ages since I last played a full 19x19 game in real time. And for those who want to count the one at the Pumpkin Classic, that doesn’t really count since I wasn’t planning to play. So in another sense, I have been avoiding playing games in real time.

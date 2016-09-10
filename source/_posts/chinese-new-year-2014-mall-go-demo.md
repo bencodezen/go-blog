@@ -1,16 +1,13 @@
 ---
 title: Chinese New Year 2014 Mall Go Demo
-tags:
-  - chinese new year
-  - demo
-  - go demonstration
-  - mall
-  - workshop
+date: 2014-02-09 21:05:53
 id: 4623
 categories:
-  - Events
-  - Journal
-date: 2014-02-09 21:05:53
+	- Journal
+	- Events
+tags:
+	- chinese-new-year
+	- demo
 ---
 
 [caption id="attachment_4624" align="aligncenter" width="336"][![2014chinesenewyearmall01](http://www.bengozen.com/wp-content/uploads/2014/02/2014chinesenewyearmall01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/2014chinesenewyearmall01.jpg) Right (Top): Dragon decoration. Right (Center): Two banners with Chinese calligraphy. Right (Bottom): Performance stage at the center of the mall.[/caption]

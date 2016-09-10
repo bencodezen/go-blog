@@ -1,15 +1,10 @@
 ---
 title: Tennis and Go
-tags:
-  - baduk
-  - go
-  - playing against a child
-  - tennis
-  - weiqi
+date: 2010-11-15 22:57:00
 id: 47
 categories:
-  - Journal
-date: 2010-11-15 22:57:00
+	- Journal
+tags:
 ---
 
 So forgive my absence. I am currently trying to attend to a number of things. I'll be updating you with a couple of insights that I've made into my Go playing so far.

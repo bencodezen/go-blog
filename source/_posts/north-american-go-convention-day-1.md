@@ -1,18 +1,15 @@
 ---
 title: North American Go Convention - Day 1
-tags:
-  - 6d
-  - joanne missingham
-  - nagc
-  - north american go convention
-  - pro
-  - tournament
+date: 2013-02-14 17:00:42
 id: 1895
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2013-02-14 17:00:42
+	- Journal
+	- Events
+tags:
+	- kifu
+	- joanne-missingham
+	- pros
+	- tournaments
 ---
 
 [Introduction](http://www.bengozen.com/north-american-go-convention/ "North American Go Convention!!!")** --- Day 1** --- [Day 2](http://www.bengozen.com/north-american-go-convention-day-2/ "North American Go Convention — Day 2") --- [Day 3](http://www.bengozen.com/north-american-go-convention-day-3/ "North American Go Convention — Day 3") --- [Day 4](http://www.bengozen.com/north-american-go-convention-day-4/ "North American Go Convention — Day 4") --- [Day 5](http://www.bengozen.com/north-american-go-convention-day-5/ "North American Go Convention — Day 5") --- [Conclusion](http://www.bengozen.com/north-american-go-convention-conclusion/ "North American Go Convention — Conclusion")

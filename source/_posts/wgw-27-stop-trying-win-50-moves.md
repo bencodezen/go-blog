@@ -1,9 +1,10 @@
 ---
 title: 'WGW 27: Stop Trying to Win in 50 Moves'
+date: 2013-11-13 07:00:14
 id: 4292
 categories:
-  - Weekly Go Wednesday
-date: 2013-11-13 07:00:14
+	- Articles
+	- Weekly Go Wednesday
 tags:
 ---
 

@@ -1,13 +1,10 @@
 ---
 title: Taking It One Day at a Time
-tags:
-  - one step at a time
-  - return
-  - simple yet effective
+date: 2014-08-04 15:42:03
 id: 5564
 categories:
-  - Journal
-date: 2014-08-04 15:42:03
+	- Journal
+tags:
 ---
 
 With the U.S. Go Congress quickly approaching, it only seemed appropriate that it be high time that I returned back to go. And to be honest, it couldn’t have happened a moment sooner.

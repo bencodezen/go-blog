@@ -1,20 +1,15 @@
 ---
 title: 'WGW 31: Gu Li vs Lee Sedol - Jubango Game 1 Amateur Review'
-tags:
-  - amateur review
-  - battle
-  - epic
-  - game 1
-  - gu li
-  - jubango
-  - kiai
-  - lee sedol
+date: 2014-02-12 07:15:53
 id: 4647
 categories:
-  - Events
-  - Kifu
-  - Weekly Go Wednesday
-date: 2014-02-12 07:15:53
+	- Commentaries
+tags:
+	- kifu
+	- gu-li
+	- jubango
+	- kiai
+	- lee-sedol
 ---
 
 ## Weekly Go Wednesday: Issue #31

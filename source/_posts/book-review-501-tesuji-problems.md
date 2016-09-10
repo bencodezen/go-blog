@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: 501 Tesuji Problems'
-tags:
-  - mastering the basics series
-  - not worth your time
-  - tesuji
+date: 2013-05-26 05:00:10
 id: 2702
 categories:
-  - Books
-  - Reviews
-date: 2013-05-26 05:00:10
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- tesuji
+	- go-problems
 ---
 
 ## [![mtb4cover](http://www.bengozen.com/wp-content/uploads/2013/05/mtb4cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/mtb4cover.jpg)

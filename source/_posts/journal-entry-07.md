@@ -1,9 +1,9 @@
 ---
 title: 'Journal Entry: #07'
+date: 2014-10-21 22:18:25
 id: 5893
 categories:
-  - Journal
-date: 2014-10-21 22:18:25
+	- Journal
 tags:
 ---
 

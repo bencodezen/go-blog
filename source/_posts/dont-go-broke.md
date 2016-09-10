@@ -1,13 +1,10 @@
 ---
 title: Don't Go Broke
-tags:
-  - buying go stuff
-  - money
-  - spending
+date: 2010-08-26 13:00:00
 id: 139
 categories:
-  - Advice
-date: 2010-08-26 13:00:00
+	- Articles
+tags:
 ---
 
 _I was in the middle of typing up "Guide to Go Equipment for Beginners," when I realized it's probably more important that I first clarify the issue of your Go budget. You don't want to go broke (or worse... into debt) buying up all the Go books and equipment you think you might need._
@@ -37,15 +34,15 @@ So be on the lookout for the following guides:
 
 *   Go Equipment for the Casual Player
 
-    *   The "Don't Want to Invest in Anything Yet" Budget
-    *   The $50 and Below Budget
-    *   The $100 Budget
-    *   The $250 Budget
+		*   The "Don't Want to Invest in Anything Yet" Budget
+		*   The $50 and Below Budget
+		*   The $100 Budget
+		*   The $250 Budget
 
 *   Go Equipment for the Serious Player
 *   Go Equipment for the Hardcore Player
 
-    *   The $100 Budget
-    *   The $250 Budget
-    *   The "Unlimited Resource" Budget
+		*   The $100 Budget
+		*   The $250 Budget
+		*   The "Unlimited Resource" Budget
 Note: If there is a budget you'd like me to address that I forgot about, please let me know!

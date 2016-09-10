@@ -1,14 +1,14 @@
 ---
 title: 'Book Review: The Second Book of Go'
-tags:
-  - capturing races strategy
-  - handicap strategy
-  - opening strategy
+date: 2012-12-18 12:30:20
 id: 965
 categories:
-  - Books
-  - Reviews
-date: 2012-12-18 12:30:20
+	- Reviews
+	- Books
+tags:
+	- Kiseido
+	- strategy
+	- principles
 ---
 
 [![Cover of The Second Book of  Go](http://www.bengozen.com/wp-content/uploads/2012/11/secondbookofgocover.jpg "Cover of The Second Book of  Go")](http://www.bengozen.com/wp-content/uploads/2012/11/secondbookofgocover.jpg)
@@ -48,19 +48,19 @@ Generally, books that try to cover a large number of topics in a small amount of
 1.  Preface
 2.  Part One: Strategy
 
-    1.  Chapter 1: The Opening Moves
-    2.  Chapter 2: Handicap Go-Strategy
-    3.  Chapter 3: Josekis
-    4.  Chapter 4: Securing Territory by Attacking
+		1.  Chapter 1: The Opening Moves
+		2.  Chapter 2: Handicap Go-Strategy
+		3.  Chapter 3: Josekis
+		4.  Chapter 4: Securing Territory by Attacking
 
 3.  Part Two: Tactics
 
-    1.  Tesuji
-    2.  Life and Death
-    3.  Counting Liberties
-    4.  How to Win Capturing Races
-    5.  Good and Bad Shape
-    6.  Ko Fights
+		1.  Tesuji
+		2.  Life and Death
+		3.  Counting Liberties
+		4.  How to Win Capturing Races
+		5.  Good and Bad Shape
+		6.  Ko Fights
 
 #### Recommended Vendors:
 

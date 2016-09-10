@@ -1,13 +1,11 @@
 ---
 title: Go-Related Activities
-tags:
-  - design update
-  - other go related activities
-  - web design
+date: 2013-03-26 17:30:00
 id: 2301
 categories:
-  - Journal
-date: 2013-03-26 17:30:00
+	- Journal
+tags:
+	- redesign
 ---
 
 So it seems that this week will definitely not be nearly as productive in regards to playing games as last week. Although it will be game light, here are some of the things I am working on:

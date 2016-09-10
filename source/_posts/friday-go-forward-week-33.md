@@ -1,11 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 33'
-tags:
-  - increased intensity
+date: 2013-09-20 06:00:21
 id: 3956
 categories:
-  - Progress Reports
-date: 2013-09-20 06:00:21
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Friday Go Forward: Week 33

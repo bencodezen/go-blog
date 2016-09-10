@@ -1,12 +1,10 @@
 ---
 title: Not Out of the Woods Yet
-tags:
-  - off days
-  - still in a funk
+date: 2013-02-12 22:23:18
 id: 1882
 categories:
-  - Journal
-date: 2013-02-12 22:23:18
+	- Journal
+tags:
 ---
 
 For my final game in ASR, I'm happy to report that it seems my losing streak has come to an end. Although based on previous experience, the single win is nowhere near indicative of whether the streak will truly end or whether it is simply an anomaly amongst the actual pattern of continued losing.

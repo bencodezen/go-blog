@@ -1,14 +1,13 @@
 ---
 title: Get Your Game Reviewed Here!
-tags:
-  - game reviews
-  - monday go meditation
-  - new announcement
+date: 2013-02-26 12:00:26
 id: 2091
 categories:
-  - Events
-  - Journal
-date: 2013-02-26 12:00:26
+	- Journal
+tags:
+	- game-reviews
+	- monday-go-meditation
+	- announcement
 ---
 
 For those who aren't aware, I became a [GoTeachingLadder](http://www.bengozen.com/website-review-go-teaching-ladder/ "Website Review: Go Teaching Ladder") reviewer some time ago; but I have yet to see a request for a review yet. Then, as fate would have it, hilbert90 made a brilliant suggestion for the upcoming Monday Go Meditations series: Why not open the reviews to the readers as well?

@@ -1,15 +1,12 @@
 ---
 title: Relief
-tags:
-  - 15k
-  - 6 stones
-  - black
-  - handicap go
-  - victory
+date: 2010-10-04 17:07:00
 id: 86
 categories:
-  - Kifu
-date: 2010-10-04 17:07:00
+	- Journal
+tags:
+	- kifu
+	- handicap-go
 ---
 
 So here's the game that broke my miserable resignation streak from last night. It was a game against a 9k. We played with a proper handicap this time (one guy tried to give me less stones earlier and as the idiot I accepted... let's just say it didn't go so well).

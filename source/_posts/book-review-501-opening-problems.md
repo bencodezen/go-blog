@@ -1,16 +1,16 @@
 ---
 title: 'Book Review: 501 Opening Problems'
-tags:
-  - beginning
-  - opening
-  - principles
-  - problems
-  - tsumego
+date: 2013-05-16 19:30:30
 id: 2635
 categories:
-  - Books
-  - Reviews
-date: 2013-05-16 19:30:30
+	- Reviews
+	- Books
+tags:
+	- kiseido
+	- opening
+	- principles
+	- go-problems
+	- tsumego
 ---
 
 [![mtb1cover](http://www.bengozen.com/wp-content/uploads/2013/04/mtb1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/04/mtb1cover.jpg)

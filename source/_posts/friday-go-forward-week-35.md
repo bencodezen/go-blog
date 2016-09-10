@@ -1,9 +1,11 @@
 ---
 title: 'Friday Go Forward: Week 35'
+date: 2013-10-04 05:00:21
 id: 4052
 categories:
-  - Progress Reports
-date: 2013-10-04 05:00:21
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
 tags:
 ---
 

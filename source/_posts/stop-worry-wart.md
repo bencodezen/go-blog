@@ -1,17 +1,13 @@
 ---
 title: Stop Being a Worry Wart
-tags:
-  - confidence
-  - courage
-  - faith in one's strength
-  - fall and get back up
-  - imaginary
-  - worry
+date: 2013-10-08 19:52:46
 id: 4125
 categories:
-  - Advice
-  - Journal
-date: 2013-10-08 19:52:46
+	- Journal
+tags:
+	- frozensoul
+	- lessons
+	- advice
 ---
 
 A couple of nights ago, frozensoul mentioned something to me that really struck me.

@@ -1,17 +1,13 @@
 ---
 title: 'Book Review: How Not to Play Go'
-tags:
-  - bad habits
-  - how not to play go
-  - kyu players
-  - misconceptions
-  - stuck
-  - wishful thinking
+date: 2013-08-04 15:00:00
 id: 132
 categories:
-  - Books
-  - Reviews
-date: 2013-08-04 15:00:00
+	- Reviews
+	- Books
+tags:
+	- slate-and-shell
+	- yuan-zhou
 ---
 
 [![hntpgcover](http://www.bengozen.com/wp-content/uploads/2010/09/hntpgcover.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/hntpgcover.jpg)
@@ -60,15 +56,15 @@ Length, 32 Pages
 
 *   Game Commentary Style
 
-    *   Utilizes game records to illustrate the author's message.
+		*   Utilizes game records to illustrate the author's message.
 
 *   Primary Learning Mechanism:
 
-    *   Game commentaries
+		*   Game commentaries
 
 *   Other Learning Mechanisms:
 
-    *   Short chapter explaining the general principles of how not to play go.
+		*   Short chapter explaining the general principles of how not to play go.
 **What aspect can be improved on?**
 
 *   I would have liked to see some practice problems to reinforce the concepts that Zhou tries to illustrate.

@@ -1,13 +1,10 @@
 ---
 title: A Playing Slump
-tags:
-  - no rushed games
-  - no time
-  - playing slump
+date: 2013-03-12 23:00:40
 id: 2215
 categories:
-  - Journal
-date: 2013-03-12 23:00:40
+	- Journal
+tags:
 ---
 
 It seems I've hit a bit of a playing slump recently. Every time I'm asked to play a game, I find myself turning down most games (except in rare cases where frozen or a friend asks for a game).

@@ -1,12 +1,10 @@
 ---
 title: Trying to Find Balance
-tags:
-  - balancing life
-  - blog updates
+date: 2013-02-25 17:00:58
 id: 2054
 categories:
-  - Journal
-date: 2013-02-25 17:00:58
+	- Journal
+tags:
 ---
 
 With the [NAGC ](http://www.bengozen.com/north-american-go-convention/ "North American Go Convention!!!")behind me, I've been hard at work trying to figure out how to best balance the various aspects of go in my life. In terms of the magnitude of impact go has on my life, here are the various activities I've outlined:

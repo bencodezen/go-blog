@@ -1,22 +1,12 @@
 ---
 title: The Style Gap
-tags:
-  - black
-  - china
-  - defeat
-  - even
-  - exploration
-  - gap
-  - go style
-  - japan
-  - korea
-  - learning
-  - resignation
+date: 2013-01-20 09:30:48
 id: 1705
 categories:
-  - Journal
-  - Kifu
-date: 2013-01-20 09:30:48
+	- Journal
+tags:
+	- play-styles
+	- kifu
 ---
 
 For anyone in the go world, it should not come as a surprise to you when I say that a majority of go books that I own are from the Japanese school of go (e.g., Kiseido). After all, a lot of new players come to know of the game through [Hikaru no Go](http://en.wikipedia.org/wiki/Hikaru_no_Go "Hikaru no Go Wikipedia"), which would explain why there is generally a large focus on Japanese go terminology, literature, KGS, and so forth. As a result, I would not be surprised if a large number of go players are unaware that the go they've been exposed to all this time is just one style of the major countries.

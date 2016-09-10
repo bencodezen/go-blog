@@ -1,9 +1,10 @@
 ---
 title: 'Weekly Status Report: #12'
+date: 2015-01-03 08:00:54
 id: 5961
 categories:
-  - Progress Reports
-date: 2015-01-03 08:00:54
+	- Journal
+	- Progress Reports
 tags:
 ---
 

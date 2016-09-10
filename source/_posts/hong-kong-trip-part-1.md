@@ -1,20 +1,12 @@
 ---
 title: 'Hong Kong Trip: Part 1 - The Scenery'
-tags:
-  - hong kong
-  - photography
-  - scenery
-  - the peak
-  - tian tan buddha
-  - tourist
-  - trip
-  - victoria peak
+date: 2014-04-15 22:57:58
 id: 4916
 categories:
-  - Cultural
-  - Events
-  - Journal
-date: 2014-04-15 22:57:58
+	- Journal
+	- Events
+tags:
+	- hong-kong
 ---
 
 _Part 1 — The Scenery_   ||   [Part 2 — The Food](http://www.bengozen.com/hong-kong-trip-part-2/ "Hong Kong Trip: Part 2 — The Food")   ||   [Part 3 — Weiqi](http://www.bengozen.com/hong-kong-trip-part-3/ "Hong Kong Trip: Part 3 — Weiqi")

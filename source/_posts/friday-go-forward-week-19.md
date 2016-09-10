@@ -1,12 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 19'
-tags:
-  - lots of training
-  - zen
+date: 2013-06-14 05:00:40
 id: 2921
 categories:
-  - Progress Reports
-date: 2013-06-14 05:00:40
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- training
 ---
 
 ## Overview

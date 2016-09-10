@@ -1,16 +1,11 @@
 ---
 title: 'Failed Games #1 + Other Thoughts on SDKs'
-tags:
-  - baduk
-  - ddk vs sdk
-  - go
-  - kifu
-  - weiqi
+date: 2010-11-04 10:46:00
 id: 51
 categories:
-  - Journal
-  - Kifu
-date: 2010-11-04 10:46:00
+	- Journal
+tags:
+	- kifu
 ---
 
 <div style="clear: both; text-align: left;">

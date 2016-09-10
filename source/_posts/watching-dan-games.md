@@ -1,13 +1,11 @@
 ---
 title: Watching Dan Games
-tags:
-  - observing games
-  - training
-  - watching dan games
+date: 2012-12-04 12:30:08
 id: 1242
 categories:
-  - Journal
-date: 2012-12-04 12:30:08
+	- Journal
+tags:
+	- training
 ---
 
 [![](http://www.bengozen.com/wp-content/uploads/2012/12/CQ5-logo.png "Adobe CQ Logo")](http://www.bengozen.com/wp-content/uploads/2012/12/CQ5-logo.png)

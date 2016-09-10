@@ -1,16 +1,12 @@
 ---
 title: First Time Playing Rengo!
-tags:
-  - new experiences
-  - new regimen
-  - new study
-  - rengo
-  - white
+date: 2013-01-31 19:00:49
 id: 1784
 categories:
-  - Journal
-  - Kifu
-date: 2013-01-31 19:00:49
+	- Journal
+tags:
+	- kifu
+	- rengo
 ---
 
 Last night I had the opportunity to play my first game of rengo ever! For those wondering what rengo is, it is pair go! You essentially alternate turns with your teammates. Obviously, the trickiest part is trying to make sure your strategy is not conflicting with your opponents.

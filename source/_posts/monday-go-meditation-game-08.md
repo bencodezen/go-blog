@@ -1,14 +1,16 @@
 ---
 title: 'Monday Go Meditation: Game 08'
-tags:
-  - chinese opening
-  - insei
-  - mirror go
-  - professional
+date: 2013-04-22 05:00:44
 id: 2573
 categories:
-  - Monday Go Meditation
-date: 2013-04-22 05:00:44
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- chinese-opening
+	- insei
+	- mirror-go
+	- pros
 ---
 
 ## Introduction

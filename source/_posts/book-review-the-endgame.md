@@ -1,14 +1,13 @@
 ---
 title: 'Book Review: The Endgame'
-tags:
-  - counting
-  - kiseido
-  - the endgame
+date: 2013-07-22 22:00:52
 id: 3507
 categories:
-  - Books
-  - Reviews
-date: 2013-07-22 22:00:52
+	- Reviews
+	- Books
+tags:
+	- Kiseido
+	- endgame
 ---
 
 [![The Endgame Cover](http://www.bengozen.com/wp-content/uploads/2013/07/egsv7theendgame.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/egsv7theendgame.jpg)
@@ -76,17 +75,17 @@ Length, 214 Pages
 
 *   Textbook Approach
 
-    *   Explanations can be very dense at times and it uses problems or examples to try and illustrate its message.
+		*   Explanations can be very dense at times and it uses problems or examples to try and illustrate its message.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations.
+		*   Explanations.
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems.
-    *   Multiple choice problems.
-    *   Examples from professional games.
+		*   Practice problems.
+		*   Multiple choice problems.
+		*   Examples from professional games.
 **What aspects can be improved on?**
 
 *   The first chapter is pretty frightening for anyone who is new to endgame and cannot process a million things going on at once.

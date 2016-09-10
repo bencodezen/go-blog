@@ -1,17 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 52'
-tags:
-  - 3k
-  - overplays
-  - reading
-  - resign
-  - victory
-  - white
+date: 2014-04-21 07:15:32
 id: 4909
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-04-21 07:15:32
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

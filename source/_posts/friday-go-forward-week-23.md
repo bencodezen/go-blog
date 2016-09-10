@@ -1,15 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 23'
-tags:
-  - educational
-  - intense training
-  - korean books
-  - level up
-  - studying
+date: 2013-07-12 05:00:02
 id: 3299
 categories:
-  - Progress Reports
-date: 2013-07-12 05:00:02
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- training
+	- studying
 ---
 
 ## **Overview**

@@ -1,16 +1,13 @@
 ---
 title: Three Months
-tags:
-  - asr
-  - go
-  - progress update
-  - slate and shell stones
-  - weiqi
+date: 2010-11-08 12:07:00
 id: 49
 categories:
-  - Journal
-  - Kifu
-date: 2010-11-08 12:07:00
+	- Journal
+tags:
+	- asr
+	- kifu
+	- slate-and-shell-stones
 ---
 
 Happy 3 months to my Go Quest! Time for the monthly progress update!

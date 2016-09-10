@@ -1,14 +1,13 @@
 ---
 title: Things You Should Know Before Going to a Tournament
-tags:
-  - tips
-  - tournaments
+date: 2012-11-28 09:00:40
 id: 1068
 categories:
-  - Advice
-  - Articles
-  - Weekly Go Wednesday
-date: 2012-11-28 09:00:40
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- advice
+	- tournaments
 ---
 
 ## _Weekly Go Wednesday, Issue #8_

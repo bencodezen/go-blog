@@ -1,12 +1,12 @@
 ---
 title: Stirring the Embers Once Again...
-tags:
-  - go seigen
+date: 2014-12-10 21:34:35
 id: 5949
 categories:
-  - Journal
-  - Kifu
-date: 2014-12-10 21:34:35
+	- Journal
+tags:
+	- kifu
+	- go-seigen
 ---
 
 [![2014-12-10 Go Seigen](http://www.bengozen.com/wp-content/uploads/2014/12/2014-12-10-Go-Seigen-300x225.jpg)](http://www.bengozen.com/wp-content/uploads/2014/12/2014-12-10-Go-Seigen.jpg)

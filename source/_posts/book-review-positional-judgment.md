@@ -1,17 +1,14 @@
 ---
 title: 'Book Review: Positional Judgment'
-tags:
-  - counting
-  - estimating territory
-  - evaluating
-  - positional judgement
-  - strategic planning
-  - whole board thinking
+date: 2013-06-23 05:00:28
 id: 2926
 categories:
-  - Books
-  - Reviews
-date: 2013-06-23 05:00:28
+	- Reviews
+	- Books
+tags:
+	- Kiseido
+	- positional-judgement
+	- strategy
 ---
 
 ## [![positionaljudgementcover](http://www.bengozen.com/wp-content/uploads/2013/08/positionaljudgementcover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/positionaljudgementcover.jpg)
@@ -61,33 +58,33 @@ If I were to critique one thing about the book, it's that I would love more prac
 1.  Foreward - Notes to the Reader
 2.  Chapter 1: The Three Main Points of Game Analysis
 
-    1.  Point 1: First Count the Territory
+		1.  Point 1: First Count the Territory
 
-            1.  Examples 1 - 3
+						1.  Examples 1 - 3
 
-        2.  Point 2: Assess Territory from Thickness
+				2.  Point 2: Assess Territory from Thickness
 
-            1.  Examples 1 - 4
+						1.  Examples 1 - 4
 
-        3.  Point 3: Estimate the Territory from a Moyo
+				3.  Point 3: Estimate the Territory from a Moyo
 
-            1.  Examples 1 - 3
+						1.  Examples 1 - 3
 
 3.  Chapter 2: A High-Speed Analysis Test
 
-    1.  Problems 1 - 6
+		1.  Problems 1 - 6
 
 4.  Chapter 3: A Broad Overview Results From Accurate Analysis
 
-    1.  Examples 1 - 10
+		1.  Examples 1 - 10
 
 5.  Chapter 4: Large-Scale Analysis Problems: The Type Amateurs Often Get Wrong
 
-    1.  Problems 1 - 8
+		1.  Problems 1 - 8
 
 6.  Chapter 5: Cho-Style Game Analysis
 
-    1.  Games 1 - 2
+		1.  Games 1 - 2
 
 ### Recommended Vendors:
 

@@ -1,10 +1,11 @@
 ---
 title: Off In Development World...
+date: 2015-06-18 19:07:11
 id: 5990
 categories:
-  - Journal
-date: 2015-06-18 19:07:11
+	- Journal
 tags:
+	- sabbatical
 ---
 
 As some of you are aware, I've gone off the deep end into the software development world. I'll be taking a longer sabbatical than anticipated; but you'll still be able to catch me for a game of go or discussion on things you can do to progress! So feel free to email me whenever and draw me out to a game on KGS whenever, because I could sure use the distraction.

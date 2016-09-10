@@ -1,14 +1,14 @@
 ---
 title: Lightbulb.....
-tags:
-  - goals
-  - mistakes
-  - private lesson
-  - yuan zhou
+date: 2010-09-16 21:12:00
 id: 110
 categories:
-  - Journal
-date: 2010-09-16 21:12:00
+	- Journal
+tags:
+	- goals
+	- private-lessons
+	- yuan-zhou
+	- lightbulbs
 ---
 
 <div style="clear: both; text-align: left;">
@@ -21,11 +21,11 @@ As I mentioned at the beginning of this month, I'm trying to break the double di
 
 1.  Finish the following books:
 
-    *   <span style="text-decoration: underline;">Opening Theory Made Easy</span> by Otake Hideo 9 dan
-    *   <span style="text-decoration: underline;">Whole Board Thinking in Joseki - Volume One</span> by Yi-Lun Yang
-    *   <span style="text-decoration: underline;">One Thousand and One Life-and-Death Problems</span> by Richard Bozulich
-    *   <span style="text-decoration: underline;">Understanding Dan Level Play</span> by Yuan Zhou
-    *   <span style="text-decoration: underline;">Tesuji</span> by James Davies
+		*   <span style="text-decoration: underline;">Opening Theory Made Easy</span> by Otake Hideo 9 dan
+		*   <span style="text-decoration: underline;">Whole Board Thinking in Joseki - Volume One</span> by Yi-Lun Yang
+		*   <span style="text-decoration: underline;">One Thousand and One Life-and-Death Problems</span> by Richard Bozulich
+		*   <span style="text-decoration: underline;">Understanding Dan Level Play</span> by Yuan Zhou
+		*   <span style="text-decoration: underline;">Tesuji</span> by James Davies
 
 2.  Replay 25 moves of a professional game (that has commentary) everyday.
 3.  Play one serious game (not a bot) everyday where I don't rush and try my hardest.

@@ -1,16 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 11'
-tags:
-  - 4k opponent
-  - 5k
-  - black
-  - bloodlust
-  - defeat
-  - ranked
+date: 2013-05-20 05:00:18
 id: 2680
 categories:
-  - Monday Go Meditation
-date: 2013-05-20 05:00:18
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

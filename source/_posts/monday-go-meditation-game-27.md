@@ -1,15 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 27'
-tags:
-  - 4 kyu
-  - black
-  - even
-  - resignation
-  - victory
+date: 2013-09-16 05:00:05
 id: 3914
 categories:
-  - Monday Go Meditation
-date: 2013-09-16 05:00:05
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

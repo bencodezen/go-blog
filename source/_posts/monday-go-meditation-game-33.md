@@ -1,17 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 33'
-tags:
-  - black
-  - cloudbrows
-  - even
-  - nate
-  - resignation
-  - victory
+date: 2013-10-28 06:00:02
 id: 4178
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2013-10-28 06:00:02
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- nate
 ---
 
 ## Introduction

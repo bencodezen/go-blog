@@ -1,13 +1,13 @@
 ---
 title: 'Friday Go Forward: Week 20'
-tags:
-  - less playing
-  - lots to do
-  - study mode
+date: 2013-06-21 05:00:50
 id: 2958
 categories:
-  - Progress Reports
-date: 2013-06-21 05:00:50
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- training
 ---
 
 ## Overview

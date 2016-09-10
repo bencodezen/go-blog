@@ -1,15 +1,12 @@
 ---
 title: Stronger-Player-Suji
-tags:
-  - don't be afraid
-  - growing
-  - stronger players
-  - tesuji
+date: 2013-01-30 09:00:51
 id: 1691
 categories:
-  - Advice
-  - Weekly Go Wednesday
-date: 2013-01-30 09:00:51
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- tesuji
 ---
 
 ## _Weekly Go Wednesday, Issue #15_

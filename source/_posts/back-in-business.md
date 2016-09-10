@@ -1,14 +1,12 @@
 ---
 title: Back in Business!
-tags:
-  - asr
-  - defeat
-  - even game
+date: 2012-11-26 12:30:01
 id: 1137
 categories:
-  - Journal
-  - Kifu
-date: 2012-11-26 12:30:01
+	- Journal
+tags:
+	- asr
+	- kifu
 ---
 
 I'm not sure if anyone else feels this way, but there's just something about playing an even game with someone much stronger than you that tends to bring out the best moves in you. And although I did not know this at the time, my game with Tilwen is what I needed to regain my composure and leave behind the reckless go I had been playing.

@@ -1,18 +1,15 @@
 ---
 title: 'Book Review: Level Up 2'
-tags:
-  - beginner
-  - educational
-  - korean
-  - level up
-  - practice
-  - school
-  - workbook
+date: 2013-07-09 05:00:36
 id: 3259
 categories:
-  - Books
-  - Reviews
-date: 2013-07-09 05:00:36
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up! - Volume 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup2cover.jpg)
@@ -105,17 +102,17 @@ Length, 167 Pages
 
 *   Workbook Approach
 
-    *   There are less explanations and more problems in this book, but any reader who has diligently followed practiced the problems from [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1") should have no issues solving the problems.
+		*   There are less explanations and more problems in this book, but any reader who has diligently followed practiced the problems from [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1") should have no issues solving the problems.
 
 *   Primary Learning Mechanism
 
-    *   Solving problems.
+		*   Solving problems.
 
 *   Other Learning Mechanisms
 
-    *   Cute comics to illustrate concepts like, "Before capturing your opponent, look at your own weak points."
-    *   Multiple choice questions such as," Who has made better territory?"
-    *   Kifus (i.e., game records) that are only around 10 moves long with short one line statements of the move's purpose.
+		*   Cute comics to illustrate concepts like, "Before capturing your opponent, look at your own weak points."
+		*   Multiple choice questions such as," Who has made better territory?"
+		*   Kifus (i.e., game records) that are only around 10 moves long with short one line statements of the move's purpose.
 **What aspects can be improved on?**
 
 *   The concept of chokchoksu (which is essentially shortage of liberties) should be introduced earlier on since there are a number of problems that use it in the solution.

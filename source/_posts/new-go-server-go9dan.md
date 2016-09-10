@@ -1,14 +1,13 @@
 ---
 title: New Go Server - Go9Dan!!!
-tags:
-  - 9 dans
-  - go9dan
-  - lee sedol
-  - new go server
+date: 2012-12-16 08:03:09
 id: 1359
 categories:
-  - Events
-date: 2012-12-16 08:03:09
+	- Other
+	- Announcements
+tags:
+	- lee-sedol
+	- go-servers
 ---
 
 After [Kaya.gs](http://www.kaya.gs "Kaya Go Server") came out with their go server, I would have never suspected that I would be sitting here telling you about a brand new go server; but reality always has a way of surprising you and I am thrilled to tell you about a brand new go server!!!

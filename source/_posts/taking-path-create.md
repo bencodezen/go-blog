@@ -1,16 +1,14 @@
 ---
 title: Taking The Path You Create
-tags:
-  - creativity
-  - fuseki
-  - hideo otake 9p
-  - innovation
-  - opening
-  - personal style
+date: 2013-10-17 16:08:32
 id: 4200
 categories:
-  - Journal
-date: 2013-10-17 16:08:32
+	- Journal
+tags:
+	- fuseki
+	- innovation
+	- opening
+	- play-style
 ---
 
 Earlier today, I was reading _Otake's Secrets of Strategy_ by Hideo Otake 9P when I stumbled upon an interesting quote:

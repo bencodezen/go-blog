@@ -1,15 +1,13 @@
 ---
 title: 'Book Review: Handicap Go'
-tags:
-  - elementary go series
-  - handicap go
-  - introductory
-  - kiseido
+date: 2013-07-28 05:00:38
 id: 3577
 categories:
-  - Books
-  - Reviews
-date: 2013-07-28 05:00:38
+	- Reviews
+	- Books
+tags:
+	- handicap-go
+	- kiseido
 ---
 
 [![Handicap Go Cover](http://www.bengozen.com/wp-content/uploads/2013/07/egsv7cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/egsv7cover.jpg)
@@ -82,16 +80,16 @@ Length, 208 Pages
 
 *   Textbook Approach
 
-    *   Explanations can be very dense at times and it uses problems or examples to try and illustrate its message. This is not a negative thing though, since it allows for re-readability in the future.
+		*   Explanations can be very dense at times and it uses problems or examples to try and illustrate its message. This is not a negative thing though, since it allows for re-readability in the future.
 
 *   Primary Learning Mechanism:
 
-    *   Explanations.
+		*   Explanations.
 
 *   Other Learning Mechanisms:
 
-    *   Practice problems.
-    *   Examples from professional and amateur level games.
+		*   Practice problems.
+		*   Examples from professional and amateur level games.
 **What aspect can be improved on?**
 
 *   In the future, I think it would be nice to see strategic principles organized for White the way it is designed for Black. Not sure how possible this really is, but it'd be neat if it were possible.

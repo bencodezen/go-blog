@@ -1,14 +1,12 @@
 ---
 title: Osaka Go Camp Blog!
-tags:
-  - go camp
-  - japan
-  - new blog
-  - osaka
+date: 2013-07-11 12:00:19
 id: 3439
 categories:
-  - Journal
-date: 2013-07-11 12:00:19
+	- Other
+	- Announcements
+tags:
+	- new-blog
 ---
 
 I'm going to break my general rule of not posting twice in a day because the AGA newsletter has informed me of an awesome blog that I couldn't wait to share with you!

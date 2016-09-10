@@ -1,17 +1,14 @@
 ---
 title: 'Equipment Review: Reversible Rosewood Go Board'
-tags:
-  - board
-  - chinese chess
-  - go
-  - goban
-  - reversible
-  - rosewood
+date: 2013-04-14 09:00:00
 id: 18
 categories:
-  - Equipment
-  - Reviews
-date: 2013-04-14 09:00:00
+	- Reviews
+	- Equipment
+tags:
+	- goban
+	- reversible-goban
+	- portable-equipment
 ---
 
 [![rosewood-go-board](http://www.bengozen.com/wp-content/uploads/2012/10/rosewood-go-board1.jpg)](http://www.bengozen.com/wp-content/uploads/2012/10/rosewood-go-board1.jpg)

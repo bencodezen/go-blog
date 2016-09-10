@@ -1,16 +1,12 @@
 ---
 title: 'Website Review: Go Teaching Ladder'
-tags:
-  - free
-  - game reviews
-  - lessons
-  - review
-  - teaching
+date: 2012-12-28 12:00:16
 id: 1316
 categories:
-  - Reviews
-  - Websites
-date: 2012-12-28 12:00:16
+	- Reviews
+	- Websites
+tags:
+	- teaching
 ---
 
 ## [![Go Teaching Ladder Main Page Screenshot](http://www.bengozen.com/wp-content/uploads/2012/12/goteachingladdermainpage.png "Go Teaching Ladder Main Page")](http://www.bengozen.com/wp-content/uploads/2012/12/goteachingladdermainpage.png)

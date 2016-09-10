@@ -1,13 +1,11 @@
 ---
 title: Preparing for My Hong Kong Trip
-tags:
-  - hong kong
-  - international
-  - trip
+date: 2014-03-11 11:58:11
 id: 4797
 categories:
-  - Journal
-date: 2014-03-11 11:58:11
+	- Journal
+tags:
+	- hong-kong
 ---
 
 I haven't had a chance to really talk about this much, but I'm actually going to be headed to Hong Kong in less than a week! As you might expect, it's been a busy rush to get all my ducks in line and make sure I don't have any lingering things to do when I leave.

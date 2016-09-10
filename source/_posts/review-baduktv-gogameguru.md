@@ -1,16 +1,13 @@
 ---
 title: 'Review: BadukTV by GoGameGuru'
-tags:
-  - baduktv
-  - channel
-  - english
-  - gogameguru
-  - tv
+date: 2013-10-01 21:01:59
 id: 4062
 categories:
-  - Reviews
-  - Websites
-date: 2013-10-01 21:01:59
+	- Reviews
+	- Websites
+tags:
+	- baduktv
+	- gogameguru
 ---
 
 I'm happy to announce that I have finally gotten the opportunity to sign up for [GoGameGuru's (GGG) BadukTV English](http://gogameguru.com/baduk-tv/) service! Needless to say, I am thrilled with it! I've only made it through two lessons in their "Becoming a 5 Kyu" video series and I am loving it! Not only am I learning a lot, but it's really incredible to be able to watch material that is not game commentary and actually aimed at weak players like me!!!! Ahhh!!! So wonderful!!!!_

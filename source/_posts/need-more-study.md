@@ -1,12 +1,10 @@
 ---
 title: Need More Study
-tags:
-  - in person go
-  - need to train more
+date: 2010-09-20 23:12:00
 id: 104
 categories:
-  - Journal
-date: 2010-09-20 23:12:00
+	- Journal
+tags:
 ---
 
 So yesterday wasn't as eventful as I'd like, I got to play Keith in a full on handicap game and that was fun.... but then I had to leave early so no more Go that night... I also forgot to bring my Kifu book from YMImports so bummer that.

@@ -1,17 +1,15 @@
 ---
 title: 'Book Review: Level Up 4'
-tags:
-  - beginner
-  - education
-  - introductory
-  - korean
-  - level up
-  - student
+date: 2013-07-15 22:00:51
 id: 3422
 categories:
-  - Books
-  - Reviews
-date: 2013-07-15 22:00:51
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up 4 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup4cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup4cover.jpg)
@@ -98,16 +96,16 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Primary Learning Mechanism:
 
-    *   Practice problems.
+		*   Practice problems.
 
 *   Other Learning Mechanisms:
 
-    *   Simple explanations accompanied by equally simple diagrams.
-    *   Fun comics to help explain concepts like the net.
+		*   Simple explanations accompanied by equally simple diagrams.
+		*   Fun comics to help explain concepts like the net.
 **What aspect can be improved on?**
 
 *   Up to this point, the answer books have been great on its own. For this book however, I noticed that there were times where answers to questions that asked the reader "Which direction to block?" would be best served if there were a short explanation as to why. Granted, this may be omitted due to it being used in a school setting where a go teacher would explain it; but if the answer books are intended to be sufficient without a teacher, then this would be very helpful.

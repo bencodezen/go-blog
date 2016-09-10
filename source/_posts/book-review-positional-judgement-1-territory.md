@@ -1,15 +1,13 @@
 ---
 title: 'Book Review: Positional Judgement 1 - Territory'
-tags:
-  - estimating
-  - jasiek
-  - positional judgment
-  - score
+date: 2014-01-02 22:25:22
 id: 4429
 categories:
-  - Books
-  - Reviews
-date: 2014-01-02 22:25:22
+	- Reviews
+	- Books
+tags:
+	- Jasiek
+	- positional-judgment
 ---
 
 [![PositionalJudgement_1_Cover_small](http://www.bengozen.com/wp-content/uploads/2014/01/PositionalJudgement_1_Cover_small.png)](http://www.bengozen.com/wp-content/uploads/2014/01/PositionalJudgement_1_Cover_small.png)
@@ -37,32 +35,32 @@ Length, 272 Pages
 
 *   Chapter 1 - Introduction
 
-    *   General
-    *   Overview
-    *   Terms
-    *   Acknowledgements and Technical Remarks
+		*   General
+		*   Overview
+		*   Terms
+		*   Acknowledgements and Technical Remarks
 
 *   Groups
 *   Regions
 *   Territory
 
-    *   Current Territory
-    *   Nature of Reduction Sequences
-    *   Remaining Boundary Defense Moves
-    *   Remaining Gote Endgames
-    *   Remaining Basic Endgame Kos
-    *   Privileges
-    *   Stability
-    *   Peaceful Reduction
-    *   Quiescence
-    *   Territory Count
-    *   Fighting Positions
-    *   Moyos
-    *   Prisoners
-    *   Middle Game Kos
-    *   Updating Counts
-    *   Convenient Counting
-    *   Area Count
+		*   Current Territory
+		*   Nature of Reduction Sequences
+		*   Remaining Boundary Defense Moves
+		*   Remaining Gote Endgames
+		*   Remaining Basic Endgame Kos
+		*   Privileges
+		*   Stability
+		*   Peaceful Reduction
+		*   Quiescence
+		*   Territory Count
+		*   Fighting Positions
+		*   Moyos
+		*   Prisoners
+		*   Middle Game Kos
+		*   Updating Counts
+		*   Convenient Counting
+		*   Area Count
 
 *   Strategy
 *   Index

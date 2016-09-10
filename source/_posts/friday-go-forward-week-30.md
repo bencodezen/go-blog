@@ -1,14 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 30'
-tags:
-  - busy
-  - craziness
-  - hustle hustle hustle
-  - trying to balance
+date: 2013-08-30 05:00:39
 id: 3835
 categories:
-  - Progress Reports
-date: 2013-08-30 05:00:39
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Friday Go Forward: Week 30

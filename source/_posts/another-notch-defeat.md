@@ -1,13 +1,11 @@
 ---
 title: Another Notch of Defeat
-tags:
-  - crummy
-  - dojang
-  - yunguseng
+date: 2014-05-13 11:50:23
 id: 5309
 categories:
-  - Journal
-date: 2014-05-13 11:50:23
+	- Journal
+tags:
+	- yunguseng-dojang
 ---
 
 I just finished my second round of Yunguseng Dojang. As the title of the post states explicitly, it was another sound defeat to be added to my battle staff of go.

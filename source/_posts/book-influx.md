@@ -1,15 +1,11 @@
 ---
 title: Book Influx
-tags:
-  - jump up
-  - korean
-  - level up
-  - new books
-  - purchases
+date: 2013-06-25 22:44:48
 id: 3126
 categories:
-  - Journal
-date: 2013-06-25 22:44:48
+	- Journal
+tags:
+	- baduktopia
 ---
 
 [![levelcollection](http://www.bengozen.com/wp-content/uploads/2013/06/levelcollection.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/levelcollection.jpg)

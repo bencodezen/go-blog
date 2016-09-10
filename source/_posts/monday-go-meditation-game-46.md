@@ -1,15 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 46'
-tags:
-  - ignoring
-  - tenuki
-  - victory
-  - white
+date: 2014-03-10 07:15:01
 id: 4725
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-03-10 07:15:01
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

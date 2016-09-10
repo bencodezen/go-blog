@@ -1,13 +1,11 @@
 ---
 title: New Book Review Landing Page!
-tags:
-  - blog update
-  - book review
-  - new design
+date: 2013-06-04 17:00:45
 id: 2884
 categories:
-  - Journal
-date: 2013-06-04 17:00:45
+	- Journal
+tags:
+	- redesign
 ---
 
 I am excited to announce that a new [Book Review](http://www.bengozen.com/reviews/books/ "Books") landing page has been launched and can now be found in the top menu. In addition, for those who have been checking out the book reviews, you will probably notice that the format has been changed as well for the more recent reviews.

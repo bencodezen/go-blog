@@ -1,16 +1,12 @@
 ---
 title: 'Small # of Groups = Higher Chance to Win'
-tags:
-  - advice
-  - baduk
-  - go
-  - small number of groups
-  - weiqib
+date: 2012-08-31 11:03:00
 id: 35
 categories:
-  - Kifu
-  - Lessons
-date: 2012-08-31 11:03:00
+	- Articles
+tags:
+	- kifu
+	- lessons
 ---
 
 Today's game was a reminder of a concept I was told long ago in one of my teaching games:

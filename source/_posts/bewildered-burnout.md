@@ -1,9 +1,9 @@
 ---
 title: Bewildered Burnout
+date: 2013-11-19 13:07:26
 id: 4361
 categories:
-  - Journal
-date: 2013-11-19 13:07:26
+	- Journal
 tags:
 ---
 

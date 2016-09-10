@@ -1,14 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 05'
-tags:
-  - 5k
-  - defeat
-  - even
-  - white
+date: 2013-04-01 09:00:29
 id: 2272
 categories:
-  - Monday Go Meditation
-date: 2013-04-01 09:00:29
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 [sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/04/2013.04.01-MGM-05.sgf" class="aligncenter"][/sgf]

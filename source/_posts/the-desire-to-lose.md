@@ -1,15 +1,11 @@
 ---
 title: The Desire to Lose
-tags:
-  - akira
-  - back to tygem
-  - desire to lose
-  - happy to lose
-  - hikaru no go
+date: 2013-07-13 08:00:01
 id: 3494
 categories:
-  - Journal
-date: 2013-07-13 08:00:01
+	- Journal
+tags:
+	- hikaru-no-go
 ---
 
 [caption id="attachment_3497" align="aligncenter" width="400"][![sad robot lose](http://www.bengozen.com/wp-content/uploads/2013/07/sad-robot.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/sad-robot.jpg) Credit to [abyanlim](http://aybanlim.wordpress.com)[/caption]

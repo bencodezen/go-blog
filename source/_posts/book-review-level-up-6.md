@@ -1,17 +1,15 @@
 ---
 title: 'Book Review: Level Up 6'
-tags:
-  - beginner
-  - education
-  - korean
-  - level up
-  - raining
-  - workbook
+date: 2013-07-21 05:00:48
 id: 3540
 categories:
-  - Books
-  - Reviews
-date: 2013-07-21 05:00:48
+	- Reviews
+	- Books
+tags:
+	- baduktopia
+	- korean-style
+	- training
+	- workbook
 ---
 
 [![Level Up 6 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup6cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup6cover.jpg)
@@ -103,17 +101,17 @@ Length, 168 Pages
 
 *   Curriculum Style
 
-    *   Content is organized into lessons, topics, or themes in order to facilitate learning.
+		*   Content is organized into lessons, topics, or themes in order to facilitate learning.
 
 *   Primary Learning Mechanism:
 
-    *   Practice problems
+		*   Practice problems
 
 *   Other Learning Mechanisms:
 
-    *   Cute and entertaining comics to teach and/or reinforce lessons.
-    *   Simple explantations that are accompanied by equally simple diagrams.
-    *   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
+		*   Cute and entertaining comics to teach and/or reinforce lessons.
+		*   Simple explantations that are accompanied by equally simple diagrams.
+		*   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
 **What aspect can be improved on?**
 
 *   This is just a frivolous request, but I would've liked to have seen a few more endgame counting questions.

@@ -1,16 +1,10 @@
 ---
 title: Bad Moves vs. Wrong Moves
-tags:
-  - bad decisions
-  - bad moves
-  - decision making
-  - the need for planning
-  - wrong decisions
-  - wrong moves
+date: 2010-10-28 10:37:00
 id: 55
 categories:
-  - Articles
-date: 2010-10-28 10:37:00
+	- Articles
+tags:
 ---
 
 So I was in my Group Decision Making class yesterday when we began discussing the difference between a bad decision and a wrong decision. In all honesty, most people use the words interchangeably and don't even give it a second thought. Unfortunately though, they are all very wrong (and yes I mean wrong and not bad). Why is that? Because **wrong decisions in nature are better than bad decisions.** What?! Preposterous is what you may say, but hear me out.

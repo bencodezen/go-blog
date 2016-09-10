@@ -1,15 +1,13 @@
 ---
 title: 'Book Review: Otake''s Secret of Strategy'
-tags:
-  - hideo otake
-  - hinoki press
-  - otake 9p
-  - strategy
+date: 2013-11-02 13:02:49
 id: 4250
 categories:
-  - Books
-  - Reviews
-date: 2013-11-02 13:02:49
+	- Reviews
+	- Books
+tags:
+	- Hinoki-Press
+	- strategy
 ---
 
 [![heartofgov3cover](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov3cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov3cover.jpg)
@@ -41,32 +39,32 @@ Length, 254 Pages
 *   Forward
 *   Ten Conditions of Go Knowledge
 
-    *   Otake Strategy #1 - The Attacking Force Must Be Properly Deployed
-    *   Otake Strategy #2 - Avoid Engaging Strong Enemy Forces in Battle
-    *   Otake Strategy #3 - Understanding the Opponent and Oneself, If a Fight Occurs, There is No Contest
-    *   Otake Strategy #4 - Attack at the Place Where It is Easiest to Attack
-    *   Otake Strategy #5 - Fighting Does Not Arise for Fixed Shape
-    *   Otake Strategy #6 - Controlling the High Ground is Fundamental to Victory
-    *   Otake Strategy #7 - When Attacking, Think About How to Withdraw
-    *   Otake Strategy #8 - While Keeping the Left in Check, Move on the Right
-    *   Otake Strategy #9 - Make Use of Every Resource Available
-    *   Otake Strategy #10 - Creative Application of Principles is Important
+		*   Otake Strategy #1 - The Attacking Force Must Be Properly Deployed
+		*   Otake Strategy #2 - Avoid Engaging Strong Enemy Forces in Battle
+		*   Otake Strategy #3 - Understanding the Opponent and Oneself, If a Fight Occurs, There is No Contest
+		*   Otake Strategy #4 - Attack at the Place Where It is Easiest to Attack
+		*   Otake Strategy #5 - Fighting Does Not Arise for Fixed Shape
+		*   Otake Strategy #6 - Controlling the High Ground is Fundamental to Victory
+		*   Otake Strategy #7 - When Attacking, Think About How to Withdraw
+		*   Otake Strategy #8 - While Keeping the Left in Check, Move on the Right
+		*   Otake Strategy #9 - Make Use of Every Resource Available
+		*   Otake Strategy #10 - Creative Application of Principles is Important
 
 *   Chapter 1 - Practical Application of Strategy: Problem Collection
 
-    *   33 Model Positions
+		*   33 Model Positions
 
 *   Chapter 2 - Amateur Game Guidance
 
-    *   Game 1 - A Game of Huge Reversal (5D vs. 5D)
-    *   Game 2 - A Game with a Clash of strength (5D vs. 5D)
-    *   Game 3 - A Professional Teaching Game (Professional vs. 4D)
+		*   Game 1 - A Game of Huge Reversal (5D vs. 5D)
+		*   Game 2 - A Game with a Clash of strength (5D vs. 5D)
+		*   Game 3 - A Professional Teaching Game (Professional vs. 4D)
 
 *   Chapter 3 - Appreciating Famous Professional Games
 
-    *   Game 1 - The Start of the Otake-Rin Rivalry (Otake Hideo vs. Rin Kaiho)
-    *   Game 2 - A Masterpiece of Positional Judgment (Otake Hideo vs. Kobayashi Koichi)
-    *   Game 3 - A Masterpiece of Sacrifice and Attacking (Honinbo Dosaku vs. Yasui Chitetsu)
+		*   Game 1 - The Start of the Otake-Rin Rivalry (Otake Hideo vs. Rin Kaiho)
+		*   Game 2 - A Masterpiece of Positional Judgment (Otake Hideo vs. Kobayashi Koichi)
+		*   Game 3 - A Masterpiece of Sacrifice and Attacking (Honinbo Dosaku vs. Yasui Chitetsu)
 [/expand]
 
 [expand title="Before I Read This Book..." trigclass="expandTitle"]

@@ -1,15 +1,11 @@
 ---
 title: Remember to Breathe
-tags:
-  - bad habits
-  - boxing
-  - breathing
-  - kyu players
-  - whole board thinking
+date: 2013-08-21 12:00:39
 id: 3819
 categories:
-  - Journal
-date: 2013-08-21 12:00:39
+	- Journal
+tags:
+	- bad-habits
 ---
 
 A couple days ago, I was doing some mitt work with my partner at the local boxing gym. About halfway into the round, I was getting visibly tired and close to exhaustion from trying to push beyond my limits. It was then though, that my partner said something that struck me:

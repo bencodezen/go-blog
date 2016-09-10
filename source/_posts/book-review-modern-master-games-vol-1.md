@@ -1,19 +1,12 @@
 ---
 title: 'Book Review: Modern Master Games, Vol. 1'
-tags:
-  - game commentary
-  - hashimoto
-  - iwamoto
-  - kiseido
-  - professionals
-  - sakata
-  - shuko
-  - tournament go
+date: 2013-07-14 05:00:30
 id: 2881
 categories:
-  - Books
-  - Reviews
-date: 2013-07-14 05:00:30
+	- Reviews
+	- Books
+tags:
+	- kiseido
 ---
 
 [![mmgv1cover](http://www.bengozen.com/wp-content/uploads/2013/06/mmgv1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/mmgv1cover.jpg)
@@ -44,47 +37,47 @@ Length, 165 Pages
 *   The Dawn of Tournament Go: The Honinbo Tournament
 *   Game One: The First Honinbo Title Match, Game Six
 
-    *   Kato Shin vs. Skiyama Riichi
+		*   Kato Shin vs. Skiyama Riichi
 
 *   Game Two: The Third Honinbo Title Match, Game Two - The Atomic-Bomb Game
 
-    *   Hashimoto Utaro vs. Iwamoto Kaoru
+		*   Hashimoto Utaro vs. Iwamoto Kaoru
 
 *   Game Three: The Third Honinbo Title Match Playoff
 
-    *   Hashimoto vs. Iwamoto
+		*   Hashimoto vs. Iwamoto
 
 *   Game Four: The Fourth Honinbo Title Match, Game Five
 
-    *   Iwamoto Kaoru vs. Kitani Minoru
+		*   Iwamoto Kaoru vs. Kitani Minoru
 
 *   Game Five: The Sixth Honinbo Title Match, Game One
 
-    *   Hashimoto Utaro vs. Sakata Eio
+		*   Hashimoto Utaro vs. Sakata Eio
 
 *   Game Six: The Sixth Honinbo Title Match, Game Seven
 
-    *   Sakata Eio vs. Hashimoto Utaro
+		*   Sakata Eio vs. Hashimoto Utaro
 
 *   Game Seven: The Seventh Honinbo Title Match, Game Four
 
-    *   Takgawa Kaku vs. Hashimoto Utaro
+		*   Takgawa Kaku vs. Hashimoto Utaro
 
 *   Game Eight: The Fifteenth Honinbo Title Match, Game Five
 
-    *   Fujisawa Shuko vs. Takgawa Kaku
+		*   Fujisawa Shuko vs. Takgawa Kaku
 
 *   Game Nine: The Sixteenth Honinbo Title Match, Game Five
 
-    *   Takagawa Kaku vs. Sakata Eio
+		*   Takagawa Kaku vs. Sakata Eio
 
 *   Game Ten: The Second Meijin Title Match, Game Seven - The Founding of the Meijin Title
 
-    *   Sakata Eio vs. Fujisawa Shuko
+		*   Sakata Eio vs. Fujisawa Shuko
 
 *   Game Eleven: The Third Judan Title Match, Game Five - The Establishment of the Judan Title
 
-    *   Fujisawa Hosai vs. Handa Dogen
+		*   Fujisawa Hosai vs. Handa Dogen
 
 *   Go Books from Kiseido
 [/expand]
@@ -122,8 +115,8 @@ Length, 165 Pages
 
 *   Historical Textbook + Game Commentaries Hybrid
 
-    *   Prior to every game, the history and background describing the significance of the game is laid out to set the stage for the game commentary.
-    *   Amidst the normal game commentary, you will also find insights and comments from the players themselves and spectators here and there as well.
+		*   Prior to every game, the history and background describing the significance of the game is laid out to set the stage for the game commentary.
+		*   Amidst the normal game commentary, you will also find insights and comments from the players themselves and spectators here and there as well.
 **What aspect can be improved on?**
 
 *   I would have liked to see more explanations regarding the purpose behind certain moves instead of variations at times; but this should be taken with a grain of salt since I am a weak player and the book has already done a great job not overloading the reader with too many complicated variations.

@@ -1,17 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 49'
-tags:
-  - 4k
-  - black
-  - bloody
-  - resignation
-  - victory
-  - violent
+date: 2014-03-31 07:15:45
 id: 4816
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-03-31 07:15:45
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

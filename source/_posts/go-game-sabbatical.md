@@ -1,14 +1,11 @@
 ---
 title: Go Game Sabbatical
-tags:
-  - baduk
-  - go
-  - sabbatical
-  - weiqi
+date: 2012-08-19 17:43:00
 id: 39
 categories:
-  - Journal
-date: 2012-08-19 17:43:00
+	- Journal
+tags:
+	- sabbatical
 ---
 
 So I've started reading my go books again, and I did not realize how poorly I've been playing lately. As a result, I'm taking a break from online games (once again) because I've only been reinforcing really poor playing habits.

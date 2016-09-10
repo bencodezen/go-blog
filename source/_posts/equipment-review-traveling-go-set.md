@@ -1,17 +1,13 @@
 ---
 title: 'Equipment Review: Traveling Go Set'
-tags:
-  - go set
-  - goban
-  - plastic
-  - portable
-  - stones
-  - travel
+date: 2013-04-28 05:00:00
 id: 93
 categories:
-  - Equipment
-  - Reviews
-date: 2013-04-28 05:00:00
+	- Reviews
+	- Equipment
+tags:
+	- goban
+	- portable-equipment
 ---
 
 ## [![travelgoset](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset.jpg)

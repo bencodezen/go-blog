@@ -1,17 +1,10 @@
 ---
 title: Mental Discipline
-tags:
-  - discipline
-  - lack of focus
-  - mental
-  - overload
-  - physical energy
-  - reboot
-  - tired
+date: 2013-06-20 17:00:45
 id: 3050
 categories:
-  - Journal
-date: 2013-06-20 17:00:45
+	- Journal
+tags:
 ---
 
 Recently, I have been trying to figure out how to resolve my problem of being undisciplined when it comes to reading out sequences or figuring out what move to play next.

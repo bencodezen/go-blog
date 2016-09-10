@@ -1,13 +1,14 @@
 ---
 title: Gu Li and Lee Sedol Jubango
-tags:
-  - gu li
-  - jubango
-  - lee sedol
+date: 2014-01-23 11:30:25
 id: 4536
 categories:
-  - Events
-date: 2014-01-23 11:30:25
+	- Other
+	- Announcements
+tags:
+	- gu-li
+	- jubango
+	- lee-sedol
 ---
 
 In case you weren't aware, there is about to be an epic clash between two titans of our time: Gu Li and Lee Sedol! They have perhaps the most well known rivalry in the professional scene and will be starting their jubango (i.e., ten game series) to determine who is the strongest this weekend!

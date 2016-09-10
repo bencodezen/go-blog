@@ -1,17 +1,14 @@
 ---
 title: 'Friday Go Forward: Week 56'
-tags:
-  - congress
-  - dojang
-  - go
-  - insei
-  - korean
-  - school
-  - yunguseng
+date: 2014-04-04 07:15:01
 id: 4845
 categories:
-  - Progress Reports
-date: 2014-04-04 07:15:01
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
+	- go-congress
+	- yunguseng-dojang
 ---
 
 ## Friday Go Forward: Week 56
@@ -26,8 +23,8 @@ I think I have come up with a new training regimen for my training my tsumego an
 
 *   **Reading Ability - **Work on the tasks below until whichever comes first.*
 
-    *   Work on go problems for 30 minutes.
-    *   Work on 300 go problems.
+		*   Work on go problems for 30 minutes.
+		*   Work on 300 go problems.
 *_This is a way to split the difference between task based versus time based training. If you work faster than normal, and can get through 300 (or whichever number you decide on) problems. Kudos to you. But in the event you're having trouble and need more time to work on the problems, just keep at it until 30 minutes is up (or whatever time you think it best for you)._
 
 ## Games

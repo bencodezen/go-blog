@@ -1,18 +1,14 @@
 ---
 title: Reviewing Your Games
-tags:
-  - getting stronger
-  - learning
-  - lessons
-  - review
-  - review games
-  - self-tactic
-  - stronger players
+date: 2013-01-23 09:00:01
 id: 1717
 categories:
-  - Articles
-  - Weekly Go Wednesday
-date: 2013-01-23 09:00:01
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- getting-stronger
+	- learning
+	- lessons
 ---
 
 ## _Weekly Go Wednesday, Issue #14_

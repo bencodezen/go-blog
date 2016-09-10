@@ -1,9 +1,9 @@
 ---
 title: 'Journey Entry: #04'
+date: 2014-09-30 12:26:22
 id: 5747
 categories:
-  - Journal
-date: 2014-09-30 12:26:22
+	- Journal
 tags:
 ---
 

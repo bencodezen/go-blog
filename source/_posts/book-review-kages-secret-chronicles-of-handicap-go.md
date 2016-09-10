@@ -1,13 +1,13 @@
 ---
 title: 'Book Review: Kage''s Secret Chronicles of Handicap Go'
-tags:
-  - handicap go
-  - kageyama
+date: 2013-06-06 17:00:43
 id: 2784
 categories:
-  - Books
-  - Reviews
-date: 2013-06-06 17:00:43
+	- Reviews
+	- Books
+tags:
+	- handicap-go
+	- kiseido
 ---
 
 ## [![kschgcover](http://www.bengozen.com/wp-content/uploads/2013/05/kschgcover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/kschgcover.jpg)
@@ -61,25 +61,25 @@ _Note: As some of you might have noticed, the appropriate rank is higher than n
 1.  Introduction
 2.  Five-Stone Game
 
-    1.  Game 1 - Koichi Yokoyhama, 5-dan (White) v. Toshiro Kageyama, 6-dan (Black)
-    2.  Game 2 - Koichi Yokoyhama, 5-dan (White) v. Toshiro Kageyama, 6-dan (Black)
-    3.  Game 3 - Koichi Yokoyhama, 5-dan (White) v. Kenji Nakano, 3-dan (amateur) (Black)
+		1.  Game 1 - Koichi Yokoyhama, 5-dan (White) v. Toshiro Kageyama, 6-dan (Black)
+		2.  Game 2 - Koichi Yokoyhama, 5-dan (White) v. Toshiro Kageyama, 6-dan (Black)
+		3.  Game 3 - Koichi Yokoyhama, 5-dan (White) v. Kenji Nakano, 3-dan (amateur) (Black)
 
 3.  Four-Stone Games
 
-    1.  Game 1 - Toshiro Kageyama, 6-dan (White) v. Koichi Yokohama, 5-dan (Black)
-    2.  Common Sense Classroom
-    3.  Game 2 - Toshiro Kageyama, 6-dan (White) v. Koichi Yokohama, 5-dan (Black)
-    4.  Game 3 - Koichi Yokoyhama, 5-dan (White) v. Yoshio Suzuki, 4-dan (amateur) (Black)
+		1.  Game 1 - Toshiro Kageyama, 6-dan (White) v. Koichi Yokohama, 5-dan (Black)
+		2.  Common Sense Classroom
+		3.  Game 2 - Toshiro Kageyama, 6-dan (White) v. Koichi Yokohama, 5-dan (Black)
+		4.  Game 3 - Koichi Yokoyhama, 5-dan (White) v. Yoshio Suzuki, 4-dan (amateur) (Black)
 
 4.  Three-Stone Games
 
-    1.  Game 1 - Toshiro Kageyama, 6-dan (White) v. Koichi Yokohama, 5-dan (Black)
-    2.  Game 2 - Koichi Yokoyhama, 5-dan (White) v. Bin Suzuki, 5-dan (amateur) (Black)
+		1.  Game 1 - Toshiro Kageyama, 6-dan (White) v. Koichi Yokohama, 5-dan (Black)
+		2.  Game 2 - Koichi Yokoyhama, 5-dan (White) v. Bin Suzuki, 5-dan (amateur) (Black)
 
 5.  Two-Stone Game
 
-    1.  Game 1 - Koichi Yokoyhama, 5-dan (White) v. Toshiro Kageyama, 6-dan (Black)
+		1.  Game 1 - Koichi Yokoyhama, 5-dan (White) v. Toshiro Kageyama, 6-dan (Black)
 
 ### Recommended Vendors:
 

@@ -1,10 +1,10 @@
 ---
 title: 'Weekly Progress Report: #05'
+date: 2014-10-18 07:00:18
 id: 5883
 categories:
-  - Journal
-  - Progress Reports
-date: 2014-10-18 07:00:18
+	- Journal
+	- Progress Reports
 tags:
 ---
 

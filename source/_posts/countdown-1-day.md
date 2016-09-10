@@ -1,12 +1,11 @@
 ---
 title: 'Countdown: 1 Day'
-tags:
-  - go philosophy
-  - zhang yunqi
+date: 2010-10-12 15:51:00
 id: 71
 categories:
-  - Journal
-date: 2010-10-12 15:51:00
+	- Journal
+tags:
+	- philosophy
 ---
 
 So it looks like me trying to finish <span style="text-decoration: underline;">Basic Techniques of Go</span> is going to be overly ambitious, but that's okay. I think I'm in good shape to finish up the other two by tomorrow, and I'm happy with that result. I know that there are those who were skeptical of my one week hiatus since the number one advice for improving (in general) is getting experience by playing games.

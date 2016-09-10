@@ -1,13 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 48'
-tags:
-  - charge
-  - happy chinese new year
-  - horse
+date: 2014-01-31 08:49:15
 id: 4509
 categories:
-  - Progress Reports
-date: 2014-01-31 08:49:15
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Friday Go Forward: Week 48

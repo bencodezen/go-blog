@@ -1,13 +1,11 @@
 ---
 title: 'Journal Log #1'
-tags:
-  - 20k
-  - goals
-  - new to kgs
+date: 2010-09-02 07:33:00
 id: 128
 categories:
-  - Journal
-date: 2010-09-02 07:33:00
+	- Journal
+tags:
+	- goals
 ---
 
 Sorry it took so long everyone, but I will now start adding my own anecdotes on my journey. As you all may have seen, I've been busy writing various reviews and reading as fast as I possibly can while still maintaining my life.

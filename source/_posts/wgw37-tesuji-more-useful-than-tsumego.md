@@ -1,19 +1,15 @@
 ---
 title: 'WGW37: Tesuji More Useful Than Tsumego?'
-tags:
-  - amazing moves
-  - awe
-  - getting stronger
-  - hikaru no go
-  - meijin
-  - sai
-  - tesuji
-  - tsumego
+date: 2014-04-23 07:15:59
 id: 5039
 categories:
-  - Articles
-  - Weekly Go Wednesday
-date: 2014-04-23 07:15:59
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- getting-stronger
+	- hikaru-no-go
+	- tesuji
+	- tsumego
 ---
 
 ## Weekly Go Wednesday, Issue #37

@@ -1,19 +1,12 @@
 ---
 title: 'WGW 32: Seeing Results Now Now Now'
-tags:
-  - bad
-  - habits
-  - immediate
-  - impatience
-  - mindset
-  - now
-  - profit
-  - rush
+date: 2014-02-26 07:15:49
 id: 4643
 categories:
-  - Articles
-  - Weekly Go Wednesday
-date: 2014-02-26 07:15:49
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- bad-habits
 ---
 
 [caption id="attachment_4717" align="aligncenter" width="288"][![Credit to Adavita-Vision](http://www.bengozen.com/wp-content/uploads/2014/02/now-clock.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/now-clock.jpg) Credit to [Adavita-Vision](http://www.advaita-vision.org)[/caption]

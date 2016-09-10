@@ -1,17 +1,16 @@
 ---
 title: Go Congress 2014 - Prelude
-tags:
-  - go congress
-  - michael
-  - nate
-  - new york
-  - satoru
+date: 2014-09-24 12:00:03
 id: 5579
 categories:
-  - Events
-  - Journal
-  - Kifu
-date: 2014-09-24 12:00:03
+	- Journal
+	- Events
+tags:
+	- go-congress
+	- moboy78
+	- nate
+	- satoru
+	- kifu
 ---
 
 **Prelude** - [I](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - [II](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - [III](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - [IV](http://www.bengozen.com/go-congress-2014-day-4/ "Go Congress 2014 — Day 4") - [V](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - [VI](http://www.bengozen.com/go-congress-2014-day-6/ "Go Congress 2014 — Day 6") - [VII](http://www.bengozen.com/go-congress-2014-day-7/ "Go Congress 2014 — Day 7") - [Conclusion](http://www.bengozen.com/go-congress-2014-conclusion/ "Go Congress 2014 — Conclusion")

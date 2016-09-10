@@ -1,13 +1,12 @@
 ---
 title: New Design Grand Opening!!!
-tags:
-  - blog redesign
-  - grand opening
-  - halloween
+date: 2012-10-31 05:00:00
 id: 748
 categories:
-  - Events
-date: 2012-10-31 05:00:00
+	- Journal
+	- Events
+tags:
+	- blog-redesign
 ---
 
 # <span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">HAPPY HALLOWEEN!!!! </span></span>

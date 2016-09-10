@@ -1,15 +1,12 @@
 ---
 title: 'Monday Go Meditation: Game 40'
-tags:
-  - cross fuseki
-  - victory
-  - weird
-  - white
+date: 2014-01-27 06:15:25
 id: 4506
 categories:
-  - Kifu
-  - Monday Go Meditation
-date: 2014-01-27 06:15:25
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
 ---
 
 ## Introduction

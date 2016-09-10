@@ -1,16 +1,13 @@
 ---
 title: 'Monday Go Meditation: Game 66'
-tags:
-  - even
-  - resign
-  - teafree
-  - victory
-  - white
+date: 2014-10-13 08:00:42
 id: 5867
 categories:
-  - Commentaries
-  - Kifu
-date: 2014-10-13 08:00:42
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- teafree
 ---
 
 ## Introduction

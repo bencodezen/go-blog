@@ -1,13 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 37'
-tags:
-  - keeping consistent
-  - more correspondence games
-  - nova.gs
+date: 2013-10-18 06:00:18
 id: 4159
 categories:
-  - Progress Reports
-date: 2013-10-18 06:00:18
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Friday Go Forward: Week 37

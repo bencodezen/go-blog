@@ -1,14 +1,12 @@
 ---
 title: 'Friday Go Forward: Week 69'
-tags:
-  - consistency
-  - efficiency
-  - long term
-  - scrivener
+date: 2014-07-04 11:03:28
 id: 5496
 categories:
-  - Progress Reports
-date: 2014-07-04 11:03:28
+	- Journal
+	- Progress Reports
+	- Friday Go Forward
+tags:
 ---
 
 ## Overview

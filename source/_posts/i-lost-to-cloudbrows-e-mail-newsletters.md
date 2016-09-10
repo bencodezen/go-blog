@@ -1,13 +1,12 @@
 ---
 title: I Lost to Cloudbrows + E-mail Newsletters
-tags:
-  - cloudbrows
-  - email newsletter
-  - studying
+date: 2013-07-17 23:40:18
 id: 3548
 categories:
-  - Journal
-date: 2013-07-17 23:40:18
+	- Journal
+tags:
+	- nate
+	- studying
 ---
 
 In lieu of my last post on [the desire to lose](http://www.bengozen.com/the-desire-to-lose/ "The Desire to Lose"), I thought it would only be appropriate that I title this blog post after a marvelous game I played on Monday. It's already slated for a Monday Go Meditation, so more on that game in a couple of weeks!

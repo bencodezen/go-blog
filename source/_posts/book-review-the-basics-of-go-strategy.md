@@ -1,21 +1,14 @@
 ---
 title: 'Book Review: The Basics of Go Strategy'
-tags:
-  - aji
-  - forcing moves
-  - go strategy
-  - heavy stones
-  - junk stones
-  - key stones
-  - light stones
-  - proving moves
-  - sabaki
-  - thickness
+date: 2013-06-02 05:00:45
 id: 2712
 categories:
-  - Books
-  - Reviews
-date: 2013-06-02 05:00:45
+	- Reviews
+	- Books
+tags:
+	- Kiseido
+	- strategy
+	- sabaki
 ---
 
 ## [![mtbs5cover](http://www.bengozen.com/wp-content/uploads/2013/05/mtbs5cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/mtbs5cover.jpg)

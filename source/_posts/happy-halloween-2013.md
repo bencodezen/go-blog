@@ -1,14 +1,10 @@
 ---
 title: Happy Halloween 2013!
-tags:
-  - equipment review update
-  - halloween
-  - weekly go wednesday
+date: 2013-10-31 16:50:52
 id: 4269
 categories:
-  - Events
-  - Journal
-date: 2013-10-31 16:50:52
+	- Journal
+tags:
 ---
 
 [![halloween2013](http://www.bengozen.com/wp-content/uploads/2013/10/halloween2013.jpeg)](http://www.bengozen.com/wp-content/uploads/2013/10/halloween2013.jpeg)

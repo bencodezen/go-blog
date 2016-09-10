@@ -1,12 +1,13 @@
 ---
 title: Go Workshop with Guo Juan 5p
-tags:
-  - guo juan
-  - workshop
+date: 2010-09-28 19:08:00
 id: 96
 categories:
-  - Events
-date: 2010-09-28 19:08:00
+	- Other
+	- Announcements
+tags:
+	- guo-juan
+	- workshop
 ---
 
 ### [2010 Columbus Day Workshop with Guo Juan 5p](http://shodan-challenge.blogspot.com/2010/09/2010-columbus-day-workshop-with-guo.html)

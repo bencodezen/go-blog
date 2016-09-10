@@ -1,20 +1,16 @@
 ---
 title: Yuan Zhou Monthly Workshop
-tags:
-  - black
-  - even
-  - lee changho
-  - park junghwan
-  - resignation
-  - tsumego
-  - victory
-  - workshop
-  - yuan zhou
+date: 2013-01-14 17:30:37
 id: 1650
 categories:
-  - Events
-  - Journal
-date: 2013-01-14 17:30:37
+	- Journal
+	- Events
+tags:
+	- lee-changho
+	- park-junghwan
+	- tsumego
+	- workshop
+	- yuan-zhou
 ---
 
 Yesterday, I had the pleasure of attending another one of [Yuan Zhou](http://www.zhouyuan.com/ "Yuan Zhou")'s Monthly Workshops!

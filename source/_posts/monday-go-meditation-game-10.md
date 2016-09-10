@@ -1,13 +1,14 @@
 ---
 title: 'Monday Go Meditation: Game 10'
-tags:
-  - 9p
-  - liang wei tang
-  - professional game
+date: 2013-05-06 05:00:39
 id: 2648
 categories:
-  - Monday Go Meditation
-date: 2013-05-06 05:00:39
+	- Commentaries
+	- Monday Go Meditation
+tags:
+	- kifu
+	- liang-wei-tang
+	- pros
 ---
 
 ## Introduction

@@ -1,15 +1,12 @@
 ---
 title: Ranked Games and My Slow Brain
-tags:
-  - fear of losing
-  - fuseki
-  - global thinking
-  - opening
-  - ranked games
+date: 2013-03-21 23:52:59
 id: 2279
 categories:
-  - Journal
-date: 2013-03-21 23:52:59
+	- Journal
+tags:
+	- fuseki
+	- opening
 ---
 
 Lately I've noticed that I seem to have trouble finding time to play ranked games. On the other hand, whenever a friend asks to play a game, I always manage to scrounge up the necessary time to play. After some thought, I believe it is for any of the following reasons:

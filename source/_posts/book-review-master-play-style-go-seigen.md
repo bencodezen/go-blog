@@ -1,15 +1,14 @@
 ---
 title: 'Book Review: Master Play - The Style of Go Seigen'
-tags:
-  - go seigen
-  - playing style
-  - Slate &amp; Shell
-  - yuan zhou
+date: 2013-09-25 09:12:25
 id: 4028
 categories:
-  - Books
-  - Reviews
-date: 2013-09-25 09:12:25
+	- Reviews
+	- Books
+tags:
+	- Go-Seigen
+	- playing-style
+	- Slate-and-Shell
 ---
 
 [![masterplaygoseigencover](http://www.bengozen.com/wp-content/uploads/2013/09/masterplaygoseigencover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/masterplaygoseigencover.jpg)

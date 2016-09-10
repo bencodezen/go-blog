@@ -1,13 +1,11 @@
 ---
 title: Introduction
-tags:
-  - bengozen
-  - origin
-  - the beginning
+date: 2010-08-18 16:36:00
 id: 146
 categories:
-  - Journal
-date: 2010-08-18 16:36:00
+	- Journal
+tags:
+	- origin
 ---
 
 Welcome to BenGoZen! As you might've read in the description, this blog is for anyone looking for some personalized Go experience and advice. In case some of you haven't had the pleasure of reading ChiyoDad's blog, he has about three years of blogging logged in. Even though he has some great information, I thought I'd take to a blog with a more personal touch and hopefully more guidance for those who are new to the game or are looking to improve.

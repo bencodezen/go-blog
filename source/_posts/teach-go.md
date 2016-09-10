@@ -1,17 +1,14 @@
 ---
 title: How to Teach Go
-tags:
-  - go
-  - how to
-  - introducing
-  - new
-  - players
-  - teaching
+date: 2014-07-09 17:12:45
 id: 5541
 categories:
-  - Articles
-  - Weekly Go Wednesday
-date: 2014-07-09 17:12:45
+	- Articles
+	- Weekly Go Wednesday
+tags:
+	- guides
+	- beginners
+	- teaching
 ---
 
 ## Weekly Go Wednesday, Issue #45
