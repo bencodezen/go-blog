@@ -1,0 +1,288 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]TM[1800]OT[5x30 byo-yomi]
+PW[whynotnow]PB[bengozen]WR[8k]DT[2016-09-10]PC[The KGS Go Server at http://www.gokgs.com/]RE[B+Resign]
+;B[pd]BL[1774.257]C[Being as this is my first live game against a person in a long time, I thought I'd keep it simple. And for me, it doesn't get much simpler than star point, which allows me to be very flexible while also being the position that I probably know the most joseki for so I can respond appropriately.]
+;W[dc]WL[1796.088]C[3-4 with the strong side facing my hoshi. Noted.]
+;B[qp]BL[1768.883]C[It's been awhile since I'ved played, and the last place I left off with fuseki involved using the micro-Chinese quite extensively. So this 3-4 was a way for me to keep it as simple as possible since this was just the begining.]
+;W[dp]WL[1768.584]C[Star point. Great! Looks like I'll get to start setting up the micro-Chinese!]
+;B[fq]BL[1763.784]C[Since I've been gone for awhile, I'm not abreast of the latest and greatest with fuseki, so I wondered whether White would do something differently or not.]
+;W[cn]WL[1745.843]C[Calm response. Okay. I know my next move!]
+;B[lq]BL[1754.971]C[Micro-Chinese fuseki setup complete!]
+;W[nc]WL[1720.444]LB[pf:A][qf:B]C[Approaching at the top. I considered A (Q14) and B (R14) for some time since I wanted to hopefully get a double-winged enclosure in the lower right.]
+;B[pf]BL[1739.65]LB[pj:A]C[I decide to go with the one-space jump since I felt it would have better synergy with A (Q10) if I got the chance to play it later.]
+;W[ce]WL[1703.155]LB[oc:A][jd:C][nd:B]C[This tenuki took me completely by surprise. How refreshing! 
+
+Now the only question was whether I needed to take advantage of White's tenuki immediately or not. I debated the kick sequence starting with A (P17) for a while...]
+(;B[pj]BL[1674.095]C[But I felt that would be rushed and this was a better framework for me anyhow. ]
+;W[qc]WL[1647.755]LB[jd:A][qd:B]C[I was expecting A (K16) at this time since it looks like a possible moyo game, but 3-3 invasion it is!]
+;B[pc]BL[1642.049]LB[qd:A]C[For a brief moment, I debated playing A (R16) instead since I wanted to develop the right side, but then I remembered that that rule really applies in the one space low pincer joseki, so I went ahead and extended once.]
+;W[pb]WL[1618.31]C[White hanes to connect and gain shape.]
+;B[qd]BL[1630.197]C[I now can block the right side.]
+;W[rb]WL[1610.002]C[White correctly makes proper shape as per the joseki.]
+;B[rc]BL[1617.182]C[I atari as a forcing move to close off any easy entry into the right side.]
+;W[qb]WL[1589.93]LB[jd:A][dj:B][fo:C][op:D]C[The joseki ends with White connecting or else foreit the corner and right side for a complete loss in this area.
+
+But now I have sente, and I looked around the board trying to debate what I should do. ]
+;B[ic]BL[1556.208]LB[dj:A][fo:B][op:C]C[I decided to split the top area since it would give me a miai for settling with a two-space extension. The rest of the areas seemed like good moves, but I wasn't interested in focusing solely on growing my moyo. After all, the lower right side might look like Blacks, but it would have been a big mistake to think that. Flexibility was the main goal for me here, and this seemed like a good way to prevent White from turning it into a moyo game.]
+;W[rd]WL[1516.505]C[I was surprised to get this cut so early.]
+;B[re]BL[1542.817]TR[ic]C[But on second thought, it occurred to me that White most likely wanted to settle the group before embarking on an attack on the marked stone (J17).]
+;W[iq]WL[1500.71]C[White tenukis again! Man was I impressed to see White's willingness to explore the many possibilities around the board and not simply follow the opponent. ]
+;B[lo]BL[1505.236]LB[fo:B][cq:A]TR[fq]C[This move was inspired from Game 1 of the Jubango between Gu-Li and Lee-Sedol in that I wanted to treat the marked stone (F3) lightly and simultaneously develop the lower right. 
+
+After all, the way I saw it was that I had a miai for responses in the event White wanted to attack the stone severely.]
+;W[fc]WL[1475.746]LB[kc:A]C[This would probably be the first move I would call a mistake for White. When attacking a stone, the proverb to typically follow is "Push your opponent towards your strong areas." In this case, White already has a corner enclosure here, so it would actually be better to attack with a move like A (L17) since it would for Black into a two space extension toward the corner which would strengthen White while making Black feel a little cramped.]
+;B[lc]BL[1492.822]C[Once Black plays here, you can see that White's group it all of a sudden looking a bit weaker.]
+;W[gn]WL[1453.472]LB[eq:A]TR[fq]C[White seems to be attacking the marked stone (F3) from a distance. And I strongly debated ignoring this attack, but I felt that White getting A (E3) as well would lead White to have a pretty big piece of territory on the lower left.]
+;B[cq]BL[1466.892]C[So I went ahead and dove in the corner.]
+;W[dq]WL[1439.468]C[White descends to separate Black's stones.]
+;B[dr]BL[1453.066]C[Black threatens to connect.]
+;W[er]WL[1426.36]C[White blocks.]
+;B[cr]BL[1439.758]LB[bo:A][eq:B]C[Black connects with A (B5) and B (E3) as viable options.]
+;W[eq]WL[1385.981]C[White correctly prevent Black from connecting the stones together.]
+;B[bo]BL[1428.099]LB[bn:A]C[Black slides to extend the group's base and ensure it doesn't die. 
+
+White next move is technically a mistake as far as the joseki goes, so click on A (B6) to see the typical continuation of this sequence.]
+(;W[cp]WL[1368.073]C[White pushes here which seems like the natural move since typically you want to reduce your opponent's eyespace / territory.]
+;B[bp]BL[1416.746]LB[bn:A][co:B]C[Black naturally will black, but the difference here is that Black's shape is pretty much settled at this point while White still has some weaknesses around A (B6) and B (C5).]
+;W[bq]WL[1358.126]C[I was a little puzzled when White cuts here, but I saw it as an opportunity to test my reading abilities and choose the best variation.]
+;B[aq]BL[1398.137]LB[br:A]C[I chose the atari from this direction since an atari at A (B2) seemed to leave more aji than I'd be comfortable with as far as eye-space and shape was concerned.]
+;W[ie]WL[1338.689]LB[bn:A]C[I was a little surprised that White would leave A (B6) unsealed, but I was very pleased to see White take the initiative with this attack.]
+;B[le]BL[1382.58]LB[sd:A]TR[pb][qb][rb][nc][qc]C[I debated capturing at A (T16) in order to weaken the marked group, but felt that it was important not to let White seal in my stones.]
+;W[sc]WL[1319.696]C[It's almost like White read my mind. Haha. Bravo to White for ensuring the group's life did not come into question.
+
+So my next thought was, where should I move next?]
+;B[cj]BL[1300.654]LB[kd:A][op:B]C[I debated trying to come up with a way to defend against the peep at A (L16) or maybe further solidify my lower right corner with B (P4), but in the end, I felt that I needed to do something about White's immense potential on the left.]
+;W[ck]WL[1300.645]C[I was definitely not expecting White to attach in order to attack me. And I debated for a while in terms of whether I should hane below or above...]
+;B[dk]BL[1208.563]LB[bk:A]C[Even though the hane at A (B9) was much simpler for me to read and felt safe, I wanted to embrace the potential complication of hane'ing over the stone and trying to manage as best as I could. ]
+;W[cl]WL[1280.311]LB[dj:A]C[White calmly extended. Much respect for that since a cut at A (D10) would have made my life a lot easier as far as making sabaki (i.e. eye shape).]
+;B[cg]BL[1173.364]LB[dj:A]C[I did debate trying to defend the cut at A (D10) somehow, but honest I felt it would make my group very heavy and give White something to attack while gaining profit. So I decided to play light and keep my focus on playing a flexible game.]
+;W[dj]WL[1261.704]C[White cuts as expected, and now I'm like... So I wanted to be flexbile... but I don't know how to exactly deal with this...]
+;B[ci]BL[1043.06]LB[di:A]C[I debated the atari at A (D11) but ended up extended since I felt it was a simple move that did not inadvertently strengthen White while giving me a heavy group to deal with.]
+;W[dh]WL[1239.494]LB[ch:B][di:A]C[White's jump here was unexpected, but I liked that it challenged me to try and be creative with my response. After all, a move like A (D11) or B (12) would leave me with a heavy group.]
+;B[be]BL[970.848]C[So I decided to keep with the notion of playing light and being flexible. Since White was already strong in the corner, I wasn't hurting myself much by using this attachment as a probe and potential ally for a possible upcoming fight for my life.]
+;W[di]WL[1218.491]LB[ch:A]C[Whte's connection here is solid and almost instinctively causes me to want to connect at A (C12) since I don't want to get cut apart.]
+;B[cd]BL[941.953]C[But then I reminded myself once again of my goal to play light and to be flexible. And since White ignored me in the corner, I'm happy to start making some shape here!]
+;W[cf]WL[1198.836]
+;B[bf]BL[927.842]
+;W[dg]WL[1174.189]
+;B[ch]BL[884.51]
+;W[dd]WL[1156.805]
+;B[cc]BL[859.957]
+;W[bd]WL[1139.374]
+;B[cb]BL[839.75]
+;W[bg]WL[1118.251]
+;B[ag]BL[826.574]
+;W[ah]WL[1088.976]
+;B[bh]BL[815.106]
+;W[qm]WL[1082.984]
+;B[pn]BL[785.868]
+;W[qn]WL[1066.641]
+;B[qo]BL[763.079]
+;W[ph]WL[1051.447]
+;B[qj]BL[721.407]
+;W[ne]WL[1032.422]
+;B[nf]BL[687.597]
+;W[mf]WL[1014.735]
+;B[me]BL[668.451]
+;W[ng]WL[998.606]
+;B[of]BL[655.699]
+;W[pm]WL[980.857]
+;B[on]BL[642.733]
+;W[om]WL[965.703]
+;B[nn]BL[630.125]
+;W[oi]WL[947.398]
+;B[rh]BL[587.731]
+;W[oj]WL[933.529]
+;B[kg]BL[497.27]
+;W[nm]WL[913.644]
+;B[km]BL[442.871]
+;W[mg]WL[894.804]
+;B[ig]BL[395.785]
+;W[qg]WL[871.197]
+;B[rf]BL[332.188]
+;W[rg]WL[855.277]
+;B[sg]BL[309.75]
+;W[nd]WL[837.908]
+;B[qh]BL[281.32]
+;W[pg]WL[822.803]
+;B[qf]BL[268.116]
+;W[kf]WL[799.969]
+;B[je]BL[191.758]
+;W[jf]WL[781.909]
+;B[if]BL[171.795]
+;W[sf]WL[758.34]
+;B[se]BL[156.605]
+;W[ke]WL[749.198]
+;B[jd]BL[150.151]
+;W[jg]WL[731.32]
+;B[jh]BL[85.964]
+;W[kd]WL[709.313]
+;B[kc]BL[78.775]
+;W[id]WL[693.677]
+;B[jc]BL[63.301]
+;W[kh]WL[677.916]
+;B[he]BL[22.117]
+;W[hd]WL[657.694]
+;B[gd]BL[18.195]
+;W[hc]WL[645.542]
+;B[gc]BL[1.108]
+;W[hb]WL[641.602]
+;B[gb]BL[30]OB[5]
+;W[ge]WL[638.387]
+;B[hf]BL[30]OB[5]
+;W[sh]WL[629.501]
+;B[si]BL[30]OB[5]
+;W[rk]WL[605.666]
+;B[rj]BL[30]OB[5]
+;W[ih]WL[585.064]
+;B[ha]BL[30]OB[5]
+;W[gf]WL[566.525]
+;B[hg]BL[30]OB[5]
+;W[hh]WL[551.094]
+;B[gg]BL[30]OB[5]
+;W[fg]WL[533.081]
+;B[gh]BL[30]OB[5]
+;W[ib]WL[529.624]
+;B[jb]BL[30]OB[5]
+;W[gi]WL[514.562]
+;B[fh]BL[30]OB[5]
+;W[fi]WL[512.202]
+;B[ia]BL[30]OB[5]
+;W[mn]WL[496.367]
+;B[mo]BL[30]OB[5]
+;W[ln]WL[473.477]
+;B[kn]BL[30]OB[5]
+;W[mm]WL[453.731]
+;B[jp]BL[30]OB[5]
+;W[no]WL[414.116]
+;B[np]BL[30]OB[5]
+;W[op]WL[390.514]
+;B[oo]BL[30]OB[5]
+;W[ip]WL[363.455]
+;B[jo]BL[30]OB[5]
+;W[kl]WL[341.124]
+;B[jl]BL[30]OB[4]
+;W[jk]WL[315.335]
+;B[kk]BL[30]OB[3]
+;W[ll]WL[300.997]
+;B[ik]BL[30]OB[3]
+;W[il]WL[265.051]
+;B[jj]BL[30]OB[3]
+;W[jm]WL[234.053]
+;B[im]BL[30]OB[3]
+;W[jk]WL[215.331]
+;B[ji]BL[30]OB[3]
+;W[jl]WL[187.531]
+;B[hi]BL[30]OB[3]
+;W[hj]WL[170.124]
+;B[ij]BL[30]OB[3]
+;W[hk]WL[154.388]
+;B[lj]BL[30]OB[3]
+;W[nq]WL[130.353]
+;B[mq]BL[30]OB[3]
+;W[br]WL[108.473]
+;B[bs]BL[30]OB[3]
+;W[bc]WL[87.471]
+;B[db]BL[30]OB[3]
+;W[eb]WL[59.337]
+;B[bb]BL[30]OB[3]
+;W[fd]WL[51.68]
+;B[jr]BL[30]OB[3]
+;W[ld]WL[31.279]
+;B[md]BL[30]OB[3]
+;W[lf]WL[28.273]
+;B[mc]BL[30]OB[3]
+;W[in]WL[30]OW[5]
+;B[hr]BL[30]OB[3]
+;W[qr]WL[30]OW[5]
+;B[pq]BL[30]OB[3]
+;W[sr]WL[30]OW[5]
+;B[rn]BL[30]OB[2]
+;W[rm]WL[30]OW[5]
+;B[so]BL[30]OB[2]
+;W[pr]WL[30]OW[5]
+;B[oq]BL[30]OB[2]
+;W[rq]WL[30]OW[5]
+;B[rs]BL[30]OB[2]
+;W[rp]WL[30]OW[5]
+;B[ro]BL[30]OB[2]
+;W[sp]WL[30]OW[5]
+;B[or]BL[30]OB[2]
+;W[rr]WL[30]OW[5]
+;B[fo]BL[30]OB[2]
+;W[gq]WL[30]OW[5]
+;B[hq]BL[30]OB[2]
+;W[gp]WL[30]OW[5]
+;B[ho]BL[30]OB[2]
+;W[io]WL[30]OW[5]
+;B[hp]BL[30]OB[2]
+;W[go]WL[30]OW[5]
+;B[gr]BL[30]OB[2]
+;W[fp]WL[30]OW[5]
+;B[fr]BL[30]OB[2]
+;W[jq]WL[30]OW[5]
+;B[kr]BL[30]OB[2]
+;W[ds]WL[30]OW[5]
+;B[ar]BL[30]OB[2]
+;W[bj]WL[30]OW[5]
+;B[bi]BL[30]OB[2]
+;W[bk]WL[30]OW[5]
+;B[ff]BL[30]OB[2]
+;W[fe]WL[30]OW[5]
+;B[eg]BL[30]OB[2]
+;W[ef]WL[30]OW[5]
+;B[mj]BL[30]OB[2]C[bengozen [-\]: Thank you for the game!
+whynotnow [8k\]: thanks for the game!!!
+bengozen [-\]: You played very well!
+whynotnow [8k\]: sorry I'm not so good...
+whynotnow [8k\]: thank you!
+bengozen [-\]: I don't have a ton of time at the moment, but do you have any questions about this game?
+whynotnow [8k\]: when's the blog coming back, anytime soon?
+bengozen [-\]: I'd be happy to do a quick review
+whynotnow [8k\]: it's fine, don't worry about it
+bengozen [-\]: Yes. Very soon actually. I'm in the midst of taking the whole thing out of WordPress
+whynotnow [8k\]: it's such an honor to talk to you!
+bengozen [-\]: It's always a pleasure to meet someone who's read the blog!
+whynotnow [8k\]: ok I see
+whynotnow [8k\]: I've been such a fan for so long
+whynotnow [8k\]: since around april
+whynotnow [8k\]: i saw your last post
+whynotnow [8k\]: and then went through all of your blog 
+whynotnow [8k\]: read every last post
+bengozen [-\]: Yeah I'm sorry that I've been up and down with coming back to the game
+whynotnow [8k\]: its ok!
+bengozen [-\]: Lots of things in life going on which I'll write about in my return post
+whynotnow [8k\]: ok well glad to have you back!
+whynotnow [8k\]: see you soon :)
+bengozen [-\]: if you ever need anything or have any questions, feel free to let me know
+bengozen [-\]: see you soon!
+whynotnow [8k\]: ok, thanks!
+bengozen [-\]: OH
+bengozen [-\]: wait
+whynotnow [8k\]: yes
+bengozen [-\]: do you mind if i use this game in a MGM?
+whynotnow [8k\]: really??
+whynotnow [8k\]: oh goodness
+bengozen [-\]: absolutely
+whynotnow [8k\]: yes of course!!!
+whynotnow [8k\]: I've read
+whynotnow [8k\]: EVERY SINGLE ONE
+bengozen [-\]: wow. i'm flattered!
+whynotnow [8k\]: this is so exciting
+whynotnow [8k\]: you just made my entire life
+whynotnow [8k\]: thank you SO MUCH
+bengozen [-\]: thank you for asking me to play!
+bengozen [-\]: it was a lot of fun
+whynotnow [8k\]: gotta run but thank you!
+bengozen [-\]: i hope to play you again soon
+bengozen [-\]: you're welcome! bye!
+whynotnow [8k\]: bye!
+])
+(;W[bn]C[White seals Black in.]
+;B[co]C[Black threatens to come out.]
+;W[do]C[White blocks Blacks escape.]
+;B[cp]LB[bp:A]C[Black connects in order to prevent the tesuji clamp / jump at A (B4).]
+;W[em]TR[gn]C[And then White will typically defend the cut with a move like this. Though in this situation, it may be a bit overconcentrated due to the presence of the marked stone (G6).]))
+(;B[oc]
+;W[nd]
+;B[jd]))
