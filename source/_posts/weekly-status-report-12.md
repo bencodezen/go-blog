@@ -12,6 +12,8 @@ tags:
 
 With 2015 upon us, I wanted to start off right by kicking off the status reports again since they are a great way for me to keep myself accountable to what’s been happening. As you’ll notice, the training regimen has returned to its simplest form. This is primarily due to the desire to stay the course without any wavering. So while this report is a little bare, I’m certainly hoping to grow it in time. Hope you all had a great New Years!
 
+<!-- more -->
+
 ## Daily Training Regimen
 
 *   Do 2 pages of Jump Level Up series.

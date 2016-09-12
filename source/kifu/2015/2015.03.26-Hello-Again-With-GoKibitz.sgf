@@ -1,0 +1,24 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[9]KM[0.00]PW[White]PB[BenGoZen]C[GoQuest game against 1d opponent];B[fd]C[In 9x9 games where White gets komi, I find that it's important to take the initiative and thus usually choose the 4-4 point since the influence it exerts is quite powerful on such a small board.
+cloudbrows\: Rating, not rank! X)
+
+cloudbrows\: The opening moves I've seen the most in GoQuest are tengen, the 4-4, and the  3-4 (bots play that a lot). I am _not_ particularly good at 9x9, and haven't been able to really decide if any of those options works better for me than the others. I usually just open on Tengen.
+
+cloudbrows\: I only ask because rating seems like the most important metric on GoQuest, since rank is based more on experience (though once you get to 1k/1d, it has a rating floor, too).
+
+bengozen\: My opponent was 1d.
+
+cloudbrows\: Do you remember what your opponent's rating was?
+];W[df];B[eg];W[fe];B[ee]C[So you want to fight? En garde!
+
+And for those wondering why I didn't choose the hane at G5, it is because it doesn't help to connect my stones up and make it very easy for White to keep Black divided.];W[ef];B[ff]C[cloudbrows\: This is insane. On the other hand, it's kind of the only move.
+
+bengozen\: Tell me about it. I felt so vulnerable when I made this move as I stared at the numerous cutting points.
+];W[ge];B[de];W[fg];B[gf];W[gg]C[cloudbrows\: Maybe this would be an alternative for white? wG6 G3 F2 G2 E2 D3 C4 C3 B3 B4 C5 B5 C6 B2 B6
+];B[hf];W[he];B[hg];W[hh];B[gh];W[fh];B[eh];W[gi]C[flakeman2\: Nice move to make a ladder!  \:)
+
+bengozen\: Thanks!
+];B[cf];W[gc];B[fb];W[gb];B[fc];W[ih];B[gd];W[hd];B[hb];W[hc];B[ga];W[ib];B[ei];W[fi];B[dg]C[So I decided to go ahead and just capture in gote since it removed my last remaining weakness (in case White tried any further shenanigans).
+
+But after looking at the state of the board, White chooses not to continue and resigns.
+cloudbrows\: Demolished!
+])

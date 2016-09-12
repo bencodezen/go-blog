@@ -1,0 +1,77 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]RU[Japanese]SZ[9]KM[6.50]GN[Monday Go Meditation: Game 71]PW[White]PB[BenGoZen]DT[2015-04-09]RE[B+Resign];B[fd]C[As far as 9x9 games go, I like opening 4-4 since the influence is quite powerful on such a small board. In addition, with White having 6.5 komi in GoQuest, Black has to be very proactive in order to win.
+cloudbrows\: Also\: I love seeing 9x9 games posted.
+
+cloudbrows\: Is the komi 6.5 or is it actually 7? I feel like I had a game end in a draw the other day.
+
+cloudbrows\: It struck me as such a huge komi when I realized it, but my statistics show I _still_ win more as black than as white, so I guess it's not too much.
+
+bengozen\: You're absolutely right actually. It's 7 points for komi. 
+
+Yeah I was shocked when Satoru told me how much the komi was. It never occurred to me to check it out, but I noticed I was losing when I thought I had a lead a few times and it all suddenly made sense.
+
+I was a little concerned about posting a 9x9 game, but your enthusiasm is encouraging!
+];W[gc]C[White's immediate invasion on the 3-3 took me by surprise.
+cloudbrows\: Not that I'm a great person to give advice (my rating is about 1725 or thereabouts), but my strategy as white has become pretty simple\: live with two groups. I'm not sure I'd do _this_, but it could be seen as falling in line with that. All you've got to do is live, then live somewhere else, and on a board this small, black will be hard-pressed to turn that influence into real points.
+
+iopq\: I'm 1740 on go quest, and I consider this move to be sub-par. This gives too much influence to black.
+];B[gd]C[Well, keeping consistent with my premise earlier, I choose to follow joseki because I am pretty sure the resulting influence will be greater than White's territory.];W[fc]C[White extends.];B[ec]C[Hane at the end of two stones.];W[eb]C[White continues the joseki.
+iopq\: bD8 D7 E6 C8 F8 D9 G8 G8 favors black so I prefer this variation
+];B[dc]LB[db:A]C[Now I had the option of the double hane at A (D8), but again I wanted influence over territory.];W[db]C[White extends again.];B[cc]C[And I just calmly extend while being happy with the growing influence of my wall.
+iopq\: wH6 H5 H7 G4 is better for white because of territory considerations and it's sente
+
+bengozen\: Yeah. Agreed. I should have done done the sequence you mentioned earlier.
+];W[cg]C[White must have also realized the power of my influence and chose to tenuki, but I'm not sure this was actually the best move.];B[fg]C[Because the 3-3 is essentially alive, I take this opportunity to seize control of the lower right corner since I know I'm behind on territory.];W[be]LB[dh:A]TR[fg]C[The small knight's move here increases White's territory while stabilizing the group a bit since the triangle stone (F3) is itching to attack White with a move like A (D2).];B[hc]C[Since there was no way for me to really attack White, I thought this was a good time to take advantage of White's tenuki in order to decrease White's territory in the upper right.];W[hb]C[White can't afford to let me get any more moves here unless White wants to die.];B[hd]LB[ib:A]C[My connection here seem like gote, but actually White will have to respond since a A (J8) by Black would kill the group.
+iopq\: wH8 H6 J8 and white is completely fine on both parts of the board
+];W[gb]C[So White plays this connection, but it actually gives me another sente move.];B[cb]LB[fa:A]C[Now if Black gets A (F9), White will die.
+iopq\: wJ8 F9 G9 D9 F8 F8 is better endgame
+];W[fa]C[So White takes the critical point and lives in gote. ];B[dh]C[With sente again, I go ahead and play this small knight's move to reduce White's territory and further solidify my lower right corner. A pretty big move if I'm not mistaken.];W[de]LB[ed:B][ch:A]C[This here is a good example of kiai since White is not just obediently blocking at A (C2). Instead, White now threatens the cut at B (E6).];B[ee]C[So I protect with the tiger's mouth.
+studying\: I don't know that the tiger's mouth is wrong (especially if you counted yourself ahead at this point), but did you consider B6 instead? It puts a bit more pressure on the White group, and still protects against the cut\: bB6 E6 E5 D6 C5 C4 D4
+
+Onno\: @studying Thank you for pointing out this sequence. Really nice \:-)
+
+bengozen\: I did not consider that at all! Thanks for pointing that out. I think part of it was just time constraints as opposed to thinking I was necessarily ahead.
+];W[dg]C[White extends instead of blocking.];B[eg]LB[ch:B][eh:A]C[I debated playing A (E2) instead since it wouldn't give White the atari at A (E2) when blocking at B (C2), but I thought this was at least 1-2 points better.
+iopq\: bC2 E3 F2 B2 E2 is much better endgame
+];W[ch]C[White blocks as expected.];B[eh]C[And based on my limited endgame knowledge, it was too big to give White the capture and thus I connected solidly to prevent White from gaining any sente endgame moves.];W[cd]C[White tries to expand the lower left territory.];B[ci]C[Since the upper left does not have a lot of potential, the sente endgame play here was the biggest move I could find.];W[bi]C[White blocks.];B[di]C[I connect.];W[bh]C[And then White protects the cut.];B[bc]LB[df:A]C[I debated playing A (D4), but this move was a little bigger as far as I could tell.
+bengozen\: I know! Hahaha. I wasn't sure whether there was something better though!
+
+Logic\: Empty triangle!
+
+Logic\: Probably not, I've just been thinking about shape lately.
+];W[dd]LB[ed:A]C[White threatens to cut at A (E6).];B[ed]C[So I connect in order to maximize my territory and prevent White from gainng any more territory in the endgame. Based on my estimate though, I should be ahead.];W[bd]C[White connects to gain a point.];B[ib]LB[da:A]C[I debated playing A (D9), but felt this hane was bigger endgame wise.];W[ca]C[White decided to hane in order to reduce my territory, but this is a mistake. 
+
+Question\: How does Black punish this mistake?
+bengozen\: Well done man! I almost missed it with the time pressure, but I'm glad I didn't miss it either.
+
+Logic\: I solved this one!
+];B[da]LB[ea:A][ha:B]C[Correct! If White tries to capture with A (E9), then Black will kill the entire group with B (H9).];W[ha]C[White realizes the mistake and sets out to make life.];B[ba]C[As a result, I gained an extra point that I had not accounted for. Score!];W[ef]C[White threatens to break into my territory.];B[ff]C[Blocking is the only logical option.];W[df]C[White connects.
+
+Question\: What is the only remaining sente play that Black has?
+bengozen\: Correct!
+
+Logic\: c9.
+];B[ca]LB[ea:A]C[Correct! Black now threatens to falsify White's eye with A (E9) and kill the entire group.
+bengozen\: Good point.
+
+cloudbrows\: This is a nice detail.
+
+tuerda\: Although this move is sente, it is worth zero points
+
+bengozen\: Thanks! I always try to add little problems and "trivia" here and there to make the commentaries more interactive. I hope they're worth the effort. Haha.
+];W[ea]C[It doesn't take long before White saves the group.];B[ad]C[As a result, Black now gets to reduce White's territory.];W[ae]C[White blocks.];B[ac]C[And Black connects to have a grand total of three points in the upper left. That's 50% better than anticipated if you think about it!];W[hg]C[White's tries some shenanigans with this invasion, but one should see that the chances for survival are slim to none.];B[gh]C[To be honest, I probably didn't even have to respond since White cannot live as far as I'm aware. However, GoQuest is time-based and I've run into opponents who will try anything to win, so I wanted to ensure that White had no chance of winning with random crazy moves.
+
+With this move though, White realizes there's nothing to do but resign.
+sphaso\: Nice game and commentary! I really enjoyed it. I think these might become great educational resources if put in the right context. Keep posting! \:)
+
+trohde\: thanks \:-)
+
+cloudbrows\: Oh, nice! I should have figured. \:D
+
+cloudbrows\: Ben's got a lot of great stuff [over on his blog\](http\://www.bengozen.com/), too!
+
+bengozen\: Thanks sphaso! Appreciate it!
+
+You're welcome @trohde!
+
+sphaso\: I'm a regular reader of his blog \:)
+])
