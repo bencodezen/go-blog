@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 58'
 date: 2014-06-02 07:15:20
+layout: monday-go-meditation
 id: 5316
 categories:
 	- Commentaries

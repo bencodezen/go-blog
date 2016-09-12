@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 20'
 date: 2013-07-29 05:00:20
+layout: monday-go-meditation
 id: 3536
 categories:
 	- Commentaries

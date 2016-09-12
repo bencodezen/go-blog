@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 10'
 date: 2013-05-06 05:00:39
+layout: monday-go-meditation
 id: 2648
 categories:
 	- Commentaries

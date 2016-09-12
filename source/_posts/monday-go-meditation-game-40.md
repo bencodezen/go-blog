@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 40'
 date: 2014-01-27 06:15:25
+layout: monday-go-meditation
 id: 4506
 categories:
 	- Commentaries

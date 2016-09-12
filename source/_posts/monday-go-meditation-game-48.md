@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 48'
 date: 2014-03-24 07:15:12
+layout: monday-go-meditation
 id: 4804
 categories:
 	- Commentaries

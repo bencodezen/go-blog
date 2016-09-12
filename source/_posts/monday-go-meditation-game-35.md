@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 35'
 date: 2013-11-11 06:00:43
+layout: monday-go-meditation
 id: 4257
 categories:
 	- Commentaries

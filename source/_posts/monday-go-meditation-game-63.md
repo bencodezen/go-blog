@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 63'
 date: 2014-07-07 07:15:09
+layout: monday-go-meditation
 id: 5501
 categories:
 	- Commentaries

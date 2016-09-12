@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 09'
 date: 2013-04-29 05:00:48
+layout: monday-go-meditation
 id: 2629
 categories:
 	- Commentaries

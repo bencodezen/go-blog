@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 45'
 date: 2014-03-03 07:15:07
+layout: monday-go-meditation
 id: 4671
 categories:
 	- Commentaries

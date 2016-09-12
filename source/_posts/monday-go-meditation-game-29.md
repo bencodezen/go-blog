@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 29'
 date: 2013-09-30 05:00:09
+layout: monday-go-meditation
 id: 3994
 categories:
 	- Commentaries

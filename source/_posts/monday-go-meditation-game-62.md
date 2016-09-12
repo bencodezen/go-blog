@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 62'
 date: 2014-06-30 07:15:07
+layout: monday-go-meditation
 id: 5471
 categories:
 	- Commentaries

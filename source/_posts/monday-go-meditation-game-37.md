@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 37'
 date: 2013-11-25 07:00:26
+layout: monday-go-meditation
 id: 4356
 categories:
 	- Commentaries

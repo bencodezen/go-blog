@@ -10,9 +10,11 @@ tags:
 
 As I’ve been starting to unravel the tightly wound knot that has been at the core of my fear to play games the way I used to, one of the things I noticed is that there is one joseki in particular that has played a major role in my discomfort at playing full games.
 
-[![one-space-low-pincer](http://www.bengozen.com/wp-content/uploads/2014/12/one-space-low-pincer.png)](http://www.bengozen.com/wp-content/uploads/2014/12/one-space-low-pincer.png)
+![](/images/2014/12/one-space-low-pincer.png)
 
-Yup. The one-space low pincer to the high-one space approach to the 3-4\. Words cannot express how much I hated seeing that move played against me due to one simple fact: I have no idea how to properly play against it.
+Yup. The one-space low pincer to the high-one space approach to the 3-4. Words cannot express how much I hated seeing that move played against me due to one simple fact: I have no idea how to properly play against it.
+
+<!-- more -->
 
 Now of course, everyone will say there are plenty of resources online for me to look it up and study it. The issue however, is that I don’t find online resources terribly helpful in learning joseki and I haven’t quite figured out the best way that I learn joseki. Generally speaking, there are two primary approaches to it: (1) get a broad overview and keep playing, making mistakes and learning as you go, and (2) “memorize” all the different variations so you know how to get an even position (locally) about of the different variations.
 

@@ -1,7 +1,15 @@
 ---
 title: 'Monday Go Meditation: Game 64'
 date: 2014-07-14 13:58:31
+layout: monday-go-meditation
+sgf: 2014.07.14-MGM-64.sgf
 id: 5554
+summary:
+	<p>Contrary to what I said last week, this week’s Monday Go Meditation features my Yunguseng Dojang game from last week. The reason for this is two-fold: (1) I didn’t play any other games over the past two weeks and (2) I’m still trying to keep MGM as current as possible.</p>
+
+	<p>As I mentioned before, I was feeling rather iffy before this game. My opponent was around 4–5k in strenghth, and with my ups and downs lately, I wasn’t so sure that I could even beat him. But before I could wallow too much in my own insecurities, the game started.</p>
+
+	<p><em>Note</em>: Similar to the other YSD match I posted last week, any specific things I learned from the review will be omitted in this game to respect other members’ paid membership.</p>
 categories:
 	- Commentaries
 	- Monday Go Meditation
@@ -10,23 +18,9 @@ tags:
 	- yunguseng-dojang
 ---
 
-## Introduction
-
-Contrary to what I said last week, this week’s Monday Go Meditation features my Yunguseng Dojang game from last week. The reason for this is two-fold: (1) I didn’t play any other games over the past two weeks and (2) I’m still trying to keep MGM as current as possible.
-
-As I mentioned before, I was feeling rather iffy before this game. My opponent was around 4–5k in strenghth, and with my ups and downs lately, I wasn’t so sure that I could even beat him. But before I could wallow too much in my own insecurities, the game started.
-
-_Note: Similar to the other YSD match I posted last week, any specific things I learned from the review will be omitted in this game to respect other members’ paid membership._
-
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/07/2014.07.14-MGM-64.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/07/2014.07.14-MGM-64.sgf[/download]
-
 ## **One Point Lesson**
 
 When playing a moyo vs moyo game, don’t get caught up in small gains (like taking a corner) when big points like an opponent’s corner enclosure on a double winged formation are available on the board.
-
-<!--more-->
 
 ## Game Summary
 

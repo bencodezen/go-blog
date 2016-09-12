@@ -12,7 +12,7 @@ tags:
 	- kifu
 ---
 
-[caption id="attachment_5909" align="aligncenter" width="587"][![novapumpkinclassic2014](http://www.bengozen.com/wp-content/uploads/2014/10/novapumpkinclassic2014-1024x768.jpeg)](http://www.bengozen.com/wp-content/uploads/2014/10/novapumpkinclassic2014.jpeg) Thanks to Gurujeet for this photo![/caption]
+![Thanks to Gurujeet for this photo!](/images/2014/10/novapumpkinclassic2014.jpeg)
 
 This past weekend I had the pleasure of attending the NOVA Pumpkin Classic Tournament and seeing many friends there. And though I originally planned on playing in the tournament that day, I ended up being on call for work and thus planned on only attending to see friends and show my support.
 
@@ -22,9 +22,12 @@ On the upside, I did get to play a round against an opponent I had played agains
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/10/NOVA-Pumpkin-Classic-2014-Round-1.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/10/NOVA-Pumpkin-Classic-2014-Round-1.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/NOVA-Pumpkin-Classic-2014-Round-1.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/NOVA-Pumpkin-Classic-2014-Round-1.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/NOVA-Pumpkin-Classic-2014-Round-1.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Though I am a little sad I was not able to stay for the whole day, it was great being able to see everyone. An especially big shoutout goes to the Stafford Go community: Robbie, Anderson, and Ramon for being there and sharing a great lunch with me.
 

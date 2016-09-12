@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 11'
 date: 2013-05-20 05:00:18
+layout: monday-go-meditation
 id: 2680
 categories:
 	- Commentaries

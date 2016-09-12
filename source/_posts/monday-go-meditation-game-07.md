@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 07'
 date: 2013-04-15 05:00:47
+layout: monday-go-meditation
 id: 2476
 categories:
 	- Commentaries

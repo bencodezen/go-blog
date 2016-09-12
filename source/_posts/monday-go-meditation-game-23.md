@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 23'
 date: 2013-08-19 05:00:31
+layout: monday-go-meditation
 id: 3767
 categories:
 	- Commentaries

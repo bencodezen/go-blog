@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 36'
 date: 2013-11-18 06:00:29
+layout: monday-go-meditation
 id: 4284
 categories:
 	- Commentaries

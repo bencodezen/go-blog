@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 12'
 date: 2013-05-27 05:00:52
+layout: monday-go-meditation
 id: 2738
 categories:
 	- Commentaries

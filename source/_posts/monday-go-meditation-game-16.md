@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 16'
 date: 2013-07-01 05:00:02
+layout: monday-go-meditation
 id: 3044
 categories:
 	- Commentaries

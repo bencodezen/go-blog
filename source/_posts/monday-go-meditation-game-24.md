@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 24'
 date: 2013-08-26 05:00:58
+layout: monday-go-meditation
 id: 3801
 categories:
 	- Commentaries

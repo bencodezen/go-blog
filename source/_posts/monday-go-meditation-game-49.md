@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 49'
 date: 2014-03-31 07:15:45
+layout: monday-go-meditation
 id: 4816
 categories:
 	- Commentaries

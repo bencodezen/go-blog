@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 31'
 date: 2013-10-14 05:00:06
+layout: monday-go-meditation
 id: 4087
 categories:
 	- Commentaries

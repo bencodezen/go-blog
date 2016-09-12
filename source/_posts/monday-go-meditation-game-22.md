@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 22'
 date: 2013-08-12 05:00:38
+layout: monday-go-meditation
 id: 3697
 categories:
 	- Commentaries

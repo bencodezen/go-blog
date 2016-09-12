@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 44'
 date: 2014-02-24 07:15:18
+layout: monday-go-meditation
 id: 4660
 categories:
 	- Commentaries

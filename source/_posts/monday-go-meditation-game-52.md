@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 52'
 date: 2014-04-21 07:15:32
+layout: monday-go-meditation
 id: 4909
 categories:
 	- Commentaries

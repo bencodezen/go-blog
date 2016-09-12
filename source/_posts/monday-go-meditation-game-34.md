@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 34'
 date: 2013-11-04 06:00:38
+layout: monday-go-meditation
 id: 4223
 categories:
 	- Commentaries

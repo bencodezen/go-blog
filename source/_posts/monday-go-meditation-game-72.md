@@ -13,4 +13,6 @@ tags:
 	- kifu
 ---
 
+## One Point Lesson
+
 As far as lessons learned, it is this: No matter how much weaker your opponent might be, there is always an opportunity to learn from each of your moves. Just because you dominated does not mean that your game was perfect and without fault.

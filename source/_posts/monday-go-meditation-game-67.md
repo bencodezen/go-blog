@@ -1,7 +1,11 @@
 ---
 title: 'Monday Go Meditation: Game 67'
 date: 2014-10-20 07:00:45
+layout: monday-go-meditation
+sgf: 2014.10.20-MGM-67.sgf
 id: 5878
+summary:
+	<p>For this week’s meditation, we are turning back the clock to my first game at the <a href="/2014/09/24/go-congress-2014-prelude/">Go Congress 2014 — Prelude</a>! For those who need a refresher, this game was from the day I arrived in New York and was asked to play a match while we were waiting for people to arrive. It’s a fun game that shows just how you can find the opportunity to reverse a game if you’re willing to roll up your sleeves and complicate things. Hope you enjoy this game!</p>
 categories:
 	- Commentaries
 	- Monday Go Meditation
@@ -9,16 +13,6 @@ tags:
 	- kifu
 	- go-congress
 ---
-
-## Introduction
-
-For this week’s meditation, we are turning back the clock to my first game at the [U.S. Go Congress](http://www.bengozen.com/go-congress-2014-prelude/ "Go Congress 2014 — Prelude")! For those who need a refresher, this game was from the day I arrived in New York and was asked to play a match while we were waiting for people to arrive. It’s a fun game that shows just how you can find the opportunity to reverse a game if you’re willing to roll up your sleeves and complicate things. Hope you enjoy this game!
-
-<!--more-->
-
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/10/2014.10.20-MGM-67.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/10/2014.10.20-MGM-67.sgf[/download]
 
 ## One Point Lesson
 

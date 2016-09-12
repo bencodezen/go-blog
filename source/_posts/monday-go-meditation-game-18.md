@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 18'
 date: 2013-07-15 05:00:46
+layout: monday-go-meditation
 id: 3237
 categories:
 	- Commentaries

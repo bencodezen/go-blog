@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 38'
 date: 2014-01-06 07:00:52
+layout: monday-go-meditation
 id: 4418
 categories:
 	- Commentaries

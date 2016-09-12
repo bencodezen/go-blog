@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 14'
 date: 2013-06-17 05:00:57
+layout: monday-go-meditation
 id: 2839
 categories:
 	- Commentaries

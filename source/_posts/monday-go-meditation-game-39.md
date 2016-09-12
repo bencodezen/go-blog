@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 39'
 date: 2014-01-13 07:00:42
+layout: monday-go-meditation
 id: 4421
 categories:
 	- Commentaries

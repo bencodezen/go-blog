@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 54'
 date: 2014-05-05 07:15:38
+layout: monday-go-meditation
 id: 5131
 categories:
 	- Commentaries

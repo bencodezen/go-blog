@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 08'
 date: 2013-04-22 05:00:44
+layout: monday-go-meditation
 id: 2573
 categories:
 	- Commentaries

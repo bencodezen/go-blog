@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 13'
 date: 2013-06-03 05:00:19
+layout: monday-go-meditation
 id: 2764
 categories:
 	- Commentaries

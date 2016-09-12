@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 41'
 date: 2014-02-03 06:50:36
+layout: monday-go-meditation
 id: 4524
 categories:
 	- Commentaries

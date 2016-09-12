@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 25'
 date: 2013-09-02 05:00:31
+layout: monday-go-meditation
 id: 3823
 categories:
 	- Commentaries

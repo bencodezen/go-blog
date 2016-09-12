@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 46'
 date: 2014-03-10 07:15:01
+layout: monday-go-meditation
 id: 4725
 categories:
 	- Commentaries

@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 26'
 date: 2013-09-09 05:00:24
+layout: monday-go-meditation
 id: 3860
 categories:
 	- Commentaries

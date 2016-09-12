@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 21'
 date: 2013-08-05 05:00:30
+layout: monday-go-meditation
 id: 3643
 categories:
 	- Commentaries

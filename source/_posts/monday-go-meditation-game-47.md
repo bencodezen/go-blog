@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 47'
 date: 2014-03-17 07:15:27
+layout: monday-go-meditation
 id: 4783
 categories:
 	- Commentaries

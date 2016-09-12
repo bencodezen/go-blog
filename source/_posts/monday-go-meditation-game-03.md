@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 03'
 date: 2013-03-18 09:00:42
+layout: monday-go-meditation
 id: 2208
 categories:
 	- Commentaries

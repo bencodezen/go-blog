@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 43'
 date: 2014-02-17 07:15:49
+layout: monday-go-meditation
 id: 4589
 categories:
 	- Commentaries

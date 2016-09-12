@@ -1,6 +1,7 @@
 ---
 title: 'Monday Go Meditation: Game 32'
 date: 2013-10-21 05:00:34
+layout: monday-go-meditation
 id: 4153
 categories:
 	- Commentaries
