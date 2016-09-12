@@ -7,7 +7,7 @@ title: BenGoZen
 subtitle: Not your average go blog
 description:
 author: Ben Hong
-language: en
+language: default
 timezone: America/New_York
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: sandbox
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
