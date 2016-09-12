@@ -1,16 +1,16 @@
 <article>
-	<section data-wgo="/kifu/<%- post.sgf %>" data-wgo-enablewheel="false"style="width: 100%">
-	  Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/<%- post.sgf %>">directly</a>.
+	<section data-wgo="/kifu/<%- post.date.format('YYYY') %>/<%- post.sgf %>" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/<%- post.sgf %>">directly</a>.</p>
 	</section>
 	<div>
 		<ul>
 			<% if (post.gokibitz) { %>
 				<li>
-					<a href="https://gokibitz.com/kifu/<%- post.gokibitz %>">GoKibitz Discussion</a>
+					<a href="https://gokibitz.com/kifu/<%- post.date.format('YYYY') %>/<%- post.gokibitz %>">GoKibitz Discussion</a>
 				</li>
 			<% } %>
 			<li>
-				<a href="/kifu/<%- post.sgf %>">Download SGF</a>
+				<a href="/kifu/<%- post.date.format('YYYY') %>/<%- post.sgf %>">Download SGF</a>
 			</li>
 		</ul>
 	</div>
