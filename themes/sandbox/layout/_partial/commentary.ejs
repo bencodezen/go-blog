@@ -11,13 +11,11 @@
       </header>
     <% } %>
     <div class="article-entry" itemprop="articleBody">
-      <% if (post.excerpt && index){ %>
-        <%- post.excerpt %>
-        <% if (theme.excerpt_link){ %>
-          <p class="article-more-link">
-            <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
-          </p>
-        <% } %>
+      <% if (post.summary && index){ %>
+        <p><%- post.summary %></p>
+        <p class="article-more-link">
+          <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
+        </p>
       <% } else { %>
         <p><%- post.summary %></p>
         <%- partial('post/sgf-player') %>
