@@ -1,0 +1,378 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]
+GN[Lee-Sedol vs Gu-Li: Jubango - Game 1]PW[Gu Li]PB[Lee Sedol]WR[9d]BR[9d]DT[2014-01-26]EV[Gu Li vs Lee Jubango]RO[Game 1]PC[Beijing, China]SO[http://gogameguru.com/]RE[B+Resign]
+;B[pd]C[This is perhaps the most common first move as Black. The reason for this is most likely due to how flexible the 4-4 stone can be in regards to selecting a fuseki in response to White's moves.]
+;W[dp]C[White chooses a simple 4-4 cross opening as well. This prevents Black from starting a cross-fuseki and maintains balance so far.]
+;B[qp]C[Lee Sedol sets up my favorite opening as Black!]
+;W[dc]TR[pd]C[The strong side of White's 3-4 komoku faces Lee Sedol's marked star point stone.]
+;B[fq]C[Black approaches the corner to probe White's intentions.]
+(;W[dn]LB[cn:A]C[Typical calm response from White is A (C6). With the 4th line one spaced jump however, we can see that Gu Li is in an aggressive mood and intends on starting a fight. In addition, remember that Gu Li does not like to submit to his opponents. So this is one way to maintain his own style.
+]
+;B[lq]LB[nc:2][ci:3][qj:1][hq:A]C[Lee Sedol sets up the micro-chinese opening. (For those wondering, the mini-chinese would be at L3). The other numbered moves are other other options that Black usually plays.
+]
+;W[eq]LB[hq:A]C[Normally White would not normally kick this early because of a possible pincer at A, however, Gu Li has special intentions in starting a fight. So before you go mimicking this move, remember why Gu Li kicks.
+]
+;B[fp]C[Standing up is only natural.]
+;W[ip]C[True to his style, Gu Li begins his attack and tries to gain momentum early on by fighting.]
+;B[ci]LB[op:A]C[Lee Sedol does not like following his opponent, so rather than respond locally to J4, he chooses to play a reduction move on the side first. However, by doing this, players should note that this leaves a move for White at A.]
+;W[ck]C[Gu Li starts by protecting the weak side of his D4 group while pressuring Black.
+
+Question: How many spaces should Black extend now?
+]
+(;B[ce]LB[cd:1][de:2][cf:A]C[The correct answer is 3. The reason for this is because it invites a fight and makes it harder for White to gain a territorial advantage. To see the difference, go to the variation at Move 12.
+
+bengozen [4k\]: normal extension
+bengozen [4k\]: this invites a fight and makes it harder to gain territorial ground
+]
+;W[op]C[Gu Li decides to approach now to complicate things. And as you can see, even though we're only 14 moves into the game, both players show a strong will to not follow their opponent around the board.
+
+Question: How would you response to White's approach at P4?]
+(;B[lo]LB[pn:A]C[A number of players would probably consider A (see variation on Move 14), but that gives White an easy follow up and is passive. The one point jump is correct because is affects the whole board and keeps the White groups split. If Black simply jumped to Q6, that would only affect the corner.]
+;W[go]LB[qn:A]TR[fp][fq]C[This move leans on the marked F4 stones in hopes of building some strength.
+
+Question: Should Black save the two stones? Or take the big move at A (R6)?
+]
+;B[qn]C[Correct. The one point jump at R6 is the better move because it makes the most use of M5. And in a little bit, we'll see the second reason...
+]
+;W[jq]TR[fp][fq]C[Oh no! It looks like the marked F4 group is captured!]
+;B[en]C[Just kidding! These stones are still have a lot of aji and are far from captured!]
+;W[dm]C[This is the most solid response. Maintains thickness while making territory and keeping pressure on Black's F4 group by leaving weaknesses in his shape.]
+;B[em]C[Black extends to strengthen himself.]
+;W[gm]C[This one point jump strengthens White's center stones while sealing Black in.
+]
+;B[do]LB[co:A][eo:B]C[Black wedges to create aji.
+
+Question: Where should White play? A or B?
+]
+(;W[co]C[This is the correct side to block.]
+;B[eo]C[Black naturally connects and strengthens his connection.]
+;W[dl]C[White extends while making territory and putting Black behind enemy lines.]
+;B[fl]TR[gm][go][ip][jq]C[Black escapes and now puts the marked White group behind enemy lines.
+]
+;W[fr]LB[cp:A]C[White tries to the fix the cut at A while removing Black's base.]
+;B[hq]TR[gm][go][ip][jq]C[This move hits the vital point of the marked group and keeps White split.
+
+Question: What's the best move for the marked White group shape-wise?
+]
+;W[im]LB[gr:A]TR[gm][im][go][ip][jq]C[Correct. However, it is Black's turn now, and Black wants to attack the marked group but needs A (G2) to fully sever connection while establishing a semi-base.
+
+Question: How does Black get A (G2) in sente?
+]
+;B[cp]C[Cutting is the strongest way.
+]
+;W[cq]C[The correct direction to atari.]
+;B[bp]C[Lee Sedol's sacrifice play begins.]
+;W[bo]TR[ck][dl][dm][dn][bo][co]C[White naturally blocks from here to prevent any weaknesses that would occur in the marked group if White blocks on the other side.]
+;B[bq]C[Black continues his sacrifice play.]
+;W[cr]C[White must extend.]
+;B[br]C[Though this group cannot live, it is clear that the two White groups are split and their lives could be called into question.]
+;W[bs]C[White ensures Black cannot start a capturing race.]
+;B[er]C[Another sacrifice strategy.]
+;W[es]C[The correct direction.]
+;B[gr]C[G2 is now sente!
+]
+;W[fs]C[White must connect.]
+;B[fj]LB[hj:A][km:B]TR[gm][im][go][ip][jq]C[Now that White is cut off, this one point light jump is for safety while putting the marked White group behind enemy lines. 
+
+Question: What is the best way for White to jump out?]
+(;W[hj]TR[fj][fl][em][en][do][eo][fp][fq][hq][gr]C[This is the correct direction because it continues to put pressure on the marked Black group while making shape.
+]
+;B[kl]C[This move builds Black's influence and attacks White.
+]
+;W[qq]C[Though it looks like White is trying to settle in Black's corner, this is a probing move to help Gu Li determine what to do next based on Black's response.]
+;B[rq]LB[rr:A]C[Lee Sedol decides to play a normal response. And at this point, the normal follow up is for White to hane at A and take the corner; but if we know anything about Gu Li...]
+;W[ln]C[He says screw it. I'm not doing what you tell me. Let's fight!
+]
+;B[mn]C[Black's hane here is strongest because it keeps the M6 and P4 stone split.]
+;W[lm]LB[mo:A]C[White extends for good shape while threatening to cut at A.]
+;B[mo]C[Lee Sedol solidly connects. With his thick shape now, the marked L8 stone is actually sitting on a vital point and has a beautiful follow up. Can you spot it?
+]
+;W[di]C[White takes his sente to lean on the C11 stone while severing the connection between the F10 and C11 stone.
+]
+;B[jn]C[But Lee Sedol does not like to listen to his opponent either, so he plays on the vital point!
+]
+;W[gp]C[This removes one of Black's eyes in sente and strengthens White's connections.]
+;B[gq]TR[hj][gm][im][go][gp][ip][jq]C[Black must connect if he is to continue his attack on the marked White group.]
+;W[gl]C[This is a necessary exchange becuase it tries to establish eye shape while strengthening his connection.]
+;B[gk]C[Black hanes at the end of two stones while making a tiger's mouth.]
+;W[hk]C[White must block.]
+;B[fi]C[Though this move might seem slow, it is the strongest answer since is cuts off White from the left side and puts him back under attack.]
+;W[rr]C[Gu Li decides to return to the corner.
+]
+;B[in]LB[hn:A][io:B]C[Lee Sedol's response? The corner is not important. Let me continue my attack!
+
+White has to choose between A or B. If A, White gains eye shape but must sacrifice the J4 stones. If B, White is connected, but he will have no eyes. See variation.]
+(;W[hn]C[So White chooses to sacrifice the J4 stones in order to gain some eye shape.
+]
+;B[hp]C[Lee Sedol happily takes the sacrifice.]
+;W[jm]TR[lm][ln]C[This is the only move because letting the marked M7 stones get cut off means Black will gain a big lead strategically because White will then have to deal with two weak groups.
+]
+;B[ho]TR[ip][jq]C[Black continues his capture of the marked stones.]
+;W[ko]LB[km:A]C[This move shows the severity of professionals and how they try to make use of every stone available on the board to gain maximum efficiency (even when stones are practically captured). So with this move, Gu Li is playing the most severe move and starts the first big fight of the game (because he's intentionally leaving the cut at A).]
+;B[km]C[Black cutting off White is the strongest response.]
+;W[kn]C[True to his intentions, White also cuts and starts a big fight.]
+;B[io]TR[in][jn]C[Black must connect in order to fight (otherwise White will capture the marked White stones and Black will be the one at a disadvantage).]
+;W[kp]TR[kl][km]C[This descent might seem slow, but it is necessary. The reaeson for this is because the J4 stones are now alive again and Gu Li intends on using the aji of the White stones in the corner to live on the bottom.
+
+Question: Black to save the marked stones. What is the best way?
+]
+;B[il]LB[kj:A]C[A (L10) is the most common respones for amateurs, but J8 is the strongest because it removes White's eye shape and liberties. This is a great example of defending by attacking.
+]
+;W[lp]TR[lm][kn][ln][ko][ip][kp][lp][jq]C[White's marked group is still weak, so he is not strong enought to push at A (K8) yet. Therefore, he pushes here at M4 to gain some strength.]
+;B[pq]C[Rather than try to fight it out, Lee Sedol takes the corner. This is frustrating for Gu Li because Lee Sedol is avoiding a fight that favors Gu Li.]
+;W[nq]TR[lq]C[Though it seems a little odd, this move is necessary to capture M3 and prepare to possibly cpature the N5 stones.
+]
+;B[qr]C[Clean capture is the strongest because it stabilizes the group while securing the corner.]
+;W[jl]C[White is strong enough to push here now.
+
+Question: M2 is actually not quite captured yet and has special aji. Can you spot the vital point?]
+;B[jk]C[Simple forcing move.]
+;W[hm]C[White naturally connects.]
+;B[kk]C[Solid connection here keeps Black strong.]
+;W[ii]C[Slow but necessary to make life.]
+;B[ik]LB[hl:A]C[This connection removes White's eyes and threatens the cut at A.]
+;W[hl]C[White must connect.]
+;B[mk]TR[lm][kn][ln][ko][ip][kp][lp][op][jq][nq]C[Surprise! Black is putting his real plan into effect. (Hint: The marked group is not quite alive yet.)]
+;W[nl]C[White keeps Black split while running out.]
+;B[nk]C[Solid extension to keep pressure on White.]
+;W[ol]C[Calm extension forward to keep Black from sealing him in.]
+;B[ml]C[This is typically a bad exchange, but Lee Sedol has a plan to start a splitting attack.
+]
+;W[mm]C[White must cut.]
+;B[on]LB[nm:A]C[Black takes the shape point and threatens the cut at A.]
+;W[nn]LB[nm:A]C[White wedges while protecting the cut at A.]
+;B[ok]C[This here is a sacrifice play in order to gain thickness.
+]
+;W[pl]C[Extending once more to prevent Black from sealing him in.]
+;B[pk]C[Gaining more thickness.]
+;W[ql]TR[ii][hj][hk][gl][hl][jl][gm][hm][im][jm][hn][go][gp]C[White must extend once more to anchor his group on the third line. Now that Black is thick though, how should Black attack the marked group?]
+;B[hh]C[Correct. This is the vital point in White's shape.]
+;W[jh]C[It is uncertain whether K12 or J12 is better, but Gu Li apparently hesitated with this move.]
+;B[qk]C[Black pushes once more to safety (by anchoring his group on the third line which provides an easier way to establish a base when fighting breaks out later).]
+;W[rl]C[White has to respond because a move at M2 would throw the life of the group in question.
+
+Question: Black to attack again?
+]
+;B[jf]C[This is the strongest attack. It cuts off a running direction for White while pushing him towards Black's thickness.]
+;W[lh]C[White runs, but as you can see, he's getting pushed into the wall.]
+;B[lf]C[Black continues to chase.]
+;W[nh]C[White jumps again.]
+;B[ph]C[This direction might seem odd, but we can now see Black's profit starting to form.]
+;W[mf]LB[le:B][me:A]C[White attaches for eye shape. 
+
+Question: Black to respond. Hane at A or extend at B?]
+;B[le]LB[me:A]C[Correct. Extending is the correct move because the hane at A invites complications (which is advantageous to White).
+]
+;W[ig]C[White begins his epic rescue mission. And now we get to see how hard it is to kill a 9P.]
+;B[ki]C[Black hits the vital point in the shape.]
+;W[kh]C[White must connect unless he wants two weak groups.]
+;B[mg]LB[le:A]C[This is the strongest answer since White ignored Black's solid extension at A.
+]
+;W[gh]LB[ih:A]C[This is a tesuji to eliminate the cut at A.]
+;B[gi]C[Lee Sedol anticipates this and conntinues his attack by threatening to connect. (It might seem like bad shape, but you'll see shortly why it works).]
+;W[hi]C[White cuts.]
+;B[gg]C[Black ataris.]
+;W[hg]C[White cannot run because of the ladder, so wants to force Black to capture.]
+;B[fh]C[Black captures and White still has no eyes.]
+;W[he]C[White is again wondering where his eyes are.
+
+Question: Proper response for Black?
+]
+;B[ed]C[Correct. A leaning attack is perfect in this situation.]
+;W[hc]LB[ec:A]C[White does not have time to block at A, so this is the only move.]
+;B[ec]C[At this point, the game seems to favor Black.]
+;W[ng]LB[hc:A]TR[le][jf][lf][mg]C[White's exchange here is good now because after A (H17), the M15 group is now floating.
+
+Question: What is the strongest reply for Black?]
+;B[mh]C[Only move. Black has to fight.]
+;W[mi]C[White ataris.]
+;B[lg]C[Black must obviously connect.]
+;W[oi]LB[li:A]C[This is move is tricky and gutsy because it invites the cut at A (M11). As a result, B (P11) invites a ton of fighting
+
+Question: If you were Black, would be gutsy enough to cut at A?]
+;B[li]C[Lee Sedol certainly is! This shows great kiai (i.e., fighting spirit).]
+;W[nd]TR[le][jf][lf][lg][mg][mh]C[White returns to his attack on the marked M15 group. Notice that this attacks while helping to defend the O13 group.]
+;B[md]C[This attachment is the strongest reply because of the O14 cut.]
+;W[pi]TR[ki][li][ik][jk][kk][mk][nk][ok][pk][qk][il][kl][ml][km]C[White extends to threaten to cut off the marked Black stones.]
+;B[qi]C[Black must try to keep them connected.]
+;W[qh]C[White cuts Black off and we have another fight that is quite unpredictable.
+
+Question: Strongest reply for Black?]
+;B[rj]C[Correct. This keeps the White groups sepearated while establishing some eye shape.]
+;W[nc]TR[md][le][jf][lf][lg][mg][mh]C[Descending is strong since the marked M16 sgroup is still eyeless
+]
+;B[mc]C[Black tries to gain some strength.]
+;W[ri]C[White ataris to further separate the groups while removing Black's eye potential.]
+;B[qj]C[Black connects.]
+;W[ne]C[White is prepared to sacrifice his R12 stones, so he eliminates cut and keeps connected which gives option of using Black's Q16 for eye shape later.]
+;B[of]C[Black accepts the sacrifice.
+]
+;W[pf]C[White initiates another fight.
+]
+;B[qg]C[Black eats two stones.
+]
+;W[kc]C[White begins his attack.
+
+Question: How to dodge for Black?]
+;B[id]C[Correct. This is the only move as it counterattacks White and tries to establish some more shape.]
+;W[hd]C[White connects for solid shape while keeping Black sealed in.]
+;B[jb]TR[kc]C[This is the proper follow up to the shape. Now the marked White stone is cut off.]
+;W[eb]TR[hc][hd][he][hg][ig][jh][kh][lh][hi][ii][hj][hk][gl][hl][jl][gm][hm][im][jm][hn][go][gp]C[Here is Gu Li's brilliant tsumego since the marked groups till needs two eyes.
+]
+;B[fb]C[Black tries to cut White off.
+
+Question: White to play?
+]
+;W[gb]C[The clamp is the only move.
+]
+;B[db]C[Black takes the corner.]
+;W[jc]TR[kc]C[White pulls out the marked L17 stone.]
+;B[nb]C[This is a strong reinforcement for Black.
+]
+;W[ob]C[White keeps Black separated.]
+;B[mb]C[Black naturally connects.]
+;W[pc]C[Hanging connections while preserving good shape.]
+;B[ic]C[Now Black is strong enough to push through.
+]
+;W[ib]LB[ia:A][kb:B]C[Question: Should Black atari or extend?
+]
+;B[kb]TR[jb][kb][mb][nb][ic][mc][id][md][le][jf][lf][lg][mg][mh]C[Extend! This is strongest and keeps in mind that the marked Black group is sitll not alive yet.
+]
+;W[ja]LB[lb:A]C[White saves his eye shape while threatening the atari at A.]
+;B[ka]LB[ia:B][hb:A]C[Black descends for eye shape while threatning a ko possibility at A if he captures at B.]
+;W[fc]LB[fa:A][fd:B]C[With this move, it is clear that White is setting his eyes on the miai.
+]
+;B[ea]C[Black naturally captures and secures the corner.]
+;W[fd]C[White makes an eye.]
+;B[fe]C[Black continues putting pressure on White since Gu Li is still not quite alive.]
+;W[ff]C[This clamp tesuji helps White break out of Black's strong net.
+]
+;B[ee]C[Black plays solid while continuing to solidify his corner.]
+;W[gf]LB[dg:A]C[Connection is the strongest answer since it gives White some room to maneuver into the A area.
+]
+;B[if]LB[hf:A]C[Black strengthens his own group while threatening to cut at A.]
+;W[hf]C[White naturally connects.]
+;B[dh]LB[ff:2][di:1]TR[gg][fh][hh][fi][gi][fj][gk][fl][em][en][in][jn][do][eo][ho][io][fp][hp][fq][gq][hq][gr]C[This move is necessary to defend since the marked Black group is not alive yet. In addition, it helps to keep the two White groups separated.]
+;W[ia]LB[ga:A][lb:B]C[White needs to make life now. A and B miai.]
+;B[lc]C[Black naturally must defend here to ensure his own life.]
+;W[ie]TR[ic][id]C[White atari's the marked stones while reducing Black's eye space and territory.]
+;B[jd]TR[jc][kc]C[Black naturally saves the stones while keeping the marked White stones securely captured.]
+;W[je]TR[ic][id][jd]C[White continues to reduce Black's territory and once again threatens to capture the marked Black stones.]
+;B[kd]C[Black captures to remove any remaining aji and Black is fully alive now.
+]
+;W[ga]LB[ge:A][kf:B]C[White now must return to this move in order to make himself completely alive (miai A or B). On the upside, he got to reduce Black's territory. So while he did not get life in sente, but it does give give him some good endgame follow-up later on.
+]
+;B[qd]TR[pc]C[Lee Sedol finally responds to Q17 move and pulls out his star point stone.
+]
+;W[qc]TR[ob][nc][pc][qc][nd][ne][mf][ng][nh][mi][oi][pi]C[White establishes a base for his marked group while gaining some territory in the corner.]
+;B[rd]C[This is a big move on the right that gains Black a bit of territory while threatning White's eyes.]
+;W[pg]LB[of:A]C[White now needs to ensure life. This move helps to form an eye around A.]
+;B[rh]TR[pd][qd][rd][qg][rh]C[This clean capture helps to ensure that the marked Black stones are connected.]
+;W[oe]C[White is now alive! White has not been able to gain any significant advantage over Black in this fight, so Black is comfortably ahead.
+
+Question: What's the biggest move left on the board?]
+;B[bj]C[Correct. This expands Black's territory while threatening White's territory in sente.
+]
+;W[bk]LB[bm:A]C[Recognize the shape around A? There is a ton of aji at A, so potential tsumego coming up... ]
+;B[lr]LB[jr:A][ks:B]C[Remember how we thought M3 was captured? Nope! Lee Sedol now pulls out the stone and further destroys the White's bottom territory.]
+;W[oo]TR[oo][op][nq]C[White prevents his marked stones from getting cut off.]
+;B[mq]C[Black continues to reduce White's territory.]
+;W[mp]TR[mn][lo][mo]C[White must cut the stones off.]
+;B[rb]C[Big endgame move.]
+;W[rc]TR[rb]C[White must minimize the damage but threatening to cut off the S18 stone.]
+;B[sc]C[Keeps Black's stones connected.]
+;W[qb]C[White makes his second eye and is alive.]
+;B[dj]LB[bm:A]TR[di]C[Though it seems like Lee Sedol is simply capturing the C11 stone for more points, this is a sneaky move since it aims at the aji at B7.
+]
+;W[or]LB[jr:B][ks:A]TR[lq][mq][lr]C[White removes one part of the miai for the M2 group. 
+
+Question: Which connection is better?
+]
+;B[ep]C[Black first prepares the connection in sente.
+]
+;W[dq]C[White must connect.]
+;B[jr]C[This is the correct answer to the question on Move 192 because it connects while giving a couple of points on the first line. In addition, White cannot cut off the stones since G1 is sente (which means the B2 sacrifice stones are still being efficient even a hundred move later). 
+]
+;W[pr]LB[qs:A]C[White reduces Black while threatening to connect at A.
+]
+;B[qs]C[Descent maximizes the number of points for Black.]
+;W[ir]C[White threatens to cut but the goal is to simple reduce.]
+;B[kr]C[The simple connection is enough.
+]
+;W[iq]C[White prevents his stones from being cut off.]
+;B[is]C[Black is now connected. (Note: H1 is not possible because G1 is sente.)
+]
+;W[qf]C[Gu Li continues to reduce Lee Sedol's territory.]
+;B[rf]C[Lee Sedol protects his connection.]
+;W[pn]TR[rl]C[White's capture here is big since is ensures life and threatens to make use of the S8 stone.]
+;B[po]C[Black first forces White to connect while making eye shape.]
+;W[pm]
+;B[jg]TR[ga][ia][ja][gb][ib][fc][hc][fd][hd][he][ie][je][ff][gf][hf][hg][ig][jh][kh][lh][hi][ii][hj][hk][gl][hl][jl][gm][hm][im][jm][hn][go][gp]C[This move is sente this it removes White's miai for eyes.]
+;W[ge]C[White painfully must make life in gote.]
+;B[bm]C[Lee Sedol now returns to the B7 aji. How would you respond?
+]
+;W[bl]C[White prepares to make eyes, but can you spot the threat from here?
+]
+;B[gs]TR[dp][cq][dq][eq][cr][fr][bs][es][fs]C[Black threatens to capture the White group.]
+;W[dr]C[Clean capture.]
+;B[cj]C[Another liberty down... (and remove the C10 sente from White.
+]
+;W[el]LB[fm:A]C[White threatens to cut at A.]
+;B[fm]C[Black must connect.]
+;W[ek]LB[fk:A]C[Threatens to cut at A.]
+;B[fk]C[Black naturally connects.]
+;W[eg]C[White continues reducing.]
+;B[ef]LB[fg:A]C[Threatening to cut at A.]
+;W[fg]LB[gh:A]C[White connects, but here's the question: should Black connect at A?]
+;B[dg]LB[gh:A]C[Absolutely not. This is way bigger since A is still a ko.]
+;W[ro]LB[rn:B][qo:A]C[S5 is a good reduction. Cannot be captured and is very slippery since it has a miai of A and B.]
+;B[rn]TR[ro]C[Black threatens to cut off the S5 stone.]
+;W[sn]C[Looks like White cannot get out...]
+;B[sm]LB[qo:A]C[Black blocks (but remember there is still a weakness at A)...]
+;W[so]C[White connects!]
+;B[qo]C[Black obligingly must connect.]
+;W[rm]C[White stones escape.]
+;B[nr]C[Black threatens to cut at A.]
+;W[oq]LB[ns:A]C[It is curious as to why White did not atari first at A since it's a forcing move that reducing Black's territory by one; but he instead connects solidly instead.]
+;B[sp]C[Black protects his life in sente.]
+;W[sl]C[White must capture.]
+;B[rp]C[Though this is Black's privilege to connect at any time, the timing is good since it is in sente.]
+;W[sm]C[White connects.]
+;B[gh]LB[ih:A]TR[jh][kh][lh][hi][ii][hj][hk][gl][hl][jl][gm][hm][im][jm][hn][go][gp]C[Black removes the ko in sente while threatening to cut at A and capture the marked group.]
+;W[ih]C[It should be no surprise White connects.]
+;B[sr]C[Black ensures life.]
+;W[oh]LB[of:B][qh:A]C[White threatens to start a ko at A while expanding his eye space at B.]
+;B[qh]C[Black connects since he is leading.]
+;W[bn]C[Whites attempt to eat the B7 stone to remove the aji.
+]
+;B[ns]C[Black expands his territory.]
+;W[aj]C[White tries to expand his eye space while reducing Black's territory.]
+;B[ai]C[Black blocks.]
+;W[ak]C[White connects.]
+;B[sb]C[Black's solid connection here is a threat to possibly throw the life of the group in question.]
+;W[oa]C[White's descent ensures life while maximizing his points.]
+;B[ej]C[Black's connection here captures the A stone while reducing yet another one of White's liberties...]
+;W[ra]C[White expands his territory while removing the T19 point from Black.]
+;B[dk]C[This connection seems odd, but once more I must ask: Do you seem the looming threat?]
+;W[me]C[This is White's losing move.]
+;B[ap]LB[am:A][ar:D][cs:B][ds:C]C[With Black's descent here, the game is over. Either White will die at A or a seki will occur in the corner (Black throw in at B, White captures with C, and then Black makes an eye with D).]
+;W[]C[White sees his predicament, and resigns.])
+(;W[io]C[White makes a bamboo joint.]
+;B[hn]C[Black takes the vital point.]
+;W[gn]C[White is solidly connceted, but he has no eyes.]))
+(;W[km]C[If White runs the other direction...]
+;B[lm]C[Black will attach.]
+;W[ll]C[White will most likely hane.]
+;B[mm]C[Black will calmly extend.]
+;W[kl]TR[op]C[And now the P4 stone is almost completely captured and does not have as much aji anymore.
+]))
+(;W[eo]C[If White wedges from this side...]
+;B[fo]C[Black will sacrifice the stone.]
+;W[co]C[If White gets greedy and captures the stone.]
+;B[gn]C[Black easily comes out.]))
+(;B[pn]C[Black tries to build the right side a bit and grow the corner.]
+;W[lo]C[But White gets an easy cap that provides a flexible relationship between all of his stoneswhile decimating Black's micro-Chinese formation.]))
+(;B[cf]C[Most amateur players would consider the two spaced extension to be safe, but...]
+;W[cd]TR[cf][ci]C[This gives White an easy play at C16 which gives White a territorial lead and keeps pressure on the marked Black stones.]))
+(;W[cn]C[bengozen [4k\]: gu li does not like doing what his opponent wants
+]))

@@ -1,0 +1,379 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[7.50]TM[14100]OT[3x60 byo-yomi]
+PW[Gu Li ]PB[Lee Sedol ]WR[9p]BR[9p]DT[2014-03-30]PC[The KGS Go Server at http://www.gokgs.com/]
+;B[pd]C[Lee Sedol starts with the standard star-point opening move. In regards to all opening moves, this is the most balanced move since it does not give preference to either direction and offers White an opportunity to tell Black what his intentions are.]
+;W[dd]C[Gu Li takes the opposing corner on the star point as well. This maintains balance and then flips the question back to Black in regards to what his intentions are.]
+;B[pq]LB[qj:B][jq:A]TR[pq]C[This is a switch from the meta-game. From my perspective, I was a bit surprised because this move indicates a possible Chinese opening for Black, which is not as commonly seen in the professional scene these days.
+
+Question: Which direction does Black's Q3 (triangle) stone emphasize: A (Bottom) or B (Right)?
+]
+;W[dp]LB[qj:B][jq:A]C[The second star point for White here is a very normal response to Black threatening to setup the Chinese opening.
+
+Answer: A. The strong side of the 3-4 faces the bottom.
+]
+;B[qk]C[The low Chinese emerges! To be honest, I was surprised to see such orthodox play from Lee Sedol (9p). After all, you come to expect complications when these two play against one another. 
+
+On a side note, this game might spark a resurgence of the low Chinese in amateur games again. We shall see in time!
+]
+;W[nc]LB[mp:B][fq:A]TR[nc]C[In the past, A (F3) and B (N4) were common approaches since the Chinese opening emphasizes the bottom. However, the approach at O17 (triangle) here is the most common move today. Based on my understanding, the reason for this is because the top is mutually desired by both Black and White. As a result, White wants to take the initiative when he can.
+]
+;B[pf]LB[qc:A][jd:B]TR[qk]C[This is the most common response to the approach. The high one space jump works well in conjunction with the R9 stone (triangle). It maintains a good balance of low and high stones.
+
+For White's next move, the most common response is either A (R17) or B (K16). So far, this game has been progressing very normally.
+]
+;W[jd]LB[qc:A]TR[jd]C[The 3-3 invasion at A (R17) has been favored more recently in the professional scene, so it was interesting to see Gu Li play the star point at K16 (triangle) instead.]
+;B[cf]LB[cj:C][jp:B][fq:A]TR[jd]C[Normally, I would have considered approaching at the bottom at a move like A (F3)  or grab a double winged extension at B (K4). However, with White's move at K16 (triangle), it would most likely end up being a game of competing grand moyos. 
+
+The approach here is natural when Black wants to avoid the grand moyo race. Black could also consider the splitting move at C (C10), but it allows White to gain the initiative. In addition, Lee Sedol (9p) may have also felt that it helps White top formation too much.]
+;W[fc]LB[fc:B][ch:A]C[I was really surprised by this move. It is an extremely calm answer, which is contrary to the typical fighting and complicated style that Gu Li (9p) generally plays. However, if White were to pincer at A (C12) instead of the knight's move, Black would have the opportunity to play the double approach at B (F17) to possibly complicate things in Black's flavor.
+]
+;B[cn]LB[cf:A]C[This move surprised me as well, but frozensoul says that this is an expected approach. Remember that the A (C14) stone can be seen as a probing move as opposed a move that someone might need to commit to. As a result, this approach is considered to be "expected" since Black wants to gauge White's intentions while keeping his own stones light on the board.
+]
+;W[fq]C[Another calm move, Gu Li (9p) is showing tremendous patience in this game!
+]
+;B[dj]LB[ch:A][dh:B][cl:C][dl:D]C[By playing here, Black makes nice shape and creates a sort of miai with the invasion points which gives Black options for the future.
+]
+;W[mq]C[This is a great move that reduces the influence of the Chinese fuseki.
+]
+;B[po]LB[jq:A]C[This is the most normal answer since Black cannot afford to have White make a double approach on the lower right corner. In addition, by jumping here, Black encloses the corner while threatening a pincer/invasion around A (K3). A nice multi-purpose move.
+]
+;W[jp]LB[lc:A][kd:E][ef:B][ok:D][en:C]C[White protects his invasion point. And with this move, the fuseki is over. Both sides have staked claims on the board. To everyone's surprise, the game has been rather generic and peaceful so far, which is a very unusual combination for Gu Li (9p) and Lee Sedol (9p).  
+
+At this point, frozensoul's analysis is that he cannot say that either player is ahead or better on the board.  
+
+In terms of next moves, frozensoul would consider the marked moves on the board: A (M17), B (E14), C (E6), D (P9), and E (L16).
+
+Let's see what Lee Sedol (9p) chooses!]
+;B[kd]C[Finally, after much waiting, true to form, Lee Sedol (9p) chooses the most messy and complicated move.
+]
+;W[je]C[White chooses to extend in order to avoid the complications of the hane.
+]
+;B[jc]LB[kc:A]TR[nc]C[I'm sure that many kyu players, like myself, thought that maybe the hane here was meant to help establish a base for Black. However, frozensoul clarified that this move is a sacrifice play. The goal is to help Black use the cut aji at A (L17) in his favor to isolate and isolate the O17 stone (triangle).]
+;W[ke]LB[kc:A]C[The turn here tempts Black to connect at A (L17) and become heavy. Based on Lee Sedol's style though, it wouldn't be surprising if he intentionally left the cut at A (L17) and chose the complicated route.]
+;B[md]LB[kc:A]C[This is an aggressive move that openly leaves the cutting point at A (L17). Black's sacrifice play will be clear in the following sequence.
+]
+;W[kc]C[White obviously must cut now. The sacrifice play begins!]
+;B[kb]C[This is the classic wrap-around move.]
+;W[lc]C[White must extend because otherwise it makes the cutting move at L17 entirely pointless to begin with.]
+;B[mc]LB[nc:A]TR[kb][jc]C[What follows next is the drive tesuji. The purpose of this tesuji is to utilize the aji of the marked stones (triangle) in order to allow Black to cut off the A (O17) stone successfully.
+]
+;W[lb]C[White descends to keep the Black stones cut off.]
+;B[mb]LB[ld:A]TR[lb][kc][lc]C[Black threatens to capture the three marked stones with the atari at A (M16).]
+;W[ld]TR[nc]C[White must capture. Thus, O17 (triangle) is successfully cut off and Black's sacrifice play was successful.]
+;B[la]LB[jb:C][nb:B][le:A]C[This connection under seems small and more of an endgame type move, but it is actually a multi-purpose move. (1) It threatens to follow-up with the atari at A (M15) which would turn the White group into a dumpling shape, (2) it prevents the sente descent at B (O18) from White, and (3) It threatens to link up all of Black's stones with a move like C (K18).]
+;W[jb]C[White must obviously keep the Black stones cut off unless he want to give Black an easy game.
+
+Question: Where do you think Black should go next?]
+(;B[me]LB[le:A]C[For some people like myself, it might surprise you that Black did not take the atari at A (M15). After all, it looks like a free forcing move right? However, that would only help White since it would help fix his shape while also exposing a cutting point for Black. To see what I mean, go back to Move 30 and click on M15.
+
+This move is simple and very elegant because it is the shape point for both sides. If White could get it, he would have a very nice tiger's mouth. Since Black got it though, you can see how strong and radiant that shape is. 
+
+Spend a few seconds to really appreciate the simplicity and beauty of such a simple move. If you can make moves like these in your own games, I'm sure that you will become stronger.]
+;W[qm]LB[qi:B][pm:A]TR[qm]C[This was a startling invasion (at least to me). Perhaps White hoped to be smothered by a move like A (Q7) so that he could use the aji of the R7 stone (triangle) to make sabaki inside the B (R11) area?
+]
+;B[pl]LB[pl:B][pm:A]TR[qm]C[Rather than choose the traditional smothering move of A (Q7), Black chooses the pressing move B (Q7). This is interesting because he forces the R7 stone (triangle) to become heavy instead of letting it be sacrificed for a lighter sequence.]
+;W[qp]LB[pm:A]C[White politely refuses the invitation to stand at A (Q7) and instead hits one of Black's shape point in the lower right corner.
+]
+;B[qq]LB[pp:A]C[Though some players might be keen on connecting at A (Q4) due to the principle of "even a moron connects against a peep," this is the most active response because A (Q4) would let White settle too easily.
+]
+;W[ro]LB[oo:B][rq:A]C[This move did not occur to me when I was thinking of White's next move, but this is a good move because it makes shape while threatening the tiger's mouth at A (S3) along with threatening a cut at B (P5).]
+;B[mp]LB[pp:A]C[Here is another move typical of Lee Sedol. Instead of simply connecting at A (Q4), Lee Sedol tries to find a move that defends in the most active and efficient way possible.
+]
+;W[pp]C[Since Black chose not to defend the cutting point, White is now saying, "You chose not to respond to me locally and I think I might be able to take advantage of this, so let's fight!"
+]
+;B[op]C[Black must block because letting White cleanly cut off the Black stones would be terrible for Black.]
+;W[oo]LB[mp:A]TR[oo]C[Here is White making the P5 (triangle) cut that was mentioned in Move 36, but the question now is whether or not the A (N4) stone changes anything?
+]
+;B[on]C[Normally it is said that the atari is a vulgar move since it usually strengthens your opponent unnecessarily, but the thing about incredible players like Lee Sedol (9p) and Gu Li (9p) is that plays like this are usually made because exceptional reading has been made to back a move that is contrary to conventional go wisdom.]
+;W[no]C[White must extend in order to keep the fight going.]
+;B[pn]LB[np:B][oq:A]C[With the solid connection, it appears that Black is offering White to make a trade. White can either (1) cut at A (P3) and fight for the corner while Black gets thickness on the outside, or (2) White can drive at B (O4) and fight for everything.
+]
+;W[oq]C[The corner it is!
+]
+;B[np]C[Black must connect to keep the White groups separated. If Black were to let White capture now, White's invasion would be resounding success since all of his groups would be connected and he would no longer have any weak groups.]
+;W[rq]C[White must now return to finish the corner.]
+;B[or]C[This move might look like Black is trying to make life on the bottom, but this is more about creating aji than anything else.]
+;W[nq]C[White connects in order to keep Black's stones separated.]
+;B[lq]TR[pq][qq]C[Black's hane here is another example of trying to exploit the aji of the two marked stones as much as possible while planting aji for possible future use. All very normal moves that you come to expect from professionals.]
+;W[lp]LB[lr:A]C[White must make this useful cut in order to keep Black separated. This does create opportunity for A (M2) plays later on for both sides.
+]
+;B[mo]C[Black cannot let White capture his cutting stones so easily, so he escapes.]
+;W[lr]TR[mq][nq][oq]C[White ataris from the bottom in order to  to prevent Black from capturing the marked stones (triangle) which are critical to keeping Black separated.]
+;B[rr]C[With this hane, Black is not necessarily looking to live, but to maximize his aji potential for later on.]
+;W[sr]C[White does not want to give Black easy life. So with this hane, an infamous ko shape appears....
+]
+;B[kq]C[Black extends his sacrifice to maximize its aji in preparation for future fighting.]
+;W[nr]C[White is forced to descend here to prevent Black from starting a semeai (i.e., capturing race).]
+;B[pr]C[The connection here is the most solid way since it does not give White an easy way to reduce liberties or destroy an eye via atari. 
+]
+;W[kr]C[White needs to increase his liberties, so he extends.
+]
+;B[ns]TR[mq][nq][oq][nr]C[Black uses a forcing move here by threatening the atari on the O2 group (triangle). It is unclear to frozensoul at this time whether the exchange here is good or not, but to my limited understanding, it does seem to be timed properly since White is practically guaranteed to respond while he may not do so later on.]
+;W[mr]C[White must connect to save his stones.]
+;B[qs]LB[os:A][ss:B]TR[qm][ro][pp][qp][rq]C[And then Black makes the ko shape for life. If White tries to throw-in at A (P1), Black would probably throw-in at B (T1) and start to suffocate the marked White group (triangle).]
+;W[rk]LB[os:A][ss:B]TR[qm][ro][pp][qp][rq][sr]C[Though some would have thought to instantly throw-in at A (P1), remember that there is still a ko at B (S1) to possibly kill Black. In addition, this move is necessary because it is not certain whether White will be able to save the marked group (triangle) if Black wins the ko.
+]
+;B[rl]C[This is the most severe answer. Black does not want to let White off easy with a simple hane at A (S10).
+]
+;W[ql]C[The cut is mandatory in order to keep fighting.]
+;B[rm]LB[rj:A]C[The atari at A (S10) is a peaceful option, but this extension here is the way to fight.]
+;W[qj]LB[qh:B][rj:A]C[Since Black did not take A (S10) atari and capture, White can make this free atari to generate some aji in the B (R12) area.]
+;B[pk]C[Black must connect in order to keep the White groups separated.]
+;W[ri]TR[ql][qm]SQ[ro][pp][qp][rq][sr]C[White now makes shape with this tiger's mouth. In addition, with this, White doesn't mind giving up the marked stones (triangle) because the S3 group (square) are in ko. So instead, he will create an outside position to break up Black's area. And while this might make some players uncomfortable since the corner is not settled, this type of kiai (i.e. fighting spirit) and belief in one's fighting abilities is critical to getting stronger.]
+;B[qo]TR[ql][qm]SQ[ro][pp][qp][rq][sr]C[Black goes ahead and take a forcing move here to remove the S3 group's (square) liberties and ensure that the R7 (triangle) group is captured.]
+;W[rp]TR[pq][qq][or][pr][rr][ns][qs]C[White must connect in order to keep the R3 group (triangle) cut off from its allies and to keep the ko fight potential for later on.]
+;B[rg]LB[qh:A]C[Normally, the shape point to attacking White is A (R12), however, Black wants to force White out into the center while protecting his corner investment.
+]
+;W[pc]C[This attachment here might look like an overplay, but this move can be seen as a probe and also helps to create some aji for later. It does not necessarily have to succeed for the attachment to be useful.]
+;B[qd]LB[pc:A]C[The calm extension here aims to remove the aji of the A (Q17) stone.
+]
+;W[qc]C[White extends again to probe for life.]
+;B[rd]C[Solid extension once again to minimize any aji potential.]
+;W[nb]C[White descends to probe again for life.]
+;B[rb]C[Black's does a simple one point jump to remove any possibiliy for life.]
+;W[mf]TR[nb][nc][pc][qc]C[With this move however, one can start to see the aji of White's stones (triangle) start to take form and come into effect.]
+;B[ka]LB[kb:A][jc:B][le:C]TR[nb][nc][pc][qc]C[This connection was surprising to me since it seemed small, but upon close inspection, it serves multiple purposes: (1) It removes the sente capture of the A (L18) stone that would then threaten the connection to the O18 group (triangle). (2) It threatens to bring out the B (K17) stone and use its aji to destroy White's top area. (3) If the B (K17) stone gets pulled out, Black will have the forcing move of C (M15) to destroy White's shape.]
+;W[ic]LB[jc:A]C[White makes a clean capture to remove the aji of A (K17).]
+;B[nf]LB[mf:A]TR[nb][nc][pc][qc]C[Black's hane here is to firmly keep White's O18 group (triangle) cut off while applying pressure to the A (N14) stone.]
+;W[ng]LB[mf:A]TR[ri][qj][rk]C[White's hane here aims to lend a hand to the R10 group (triangle). The A (N14) stone is not of as much importance at this time.]
+;B[mg]LB[rs:A]C[Black cuts and makes the atari. By doing so, this fight could escalate the value of the bottom right ko (found around A (S1)). 
+]
+;W[lf]LB[mf:A][nf:2][mg:1]C[Earlier, it was mentioned that the A (N14) stone is not as important, however, that does not mean that White will give Black an easy ponnuki in the center. As a result, White extends and keeps the Black stones separated.]
+(;B[of]LB[ne:B][ng:A]C[One might be curious as to why Black does not try to capture the A (O13) stone or play atari on it, however, you must remember that atari is bad unless you are absolutely sure you can capture the stone. In this case, the atari not only helps strengthen White, but it would also expose the cutting point of B (O14). So Black connects solidly to protect his corner investment.
+
+If you can't see what I mean about the atari, go back to Move 84 and click P13.]
+;W[ch]C[With the upper right more or less settled at the moment, White switches his focus to Black's left side.]
+;B[sq]LB[cc:A][dh:B]TR[ro][pp][qp][rp][rq][sr]C[To my surprise, Black completely ignores White. The reason for this however, is most likely due to the fact that Black still has options (like A (C17) or B (D12). 
+
+Returning our attention to the move at hand though, this here is a throw-in in order to remove White's S3 group's (triangle) liberties.]
+;W[sp]C[White captures so that Black does not live unconditionally.]
+;B[rs]C[Black then connects to remove the ko possibility. ]
+(;W[ni]LB[os:A]C[At first, I was shocked that White did not throw-in at A (P2). After all, wouldn't Black just be dead? But upon further analysis, that is not the case. Go back to Move 89 and click on P2 to see what I mean. In addition, even though it White's stones on the right (triangle) are dead now, there is still plenty of aji to go around. and it is up to White to be flexible now to catch up.
+
+With this move, the light flow of the White stones is illustrated very well.]
+;B[eh]LB[dh:A]C[With no good local answer, Black chooses to cap the white stone here. The normal move is at A (D12), so this move is certainly atypical. However, Lee Sedol (9p) must have felt that the normal move was not adequate and chose this instead.]
+;W[cj]C[Since Black's points are more or less settled (i.e., the upper right corner and lower right side), White must be flexible in order to start determing how to reverse the game in his favor. This attachment here is a good example of a flexible answer because it doesn't commit to any direction just yet.
+]
+;B[ck]TR[ch][cj]C[For Black though, this is the only move in order to keep the White stones (triangle) weak and vulnerable. Anything else would allow White to settle quite easily.
+]
+;W[dk]C[Remember that White must be flexible in this position, so the crosscut here is ideal for trying to see how Black answers and thus choosing a response accordingly. After this crosscut however, it is hard to say whether Black or White will come up on top of this exchange.
+]
+;B[ek]C[Though atari is normally bad, I believe the reason for the atari here is to maintain absolute pressure on White. if Black extends as the proverb normally states (i.e, "Extend after crosscut"), White would have numerous options on how to make use of Black's calm extension. So by making the atari, Black ensures that the fight will go a certain direction.]
+;W[dl]C[White does not want to give Black a ponnuki, so he extends.]
+;B[ej]C[With that, Black connects to gain some strength on the outside since it looks like White may be aiming for a center moyo.]
+;W[bk]C[Since Black chose the outside, White must now make shape to live and does so with this atari.]
+;B[ci]TR[cj][bk][dk][dl]C[Oftentimes, forcing moves are all about timing, and since White's current priority is ensuring the D8 group (triangle) doesn't die, this atari forcing move is perfect timing. If Black waits till later to do this, the board position may have changed to a point where White could even ignore this. ]
+;W[bj]LB[bj:B][cl:A]C[White could technically capture at A (C8), but that would give Black a ko potential at B (B10). As a result White simply connects to make strong shape.]
+;B[oi]LB[oi:A]TR[ql][qm][ro][pp][qp][rp][sp][rq][sr]C[Though White's group (triangle) is dead on the right, it seems as if White's overall game has been more successful than Black's. Without this A (P11) move, White is actually ahead on points.
+]
+;W[el]LB[cn:A][bp:B]C[It honestly astounds me when professionals ignore when another, yet when push comes to shove, this move is a very strong answer that threatens to smother the A (C6) stone with a move like B (B4) and take huge profit.]
+;B[cp]C[Black attaches in order to attempt to settle.]
+;W[cq]C[White hane's in order to constrict the space that Black has to work with.]
+;B[bq]C[Black hanes in order to make give himself the most eyespace potential.]
+;W[bp]LB[cn:A]C[This atari is the most aggressive response! most aggressive way! It aims to either take the corner or the A (C6) area.
+]
+;B[co]C[Black chooses to connect in order to maintain aji on the left side.]
+;W[br]C[White then ataris here to take the corner.]
+;B[dq]C[Black cuts and ataris to leave some aji.]
+;W[cr]C[White must connect in order to prevent Black's stones from linking up.]
+;B[lo]LB[lo:A]C[And then he surprisingly comes back to this area. Perhaps the reason for this is because he didn't want White gaining a forcing move by playing the atari at A (M5) himself and gaining further thickness for the bottom.]
+;W[jq]LB[kp:A]TR[lp]C[White descends to protect his bottom. Though some might have considered to pull out the M4 stone (triangle) at A (L4), it would leave behind more aji than you might expect. In addition, the M4 stone (triangle) is not important, so if Black insists on capturing the M4 stone (triangle), then White would have be happy to get sente in exchange for 2 points.]
+;B[fl]C[Black knows better than to capture the M4 stone (triangle) in gote, so he embarks to gain some more power in the center while starting to poke into White's bottom moyo.]
+;W[fm]C[White blocks to maximize his bottom profit.]
+;B[em]C[However, Black already has a devious plan in mind and makes an interesting crosscut which is a common tesuji among dan and pro players. After all, let's face it, Black needs to make some magic happen in this area becaues the territory it just to big to let White swallow the entire thing whole.]
+;W[cl]LB[ck:A]C[Though there are numerous ways to handle this situation, this is the best answer because it removes all aji of the A (C9) stone and gives White multiple ways to live.
+]
+;B[fp]C[Black's attachment here serves as another aji breaker.]
+;W[gl]C[Another powerful move from White! It is clear that White is seeing through all of Black's distractions.
+]
+;B[fk]LB[fl:A]C[Though it's in bad shape, Black has no choice but to connect in order to prevent White from capturing the A (F8) stone and gaining powerful shape.]
+;W[fn]C[This descent here is a very decisive sequence by White. Gu Li (9p) clearly has no intention of letting this go to endgame. He wants this game to end with Black's blood on his hands.
+]
+;B[ep]LB[dp:A]C[This is the only way for Black to fight back. Black cannot capture the A (D4) stone, but the forcing moves may help him make life in this area later on.]
+;W[do]TR[do][dp]C[Letting Black capture the D4 stones (triangle) is an absolute taboo at this point, so the extension is the most efficient and only answer in order to create defects in Black's shape while keeping him separated.
+]
+;B[io]LB[ek:2][cn:1][fp:3]C[Black attemps to escape here, but it's important to note that Black has three weak groups while the center is predominantly controlled by White. Not looking good for Black...
+]
+;W[hp]C[This is an interesting reply because it (1) guarantees points on the bottom and (2) pokes at Black's shape at the same time.
+]
+;B[jo]TR[lo][mo][mp][np][op]C[Black extends and threatens to connect to his marked allies (triangle).
+
+Question: What is White's best response if he wants to cut?]
+;W[ko]LB[kp:A]C[Correct. White does not have to worry about the Black capture at A (L4) because it would be a snapback.]
+;B[kn]C[Black now threatens the double atari (which would negate the snapback).]
+;W[kp]LB[jn:A][ln:B]C[So White now must capture, but note that Black now has two cutting points in his shape: A (K6) and B (M6).]
+;B[en]TR[fm][fn]SQ[do][dp]C[Black descends to (1) strengthen his stones, (2) reduce the liberties of the F6 group (triangle), and (3) threaten to capture the D5 group (square).]
+;W[eq]LB[dq:A]SQ[do][dp]C[White cannot allow Black to capture the D5 group (square), so White captures the A (D3) stone with this atari.]
+;B[go]TR[io][jo]C[Black now threatens to link up solidly to his J5 allies (triangle).]
+;W[ho]C[White cuts and the fight begins!
+]
+;B[hn]TR[gl][fm][fn]C[By playing this hane here, Black has now cut off the F6 stones (triangle) and is looking to gain some territory in the center.]
+;W[gm]C[White protects his cutting point. And now it all comes down to who has the weaker group(s).
+]
+;B[im]LB[in:A]C[Black has a cutting point at A (J6), so he protects it with a tiger's mouth connection.]
+;W[gk]TR[dj][ej][ek][fk][fl]C[White extends to (1) strengthen his group by increasing the number of liberties for the upcoming fight and (2) reduce the liberties of the F9 (triangle) group.]
+;B[bi]LB[ch:A]TR[bj][cj][bk][dk][cl][dl][el]C[Black now descends in order to keep the C10 group (triangle) cut off from the A (C12) stone and to possibly kill the the group if White allows.]
+;W[eo]LB[en:1][ep:2]TR[gk][gl][fm][gm][fn]C[White wants to firmly keep Black's two groups separated and cuts while threatening to connect to the G9 group (triangle).]
+;B[fo]TR[gk][gl][fm][gm][fn]SQ[do][eo][dp]C[Black connects while cutting off the G9 group (triangle) and putting the D5 group (square) in atari.]
+;W[dr]LB[en:1][ep:2]C[White must capture in order to keep the Black's two groups separated.]
+;B[dn]SQ[do][eo][dp]C[Since a semeai (i.e., capturing race) is starting to form, Black's connection here (though it is "bad shape") serves as an excellent forcing move that puts the D5 stones (square) in atari while increasing his own liberties.]
+;W[dq]LB[en:1][ep:2]C[White must connect to continue keeping Black's two groups separated.]
+;B[bm]LB[ck:A]TR[bj][cj][bk][dk][cl][dl][el]C[Black now removes the second eye from the D9 (triangle) group while also threatening to falsify its eye at A (C9).]
+;W[bl]C[As the saying goes, "one eye beats no eyes" when it comes to capturing races. So White needs to protect his eye in order to maximize his chances of winning this fight.]
+;B[gj]LB[gn:A]TR[gk][gl][fm][gm][fn]SQ[fo][go][ep][fp]C[With Black's hane here that puts pressure on the G9 group (triangle), we can see that it looks like a 2 vs 2 fight on the weak side. However, White has an easy connection with A (G6) which would kill the F5 stones (square) immediately, so this feels successful and favorable for White.]
+;W[hj]LB[gn:A]TR[dj][ej][gj][ek][fk][fl]C[Since White has the A (G6) cut at his disposal, he goes ahead and hanes here to (1) gain some influence towards the center and negate Black's center territory potential and (2) continue weakening the E10 group (triangle).]
+;B[ip]LB[hq:A]TR[ho][hp]C[Black's descent here threatens to capture the H4 stones (triangle) with the atari at A (H3).]
+;W[gn]TR[gk][gl][fm][gm][fn][gn]SQ[fo][go][ep][fp]C[White decides to cut and ensure his the security of his G9 stones (triangle) by securely captruing the F5 stones (square).]
+;B[iq]C[With the fight decisively over, Black takes his consolation prize and reduce White's bottom territory a bit with this descent.]
+(;W[ir]C[Though this looks small since it is seems like White is only potecting a few points, this is bigger than it looks and is absolutely necessary because without this hane, Black can kill the entire L2 group (triangle).
+
+If you don't believe me, go back to Move 149 and click on H3.]
+;B[hq]SQ[fo][go][ep][fp]C[Black turns and threatens to save his F4 stones (square) while further reducing the bottom.]
+;W[gp]C[White obviously cannot let those stones come back alive so he captures them cleanly.]
+;B[lm]LB[ln:A]C[Unfortunately Black still had a severe weakness at A (M6), so he had to come back to protect the cutting point which is a very painful gote for Black.
+]
+;W[rn]TR[ql][qm]C[White now threatens to connect to his R7 stones (triangle).]
+;B[qn]TR[ql][qm]C[Black keeps the R7 stones (triangle) firmly cut off.]
+;W[sn]LB[os:A]TR[pq][qq][or][pr][rr][ns][qs][rs]C[This turn is a beautiful tesuji by White since it makes a real eye in sente (because it threatens to kill the Q2 stones (triangle) with the throw-in at A (P1)).
+]
+;B[os]C[Black makes his group unconditionally alive.]
+;W[pi]C[White is now trying to see what he can do about his group on the right here. Thie move serves as both a clamp as well as a move for generating eye shape.]
+;B[qh]C[Black takes away the ponnuki shape point and peeps at White's shape.]
+;W[oh]C[White is aiming to play light and make flexible shape in this area so that Black does not make many points here.]
+;B[oj]C[Black cannot give White a ponnuki here, so he extends.]
+;W[bh]LB[ai:A]TR[ng][oh][ni][pi][ri][qj][rk]C[It surprised me when White tenuki'd here, but the following sequence will help explain why. To start though, I will say that White is trying to indirectly help his right side group (triangle) through this sequence. 
+
+With this move, White is threatening to connect under at A (A11).]
+;B[ai]TR[bh][ch]C[Black cuts off the B12 stones (triangle).]
+;W[dg]LB[cf:1][eh:2]TR[ai][bi][ci][dj][ej][gj][ek][fk][fl]C[This move is huge because Black is now separated into two groups again. In addition, you'll notice that the D10 group (triangle) is actually not quite alive yet, so this is very very tough for Black.
+]
+;B[gi]C[This is very painful for Black to get harrassed like this and forced to make shape instead of focusing on making points.]
+;W[ih]TR[eh][ai][bi][ci][gi][dj][ej][gj][ek][fk][fl]SQ[ng][oh][ni][pi][ri][qj][rk]C[Here is another huge move by White which continues to threaten the G11 group (triangle). It's definitely feeling like an uphill battle for Black at this point.
+
+In addition, you'll notice that this indirectly is helping the right group (square) by placing allies for the group to run to later on.]
+;B[hh]C[Black attaches to try and make some shape.]
+;W[hg]LB[if:A]C[White hanes to keep the most pressure on Black possible while making some points in the A (J14) area.]
+;B[ii]SQ[ng][oh][ni][pi][ri][qj][rk]C[Black hanes to try and salve the center a bit while also aiming at the right White group (square) as well.]
+;W[hi]C[White cuts and threatens to capture.]
+;B[gh]C[Black connects.]
+;W[ig]C[And then White connects to repair his cutting point.]
+;B[ki]SQ[ng][oh][ni][pi][ri][qj][rk]C[Black's jump here aims to make some points in the center while affecting White's group's (square) shape.]
+;W[li]C[White attaches to try and make shape.]
+;B[lh]TR[jb][lb][ic][kc][lc][jd][ld][je][ke][lf][mf]C[Black hanes to keep the White group firmly cut off from the M14 group (triangle).]
+;W[lj]LB[mh:A]C[Some people (including myself) might be wondering why White doesn't play at A (N12). After all, it seems to be a free atari that also gains White eye shape. However, the reason why will become clear in a little bit.]
+;B[mh]LB[nh:A]C[Though it's an empty triangle, Black takes White's vital shape point and threatens to cut at A (O12).
+
+Question: Should White connect at A (O12)?]
+;W[kh]C[The answer is no. And Gu Li (9p) is about to show us how flexible go players need to be in regards to their strategy and the philosphy behind not being attached to your groups.
+
+With this cut, White begins a sacrifice strategy which will become clear soon.]
+;B[jh]LB[kh:A]C[Black ataris from the bottom, but realize this is more a forcing move since Black knows he cannot capture the A (L12) stone.]
+;W[kg]TR[mg][lh][mh]C[White extends to keep the N12 stones (triangle) cut off.]
+;B[nh]SQ[ng][oh][pi][ri][qj][rk]C[Black now cuts off the entire White group (square). This might seem like a disaster to kyu players, but just wait and see.]
+;W[ik]SQ[ng][oh][pi][ri][qj][rk]C[With this diagonal, White clearly shows an intention to trade the right group (square) in exchange for the center. This is definitely something that many kyu players (including myself) would probably have a hard time doing. 
+]
+;B[fi]C[Since White protected his cutting point, Black now needs to make living shape.]
+;W[df]LB[cf:A]C[Since Black made life, White extended here to attack the A (C14) stone.]
+;B[fg]C[Black must make his second eye, so he does so with this move. It seems very pain ful though to live in gote.]
+;W[di]C[White then cuts here in order to leave aji for endgame later on.]
+;B[dh]TR[ai][bi][ci]C[Black must cut in order to prevent White from capturing the B11 (triangle) group.]
+;W[ce]LB[cf:A]C[White then silences the A (C14) stone and makes a lot of points in the upper left area.]
+;B[kk]C[Black now tries to salvage the center.]
+;W[kj]C[White pushes and threatens to connect back to his allies.]
+;B[jj]C[The ko is the only answer for Black, but as you'll see, it seems to be an unfavorable one for Black.]
+;W[ji]C[White starts the ko.]
+;B[bo]C[Black threatens to bring his entire group back to life.]
+;W[aq]C[So White must answer to keep his points.]
+;B[ki]C[Black recaptures the ko.]
+;W[rc]C[White threatens to make life in the corner where Black's main points are.]
+;B[sc]C[Black clearly cannot allow this and connects under.]
+;W[ji]C[White recaptures the ko.]
+;B[aj]TR[bj][cj][bk][dk][bl][cl][dl][el]SQ[bm][em][cn][dn][en][bo][co][cp]C[Black reduces the liberties on the B10 group (triangle) and threatens to possibly ressurect the C4 group (square).]
+;W[ah]C[So White absolutley must respond.]
+;B[ei]LB[di:A]C[Black captures the A (D11) stone and keeps his stones connected.]
+;W[an]SQ[bm][em][cn][dn][en][bo][co][cp]C[And White then firmly keeps the C4 group (square) dead.]
+;B[ki]C[Black then recaptures the ko.]
+;W[ij]LB[ji:A][jk:B]C[When White plays here though, the ko simply ends since if Black connects at A (K11), then White will capture the entire group with B (K9). Alternatively, if Black connects at B (K9), then White will capture two stones with A (K11). 
+
+So in reality, the ko was a picnic ko the entire time for White and in the end Black only ended up solidifying White's points while White got to waste some of Black's ko threats.]
+;B[hr]C[Black descends to further reduce White's bottom.]
+;W[hs]TR[ko][jp][kp][lp][jq][mq][nq][oq][ir][kr][lr][mr][nr][hs]C[White hanes here to prevent Black from having any sente endgame moves against his L2 group (triangle) by calling its life into question.]
+;B[fe]C[Black then turns his attention to White's top and tries to reduce it.]
+;W[ml]C[White is clearly not concerned however, and embarks to further destroy Black's center territory.]
+;B[mk]LB[ml:A]C[Black attaches to try and cut off the A (N8) stone.]
+;W[nk]LB[ng:A]TR[mg][lh][mh][nh]SQ[li][kj][lj]C[White's hane here ensures that the Black's center will remain reduced. Because of the A (O13) stone, the N13 group (triangle) cannot ever cut the M11 group (square) due to a shortage of liberties.]
+;B[gs]C[Black returns his attention to the bottom.]
+;W[is]C[White connects  to keep his group strong and secure.]
+;B[gd]C[Black tries to further reduce the top.]
+;W[gc]C[White protects with a solid extension.]
+;B[nl]C[Black tries to crosscut and salvage the center.]
+;W[lk]C[But White calmly ataris.]
+;B[mm]C[Black counter ataris.]
+;W[ok]LB[pj:A]TR[oi][oj]SQ[ng][oh][pi][ri][qj][rk]C[Except White has this brilliant tesuji and threatens to cut off the P11 stones (triangle) with A (Q10 and capturing them which woudl save the entire right group (square).]
+;B[ol]C[Black connects to keep a few points in the center.]
+;W[nj]TR[oi][oj]C[White's connection here is sente since it threatens to capture the P11 group (triangle).]
+;B[pj]C[So Black connects.]
+;W[ll]C[With this solid connection, it is clear that Black does not have enough to make up the difference. Lee Sedol (9p) resigns here and Gu Li (9p) has brought hope back to the go community that we may see the full jubango. 
+
+This game started out normally, but it goes to show just how much deeper professional play can be and how everything can be turned upside down at any minute. I hope that you enjoyed this combo review with myself and frozensoul. Be sure to leave comments below if you want! We would love to get your feedback!
+])
+(;W[hq]C[If White tries to protect the bottom from this side and remove a forcing move from Black.]
+;B[ir]TR[ko][jp][kp][lp][jq][mq][nq][oq][kr][lr][mr][nr]C[Black can descend and the entire L2 group (triangle) is dead. Don't believe me? Give me your best shot. I've done a variation for every White response to the best of my ability. Click and see where it goes!]
+(;W[jr]C[This is perhaps one of White's strongest response.]
+;B[js]C[But Black will simply hane and reduce White's eye shape.]
+;W[ks]C[White will block.]
+;B[ms]C[Black will then poke out the second eye.]
+;W[is]LB[hs:A]C[When White captures here, you're probably thinking, "Well Black will block at A (H1) and then it will be ko right?"]
+;B[hr]C[Nope. Black will simply avoid the ko by extending here.]
+;W[hs]C[White can try to extend.]
+;B[gs]C[But now Black can block.]
+;W[gr]C[Even if White cuts...]
+;B[js]C[Black will just capture.]
+;W[is]LB[hs:A]C[And even if White captures back, White remains at one eye and cannot play A (H1) since it would be self-atari.])
+(;W[ms]LB[ks:B][os:A]C[Here is another option. After all, it looks like Black needs that other eye to live right? This would force Black to connect at A (P1) and then White would make an eye at B (L1).]
+;B[ks]C[Except no. Black would just attach here first.]
+;W[os]TR[pq][qq][or][pr][rr][qs][rs]C[White can capture, but he still has one eye. However, you might be thinking that Black's Q2 group (triangle) is dead, but let's assume Black plays K1 (though not necessary) and see where it goes.]
+;B[js]C[Let's assume Black plays here (even though it's unnecessary.]
+;W[ns]TR[pq][qq][or][pr][rr][qs][rs]C[White will connect to try and ckill the Q2 group (triangle).]
+;B[ps]C[Black will simply make an eye.]
+;W[sq]TR[pq][qq][or][pr][rr][ps][qs][rs]C[White can then connnect to try and kill the Q1 group (triangle).]
+;B[rn]LB[ss:A]SQ[ro][pp][qp][rp][sp][rq][sq][sr]C[But once Black plays here, the T2 group (square) cannot descend at A (T1) because it would be self-atari. ])
+(;W[js]C[White can try to expand his eye space here.]
+;B[jr]C[But then Black will just extend here.]
+;W[ms]C[White can try to make an eye.]
+;B[ks]C[But Black will just throw-in and falsify it.]
+;W[os]TR[pq][qq][or][pr][rr][qs][rs]C[And then White can try to kill the Q2 group (triangle), but it doesn't work. To see why, go back to Move 151 of variation and click on N1.])
+(;W[ks]C[White can try to make an eye like this.]
+;B[ms]C[But Black will simply poke out the eye.]
+;W[os]C[White can try to throw-in and start a capturing race.]
+;B[ps]C[Though unnecessary, Black can just capture.]
+;W[ls]C[White can try to continue the capturing race.]
+;B[os]C[Let's assume Black connects (although once again this is not necessary).]
+;W[sq]LB[ss:A]C[White still needs to atari from A (T1), so he'll connect here.]
+;B[rn]LB[ss:A]TR[pq][qq][or][pr][rr][ms][ns][os][ps][qs][rs]C[But then Black will remove one of White's liberties here and make the A (T1) descent self-atari. As a result, the R1 group (triangle) cannot be killed.])
+(;W[ls]C[This is probably the weakest and weirdest move White can make.]
+;B[js]C[But Black can just poke out the eye immediately if he wants to settle it once and for all (although it's not necessary to do so since Black can poke out this eye at any time).]
+;W[os]TR[pq][qq][or][pr][rr][qs][rs]C[And if you think you can start a capturing race with the R1 group (triangle), go back to Move 151 of this variation and click on N1 to see why it doesn't work.])
+(;W[is]C[This is probably the trickiest of White's responses.]
+;B[js]C[But all Black has to do is cut from the inside.]
+;W[ks]C[And then even if White tries to get fancy.]
+;B[ms]C[Black will once again just poke out the second eye.]
+;W[jr]C[And then White can threaten to connect to his other stones.]
+;B[hr]C[But Black will just calmly extend.]
+;W[hs]C[And even if White tries to go for it still.]
+;B[gs]C[Black can now block.]
+;W[gr]C[And even if White cuts...]
+;B[js]C[Black will just recapture and the White group is still dead.])))
+(;W[os]C[If White removes the second eye possibility.]
+;B[rn]C[Black will extend here and be one step ahead in the liberty race.]
+;W[ms]C[White can capture.]
+;B[sn]C[But then Black will descend.]
+;W[ns]LB[ps:A]C[White will need to connect to atari at A (Q1).]
+;B[so]C[But Black will win the capturing race since he is one move ahead.]))
+(;B[og]C[Some players might be wondering why this move isn't a viable option. After all, doesn't Black get a bigger corner?]
+;W[ne]LB[nh:A]C[Well you'd be correct if White would simply extend at A (O12), but White will definitely counter atari.]
+;B[oe]C[Even if Black tries to start a ko...]
+;W[nd]TR[ka][la][kb][mb][mc][md][me]SQ[nb][nc][pc][qc][nd][ne]C[White will just connect and now the N17 Black group (triangle) is captured and the White O18 group (square) is completely alive. Complete failure for Black.]))
+(;B[le]C[If Black were to try and play the forcing move of atari here...]
+;W[ka]LB[la:A][nc:B]C[White would capture and now threaten to capture the A (M19) stone and thus threatening to link back up to the B (O17) stone which would negate Black's entire sacrifice play.]
+;B[ma]LB[le:B][me:A]C[So Black would need to connect in gote. In addition, Black also has the cutting point at A (N15) now that he has to worry about. As a result, one can conclude that the atari of B (M15) is actually a mistake and should not be played. Black's actual move in the game is much more elegant.]))

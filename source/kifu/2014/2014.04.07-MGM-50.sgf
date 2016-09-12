@@ -1,0 +1,488 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[1800]OT[20/360 Canadian]
+GN[Monday Go Meditation - Game 50]PW[BenGoZen]PB[eyecatcher]WR[3k]BR[5k]DT[2014-03-07]PC[The KGS Go Server at http://www.gokgs.com/]RE[W+25.50]
+;B[jj]BL[1764.022]C[When someone plays tengen (i.e., K10), the one thing you can be sure of is that ladder breakers are in your opponent's favor for a good portion of the game. In addition, Black has already made his first move a challenge to control the center and have impact on the rest of the board. As a result, there is no simple nor easy response to this move. It's going to be a challenging game. 
+
+@Trivia - The first move here should be a bit of a hint. ]
+;W[oe]WL[1734.01]C[This move probably shocked anyone who never watched Hikaru No Go, but the idea is to start off fighting Black for control of the center at the very beginning. This is a very risky strategy however and has no clear cut route as to how the game will proceed. (Although after some research, this might not actually be a good idea. Haha.)
+
+Because Black is contesting the board as a whole, I recalled the a certain player in Hikaru No Go was faced with what I thought was the same situation at the time, and so I was inspired by his rationale to play 5-5. 
+
+@Trivia - This move should say it all, but just in case you are trying to scan through your Hikaru No Go knowledge for the answer, I've put the answer on Move 3 so I don't accidentally reveal it too early.
+]
+;B[dp]BL[1703.432]C[Black choosing a star point here is a good continuation of the tengen move since it aims for central influence and not territory.
+
+@Trivia - Unfortunately the anime never got this far, but the game I'm referring to is between Yashiro and Hikaru during the qualifying rounds of the Hokuto cup. In actuality though, I just checked and apparently the move order was different. Black played 5-5 and then White played tengen in response. But no matter, it was still inspired from what the show. Haha.]
+;W[dd]WL[1708.721]C[Since this is a battle for the center, I decide to also play a star point as well.]
+;B[pp]BL[1693.466]LB[jp:A]C[When Black plays here, I must admit I was a little concerned of a sanrensei pattern at A (K4), but rather than be hasty about splitting it.]
+;W[qn]WL[1643.432]C[I thought I would go ahead and probe Black's intention with this move.]
+;B[np]BL[1678.285]C[Black's high one-space jump here is nice and maintains continuity with his past moves.]
+;W[pj]WL[1627.509]LB[ql:A]C[I read recently that though this is joseki, it has become less popular in professional usage due to the weakness at A (R8).]
+;B[pd]BL[1616.492]C[Black's invasion here definitely left me a bit perplexed. Then again, I have practically no experience with 5-5.]
+;W[qc]WL[1605.121]C[However, since this was unlike any other game I had ever played, I thought that the 3-3 might be interesting at this point since any wall that Black form will be slightly impaired by my 5-5 stone.]
+;B[pe]BL[1603.889]C[Seeing as how the typical 3-3 invasion joseki is now odd with the 5-5 stone in place, Black gets creative and tries to split right while ruining the right side potential.]
+;W[pc]WL[1596.304]C[At this point, I realize I may be heading towards a territorial game, so I decide to secure the 3-3 stone with profit first.]
+;B[ph]BL[1586.785]C[Black's two spaced jump here seemed like an attempt to settle, but note that this is on the 4th line which is very different from the 3rd line. As a result, I felt that Black still had a weakness I could poke at later.]
+;W[od]WL[1578.394]C[In go, one of the critical (yet often overlooked) concepts is keeping your groups connected. And since this was going to be a wild game, I wanted to keep my groups connected in order to gain stability for the crazy fights that would inevitably break out later on.]
+;B[of]BL[1541.954]LB[qf:A]C[Black takes an important shape point. However, he is still not quite settled yet. There is still weakness with an invasion like A (R14).]
+;W[nf]WL[1555.883]C[I hane in order to try and further expand my wall's power and also prevent Black from sealing me from the center.]
+;B[og]BL[1509.95]C[Black extends to prevent any atari.]
+;W[me]WL[1535.941]C[This move might seem slow, but I believe it was necessary to really consecrate poewr of my wall for later usage.]
+;B[lc]BL[1484.23]C[Black noticed the imposing power of my wall and tries to negate it. However, he violates the principle of playing close to thickness.]
+;W[jc]WL[1522.07]C[So I immediately pincer him to make full use of my strong wall.]
+;B[nc]BL[1431.228]C[Black peeps.]
+;W[oc]WL[1513.479]C[And then I connect solidly, however, I do wish that I could have found a better response thatn connecting. ]
+;B[kd]BL[1393.092]C[Black now tries to escape.]
+;W[kf]WL[1489.849]LB[jd:A]C[When chasing your opponent, one of the important things to remember is to cut off a running direction. Playing a move like A (K16) instead would only allow Black to run into the center (where he has his tengen move waiting to help out. ]
+;B[jd]BL[1310.817]C[Black has to continue running.]
+;W[ic]WL[1383.873]C[I extend solidly since the hane at J16 would only expose a cutting point at J17 which Black would promptly take advantage of.]
+;B[jf]BL[1293.625]C[When Black attaches here, he is trying to escape towards the center.]
+;W[jg]WL[1340.914]LB[kg:A]C[The hane is a common response to the attachment since it clearly cuts prevents the stones from easily running into the center. However, do keep in mind that there is the obvious cutting point at A (L13) which could cause complications if Black chooses to cut.]
+;B[if]BL[1220.946]C[Black chooses the simple extension.]
+;W[id]WL[1328.024]LB[kg:A]C[Though I still have a cutting point at A (L13), I wanted to ruin Black's shape while keepingh im heavy so that I could keep chasing him.]
+;B[kg]BL[1195.143]C[Black takes advantage of the cutting point, but I have a sequence read out that I believe I can handle.]
+;W[kh]WL[1314.597]LB[jg:A]C[First this atari to prevent the ladder to capture the A (K13) stone.]
+;B[lg]BL[1185.528]C[Black must extend.]
+;W[lf]WL[1313.461]LB[je:A][mg:B]C[And with this extension, I have a miai for A (K15) and B (N13).]
+;B[je]BL[1150.351]C[Black connects.]
+(;W[jh]WL[1300.814]TR[lc][nc][jd][kd][je][if][jf]C[To be honest, I don't know why I didn't read out or see the ladder at A (N13) at the time. But I must have either missed it or wanted to continue attacking the marked Black stones.
+
+If you can't see the ladder, go back to Move 35 and click on N13.]
+;B[lh]BL[1114.608]C[Black's descent here cuts off my marked stones, but at the time I wasn't worried since I was looking for a fight anyways.]
+;W[hh]WL[1264.9]TR[lc][nc][jd][kd][je][if][jf]C[This is the only direction, however, this also serves as an attack on marked stones since it is keeping the stones pincered.]
+;B[nd]BL[1092.889]C[Black is peeping at A (O15). The submissive move is to simply connect at A (O15), but there is a better response. Can you see it?]
+;W[nb]WL[1243.023]C[Correct. They say the best defense is a good offense. In this case, this prevents Black from cutting at A (O15) while helping to establish some eye shape for White and concurrently reducing Black's eye space.]
+;B[mb]BL[1080.664]C[Once Black plays here, the O15 cut works again, but I had no intentions of connecting passively. Any idea what I'm headed for?]
+;W[ld]WL[1210.904]LB[kc:C][mc:B][ne:A]C[This diagonal here once again protects the A (O15) cut by threatening a snapback at B (N17). In addition, this threatens to cut the Black group apart at C (L17).]
+;B[ob]BL[691.388]C[Black chooses to settle. 
+
+Unfortunately, I think that this may be the most critical decision of the whole game since it dictates what is about to happen for a large portion of the game. ]
+;W[kc]WL[1203.652]TR[ld][me][kf][lf][nf]C[As a result, there is no other choice than to carry out the threat and sever the groups apart. Unless Black can somehow kill the marked White stones and connect back up, White's upper left is looking very nice right now.]
+(;B[md]BL[675.909]C[Black plays the empty triangle to form an eye.
+
+Please note that Black could not actually cut at A (O15) instead of this move. If you can't see why, go back to Move 44 and click on O15.]
+;W[le]WL[1197.355]C[So White must obviously connect.]
+;B[na]BL[666.933]C[Black makes another eye.]
+;W[ne]WL[1187.187]C[And then I am finally force to connect solidly here.]
+;B[gf]BL[597.07]TR[na][mb][ob][lc][nc][md][nd]C[When Black jumps out here, I know that it's critical to keep pressure on these stones and gain profit somehow. However, I'm sure some of you have also noticed that the marked Black group is still not quite alive. 
+
+If you can't spot it yet, I'll show you soon.]
+;W[fh]WL[1171.588]C[So I keep up the chase and keep Black tightly surrounded by White's influence.]
+;B[fd]BL[554.053]TR[ic][jc][kc][id]C[Black tries to make shape while counter attacking the marked stones.]
+;W[lb]WL[1165.525]C[Remember that life and death problem I mentioned a couple of moves ago? Well as you can see here, Black is not quite alive yet.]
+;B[mc]BL[510.264]C[Black connects.]
+;W[ka]WL[1151.778]C[I hane for eye shape, but there is also a hidden agenda here as well. Can you see it yet?]
+;B[pb]BL[424.676]C[Black extends to get his second eye.]
+;W[qb]WL[1145.778]C[White blocks while threatening to destroy the second eye with a hane at A (Q19).]
+;B[pa]BL[412.279]C[Black secures his second eye, but he's not quite alive yet. Can you see it?]
+;W[ma]WL[1083.701]C[The throw-in! It's a ko!]
+;B[la]BL[394.269]C[When Black captures the ko, I am forced to find the first ko threat.]
+;W[fe]WL[1075.639]C[Unfortunately I couldn't see to find a big ko threat on the board that Black would respond to, so I fifgured it'd be best to get a head start in this fight in the upper left.]
+;B[kb]BL[382.229]TR[ic][jc][kc][id]C[Black ends the ko as I suspect. Now keep in mind though, even though it looks like White is in a great position in the upper left, the marked stones are far from alive and can easily die if White is careless.]
+;W[ff]WL[1050.978]TR[jd][kd][je][gf][if][jf]C[I choose to descend here because I wanted to seal Black in and have minimal aji when it comes to the marked Black stones escaping..]
+;B[gg]BL[362.873]C[When Black double peeps here, there is an excellent shape point that all kyu players should get familiar with and use in their own games.]
+;W[ei]WL[1034.35]C[Correct!]
+;B[gh]BL[349.684]C[Now Black can push.]
+;W[gi]WL[1032.152]LB[eh:A][fi:B]C[But White can block nicely without fearing a double cut around the A (E12) and B (F11) area.]
+;B[hi]BL[343.994]C[Of course there is this cut as well, but I was ready for it.]
+;W[hg]WL[1000.857]LB[hf:A]C[I choose the bamboo joint here, but in all honesty, one should take note that there is a shortage of liberty situation that can arise should Black choose to block at A (H14). In this case, it seems that White may be able to win the capturing race, but one should not blindly make such shape because it "looks good."]
+;B[ge]BL[281.317]C[In this case, Black tries to extend and connect his stones.]
+;W[gd]WL[986.198]C[White obviously cannot let this happen, so I cut.]
+;B[hd]BL[273.87]C[Black tries to create some aji.]
+;W[gc]WL[983.467]TR[ic][jc][kc][id]C[But once White extends his marked stones are quite safe.]
+;B[cc]BL[240.332]LB[dc:B][cd:A]C[Black now invades the 3-3. The only question to ask it, which side should you block? A (C16) or B (D17)?]
+(;W[cd]WL[939.319]LB[dm:A]C[I chose to play here at A (C16) because I had thickness on the top side that I felt could be very useful for harrassing Black and possibly killing him. In addition, even though I did not necessary have enormous prospects on the left, I thought that even if Black lived, it would most likely be in gote and thus I would be able to get a big extension like A (D7).
+
+If you want to see why I did not like the D17 option, go back to Move 73 and click on D17.]
+;B[fc]BL[226.73]C[Of course there is the concern of Black trying to use his stone here for aji and make life.]
+;W[gb]WL[923.57]TR[cc][fc][fd]C[But I had a plan for that already. The decent here helps to both undercut the marked Black stones while helping protect the J17 White stones.]
+;B[dc]BL[186.217]C[Black tries to establish a base.]
+;W[eb]WL[878.889]C[But this simple jump destroys a lot of Black's potential eye shape.]
+;B[ed]BL[125.235]C[This move here looks like Black is simply trying to break out with bad shape, but it actually has a hidden agenda with the push and cut at A (F13). 
+
+If you don't see what I mean, click on E17 to see the variation.
+
+Question: How does White solve this problem while maintaing good shape?]
+(;W[df]WL[853.568]C[Correct. This one point jump really help White maintain a nice relationship between all of his stones.]
+;B[bd]BL[115.322]C[Black hanes to try and make eye shape.]
+;W[be]WL[755.571]C[I block.]
+;B[bb]BL[55.337]C[Black makes a tiger mouth.]
+;W[ad]WL[744.388]C[The atari is a simple choice since White has nothing to lose if Black tries to start a ko.]
+;B[ac]BL[38.885]C[Which is precisely what Black does.]
+;W[bc]WL[740.704]C[White gets the first capture, so Black must find the first ko threat.]
+;B[hf]BL[301.377]OB[19]TR[hd][jd][kd][ge][je][gf][hf][if][jf][gg][gh]C[When Black makes this ko threat, the question that I asked myself was, "Do I really want to capture those marked Black stones?" After all, if I respond once, there are going to be a LOT more ko threats being generated in this area.]
+;W[ab]WL[672.905]C[And to be honest, the corner profit seemed perfectly adequate and I would get sente. So I ended the ko.]
+;B[ih]BL[294.3]OB[18]LB[ig:A]TR[hg][hh]C[Black carries out his threat.
+
+Question: Should White connect at A (J13) to save the marked White stones?]
+;W[li]WL[670.228]TR[hg][hh]C[Absolutely not. In fact, connecting at A (J13) would simply doom the entire group to death.*
+
+Oh right, I forgot to mention that when making the decision to end the ko, I realized didn't need to save the marked White stones. I could treat them lightly and still have some power in the center.
+
+*If you can't see it, go back to Move 89 and click on J13.]
+;B[ki]BL[276.15]OB[17]LB[mh:A][ji:B]C[Black cuts to try and capture the stones. And at this point, White has two choices: A (N12) or B (K11).]
+;W[ji]WL[642.203]C[I stupidly chose this one. ]
+(;B[gj]BL[251.78]OB[16]C[Fortunately, Black did not follow up, but to see what Black should have done to punish my mistake, go back to Move 92 and click on J11.]
+;W[mh]WL[586.254]LB[kf:2][jg:1]C[So fortunately I get a chance to rectify my mistake. This helps me connect both my groups back up together and makes it a lot easier for me to embark on other missions later on.]
+;B[ni]BL[229.383]OB[15]TR[pd][pe][of][og][ph]C[To be honest, this move seemed a bit odd to me at the time. If anything, it seems like Black's marked group is trying to break out into the center. ]
+;W[kj]WL[578.386]C[I decid to go ahead and capture this stone in order to generate stability in the center so that Black's tengen is almost neutralized at this point.]
+;B[ql]BL[222.93]OB[14]C[Upon second analysis though, I realize now that Black's aim with O11 was actually to keep my stones separated. However, this was not a concern of mine at the time because I felt my stones were light and I had multiple ways of utilizing them.]
+;W[qq]WL[574.168]C[For example, I felt that the 3-3 invasion here was good enough.]
+;B[qp]BL[218.988]OB[13]LB[jp:B][pq:A]C[To be honest, I'm a little conflicted as ot whether this is the correct direction for Black. After all, it seems that blocking from A (Q3) instead and then getting sente to take the big point at B (K4) would be better since the right side is undercut by R17.]
+;W[rp]WL[566.491]LB[qn:A]C[Normal joseki proceeds where White threatens to connect back to the approach A stone (R6).]
+;B[ro]BL[211.387]OB[12]C[Black keeps the White stones separated.]
+;W[rq]WL[563.014]C[White defends his cutting point.]
+;B[qo]BL[209.843]OB[11]C[Black protects his cutting point.]
+;W[or]WL[562.085]C[And then White slides out with the small knight's move to establish a base and ensure the life of his corner group.]
+;B[fg]BL[174.415]OB[10]LB[eg:A]C[When Black pushes out here, the instinctive move that most people would want to make is block at A (E13). ]
+(;W[fi]WL[549.704]LB[ig:A]TR[hd][jd][kd][ge][je][gf][hf][if][jf][fg][gg][gh]C[However, I felt that by connecting here first (even though in bad shape), it would be sente since White could connect at A and then the marked Black stones would most likely be practically dead again.]
+;B[ig]BL[151.793]OB[9]C[Black sees his problem and captures the stones.]
+;W[eg]WL[545.581]TR[hd][jd][kd][ge][je][gf][hf][if][jf][fg][gg][ig][gh][ih][hi]C[Now I can block. However, there is a big difference now because my shape is very strong and the marked Black group is actually not quite alive yet. Depending on how the game goes, White could even cut off the marked stones at A (H10) and once again pust the marked stones in grave danger.
+
+To see the other alternative, go back to Move 105 and click on E13.]
+;B[fb]BL[127.155]OB[8]C[Black tries to expand his eye space.]
+;W[fa]WL[529.635]C[But White can connect underneath easily.]
+;B[de]BL[123.488]OB[7]LB[ef:A]C[When Black hane's here, it looks like he is threatening the snapback at A (E14).
+
+Question: How should White properly defend?]
+;W[ce]WL[522.78]C[Correct. This negates the snapback. If you don't agree, click on E14 to see what I mean.]
+(;B[dj]BL[81.85]OB[6]C[Black's move here seemed to be focused on negating my thickness, but it felt a bit close to me. It seemed to violate the principle of not playing close to your opponent's thickness. I could be wrong in this instance though.]
+;W[fk]WL[489.581]LB[hj:A]TR[hd][jd][kd][ge][je][gf][hf][if][jf][fg][gg][ig][gh][ih][hi]C[By jumping out here, I thought I was making a sente move splitting apart the Black stones while threatening to cut at A (H10) to possibly capture the marked stones.]
+;B[ii]BL[76.882]OB[5]C[But Black found this clever forcing move.]
+;W[mg]WL[484.689]C[I could have theoretically sacrificed my marked stones, but I wanted to maintain a solid power base in case Black started trying to develop the center and/or bottom later on.]
+;B[dm]BL[64.505]OB[4]LB[dj:A]C[By getting sente to play here, I feel that Black's move at A (D10) actually ended up working out in his favor.]
+;W[ci]WL[465.962]LB[fq:A][iq:B]C[This move seems incredibly small to me now. I guess I was trying to defend my territory while undercutting Black, but it's a bad move through and through. It would be much bigger to play a move like A (F3) or B (J3) right now.]
+;B[fj]BL[24.336]OB[3]C[Black cuts through.]
+;W[ej]WL[459.742]LB[ek:A][gk:B]TR[hd][jd][kd][ge][je][gf][hf][if][jf][gg][ig][gh][ih][hi][ii]C[I push through knowing full well that if Black tries to cut at A (E9), I would immediately atari at B (G9) and threaten the capture of the entire marked Black group.]
+;B[gk]BL[17.722]OB[2]C[See how weak group can be a really big burden? Instead of taking strategic points, you are forced to ensure your own life while your opponent gets to focus on points or other strategy.]
+;W[fl]WL[451.668]LB[ek:A]C[I descend here again (intentionally leaving the cutting point at A (E9)) because I am pretty sure I can win any kind of fight that breaks out if Black cuts.]
+;B[dk]BL[14.25]OB[1]C[Black pulls back solidly while threatening the cut.]
+;W[gl]WL[442.922]C[But by connecting, it would be in gote and I felt that the turn here was much more powerful and probably required an answer.]
+;B[hk]BL[360]OB[20]C[Black's extension here is bad shape, but I believe his goal was to make two eyes and relieve himself of the burden of having a weak group.]
+;W[hl]WL[440.474]TR[hd][jd][kd][ge][je][gf][hf][if][jf][fg][gg][ig][gh][ih][hi][ii][fj][gj][jj][gk][hk]C[I decide to push once more (threatening to atari at A (J9) and effectively killing the entire Black group).]
+;B[ik]BL[355.366]OB[19]LB[ij:A]C[Black extends once more to ensure life. However, it is important to note that depending on the situation later on, White could possibly falsify the eye at A (J10) later on.]
+;W[ek]WL[437.93]C[And with that sequence finished, I connected in order to ensure I did not have to worry about a weak group myself as I attempted to deal with the bottom of the board.]
+;B[di]BL[351.844]OB[18]C[Black extends and threatens to push into White's territory.]
+;W[dh]WL[433.714]LB[cg:A]C[Though this does seem small, my rationale at the time was to prevent Black from getting forcing moves in the A (C13).]
+;B[cj]BL[343.112]OB[17]LB[fp:A]C[Black's descent here helps prevent him from being undercut. However, this is also kind of small when you consider that the entire bottom of the board is open. A move like A (F4) would probably have been more useful to Black. 
+
+However, in Black's defense, I do believe he thought I would protect at B (C12) so he could get sente.]
+;W[cq]WL[426.238]LB[cp:A][dq:B][kq:C]C[I decide that now is a perfect time to invade the 3-3. The reasoning is because Black cannot really make use of the wall he would get from the joseki from either side. If he blocks at A (C4), then his territory would be rather over concentrated. On the other hand, if he blocks at B (D3), I would easily destroy his left territory and then most likely get the sente I needed to negate the wall with a move like C (L3).]
+;B[ch]BL[332.28]OB[16]C[Black tries to punish White's tenuki while destroying White's territory.]
+;W[cp]WL[398.7]LB[cg:A][dq:B]C[But after some analysis, I realized that it was pointless to try and salvage my territory in the A (C13) area. After all, I was alive and already had a sizable piece of corner, so I decided to choose the direction I wanted to play.
+
+The reason I chose this direction is because Black has spent a lot of moves trying to make territory on the left, so it only felt appropriate to choose this direction in order to either reduce or destroy the territory (as compared to choosing the other direction at B (D3).]
+;B[co]BL[328.624]OB[15]C[Black tries to defend his left side.]
+;W[bo]WL[396.47]C[I hane in order to continue poking into the left side.]
+;B[cn]BL[323.202]OB[14]LB[bn:B][do:A]C[Due to the weakness at A (D5), Black was not able to double hane at B (B6).]
+;W[dq]WL[392.083]LB[bn:A]C[When dealing with new variations to joseki, the one thing you always have to consider it how to benefit. And since Black had ignored White's 3-3 invasion, it didn't make sense to simply push at A (B6) as you normally would in the joseki. 
+
+As a result, I decided to go ahead and turn here in order to further expand the size of my corner and also significantly reduce any possibilities of Black making any sizable territory on the bottom. Thus taking advantage and maximizing my profit locally in response to Black's tenuki.]
+;B[nl]BL[310.487]OB[13]LB[pj:A]C[Black's move here tries to surround the A (Q10) stone while threatening to make a really big right side.]
+;W[re]WL[367.59]C[However, I felt that the A (Q10) stone still had a bit of aji left and so I decided to start by reducing from the upper right.]
+;B[rg]BL[298.996]OB[12]C[Black tries to stop White from jumping into the left side.]
+;W[qf]WL[346.278]LB[pf:A][qg:B]C[I decide to poke at Black's shape once to see how he would respond.
+
+Question: Where would you play? A (Q14) or B (R13).]
+(;B[pf]BL[282.298]OB[11]LB[qg:B]C[I felt that this was actually the inferior move between the two at the time. Since Black wanted to protect the right side, B (R13) is much more in line with that concept.
+
+To see what I mean, go back to Move 142 and click on R13.]
+;W[qg]WL[342.393]C[I go ahead and push once in order to reduce Black since I'm pretty sure he'll block.]
+;B[qh]BL[280.828]OB[10]C[Black blocks as expected.
+
+Question: White wants to make the most use of the A (Q10) aji, what's a good way for doing so?]
+;W[nj]WL[333.792]LB[pj:A]C[Correct. Black is really strong in the area, so attaching is a great way to create complications in order to maximize the aji of the A (Q10) stone.]
+;B[oj]BL[266.212]OB[9]C[Black wedges. Now the question is: which side should White atari from?]
+(;W[ok]WL[326.313]C[I personally feel that this side is the best since is gives White the most opportunity for connections. 
+
+Go back to Move 147 and click on P11 to see why I don't like the other variation.]
+;B[oi]BL[262.692]OB[8]C[Black obviously needs to connect in order to prevent White from connecting all of his stones together.]
+;W[nk]WL[323.55]C[I felt the solid connection here was best since it minimized by cutting points and kept me solid, which would be much needed strength in my efforts to reduce the right side.]
+;B[pk]BL[260.963]OB[7]LB[pj:A]C[Black cuts off the A (Q10) stone as expected.]
+;W[pl]WL[319.871]LB[pj:A]C[I atari in order to continue utilizing the aji of the A (Q10) stone.]
+;B[qk]BL[258.768]OB[6]LB[pj:A]C[Black must connect to keep the A (Q10) cut off.]
+;W[ml]WL[313.114]LB[ol:A]C[The next obvious move might seem like A (P8), but I thought that this hane was more active. ]
+(;B[pm]BL[254.64]OB[5]LB[ol:A][pl:1][qn:2]C[Black chooses to atari from this direction to keep the two White stones split apart. However, I'm sure some of you are curious about what would happen if Black atari'd from A (P8) instead. If you are, go back to Move 154 and click on P8.]
+;W[ol]WL[309.572]LB[qn:A]C[Though it's only one stone, I felt that connecting was a strong move since it would allow me to use the aji of the A (Q6) stone to further reduce the right side.]
+;B[om]BL[251.814]OB[4]LB[nm:A]C[When Black extends here, I think he was expecting White to capture at A (P7).]
+;W[so]WL[303.164]C[However, I felt that would be too small and thought the endgame hane here would be better since it would most likely be sente.]
+;B[sn]BL[248.116]OB[3]C[Black blocks as expected.]
+;W[sp]WL[302.229]LB[rn:A]C[I connect and threaten to cut at A (R6).]
+;B[rn]BL[245.645]OB[2]C[Black seals up his weakness, and White gets sente back!]
+;W[ep]WL[280.211]C[I take sente and decide to see if I can expand my corner a bit, so I atari upwards here.]
+;B[fq]BL[240.768]OB[1]C[Black peeps, but I felt this was too close to my thickness.]
+;W[hq]WL[269.864]C[So I immediately though to counter-pincer the stone and attack it.]
+;B[do]BL[360]OB[20]C[Black connects.]
+;W[eq]WL[266.634]LB[fp:A]C[And then I decide to connect, however, I think this is a passive move. In reality, I should have smothered the Black stone with a move like A (F4). This is definitely not severe enough.]
+;B[gp]BL[358.063]OB[19]C[Now Black can escape. ]
+;W[hp]WL[255.451]TR[fl][gl][hl]C[I try to push him into my thickness above by standing up.]
+;B[go]BL[353.56]OB[18]LB[en:A][in:B]C[Black continues to run.
+
+Question: Which direction should Black attack from: A (left) or B (right)?]
+;W[fn]WL[245.092]C[When attacking, cutting off a group's ability to conncet back to his allies is critical, so this is the correct diretion.]
+;B[ho]BL[348.75]OB[17]C[Black tries to gain some strength.]
+;W[io]WL[242.282]LB[ip:A]C[I then hane knowing that the cut at A (J4) works out in my favor.]
+;B[ip]BL[347.137]OB[16]LB[jp:A]C[Black cuts. And at this point, I am seeing that if I simply atari at A (K4), Black will come out at B (K6).]
+;W[jo]WL[232.608]LB[ho:1][ip:2]C[I'm clearly being greedy here, because I want to capture both Black groups.]
+;B[iq]BL[345.037]OB[15]C[However, I was naiive and did not read properly. This descent was an excellent move by Black.]
+;W[hr]WL[189.179]C[White can extend...]
+;B[ir]BL[326.504]OB[14]C[But Black keeps him firmly at 3 liberties.]
+;W[fr]WL[172.113]C[At this point, I was pretty sure of what was going to happen, but I was hoping to seal off the corner in sente.]
+;B[gr]BL[319.811]OB[13]LB[gq:A][gs:B]TR[hp][hq][hr]C[Black cuts off the three marked stones, and they are now firmly captured. 
+
+If you think White can escape, A (G3) is self atari, but to see what B (G1) looks like, click on G1.]
+(;W[fp]WL[158.47]C[So I atari from this direction to use as many sente forcing moves as possible.]
+;B[gq]BL[313.942]OB[12]C[Black connects.]
+;W[cl]WL[156.042]C[Feeling a little sheepish about my overconfidence the H2 area, I decide to make a play now in this area by hitting the vital point. Based on what I could read, there was no way for Black to cut off this stone.]
+;B[dl]BL[296.737]OB[11]C[Here is the most obvious place to cut off one running direction for the C8 stone.]
+;W[bn]WL[153.942]C[But White has this extension!]
+;B[bm]BL[295.022]OB[10]C[Black can try to hane, but White has a tesuji to connect! Can you see what move it is?]
+;W[bl]WL[143.059]LB[am:B][cm:A]C[Correct! The descent allows White to connect at either A (C7) or B (A7).]
+;B[cm]BL[281.433]OB[9]C[Black connects and takes away one of the miai points for connection.]
+;W[am]WL[140.837]C[So White takes the other route and connects under.]
+;B[bp]BL[277.303]OB[8]C[Black's cut here is an attempt to try and exploit a possible liberty shortage.]
+;W[al]WL[109.385]C[But White has just one too many liberties, and this simple connction prevents Black's cut from working.]
+;B[bk]BL[271.297]OB[7]C[So Black tries to salvage the situation as best he can by using the following forcing sequence to seal off the right side.]
+(;W[ap]WL[72.12]C[White must atari lest he want to lose all his stones. If you can't see what I mean, go back to Move 191 and click on N2.]
+;B[ak]BL[257.939]OB[6]C[Black reduces another liberty.]
+;W[bq]WL[63.557]C[I capture the cutting stone to remove any remaining aji.]
+;B[ck]BL[246.656]OB[5]C[Black ataris.]
+;W[an]WL[61.655]TR[ch][di][cj][dj][ak][bk][ck][dk][dl][bm][cm][dm][cn][co][do][dp]C[And White connects. However, there is a question that Black now has to ask himself.
+
+Question: Does the marked Black group have two eyes already? Or does Black need another move?]
+;B[bi]BL[242.922]OB[4]C[At the time of the game when Black made this move, this seems like a bad move since Black seemed like he had a miai for life with the eye at A (D6). So based on first glance, it seems that black actually did not need another move.
+
+However, I have to say that I'm not entirely sure that I'm correct on this one, so feel free to comment on it if you can see a variation where Black will die if he ignores White.
+]
+;W[kr]WL[12.469]LB[lq:A]C[With sente, I decided to destroy the bottom. However. I have to say this is is a really odd move for me now that I see it again. My intention at the time was to destroy the bottom while possibly killing the marked group again. (I know I know... way too aggressive). 
+
+A better move might have been like A (M3), which is more flexible and has been miai for connections.]
+;B[im]BL[58.632]OB[3]TR[io][jo]C[Black's move here seemed to be bent on connecting by cutting off the two White stones and possibly capturing them later.]
+;W[er]WL[342.39]OW[19]C[I went ahead and sealed up my cutting point here in order to start a harrassing sequence.]
+;B[hs]BL[45.591]OB[2]C[White captures the stones to maximize his eyes.]
+;W[hq]WL[339.902]OW[18]C[Even though it looks like I'm trying to kill White, please keep in mind that my goal is to simply prevent Black from gaining easy life and thus hopefully gaining the ability to harrass him and profit while he finds his second eye. I did not actually think Black would die.]
+;B[kq]BL[40.894]OB[1]C[Black attaches to try and get some shape.]
+;W[lr]WL[319.161]OW[17]LB[lq:A]C[Though I could have hane'd at A (M3), I felt that it would allow Black an easy time of making shape. So by extending, it leaves Black weak and strengthens myself at the same time.]
+;B[kp]BL[360]OB[20]C[Black makes the bamboo joint to strengthen his connection.]
+;W[mp]WL[300.48]OW[16]LB[jr:A]C[When I attached here, I must have thought I was still attacking Black by cutting him off from his allies, but if Black plays at A (K1), he would be instantly alive. 
+
+If you can't see it, click on K1 to see what I mean.]
+(;B[lm]BL[356.96]OB[19]C[When Black played this move, I was immediately distracted and thought he was just trying to make territory in the center.]
+;W[nm]WL[283.318]OW[15]C[So I went ahead and captured to negate that territory.]
+;B[nr]BL[351.412]OB[18]TR[mp][kr][lr]C[However, I did not see this attachment coming. This was an excellent move by Black and suddently threatened my lower right corner while cutting off my marked stones.]
+;W[oq]WL[266.825]OW[14]TR[mp][kr][lr]C[After a little counting, I decided that I should be leading, so I decided to protect my corner and try to come back to the marked stones later on if possible.]
+;B[nq]BL[348.715]OB[17]C[Black protects the cutting point.]
+;W[op]WL[255.61]OW[13]LB[oo:A]C[When I push here, I am fully expecting Black to block at A (P5).]
+;B[no]BL[325.529]OB[16]C[Black's extension here surprised me. At first I just thought he was trying to avoid a complicated cutting fight, but if you look carefully, with this strong extension, White's marked stones are surrounded and Black has made an important step towards gaining a sizable chunk of bottom territory.]
+;W[oo]WL[251.629]OW[12]C[Since Black did not protect the cutting point, I went ahead and pushed through. However, the key to me making this move is that I could not see a way for Black to kill the corner. ]
+;B[pr]BL[316.279]OB[15]C[To be more specific, I had seen this jump coming into play.]
+;W[pq]WL[244.142]OW[11]C[White must cut off Black lest he want to be cut in half himself.]
+;B[os]BL[313.925]OB[14]C[Black connects under.]
+;W[qr]WL[237.548]OW[10]C[White atari's. 
+
+To try and kill White, I have made four variations. Click on whichever one you're curious about: A (Q1), B (R1), C (S1), and D (T2).]
+(;B[mn]BL[300.975]OB[13]TR[io][jo][mp][kr][lr]C[Black realizes that he cannot kill White and tries to continue sealing off the marked stones. 
+
+If you think that you can kill White, go back to Move 218 to try.]
+;W[pn]WL[229.929]OW[9]LB[qm:A]C[I go ahead and connect my R6 stone up with the rest of my group and threaten to cut at A (R7).]
+;B[qm]BL[289.901]OB[12]C[Black repairs his cutting point.]
+;W[ps]WL[224.948]OW[8]LB[on:A]TR[io][jo][mp][kr][lr]C[At this point, my goal is to try and figure out a a way to get in to the bottom territory. I am quite sad at this point that my marked stones are cut off and practically dead. After all, I was definitely in the position to completely destroy the bottom, yet I completely screwed it up. Haha.
+
+In order to prevent Black from threatening the life of my group in sente, I captured here in order to possibly start a ko for the bottom. If you can't see what I mean, click on A (P6) to see the variation.]
+(;B[ns]BL[277.833]OB[11]C[Black connects to prevent the ko.]
+;W[jm]WL[192.033]OW[7]C[When it comes to trying to exploit the aji of your "dead" stones, there is rarely a better move than attaching in order to start complications when your opponent is strong around you.]
+;B[in]BL[233.829]OB[10]LB[jl:B][kl:A]C[Black's descent here was odd to me at the time. The weaker area for Black seemed to be in the A area, so to be honest, I was expecting a move like B (K8), but perhaps Black was looking to stay solid and not expose any easy cutting points for White.]
+;W[il]WL[181.327]OW[6]LB[jn:A]C[I decide to go ahead and push through while expecting Black to cut his losses and cut me at A (K6).]
+;B[jl]BL[226.503]OB[9]C[But perhaps Black felt behind, so he decided to cut me here in order to try and maximize the bottom. However, I had already considered this possibility. 
+
+Question: What is the tesuji to take advantage of Black's aggressive cut?]
+;W[jn]WL[178.132]OW[5]LB[kl:B][hn:A]C[Correct! White now has a miai of A (H6) and B (L8).]
+;B[hn]BL[222.906]OB[8]TR[im][in]C[Black chose to save his two marked stones.]
+;W[kl]WL[175.681]OW[4]C[So I took the other miai.]
+;B[jk]BL[221.111]OB[7]C[Black has to connect to keep me cut off.]
+;W[km]WL[173.538]OW[3]C[Though bad shape, this is the only way to connect my stones. Now I have a miai of A (L9) and B (N8).]
+;B[kk]BL[211.182]OB[6]C[Black cut me off to the top.]
+;W[ll]WL[166.472]OW[2]C[So I connected to my allies here.]
+;B[mj]BL[197.893]OB[5]LB[kk:A]C[When Black played here, it became clear why he cut at A (L9). He's trying to kill me. Haha.]
+;W[mk]WL[160.419]OW[1]LB[mi:A]C[So I start with this simple forcing move that threatens to conncet by the atar at A (N11) while also starting to form at least one eye.]
+;B[mi]BL[177.166]OB[4]C[Black connects as expected. The situation looks a little dicey though, After all, White looks like he won't be able to find a second eye.]
+;W[nn]WL[360]OW[20]LB[on:A]C[However, this descent here is more devious than it looks. It threatens two things: The obvious is that I am threatening to connect to the rest of my stones at A (P6), but can you see what my other aim was?]
+;B[on]BL[161.731]OB[3]TR[pn][qn]C[Black can cut White off and put the two marked stones in atari (which are NOT important right now and should not be saved) and it looks as if White is dead...]
+;W[mo]WL[333.44]OW[19]C[But White has this cut right here that cuts off the two marked Black stones and makes White alive.]
+(;B[mq]BL[146.642]OB[2]LB[lo:A]C[Black extends here to try and minimize the damage. If you thought Black could play A (M5) though, go back to Move 240 and click on M5.]
+;W[lo]WL[312.764]OW[18]C[Now that Black strengthened himself, I had to repair the M5 weakness now to ensure that I was alive.]
+;B[lp]BL[95.84]OB[1]LB[ko:A]TR[nj][mk][nk][ok][kl][ll][ml][ol][pl][jm][km][nm][jn][nn][io][jo]C[Black's move here is great since it prevents White from further reducing the bottom while also threatening the sente push at A (L5) which would kill the entire marked White group. 
+
+If you can't see what I mean, click on R19.]
+(;W[ko]WL[300.064]OW[17]LB[lq:A]TR[no][np][mq][nq][nr][ns][os]C[As you saw in the variation on Move 243, letting Black push at L5 would be a disaster, so obviously White connects here to maximize his points. In addition, this threatens the cut at A (M3) which would kill the entire marked Black group.]
+;B[lq]BL[360]OB[20]C[Black sees his weakness and repairs it.]
+;W[jp]WL[295.907]OW[16]LB[jq:A]TR[no][kp][lp][np][kq][lq][mq][nq][nr][ns][os]C[This push not only reduces Black, but also threatens the cut at A (K3) which would once again kill the entire Black marked group.]
+;B[jq]BL[347.589]OB[19]C[So Black must repair the cut.]
+;W[po]WL[292.237]OW[15]LB[rm:A]TR[pn][qn]SQ[rn][sn][qo][ro][pp][qp]C[Now that my group was fully alive, I could now afford to save my two marked stones in sente since the connection threatens the atari at A (S7) which would capture the entire Black group (square).]
+;B[rm]BL[344.518]OB[18]C[Black repairs his cutting point.]
+;W[rf]WL[288.138]OW[14]C[At this point, I was quite sure I was ahead, so I started to repair where I thought I was weakest, which was in this upper right corner.]
+;B[jb]BL[339.613]OB[17]TR[gb][gc][ic][jc][kc][gd][id]C[Black ignored me reduce my top while weakening my group (triangle). Remember that the group (triangle) is actually not alive and could die if White is careless.]
+;W[ib]WL[284.603]OW[13]C[I decided to go ahead and block in order to keep my group solidly connected in the event Black tries anything fancy in the upper left corner.]
+;B[db]BL[327.547]OB[16]C[Sure enough, Black tries to make possible life.]
+;W[da]WL[268.575]OW[12]C[I see some ko / capturing race possibilities, so I decide to nip it in the bud as soon as I can. 
+
+Question: Can you see why I played at D19?]
+;B[ca]BL[316.784]OB[15]C[Black atari's here, and it looks as if a ko is about to start, but can you see what I actually had in mind for D19?]
+;W[ee]WL[253.239]OW[11]LB[da:A][ec:B]C[With this capture, because of A (D19), Black cannot connect at B (E17). The corner is done and over.]
+;B[cg]BL[278.616]OB[14]C[Black extends to reduce White's territory.]
+;W[ah]WL[241.806]OW[10]C[So I decide to monkey jump and counter reduce him.]
+;B[qa]BL[252.953]OB[13]C[Black's push here is sente and White cannot block at A (S19) because he will immediately get cut at B (S18). Instead of trying to respond to Black though, best to just focus my attention elsewhere on the board. ]
+;W[en]WL[226.069]OW[9]LB[bh:A]C[This is a good example of not "following your opponent." You get to reduce your opponent instead of following your opponent's whims. In addition, this move also threatens to kill Black since White can falsify Black's eye with a move like A (12).]
+;B[bh]BL[245.905]OB[12]C[Black makes his group alive.]
+;W[ag]WL[206.373]OW[8]C[I save my reduction stones.]
+;B[ai]BL[217.546]OB[11]LB[af:A]C[Black maximizes his territory while threatenign the atari at A (A14).]
+;W[bf]WL[204.133]OW[7]C[So I protect my stones while trying to maximize my territory.]
+;B[rb]BL[213.151]OB[10]C[Black reduces my corner to practically nothing, but it's okay because it wasn't going to be worth much anyways (since trying to save it would have meant it would be in gote).]
+;W[rh]WL[189.24]OW[6]C[Since Black ignored me when I connected at S14, I decide to ahead and atari now.]
+;B[ri]BL[205.093]OB[9]C[Black counter ataris.]
+;W[sg]WL[188.044]OW[5]LB[qd:A][se:B]C[I capture to give myself a miai for life: A (R16) or B (T15).]
+;B[si]BL[194.09]OB[8]C[Black threatens to falsify my eye.]
+;W[sh]WL[174.022]OW[4]LB[qd:A][se:B]C[I go ahead and protect my eye since I still have the miai of A (R16) and B (T15).]
+;B[rd]BL[189.149]OB[7]C[Black jumps in to try and minimize my territory.]
+;W[qd]WL[166.548]OW[3]C[However, I'm not attached to it, so a simple extension here is good enough.]
+;B[rc]BL[179.331]OB[6]C[Black connects his stones.]
+;W[qe]WL[164.189]OW[2]C[I decided to connect solidly to prevent any sente forcing moves by Black.]
+;B[ja]BL[129.187]OB[5]
+;W[lj]WL[116.279]OW[1]LB[oh:A][qi:B]C[When I play here, I'm looking at the weakness around A (P12) and B (R11). ]
+;B[nh]BL[107.896]OB[4]C[Black must have sensed I was up to something, so he starts repairing his weakness.]
+;W[pg]WL[360]OW[20]LB[se:A]C[I make another sente push. 
+
+Question: Can you see what I am threatening? If not, click on A (T15).]
+(;B[qj]BL[63.491]OB[3]C[Black repairs his weakness.]
+;W[ng]WL[351.941]OW[19]TR[pd][pe][of][pf][og]C[One last forcing move that threatens to capture the marked stones.]
+;B[oh]BL[53.922]OB[2]C[Black obviously connects since he doesn't want to lose 5 stones.]
+;W[bg]WL[332.871]OW[18]C[After surveying hte board, this seems to be the biggest move left since it is reverse sente (meaning that if Black got to play here first, I would most likely have to respond which would give him sente to do something else, so I am taking it away from Black).]
+;B[rs]BL[48.887]OB[1]C[When Black played here, I have to admit that my heart stopped for a moment. "Crap," I thought, "Maybe it's seki? Or worst... dead?"]
+;W[rr]WL[305.925]OW[17]C[After a few moments of suspenseful reading with an accelerated heart rate, I realized I would be fine with this move.]
+;B[sr]BL[360]OB[20]C[Black plays here, but Black cannot approach and thus it is not seki. White can approach later on to "kill" the Black stones if needed (though it won't be).]
+;W[dg]WL[279.732]OW[16]C[Since I'm alive in the lower right, I keep trying to maximize my endgame.]
+;B[ia]BL[355.789]OB[19]C[Black pushes through.]
+;W[ha]WL[275.726]OW[15]C[So I block to prevent him from reducing any further.]
+;B[hc]BL[344.676]OB[18]C[Black destorys a point.]
+;W[hb]WL[271.848]OW[14]TR[hc][hd]C[I got ahead and connect while putting the two stones (triangle) in atari.]
+;B[he]BL[335.959]OB[17]C[Black connects.]
+;W[fs]WL[258.971]OW[13]LB[se:A]C[I gain a point here, but in actuality A (T15) is the bigger endgame move.]
+;B[se]BL[328.016]OB[16]C[Black reduces White.]
+;W[sf]WL[255.372]OW[12]LB[rg:A]C[I go ahead and connect to prevent Black from trying to destroy my A (S13) eye later.]
+;B[sd]BL[325.326]OB[15]C[Black connects.]
+;W[gn]WL[225.711]OW[11]C[When I play here, it looks like I might just be playing dame, but there's a hidden agenda, can you see it?]
+;B[fo]BL[315.616]OB[14]C[Black misses it and threatens to cut, but both my groups are alive so I can ignore this.]
+;W[em]WL[216.09]OW[10]C[Do you see now? An extra point for me!]
+;B[hm]BL[312.477]OB[13]C[Black threatens to destroy it.]
+;W[gm]WL[214.766]OW[9]C[So I go ahead and protect it.]
+;B[]BL[312.475]OB[12]C[Black passes.]
+;W[]WL[214.765]OW[8]TW[aa][ba][ca][ea][ga][bb][cb][db][fb][ac][cc][dc][ec][fc][bd][ed][fd][ae][de][af][ef][mf][kg][lg][rg][eh][lh][ki][nl][fm][lm][mm][kn][ln][mn][ao][bp][aq][sq][ar][br][cr][dr][pr][sr][as][bs][cs][ds][es][qs][rs][ss]TB[ka][ma][oa][ra][sa][lb][nb][sb][sc][hg][hh][ci][pi][qi][aj][bj][hj][ij][pj][rj][sj][rk][sk][rl][sl][sm][hp][hq][hr][jr][kr][lr][mr][is][js][ks][ls][ms]C[And with that, the game is over. 
+
+Black: 52.0 vs White: 77.5 = White wins by 25.5.
+
+A crazy game with Eyecatcher, but so much fun! Big shoutout to him for playing this game with me and letting me feature it on Monday Go Meditation. Hope you all enjoyed this game!])
+(;B[se]C[If Black tries to move on to reduce White's territory.]
+;W[qi]C[White can cut here. Can you see where this is going? Click A (Q11) or B (R10) to find out!]
+(;B[qj]C[Black will probably atari from this side.]
+;W[ng]LB[oh:A]C[But now White can atari here and Black cannot connect at A (P12) because it will be in self-atari.])
+(;B[pi]C[Black can try to atari from this side.]
+;W[ng]LB[oh:A]TR[pd][pe][of][pf][og]C[White can atari and capture the marked stones because Black cannot connect at A (P12) due to a shortage of liberties.])))
+(;W[qa]C[If White ignores Black to try and do something like expand his corner territory...]
+;B[ko]C[Black will make this atari.]
+;W[ln]C[And even though it looks like White can run, he is still in atari.]
+;B[kn]C[So Black will capture and now White only has one eye and is dead.]))
+(;B[lo]LB[nl:A]C[So you think you can kill White eh? After all, it looks like White only has one eye (i.e., A (O8)) right?]
+;W[mq]TR[no][np][nq][nr][ns][os]C[Except remember this marked group? It's completely cut off and only has two liberties left. White will definitely live.]))
+(;B[on]TR[pn][qn]C[If we assume that Black tries to go after the two marked stones because he thinks that it is sente.]
+;W[ns]C[White can then capture on the bottom.]
+;B[ms]C[Black will block.]
+;W[mr]C[But then White will definitely cut and start a ko to connect his stones together.]))
+(;B[ps]C[Black can connect.]
+;W[qs]C[White will simply atari once more.]
+(;B[ns]C[Black must connect, but even though it is the bent in five shape...]
+;W[sr]C[It is White's turn so he will take the vital point.])
+(;B[sr]C[If Black tries to jump to the vital point first.]
+;W[ns]C[White will simply capture and be alive.]))
+(;B[qs]C[It might look like Black can start a ko.]
+;W[rs]C[But White does not have to capture, he would just double atari from here.]
+(;B[ps]C[If Black connects.]
+;W[ns]C[White captures and is alive.])
+(;B[ns]C[Black can connect here.]
+;W[ps]C[But White will capture and be alive again.])
+(;B[sr]C[If Black tries to jump the gun and take the vital point.]
+;W[ps]C[White will once again capture and be alive.]))
+(;B[rs]C[This might seem complicated, but the solution is simple.]
+;W[ps]C[White simply has to capture and is now alive.]
+;B[qs]C[If you think there is a ko.]
+;W[ns]C[All White has to do it capture. No ko.]
+;B[sr]C[Black can try to make an eye.]
+;W[rr]C[But White can just squash that if he wants (though this move is totally unnecessary since White has plenty of outside liberties.])
+(;B[sr]C[This might seem like another scary move.]
+;W[ps]C[But don't forget about this eye. ]
+;B[rs]C[Black can try and get fancy]
+;W[ns]C[But White can just capture on the other end.]
+;B[rr]LB[on:1][po:2]C[Even if Black makes an eye, White has outside liberties and does not have to worry. And even if not, the worst is that it would be is seki for White. ]))
+(;B[jr]LB[jq:A][js:B]C[With this move, Black has a miai for life at A (K3) and B (K1).]))
+(;W[mr]C[If White were to ignore Black's move.]
+;B[an]C[Black can now throw-in here.]
+;W[ao]C[White can capture.]
+;B[ap]C[But then Black will atari.]
+;W[an]C[White can try to connect.]
+;B[ak]TR[al][bl][cl][am][an][bn][ao][bo]C[But now Black can atari first and capture the entire marked White group. A failure for White.]))
+(;W[gs]C[You might be thinking. Doesn't this work?]
+;B[gq]C[Black will connect and put the H2 stones in atari.]
+;W[hs]C[White connects. ]
+;B[is]C[Black ataris... Can you see where this is going?]
+;W[fs]C[White can connect...]
+;B[er]TR[hp][hq][fr][hr][fs][gs][hs]C[But Black will atari here and capture the entire marked group. ]))
+(;B[ol]C[Should Black choose to atari from this side.]
+;W[pm]TR[nl][ol]C[I would extend and connect my stones. At this point, Black would now need to figure out a way to save the marked stones while keeping the White stones cut off. It is definitely not clear as to who will win the fight, but it does seem like White has a slight edge since most of his surrounding groups are already strong while Black's group could get cut off and possibly die.]))
+(;W[oi]C[If White atari's from this direction...]
+;B[ok]LB[oi:2][pi:A][nj:1][pj:3]C[Black will extend and now White has three seaprated stones with a cutting point at A (Q11) to worry about. Seems to be rather troublesome.]))
+(;B[qg]C[I personally would have block here as black. It seems to maximize the right territory.]
+;W[pf]LB[nj:A]TR[pd][pe]C[In addition, if White really wants to capture the two marked stones, he does so in gote. This would give Black the sente he needed to repair his weakness around the A (N10) area.]))
+(;B[ef]TR[de][ef]C[Black can try to throw-in, but as you probably already see, the two marked stones are in atari.]
+;W[ee]C[So all White has to do is capture both stones and he is safe!]))
+(;W[eg]C[If we play this normal move first.]
+;B[fi]TR[hd][jd][kd][ge][je][gf][hf][if][jf][fg][gg][gh]C[Black will capture and is now out in the center with pretty resilient shape. It will be near impossible to really harrass the marked stones anymore.]))
+(;B[ii]C[Black should have just taken advantage of my weak shape with this atari.]
+;W[kj]C[White would be forced to capture.]
+;B[ig]C[Black could then capture the stones in sente and put my stones in atari again.]
+;W[ki]C[I would be force to connect once more, but now I have this ugly dumpling shape.]
+;B[ng]C[And then Black can play something like this. Not too great for White.]))
+(;W[ec]C[If White simply tries to simply kill the Black stones in the corner.]
+;B[fg]C[Black will definitely push here. ]
+(;W[eg]C[If White tries to block...]
+;B[ef]C[Black will capture and make White's life very difficult now.])
+(;W[ee]C[White can prevent the push and cut]
+;B[eh]C[But then Black will gain forcing moves...]
+;W[fi]C[White wil connect.]
+;B[ef]C[And forcing moves like this, and though it's not clean what will happen, White's job is now much harder now to secure the upper left.])))
+(;W[dc]C[This move is not necessarily bad since it cuts off the Black stones from each other, but this let's Black revert to a simple 3-3 invasion.]
+;B[cd]C[Blck would extend.]
+;W[ce]C[Hane.]
+;B[be]C[Hane.]
+;W[cf]C[Continuing sequence is joseki. (Commentary is at the end of the sequence)]
+;B[bf]
+;W[cg]
+;B[db]
+;W[eb]
+;B[cb]
+;W[fc]C[Just seems too easy for Black. In addition, White seems a bit over concentrated and even ended in gote. ]))
+(;B[ne]C[There are some who probably think this should work now.]
+;W[mc]C[But White will throw in again.]
+;B[na]C[Black must capture here lest he want to fall into the snapback tesuji.]
+;W[lb]C[White will then capture here and Black is super dead.]))
+(;W[mg]C[White has the ladder here.]
+;B[lh]C[Black can run...]
+;W[li]C[But can he really get away?]
+;B[mh]
+;W[nh]
+;B[mi]
+;W[mj]
+;B[ni]
+;W[oi]
+;B[nj]
+;W[nk]
+;B[oj]
+;W[ok]C[No dice!]))
