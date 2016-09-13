@@ -1,3 +1,10 @@
+---
+title: What I've Been Up To
+categories:
+	- Journal
+tags:
+---
+
 # What I've Been Up To
 
 Pokemon Go
