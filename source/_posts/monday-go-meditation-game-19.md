@@ -2,7 +2,10 @@
 title: 'Monday Go Meditation: Game 19'
 date: 2013-07-22 05:00:06
 layout: monday-go-meditation
+sgf: 2013.07.22-MGM-19.sgf
 id: 3436
+summary:
+	<p>For today's go meditation, we continue on with handicap go! Here is another game from my kadoban with Paul. In this game, there is a lot of interesting exchanges and swings in the game; but it ultimately boils down to White ending a ko fight too early that leads to my demise.</p>
 categories:
 	- Commentaries
 	- Monday Go Meditation
@@ -11,15 +14,6 @@ tags:
 	- handicap-go
 ---
 
-## Introduction
+## One Point Lesson
 
-For today's go meditation, we continue on with handicap go! Here is another game from my kadoban with Paul. In this game, there is a lot of interesting exchanges and swings in the game; but it ultimately boils down to White ending a ko fight too early that leads to my demise.[
-](http://www.bengozen.com/wp-content/uploads/2013/07/2013.07.22-MGM-19.sgf)
-
-[sgf sgfUrl=http://www.bengozen.com/wp-content/uploads/2013/07/2013.07.22-MGM-19.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/07/2013.07.22-MGM-19.sgf[/download]
-
-## **One Point Lesson**
-
-**When playing White in handicap games, do not be afraid of ko fights.**
+When playing White in handicap games, do not be afraid of ko fights.

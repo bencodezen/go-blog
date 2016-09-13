@@ -9,7 +9,7 @@ summary:
 
 	<p>As I mentioned before, I was feeling rather iffy before this game. My opponent was around 4–5k in strenghth, and with my ups and downs lately, I wasn’t so sure that I could even beat him. But before I could wallow too much in my own insecurities, the game started.</p>
 
-	<p><em>Note</em>: Similar to the other YSD match I posted last week, any specific things I learned from the review will be omitted in this game to respect other members’ paid membership.</p>
+	<p>Note: Similar to the other YSD match I posted last week, any specific things I learned from the review will be omitted in this game to respect other members’ paid membership.</p>
 categories:
 	- Commentaries
 	- Monday Go Meditation
