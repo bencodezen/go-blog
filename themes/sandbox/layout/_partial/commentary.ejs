@@ -17,7 +17,7 @@
           <a href="<%- url_for(post.path) %>#more"><%= theme.excerpt_link %></a>
         </p>
       <% } else { %>
-        <p><%- post.summary %></p>
+        <%- post.summary %>
         <%- partial('post/sgf-player') %>
         <%- post.content %>
       <% } %>

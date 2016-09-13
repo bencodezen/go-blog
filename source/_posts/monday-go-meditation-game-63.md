@@ -2,7 +2,12 @@
 title: 'Monday Go Meditation: Game 63'
 date: 2014-07-07 07:15:09
 layout: monday-go-meditation
+sgf: 2014.07.06-MGM-63.sgf
 id: 5501
+summary: >
+	<p>For this week, I’ve decided to honor a request made by my friend Rob who asked that I review the game that was the cause for my post on being confused. Though I haven’t been commenting on games from YSD, I’ve decided to make an exception for this one.</p>
+
+	<p>Just to note though, any specific insight that was taught by Inseong is withheld from the commentary in order to respect other member’s paid memberships. So while I will comment on what I understood on my own, any specific details will be omitted in this review. Hope you enjoy this review!</p>
 categories:
 	- Commentaries
 	- Monday Go Meditation
@@ -10,19 +15,7 @@ tags:
 	- kifu
 ---
 
-## Introduction
-
-For this week, I’ve decided to honor a request made by my friend Rob who asked that I review the game that was the cause for my post on being confused. Though I haven’t been commenting on games from YSD, I’ve decided to make an exception for this one.
-
-Just to note though, any specific insight that was taught by Inseong is withheld from the commentary in order to respect other member’s paid memberships. So while I will comment on what I understood on my own, any specific details will be omitted in this review.
-
-Hope you enjoy this review!
-
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/07/2014.07.06-MGM-63.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/07/2014.07.06-MGM-63.sgf[/download]
-
-## **One Point Lesson**
+## One Point Lesson
 
 Even when you are just about to win the game, the slightest misstep could mean utter defeat if you are not careful.
 

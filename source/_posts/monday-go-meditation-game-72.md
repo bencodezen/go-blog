@@ -5,7 +5,8 @@ layout: monday-go-meditation
 sgf: 2016-03-29-MGM-72.sgf
 gokibitz: V1CIkAm0e
 id: 6001
-summary: What you have before you is not a game of miraculous play or some game I'm particularly proud of. Instead, this is evidence of someone who has simply taken the first steps to playing once again.
+summary: >
+	<p>What you have before you is not a game of miraculous play or some game I'm particularly proud of. Instead, this is evidence of someone who has simply taken the first steps to playing once again.</p>
 categories:
 	- Commentaries
 	- Monday Go Meditation

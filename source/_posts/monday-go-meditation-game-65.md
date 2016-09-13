@@ -4,7 +4,7 @@ date: 2014-10-06 07:15:24
 layout: monday-go-meditation
 sgf: 2014.10.06-MGM-65.sgf
 id: 5802
-summary:
+summary: >
 	<p>The following game is one that I had the pleasure of playing last week thanks for Daurak. I still have some reservations about playing games, so it’s helpful to have friends who ask to play games. And just to clarify, our ranks are not accurate at the moment; so we went ahead and played an even game (although I think we accidentally did no komi). Hope you enjoy the game!</p>
 categories:
 	- Commentaries

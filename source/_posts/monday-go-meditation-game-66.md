@@ -4,7 +4,7 @@ date: 2014-10-13 08:00:42
 layout: monday-go-meditation
 sgf: 2014.10.13-MGM-66.sgf
 id: 5867
-summary:
+summary: >
 	<p>As the weeks have passed, one of the major factors in me starting to play go again has been the numerous friends who have been kind enough to take time out of their day and ask me to play. Just like last week’s MGM, this week’s MGM features teafree. It’s an exciting one that is chocked full of ko battles and exciting exchanges. I hope that it keeps you on the edge of your seat as we navigate through the treacherous waters of this kifu! Enjoy!</p>
 categories:
 	- Commentaries

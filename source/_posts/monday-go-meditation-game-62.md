@@ -2,7 +2,12 @@
 title: 'Monday Go Meditation: Game 62'
 date: 2014-06-30 07:15:07
 layout: monday-go-meditation
+sgf: 2014.06.30-MGM-62.sgf
 id: 5471
+summary: >
+	<p>About a week ago, there was a bit of discussion about the importance of endgame. Now while I would never even begin to propose that endgame is not important or can't make a huge difference, I was saying how I didn't think studying it would serve kyu players as much as say dan players.</p>
+
+	<p>Ironically, the game featured this week was played shortly after the discussion and happened to feature endgame as the shining star of the game. In addition, this game is also a good example of competing moyos and how critical points in shape and boundaries can make a huge difference in the resulting outcome. Hope you enjoy this review!</p>
 categories:
 	- Commentaries
 	- Monday Go Meditation
@@ -10,21 +15,9 @@ tags:
 	- kifu
 ---
 
-## Introduction
-
-About a week ago, there was a bit of discussion about the importance of endgame. Now while I would never even begin to propose that endgame is not important or can't make a huge difference, I was saying how I didn't think studying it would serve kyu players as much as say dan players.
-
-Ironically, the game featured this week was played shortly after the discussion and happened to feature endgame as the shining star of the game. In addition, this game is also a good example of competing moyos and how critical points in shape and boundaries can make a huge difference in the resulting outcome. Hope you enjoy this review!
-
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.30-MGM-62.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.30-MGM-62.sgf[/download]
-
-## **One Point Lesson**
+## One Point Lesson
 
 When you're really behind, your only hope is to complicate the game and push your opponent's abilities to the absolute limit.
-
-<!--more-->
 
 ## Game Summary
 
