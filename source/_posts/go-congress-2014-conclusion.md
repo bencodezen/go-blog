@@ -16,15 +16,16 @@ tags:
 
 Here is a summary of all the professional simuls I played in at Go Congress:
 
-1.  [Day 1](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - Dahye Lee, 4p
-2.  [Day 2](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - Ho Yuu, 6p
-3.  [Day 2](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - Jungsang Park, 9p
-4.  [Day 3](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - Bo Ding, 5p
-5.  [Day 3](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - Mariko Deguchi, 1p
-6.  [Day 3](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - Yuhong Zhao, 5p
-7.  [Day 5](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - Jennie Shen, 2p
-8.  [Day 5](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - Shirley Lin, 1p
-9.  [Day 6](http://www.bengozen.com/go-congress-2014-day-6/ "Go Congress 2014 — Day 6") - Francis Meyers, 1p
+1. [Day 1](http://www.bengozen.com/go-congress-2014-day-1/ "Go Congress 2014 — Day 1") - Dahye Lee, 4p
+2. [Day 2](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - Ho Yuu, 6p
+3. [Day 2](http://www.bengozen.com/go-congress-2014-day-2/ "Go Congress 2014 — Day 2") - Jungsang Park, 9p
+4. [Day 3](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - Bo Ding, 5p
+5. [Day 3](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - Mariko Deguchi, 1p
+6. [Day 3](http://www.bengozen.com/go-congress-2014-day-3/ "Go Congress 2014 — Day 3") - Yuhong Zhao, 5p
+7. [Day 5](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - Jennie Shen, 2p
+8. [Day 5](http://www.bengozen.com/go-congress-2014-day-5/ "Go Congress 2014 — Day 5") - Shirley Lin, 1p
+9. [Day 6](http://www.bengozen.com/go-congress-2014-day-6/ "Go Congress 2014 — Day 6") - Francis Meyers, 1p
+
 My goal was to play the strongest professionals that I could while experiencing as many brutal defeats from as many styles as I possibly could. In addition, while I am happy with my collection of 9 simul games, I must admit that I was aiming to hit double digits. Haha.
 
 <!--more-->

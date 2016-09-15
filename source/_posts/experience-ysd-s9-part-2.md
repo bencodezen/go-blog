@@ -33,9 +33,12 @@ Though I didn’t get a chance to watch all the lectures, the material that I di
 
 **Preliminary Thoughts** - With my first match being against my friend nadoss, I was a little nervous since I always feel kind of weird when playing a friend in a competitive nature where something is at stake (i.e., our rank in YSD). In addition, I knew that nadoss could play at a level higher than his rank, so I was trying hard to remember not to take him lightly.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round6.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round6.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round6.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round6.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round6.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - While I managed to win, it was a victory of mixed feelings. On the one hand, I was glad to win the first round of month 2, but on the other hand, I did not feel like I played as well I could have.
 
@@ -45,9 +48,12 @@ Though I didn’t get a chance to watch all the lectures, the material that I di
 
 **Preliminary Thoughts** - This week I’m playing a 5 kyu. For some reason, playing even games against players with a lower rank than me by 2 stones or more makes me nervous. I guess I’m worried that I’ll get overconfident and underestimate my opponent, and then lose!! Haha. Ah well, just have to remember to play the best moves I possibly can. As long as I do that, I’m hoping I’ll have no regrets.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round7.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round7.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round7.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round7.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round7.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - The game ended up boiling down to a huge capturing race. It wasn’t necessary, but I got it in my head that it was time for White to die and I nearly killed myself in the process. Completely unnecessary and a poor decision on my part. On top of that, I even proudly played an empty triangle because I thought it was the firmest way to kill. _hangs head in shame_
 
@@ -59,9 +65,12 @@ Though I didn’t get a chance to watch all the lectures, the material that I di
 
 *_And if you’re wondering how bad it was, my rank dropped from 2k to 4k. Yup. That bad._
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round8.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round8.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round8.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round8.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round8.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - I can’t believe I won. When I was counting towards the end, I was pretty sure I was behind by like 10 points (although I will admit I completely forgot I had komi, but nonetheless I would have still been behind according to my rough estimates). While a relief in one respect, it definitely felt like a growing moment as the game was very different from my normal aggressive game. It was surprisingly calm.
 
@@ -71,9 +80,12 @@ Though I didn’t get a chance to watch all the lectures, the material that I di
 
 **Preliminary Thoughts** - Tonight’s opponent is one that I was rather worried about because he had an atypical playing style. In summary, he was very comfortable using 5–3 as one of his opening moves. Being as how I have little experience with it, I was admittedly worried. So while I did try to read up on 5–3 a little bit, I didn’t feel as prepared as I would have liked before playing this game.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round9.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round9.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round9.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round9.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round9.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - Losing the game was rough because it meant that I was not guaranteed a promotion anymore. In addition, I thought that I was in control for a good portion of the game; but ended up giving up away too much in the center and lost. Sigh. Frustrated for sure…
 
@@ -83,9 +95,12 @@ Though I didn’t get a chance to watch all the lectures, the material that I di
 
 **Preliminary Thoughts** - Once again, I was put in the position of having my final match be the determining factor between whether I get promoted or not. Sigh. And on top of that, I was fighting a slump so the pressure was not helping at all…
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round10.sgf"  class="aligncenter"][/sgf]
-
-[download label=“Download Kifu”]http://www.bengozen.com/wp-content/uploads/2014/07/YSD-S9-Round10.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round10.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round10.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round10.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - I lost… Once again… I choked at the final moment and loss. Just no words at this time. Can’t even stay for the review because of how frustrated I am with my go.
 

@@ -14,6 +14,9 @@ The other benefit to playing these free games is that the obsession with winning
 
 Still not convinced? Well, then let me direct your attention to a game I played with a 3k. Hope you enjoy!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.17-Free-Game-Zen.sgf" class="aligncenter"][/sgf]
-
- [download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.17-Free-Game-Zen.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.12.17-Free-Game-Zen.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.12.17-Free-Game-Zen.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.12.17-Free-Game-Zen.sgf">Download SGF</a></li></ul></div>
+</article>

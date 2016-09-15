@@ -12,8 +12,11 @@ You ever have one of those moments where you play an opening and wonder how far 
 
 Check out the game record below starting from move 7.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.27-Coming-Up-with-Joseki.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.27-Coming-Up-with-Joseki.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.11.27-Coming-Up-with-Joseki.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.11.27-Coming-Up-with-Joseki.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.11.27-Coming-Up-with-Joseki.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Pretty neat huh? But here's one thing I will say to my fellow go players who are trying to reach dan level: While I have been a big advocate of avoiding joseki study throughout my own growing process, I believe that I may have reached the point where joseki study can no longer be avoided. I must admit that I never thought I'd reach this point, but it seems that the time will be upon me very soon...

@@ -13,7 +13,12 @@ So I think I'll start summarizing my games with one word synopsis to describe th
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.06-Game-of-the-Day-Slaughtered.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.06-Game-of-the-Day-Slaughtered.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.06-Game-of-the-Day-Slaughtered.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.06-Game-of-the-Day-Slaughtered.sgf">Download SGF</a></li></ul></div>
+</article>
 
 So as of this moment, I am just appalled at myself. In the blogs I've been reading about studying Go in China, I've noticed that almost there is a unanimous comment in terms of the strength of the children there. They all do one thing extremely well: fighting. Most of the bloggers comment of how they get outread in almost every situation. If I'm to even speak a word of going to study with them, I'm going to have to make sure that I at least outread my opponents here in the DDK world... (not to mention the SDK world as well). Thus, I'm switching up my regimen.
 

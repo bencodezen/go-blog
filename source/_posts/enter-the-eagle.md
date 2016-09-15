@@ -34,10 +34,11 @@ Delicious food aside, he has not only served as a fantastic rival (who has troun
 
 That being said, we began a weekly tradition of playing each other once a week, and this game is the first that I have posted since well... the other ones were pretty miserable. In fact, I'll probably post some of those up in the future when I do a series on lessons that DDK players can learn from.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.26-Enter-the-Eagle.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.26-Enter-the-Eagle.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.09.26-Enter-the-Eagle.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.09.26-Enter-the-Eagle.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.09.26-Enter-the-Eagle.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Overall, I felt that this game was a sign of even greater games to come. Even though I lost a major group towards the middle of the game, I feel that it was a sign of growth to know that the game was not yet over. And with the proper fighting spirit, I'd be able to make it a decently close game. Hopefully, you'll feel that I managed to do so as well. Till next week!
-
-&nbsp;

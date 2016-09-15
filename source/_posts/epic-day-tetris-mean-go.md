@@ -22,9 +22,12 @@ _Below is the game for your enjoyment, but I haven't had time to add comments to
 
 _UPDATE: The kifu has been updated so that only one variation exists in the file. I didn't realize I left a stray variation in the last one._
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/09/tygem-3d-game.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/09/tygem-3d-game.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/tygem-3d-game.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/tygem-3d-game.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/tygem-3d-game.sgf">Download SGF</a></li></ul></div>
+</article>
 
 That awesomeness aside. I also got to play rengo against sensei and also got a chance to play fellow friends Bonscott and teafree. Overall a pretty awesome and epic day. And as if this news wasn't not exciting enough, I bestow upon you an awesome video by BadukMovies. It's only ~30 seconds and totally worth it. Enjoy!
 

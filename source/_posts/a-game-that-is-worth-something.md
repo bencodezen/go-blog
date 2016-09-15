@@ -12,4 +12,9 @@ So I didn't think that game really was a good game for people to overview in ter
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.14-A-Game-That-is-Worth-Something.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.14-A-Game-That-is-Worth-Something.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.14-A-Game-That-is-Worth-Something.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.14-A-Game-That-is-Worth-Something.sgf">Download SGF</a></li></ul></div>
+</article>

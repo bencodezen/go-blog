@@ -20,6 +20,9 @@ While this sounds like a rather straight-forward approach, it requires a lot of 
 
 For my first attempt, I am happy with the results; but it's clear that this is one of my weaker areas and will require some attention and work. Hope you enjoy the game!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.19-Divide-and-Conquer.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.19-Divide-and-Conquer.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.01.19-Divide-and-Conquer.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.01.19-Divide-and-Conquer.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.01.19-Divide-and-Conquer.sgf">Download SGF</a></li></ul></div>
+</article>

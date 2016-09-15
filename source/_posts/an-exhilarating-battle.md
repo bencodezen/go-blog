@@ -26,7 +26,12 @@ Honestly, my hat is off to my opponent. Based on the screenname, I'm going to as
 
 **Kifu**
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.07-An-Exhilirating-Battle.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2012/2012.09.07-An-Exhilirating-Battle.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.09.07-An-Exhilirating-Battle.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.09.07-An-Exhilirating-Battle.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **Mistakes**
 

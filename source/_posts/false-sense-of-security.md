@@ -21,10 +21,14 @@ To help you avoid the false sense of security, always be sure to check on the fo
 
 1.  Are my groups alive?
 2.  Are my groups connected at the key locations? Or in another sense, is it easy for my opponent to cut my groups apart and get away with it?
-<div>If you can answer those questions with confidence, then it is irrelevant whether your reading abilities fall short. You did the basic steps of being sensitive to your stones. The mistakes will come, and you will learn from it. By following this path, you will inevitably get stronger.</div>
-<div></div>
-<div>And as always, if your groups are fine, the fun part comes when seeing whether or not your opponent's groups are prime for attack and even death.</div>
-<div></div>
-<div>[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/10/2012.10.19-False-Sense-of-Security.sgf" class="aligncenter"][/sgf]</div>
-<div style="text-align: center;">[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/10/2012.10.19-False-Sense-of-Security.sgf[/download]</div>
-<div style="text-align: center;"></div>
+
+If you can answer those questions with confidence, then it is irrelevant whether your reading abilities fall short. You did the basic steps of being sensitive to your stones. The mistakes will come, and you will learn from it. By following this path, you will inevitably get stronger.
+
+And as always, if your groups are fine, the fun part comes when seeing whether or not your opponent's groups are prime for attack and even death.
+
+<article>
+	<section data-wgo="/kifu/2012/2012.10.19-False-Sense-of-Security.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.10.19-False-Sense-of-Security.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.10.19-False-Sense-of-Security.sgf">Download SGF</a></li></ul></div>
+</article>

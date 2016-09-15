@@ -20,9 +20,12 @@ If you remember a [few posts back](http://www.bengozen.com/perfectly-defeated/ "
 
 While the games I played were not necessarily eye-gouge worthy, it ultimately culminated into the shipwreck that is the game below:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/11/2012.12.12-Fighting-Spirit.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/11/2012.12.12-Fighting-Spirit.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.12.12-Fighting-Spirit.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.12.12-Fighting-Spirit.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.12.12-Fighting-Spirit.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Without any context, the game looks as if White resigned a won game for the sake of sandbagging his rank or helping Black gain rank. Yet, the truth is that my vision had become so clouded with defeat that losing the small group in the lower right corner caused me to feel as if I had lost the entire game. I didn't even bother to estimate territory, which would have clearly told me not to resign. As you can see, my fighting spirit was not only broken; but there was practically nothing left.
 

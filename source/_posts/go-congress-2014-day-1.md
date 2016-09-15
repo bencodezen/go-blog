@@ -35,9 +35,12 @@ Before we knew it though, we all went off on our separate ways to find our oppon
 
 It took us a little while to get it right, but we eventually did and started our game. I was pretty nervous since I hadn’t played in a competitive setting for quite some time, but I went ahead and gave it my best shot. The game record is below:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.10-US-Go-Congress-US-Open-Round-1.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.10-US-Go-Congress-US-Open-Round-1.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.10-US-Go-Congress-US-Open-Round-1.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.10-US-Go-Congress-US-Open-Round-1.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.10-US-Go-Congress-US-Open-Round-1.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Though I lost, I have to say that overall I felt I played quite well. I made a drastic miscalculation toward the end that allowed her to destroy everything I had gained, but that is just a lesson learned for the future.
 
@@ -67,9 +70,12 @@ Once the introductions had been made, I asked her if I could play in the simul a
 
 It had been a while since I last played a professional, but I remembered the feeling quite well and was intent on giving her everything I got. The game record is below:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.10-US-Go-Congress-Dahye-Lee-4p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.10-US-Go-Congress-Dahye-Lee-4p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.10-US-Go-Congress-Dahye-Lee-4p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.10-US-Go-Congress-Dahye-Lee-4p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.10-US-Go-Congress-Dahye-Lee-4p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Once I had resigned, Dahye (4p) was kind enough to spend time highlighting the important parts of the game and inform me when I had made mistakes. I was very grateful to have her spend time teaching me since the other simuls were still technically going on.
 

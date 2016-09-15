@@ -12,4 +12,9 @@ So for now I guess I'll be posting my games on a regular basis since I think it'
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.05-Game-of-the-Day.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.05-Game-of-the-Day.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.05-Game-of-the-Day.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.05-Game-of-the-Day.sgf">Download SGF</a></li></ul></div>
+</article>

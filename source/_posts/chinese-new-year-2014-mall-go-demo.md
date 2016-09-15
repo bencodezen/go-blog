@@ -28,12 +28,14 @@ There weren't too many people at first, so I got the opportunity to finally meet
 
 [caption id="attachment_4627" align="aligncenter" width="420"][![2014chinesenewyearmall04](http://www.bengozen.com/wp-content/uploads/2014/02/2014chinesenewyearmall04.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/2014chinesenewyearmall04.jpg) Let the games begin![/caption]
 
-The following is a kifu I recreated from memory later on that day. Other than one move (which I'm not 100% sure of, but I am 100% sure of the purpose behind it), this record is accurate and contains some pointers from when we review some of the game later on.[
-](http://www.bengozen.com/wp-content/uploads/2014/02/2014.02.08-Lakeforest-Chinese-New-Year.sgf)
+The following is a kifu I recreated from memory later on that day. Other than one move (which I'm not 100% sure of, but I am 100% sure of the purpose behind it), this record is accurate and contains some pointers from when we review some of the game later on.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/02/2014.02.08-Lakeforest-Chinese-New-Year.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/02/2014.02.08-Lakeforest-Chinese-New-Year.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.02.08-Lakeforest-Chinese-New-Year.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.02.08-Lakeforest-Chinese-New-Year.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.02.08-Lakeforest-Chinese-New-Year.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After the game, more people began showing up and we started teaching first capture and the rules to everyone. My big customer of the day was a little girl who was about 5\. We played a couple games of first capture that went well, and it seemed like she had fun. =)
 

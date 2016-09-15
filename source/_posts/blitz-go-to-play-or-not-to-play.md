@@ -50,8 +50,11 @@ If you were to chart your results and progress over time, there's a good chance 
 
 The kifu record today is an excellent demonstration of the points I mentioned above regarding blitz go: careless errors, weird moves, desperate attempts that succeed despite the fact they are supposed to be terribly doomed for failure, and so forth.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/10/2012.10.03-Blitz-Go.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/10/2012.10.03-Blitz-Go.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.10.03-Blitz-Go.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.10.03-Blitz-Go.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.10.03-Blitz-Go.sgf">Download SGF</a></li></ul></div>
+</article>
 
 In your experience thus far, what are some of your thoughts on blitz go?

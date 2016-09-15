@@ -20,6 +20,9 @@ In regards to the blog post title, I felt like Go Seigen at certain points of th
 
 I hope that you enjoy one of my craziest games to date.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.08-Go-Seigen-MegaFail.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.08-Go-Seigen-MegaFail.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.01.08-Go-Seigen-MegaFail.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.01.08-Go-Seigen-MegaFail.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.01.08-Go-Seigen-MegaFail.sgf">Download SGF</a></li></ul></div>
+</article>

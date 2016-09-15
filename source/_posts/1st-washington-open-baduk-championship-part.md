@@ -61,9 +61,12 @@ My opponent was an older Chinese man who might have been in his fifties to sixti
 
 After exchanging customary greetings and fussing with the clocks for a bit, we started our game. The kifu below is our game. (The commentary version will be Monday Go Meditation: Game 60)
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.26-WashingtonOpen-Round-1.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.26-WashingtonOpen-Round-1.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.04.26-WashingtonOpen-Round-1.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.04.26-WashingtonOpen-Round-1.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.04.26-WashingtonOpen-Round-1.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Though the game ended up being dramatic, I will have to say that I tried to play a calm and patient game as much as I could. (The idea originates from [Maaike's April Challenge](http://www.thegochallenge.blogspot.com.au/2014/04/april-challenge.html "Maaike")). As you saw, I ended up letting an advantageous position turn into a complete disaster. It was only by sheer patience and luck that I was able to turn it around. The game was one of the longest ones that round. It took more than two hours for us to finish and I used 3 periods of overtime.* Needless to say I was relieved to win, but I was exhausted afterwards as I went off to grab lunch.
 
@@ -81,9 +84,12 @@ _*In AGA tournaments, it seems that they calculate handicaps not based on rank b
 
 Before the game started, I decided I would continue to try and play a calm game. The kifu below is the result. (The commentary version will be Monday Go Meditation: Game 61)
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.26-WashingtonOpen-Round-2.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.26-WashingtonOpen-Round-1.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.04.26-WashingtonOpen-Round-2.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.04.26-WashingtonOpen-Round-2.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.04.26-WashingtonOpen-Round-2.sgf">Download SGF</a></li></ul></div>
+</article>
 
 To be honest, I thought that I was ahead for most of the game. I thought I had done a good job securing territory and keeping White's territory small. However, I never actually counted and only did rough estimations.
 
@@ -93,9 +99,12 @@ After the game, I did my best to try and pick myself back up. After all, it's ju
 
 At the end of the last round, I mentioned that there were a few people watching towards the end. One of those was the gentleman that I would end up playing this round. He was also a Chinese man in his forties to fifties and was a 4 kyu. In this game however, I would receive give him a 1 stone handicap and only got 0.5 komi. The kifu below is our game. (The commentary version will be Monday Go Meditation: Game 62)
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.26-WashingtonOpen-Round-3.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.26-WashingtonOpen-Round-3.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.04.26-WashingtonOpen-Round-3.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.04.26-WashingtonOpen-Round-3.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.04.26-WashingtonOpen-Round-3.sgf">Download SGF</a></li></ul></div>
+</article>
 
 It was an awful game. My stamina had already been spent with the first round. So with that and the fact that I was still rattled by my loss in Round 2, I could not keep calm and played one of the worst games I've played to date. Complete overplays and getting into fights I had no business getting into.
 

@@ -23,4 +23,9 @@ And one more thing, I'm going to stop paying attention to my rank. No I won't na
 
 If you're wondering where my emotional tilt began, it all started with my first game where I did not protect a vital cut and could not regain control of the game past that point. It occurs at Move 47.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.21-Everything-is-Connected-to-Everything.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.21-Everything-is-Connected-to-Everything.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.21-Everything-is-Connected-to-Everything.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.21-Everything-is-Connected-to-Everything.sgf">Download SGF</a></li></ul></div>
+</article>

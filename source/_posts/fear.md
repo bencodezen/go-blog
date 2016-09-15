@@ -16,6 +16,11 @@ As much as I try to avoid it, failing to save a vital group that costs you the g
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.27-Fear.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.27-Fear.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.27-Fear.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.27-Fear.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After reading this chapter though, I think I've taken another step forth along my path to becoming the strongest Go player I can be.  It's true.  Losing a game can take quite a toll on a person's mental stability, especially when the one mistake that cost you the game was your fault. Yet it is in these moments that you should not despair, for the realization of that weakness, whether it is a lack of reading, patience, or simple skill, will allow you to take the step in gaining strength.

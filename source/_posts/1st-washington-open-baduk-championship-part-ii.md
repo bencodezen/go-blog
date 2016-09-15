@@ -27,9 +27,12 @@ My opponent was 5 kyu and I wasn't giving him a handicap. Had it been yesterday,
 
 As I sat down in front of my opponent, I was very clear on what I was going to do: I was going to try and play like Sohyun did the night before. It was going to be strong and interesting go. That's the go I would play. Below is the kifu. (The commentary version will be Monday Go Meditation: Game 63)
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.27-WashingtonOpen-Round-4.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.27-WashingtonOpen-Round-4.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014.04.27-WashingtonOpen-Round-4.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014.04.27-WashingtonOpen-Round-4.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014.04.27-WashingtonOpen-Round-4.sgf">Download SGF</a></li></ul></div>
+</article>
 
 It was an exciting game, but one that I felt far more in control of than any of the games previously. When my opponent resigned, I let out a sigh of relief. "Yes." I thought, "At least I'm now 2-2\. And to top it off, I'm feeling a hell of a lot better than yesterday."
 
@@ -45,9 +48,12 @@ A good part of this was my insecurity at the prospects of possibly ending the to
 
 Before I knew it, the fifth round pairings were up. My opponent was a 4 kyu that I knew from the area. There would be no handicap and I was taking white. Below are the results of the my final game for the tournament. (The commentary version will be Monday Go Meditation: Game 64)
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.27-WashingtonOpen-Round-5.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/04/2014.04.27-WashingtonOpen-Round-5.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.04.27-WashingtonOpen-Round-5.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.04.27-WashingtonOpen-Round-5.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.04.27-WashingtonOpen-Round-5.sgf">Download SGF</a></li></ul></div>
+</article>
 
 When the game was coming close to the end, time was also drawing near as well. It was around 2:30pm when I had begun my final hunt to kill the group on the top; but my opponent still had plenty of time left on his clock, so I couldn't fault him for trying to take the time to make sure he was really dead. However, with time drawing close, I began mentally preparing myself to resign and simply be satisfied with the game that I had played.
 

@@ -21,8 +21,11 @@ That being said. There are too many mistakes to be mentioned and the prized mome
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.17-First-Official-Shidougo-Game.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.17-First-Official-Shidougo-Game.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.09.17-First-Official-Shidougo-Game.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.09.17-First-Official-Shidougo-Game.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.09.17-First-Official-Shidougo-Game.sgf">Download SGF</a></li></ul></div>
+</article>
 
 _Many thanks to frozensoul for letting me post this up and use his name. If you are ever looking for a great go teacher, be sure to visit his room (Social --&gt; clossius review room) for game reviews or teaching games. Definitely worth it!_

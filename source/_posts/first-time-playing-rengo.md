@@ -25,6 +25,9 @@ On another note, tomorrow will be the official start of my Korean Style Study. F
 4.  Play 1 game on Tygem for day.
 It's really aggressive, but I plan on doing my best and accomplishing all of this in one month!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.31-First-Time-Playing-Rengo.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.31-First-Time-Playing-Rengo.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.01.31-First-Time-Playing-Rengo.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.01.31-First-Time-Playing-Rengo.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.01.31-First-Time-Playing-Rengo.sgf">Download SGF</a></li></ul></div>
+</article>
