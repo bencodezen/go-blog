@@ -41,9 +41,12 @@ After going to breakfast, I came back to play my first simul against Zhang Yu Ho
 
 The game record is as follows:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.12-US-Go-Congress-Yuhong-Zhao-5p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.12-US-Go-Congress-Yuhong-Zhao-5p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.12-US-Go-Congress-Yuhong-Zhao-5p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.12-US-Go-Congress-Yuhong-Zhao-5p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.12-US-Go-Congress-Yuhong-Zhao-5p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Shortly after finishing my simul, I got a call from Myung 9p asking me if I was free to help take pictures for him and Dahye 4p while they were teaching a class. Since the next simul was not for a while and I had finished my game early, I rushed off to help them take pictures.
 
@@ -59,15 +62,21 @@ _*Update: Michael got a Sakata Eio fan. Many thanks to Satoru for the reminder! 
 
 Once we were done browsing the shop, I can't remember if this is precisely when it happened, but Michael and I finished our game from yesterday. The following is the game record:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.12-US-Go-Congress-Michael.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.12-US-Go-Congress-Michael.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.12-US-Go-Congress-Michael.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.12-US-Go-Congress-Michael.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.12-US-Go-Congress-Michael.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After the game, I was scheduled for another simul and parted ways with Michael. I was slotted to play against another Chinese professional, Ding Bo, 5p. The following is the game record:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.12-US-Go-Congress-Bo-Ding-5p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.12-US-Go-Congress-Bo-Ding-5p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.12-US-Go-Congress-Bo-Ding-5p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.12-US-Go-Congress-Bo-Ding-5p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.12-US-Go-Congress-Bo-Ding-5p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After the simul, I can’t really remember what I did; but I imagine it consisted of exploring New York city with my brother and trying more food. Towards the evening though, I came back to Hotel Pennsylvania to play my third and final simul of the day. Nate, Michael and Dalan were scheduled to play against one of the new Japanese professional, Francis Meyers, 1p. You can see them here in action!
 
@@ -81,9 +90,12 @@ I had signed up to play against a Japanese professional as well, Deguchi Mariko,
 
 The following is the game record:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.12-US-Go-Congress-Mariko-Deguchi-1p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.12-US-Go-Congress-Mariko-Deguchi-1p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.12-US-Go-Congress-Mariko-Deguchi-1p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.12-US-Go-Congress-Mariko-Deguchi-1p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.12-US-Go-Congress-Mariko-Deguchi-1p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 [![2014GC-D03-41](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D03-41.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D03-41.jpg)
 

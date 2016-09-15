@@ -37,9 +37,12 @@ As Michael went off to his pro event, I waited around in hopes of getting a simu
 
 Here are the results of that game:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.11-US-Go-Congress-Ho-Yuu-6p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.11-US-Go-Congress-Ho-Yuu-6p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.11-US-Go-Congress-Ho-Yuu-6p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.11-US-Go-Congress-Ho-Yuu-6p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.11-US-Go-Congress-Ho-Yuu-6p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Though I ended up losing, he told me that I played quite well and would have actually won if I had not let me connection get cut apart. It was a game I was certainly proud of and one that helped me release some of my frustration since I poured all my energy into playing the best go I could possibly play.
 
@@ -51,9 +54,12 @@ Nonetheless, I went ahead and asked if I could play anyhow. Thanks to Jungsang�
 
 The following is the game record:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.11-US-Go-Congress-Jungsang-Park-9p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.11-US-Go-Congress-Jungsang-Park-9p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.11-US-Go-Congress-Jungsang-Park-9p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.11-US-Go-Congress-Jungsang-Park-9p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.11-US-Go-Congress-Jungsang-Park-9p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Here’s the thing. I’ve played against a fair of number of professionals at this point in simul games, but the feeling I was left with after Jungsang crushed me was incredible. Even though I was well aware of how strong professionals could be, the simul against Jungsang took it to a whole new level of respect and awe.
 

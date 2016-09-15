@@ -47,9 +47,12 @@ We chatted for a while before he headed off to do something else, but shortly af
 
 Below is the game record along with some shots that my brother took while I was playing the game.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.09-US-Go-Congress-David.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.09-US-Go-Congress-David.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.09-US-Go-Congress-David.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.09-US-Go-Congress-David.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.09-US-Go-Congress-David.sgf">Download SGF</a></li></ul></div>
+</article>
 
 [![2014GC-D00-12](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D00-12.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D00-12.jpg)
 
