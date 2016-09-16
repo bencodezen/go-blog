@@ -13,9 +13,12 @@ Today I played a game against a 2k as Black (with 45 min main time settings). It
 
 At first I was thrilled to see the mistake, but then the undo request instantly popped up and I was confronted with the conflicting decision as to wheter I should give him the undo or not. Long story short, he was supposed to gain about 8 points in sente, but misclicked and put his own stones in atari so that I could capture them instead, save my stones, and gain a few points myself.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.24-Losing-Sight-of-My-Go.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.24-Losing-Sight-of-My-Go.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.06.24-Losing-Sight-of-My-Go.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.06.24-Losing-Sight-of-My-Go.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.06.24-Losing-Sight-of-My-Go.sgf">Download SGF</a></li></ul></div>
+</article>
 
 For 95% of spectators out there, the answer is crystal clear: it was an obvious misclick. In that moment however, though I'm ashamed to say it, I wanted to win so badly that I tried to brush off his undo and play on. I tried to resolve my cognitive dissonance by telling myself that it was his fault that he misclicked. Not my problem. Within a few moves however, I woke to my senses and realized how pitiful I was being. So I resigned in order to try and pick up what little self-respect I had left.
 

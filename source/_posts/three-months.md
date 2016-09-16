@@ -22,7 +22,12 @@ Happy 3 months to my Go Quest! Time for the monthly progress update!
 
 **Go Ability** - So I'm still 12k on KGS, but I'm pretty sure that number is now definitely inaccurate. I can't really say if I've hit the SDK ability, but I know that the handicaps I've been getting lately aren't exactly fair to my opponents. Yesterday I played a 4k with a 6 stones handicap and managed to win by resignation. Below you will find a game against a 6k opponent at 6 stones handicap where I would have won by ~60 some points.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/11/2010.11.08-Three-Months.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.11.08-Three-Months.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.11.08-Three-Months.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.11.08-Three-Months.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **ASR** **League** - This is an advanced study group for people serious about getting stronger at go and definitely gives off the whole insei atmosphere. In terms of how I'm doing, I'm getting totally demolished and will probably remain in the lowest class for a while. I will post more about this league so other players will get a chance to know more about it.
 

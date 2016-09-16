@@ -16,4 +16,9 @@ This game was interesting because it's the first time my opponent chose the oppo
 
 Check out the game record below and let me know your thoughts!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.19-Rematch-2.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.19-Rematch-2.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.19-Rematch-2.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.19-Rematch-2.sgf">Download SGF</a></li></ul></div>
+</article>

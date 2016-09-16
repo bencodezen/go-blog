@@ -17,7 +17,12 @@ The thing that makes this kind of loss worse is the fact that you know it's enti
 
 I'm writing this post right after a game that I knew I could definitely win, but my overconfidence allowed my opponent to advantage of my weaknesses and turn the game around in his favor [Move 250]. As you might guess, I am feeling pretty crappy at the moment.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/08/2012.08.30-Losing-a-Won-Game.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2012/2012.08.30-Losing-a-Won-Game.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.08.30-Losing-a-Won-Game.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.08.30-Losing-a-Won-Game.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Here's the thing though. When the game is over and you're staring into the abyss thinking of the move you should have made, do not despair and fall into a spiraling pit of regret.
 

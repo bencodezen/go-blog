@@ -21,4 +21,9 @@ So today was pretty eventful. I am actually flooded in terms of material I want 
 
 Meanwhile, here is a game I think that a lot of you will enjoy. This was from the ASR League so it was a free game, even, 6.5 pts komi. The matchup is me (11k) vs. my buddy chrollo (2d). I was black. To preface the game, chrollo played extremely aggressively. This was one hell of a game chrollo. Thanks again for an awesome game.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/11/2010.11.09-Short-and-Simple.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.11.09-Short-and-Simple.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.11.09-Short-and-Simple.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.11.09-Short-and-Simple.sgf">Download SGF</a></li></ul></div>
+</article>

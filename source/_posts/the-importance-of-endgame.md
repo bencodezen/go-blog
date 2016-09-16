@@ -19,9 +19,12 @@ As I'm approaching the mid-SDK range, the games that I have played have begun to
 
 The following game is one that I think many of you would find quite interesting since it consists of a rather complicated capturing race and is a great example of why a player's endgame skill can be the difference between victory or defeat.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.30-The-Importance-of-Endgame.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.30-The-Importance-of-Endgame.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.11.30-The-Importance-of-Endgame.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.11.30-The-Importance-of-Endgame.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.11.30-The-Importance-of-Endgame.sgf">Download SGF</a></li></ul></div>
+</article>
 
 While he ended up resigning due to the capturing race, in reality this game goes down as a defeat in my book. Had I been more careful about my endgame, I'm quite sure that I would have earned that victory fair and square; but it is clear that my reckless endgame actually cost me the game. This game has really humbled my opinion of my abilities and reminded me how critical it is to:
 

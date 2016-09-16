@@ -17,7 +17,12 @@ Sounds simple enough right? And yet at the same time, why is this the case?
 
 Let's not forget an important aspect of Go - **the players who use their stones the most efficiently are the ones who will most likely surround the most territory**. After all, when you're killing two birds with one stone, it becomes just about as close to having two moves as a player will ever get!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/08/2012.08.31-Small-Number-of-Groups.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2012/2012.08.31-Small-Number-of-Groups.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.08.31-Small-Number-of-Groups.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.08.31-Small-Number-of-Groups.sgf">Download SGF</a></li></ul></div>
+</article>
 
 If we look at the results of my game, you'll notice that Black has 5 different groups and White has 4 groups. Yet if you play close enough attention, you'll see how much more efficient White's stones were at surround territory compared to Black's. In fact, a number of Black's groups seems like they barely escape death.
 

@@ -39,9 +39,12 @@ We were about 11 moves in when we were interrupted and asked if we would be will
 
 In a whirlwind change of events, I suddenly find myself in front of Joanne once again. Earlier in the day, I thought that I might ask if it would be okay to play an even game with her since I wanted to see how she would play under non-handicap circumstances. With the video recording and all though, I thought it best just to play at 4 stones again. Below is a partial record of the game since I thought the game was more for show than for a serious game, so this was the best I could do with the recreation in the midst of all the craziness.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.15-NAGC-Day-2.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.15-NAGC-Day-2.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.02.15-NAGC-Day-2.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.02.15-NAGC-Day-2.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.02.15-NAGC-Day-2.sgf">Download SGF</a></li></ul></div>
+</article>
 
 We got a little further than my record, but the game was ended prematurely in order to allow the interviewers to get other footage.
 

@@ -28,9 +28,12 @@ I was a bit stunned and embarrassed for a second as I recalled [the miserable ga
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.07-NOVA-PC-Round-3.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.07-NOVA-PC-Round-3.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.11.07-NOVA-PC-Round-3.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.11.07-NOVA-PC-Round-3.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.11.07-NOVA-PC-Round-3.sgf">Download SGF</a></li></ul></div>
+</article>
 
 _ What the kifu fails to capture is how close I was to losing on time. I got caught up in finding the best endgame moves that I nearly forgot about how much time I had left. Luckily I realized it before it was too late._
 

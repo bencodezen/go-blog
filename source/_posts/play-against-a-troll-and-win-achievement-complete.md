@@ -15,9 +15,12 @@ This was a pretty scary game for me. I know I've been playing stronger opponents
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.20-Play-Against-a-Troll.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.20-Play-Against-a-Troll.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.09.20-Play-Against-a-Troll.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.09.20-Play-Against-a-Troll.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.09.20-Play-Against-a-Troll.sgf">Download SGF</a></li></ul></div>
+</article>
 
 This is definitely a game that I'm certainly proud to call my own. In addition, I had never really experienced playing against a troll until this game. If you want a glimpse as to what I'm talking about, you can see it in the kifu (more profanity and name calling occurs afterwards, but you'll get the gist of it based on what I left in the record).
 

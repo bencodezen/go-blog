@@ -22,6 +22,9 @@ That being said, I still have a lot of work to do in regards to my connections a
 
 Hope you enjoy the kifu and be sure to share any insights that you may have as you look over the game!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/10/2012.10.01-First-Shidougo.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/10/2012.10.01-First-Shidougo.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.10.01-First-Shidougo.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.10.01-First-Shidougo.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.10.01-First-Shidougo.sgf">Download SGF</a></li></ul></div>
+</article>

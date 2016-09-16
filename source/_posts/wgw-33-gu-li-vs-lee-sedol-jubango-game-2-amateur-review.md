@@ -24,9 +24,12 @@ As some of you know, Gu Li and Lee Sedol recently had their second game in their
 I hope that you enjoy the review and improved format. Be sure to leave comments as the format is still a work in progress and I am always trying to make the reading experience a more enjoyable one for you![
 ](http://www.bengozen.com/wp-content/uploads/2014/03/Gu-Li-vs-Lee-Sedol-20140223.sgf)
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/03/Lee-Sedol-vs-Gu-Li-J2-AmateurReview.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/03/Lee-Sedol-vs-Gu-Li-J2-AmateurReview.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/Lee-Sedol-vs-Gu-Li-J2-AmateurReview.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/Lee-Sedol-vs-Gu-Li-J2-AmateurReview.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/Lee-Sedol-vs-Gu-Li-J2-AmateurReview.sgf">Download SGF</a></li></ul></div>
+</article>
 
 _Credit for the kifu and some insights go to [GoGameGuru](http://gogameguru.com/lee-sedol-races-ahead-2-0-gu-li-vs-lee-sedol-jubango/ "GoGameGuru Review of Jubango Game 2")_
 

@@ -30,9 +30,12 @@ By the time I got back to Congress, the match had already finished and people we
 
 The following is the game record:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.14-US-Go-Congress-Jennie-Shen-2p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.14-US-Go-Congress-Jennie-Shen-2p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.14-US-Go-Congress-Jennie-Shen-2p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.14-US-Go-Congress-Jennie-Shen-2p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.14-US-Go-Congress-Jennie-Shen-2p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After the game was finished, I made a point to introduce myself to Jennie and told her that I was friends with Michael. Her face lit up with a smile as she recognized who I was referring to and we talked a bit before I excused myself since I didn’t want to take her away from the simul games any longer.
 
@@ -54,9 +57,12 @@ One of cool things about the Korean pro events that I forgot to mention is that
 
 After the lecture concluded, I went upstairs to my final simul of the day against Shirley Lin, 1p. The following is the game record:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.14-US-Go-Congress-Shirley-Lin-1p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/09/2014.08.14-US-Go-Congress-Shirley-Lin-1p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.14-US-Go-Congress-Shirley-Lin-1p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.14-US-Go-Congress-Shirley-Lin-1p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.14-US-Go-Congress-Shirley-Lin-1p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After my game, I went to see what everyone was up to but had a difficult time locating anyone. So with no one to hangout with or any concrete plans, I took my girlfriend out to a vegetarian kosher place (which was absolutely amazing).
 

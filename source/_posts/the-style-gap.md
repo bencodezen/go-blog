@@ -21,6 +21,9 @@ Finally, I want to show you that I do not give advice that I do not follow mysel
 
 Here is the first of many to come:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.20-The-Style-Gap.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.20-The-Style-Gap.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.01.20-The-Style-Gap.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.01.20-The-Style-Gap.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.01.20-The-Style-Gap.sgf">Download SGF</a></li></ul></div>
+</article>

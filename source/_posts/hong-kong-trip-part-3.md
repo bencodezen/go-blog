@@ -111,9 +111,12 @@ After more fuseki study, we played a 5-stone handicap game. Due to time constrai
 
 *Note: There is no commentary on this kifu due to how short it is, but I thought that being able to see how the game started up would be better than nothing.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/04/2014.03.18-HKGA-Lesson.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/04/2014.03.18-HKGA-Lesson.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.03.18-HKGA-Lesson.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.03.18-HKGA-Lesson.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.03.18-HKGA-Lesson.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After the lesson, I got to explore a little bit more and found their magnificent book collection.
 

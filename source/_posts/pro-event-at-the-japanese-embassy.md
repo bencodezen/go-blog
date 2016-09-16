@@ -54,8 +54,11 @@ As I stood up there listening to Narumi explain various aspects of our game in J
 
 The following is the game record from that night with any commentary from Narumi clearly marked.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/04/2013.04.04-Pro-Event-at-the-Japanese-Embassy.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/04/2013.04.04-Pro-Event-at-the-Japanese-Embassy.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.04.04-Pro-Event-at-the-Japanese-Embassy.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.04.04-Pro-Event-at-the-Japanese-Embassy.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.04.04-Pro-Event-at-the-Japanese-Embassy.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Well, with that night, I have played a go pro from each of the major countries: Korea, China, Japan, and Taiwan! Woot! Now onwards to grow my collection of pro games!

@@ -29,12 +29,14 @@ After my friend Gurujeet answered the question correctly, we moved on to reviewi
 3.  When making a move, try to make the follow-up move as severe as possible.
 4.  If it's not life or death, don't fight on your opponent's terms.
 5.  Always look for a more active way to defend yourself.
-Afterwards, we had lunch and then got our afternoon matches. Apparently according to AGA, my rating is actually -4.375 now (i.e. 4 kyu), so I got matched up with a fellow UMBC go player by the name of Nathan. We had played against one another at the local club before, but this would be our first ranked match against one another. Below is a record of our game along with some of Yuan Zhou's and my thoughts as well.[
-](http://www.bengozen.com/wp-content/uploads/2013/07/2013.07.21-Yuan-Zhou-Workshop-Game.sgf)
+Afterwards, we had lunch and then got our afternoon matches. Apparently according to AGA, my rating is actually -4.375 now (i.e. 4 kyu), so I got matched up with a fellow UMBC go player by the name of Nathan. We had played against one another at the local club before, but this would be our first ranked match against one another. Below is a record of our game along with some of Yuan Zhou's and my thoughts as well.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/07/2013.07.21-Yuan-Zhou-Workshop-Game.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/07/2013.07.21-Yuan-Zhou-Workshop-Game.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.07.21-Yuan-Zhou-Workshop-Game.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.07.21-Yuan-Zhou-Workshop-Game.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.07.21-Yuan-Zhou-Workshop-Game.sgf">Download SGF</a></li></ul></div>
+</article>
 
 In hindsight, I am really out of practice when it comes to playing with a clock. I got into byoyomi pretty early but somehow misread the clock as 3 minutes and 30 seconds when it fact it was actually 3 periods of 30 seconds. And to be honest, I didn't even realize how little time until I heard the clock voice go, "1, 2, 3.." Then it suddenly occurred to me that I was about to lose on time and from that point on when playing in sudden death. Haha.
 

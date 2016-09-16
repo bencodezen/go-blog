@@ -16,9 +16,12 @@ After my third game in Yunguseng Dojang, I became a lot more comfortable playin
 
 This game was the first one I played after being dispelled of that anxiety of playing White. And believe it or not, it was actually a rather calm game where no dramatic battles of life and death occurred. See for yourself below!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.19-TGT-07.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.19-TGT-07.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.06.19-TGT-07.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.06.19-TGT-07.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.06.19-TGT-07.sgf">Download SGF</a></li></ul></div>
+</article>
 
 ### Game Summary
 

@@ -25,9 +25,12 @@ Since the first pro event was starting at 10;00am, I went ahead and walked upsta
 
 Like I predicted, there was no chance of us finishing the game before the pro event. And to be honest, I can't blame my opponent for wanting to take his time to see if he could actually manage to live. With the amount of fighting left to do, I would even be willing to bet that we still had a good 30 - 45 minutes left before we were close to finishing. So when the time came, there was no choice to resign. Below is the game record.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.21-NAGC-Day-5-Game-1.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.21-NAGC-Day-5-Game-1.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.02.21-NAGC-Day-5-Game-1.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.02.21-NAGC-Day-5-Game-1.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.02.21-NAGC-Day-5-Game-1.sgf">Download SGF</a></li></ul></div>
+</article>
 
 I will admit that I part of me wanted to see how the game might've ended, but I knew I was playing a rather high risk approach and could very well have lost anyways. So all in all, I was happy to give my opponent the win since I wasn't going to win any awards anyways. =D
 
@@ -35,9 +38,12 @@ When the time came from the simul game with Myung, as one might expect with the 
 
 At first, I set up a setting relatively similar to your standard 9 stone handicap formation with a chance in regards to using a Chinese opening; but then Myung suggested it might be better for me to secure a couple of corners to begin with. I think he soon regretted his suggestion however, because when he looked at the board again and was about to play his first move, he said, "Oh man... this is going to make it a lot harder."
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.21-NAGC-Day-5-Game-2.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.21-NAGC-Day-5-Game-2.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.02.21-NAGC-Day-5-Game-2.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.02.21-NAGC-Day-5-Game-2.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.02.21-NAGC-Day-5-Game-2.sgf">Download SGF</a></li></ul></div>
+</article>
 
 When I played that final move, you have no idea the relief and rush of excitement I felt when I heard him say, "Oh! Good! You saw that!" and then put down his stone and focus his attention on the three players who had come in after we had started. So while my 9 stone handicap was a free placement style, this was a huge moment for me because I actually managed to win against a professional. It helped to renew my confidence in myself to feel growth over the past five days.
 
@@ -51,9 +57,12 @@ For the final pro event, I had to make a choice between attending another lectur
 
 After a bit of thought, I decided that I didn't want to pass up the opportunity to play another pro. So with that said, I sat down for my final simul game of the NAGC. Below is the game record.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.21-NAGC-Day-5-Game-3.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.21-NAGC-Day-5-Game-3.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.02.21-NAGC-Day-5-Game-3.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.02.21-NAGC-Day-5-Game-3.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.02.21-NAGC-Day-5-Game-3.sgf">Download SGF</a></li></ul></div>
+</article>
 
 When the game was over, Stephanie told me that she definitely thought I was stronger than 6 kyu. She recommended I further practice my life and death and reading, and I would progress very quickly. ^.^ It made me happy to hear that and I was very grateful for her compliment and advice.
 

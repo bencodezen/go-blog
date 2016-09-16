@@ -22,6 +22,9 @@ So I'm sure the question then is, what was my one point lesson for today?
 
 He said that a number of SDK don't even do this consistently, so it may be difficult for me to incorporate it as second nature. I would like to note that we played a relatively quick game, so most of my moves were instinctual. Nonetheless, I must train myself to do 3-Step Thinking instinctively or else the pursuit to become stronger will be futile. Now grab your bag of popcorn, and enjoy the onslaught.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.17-My-First-One-Point-Lesson.sgf" class="aligncenter"][/sgf]
-
-&nbsp;
+<article>
+	<section data-wgo="/kifu/2010/2010.10.17-My-First-One-Point-Lesson.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.17-My-First-One-Point-Lesson.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.17-My-First-One-Point-Lesson.sgf">Download SGF</a></li></ul></div>
+</article>

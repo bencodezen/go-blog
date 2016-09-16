@@ -14,9 +14,12 @@ tags:
 
 This opponent was a unique one since he thought longer than I did and took his time. He actually ended up in byoyomi early on in the game and used most of his byoyomi time which is really weird for Tygem since most players I've encountered play pretty quickly and I'm the one usually running out of time. Overall though, I felt that I was in control for most of the game. Hopefully you'll agree! And if I'm totally wrong, please let me know!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.12-TGT-06.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.12-TGT-06.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.06.12-TGT-06.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.06.12-TGT-06.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.06.12-TGT-06.sgf">Download SGF</a></li></ul></div>
+</article>
 
 ### Game Summary
 

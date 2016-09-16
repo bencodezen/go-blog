@@ -9,9 +9,11 @@ tags:
 	- kifu
 ---
 
-For this week's bonus review, we will be going over my third game from the Canada Go League where I suffer a one-sided defeat. There is no excuse for the mistakes I made (both strategically and tactically), but the only thing I will say in my defense is that I tried out a lot of new experiments this game. And the thing to realize about experiments is that they often blow up in your face. This is a great example of one of them. Haha. xD Enjoy![
-](http://www.bengozen.com/wp-content/uploads/2013/10/2013.10.16-October-2013-Bonus-Review-Game-3.sgf)
+For this week's bonus review, we will be going over my third game from the Canada Go League where I suffer a one-sided defeat. There is no excuse for the mistakes I made (both strategically and tactically), but the only thing I will say in my defense is that I tried out a lot of new experiments this game. And the thing to realize about experiments is that they often blow up in your face. This is a great example of one of them. Haha. xD Enjoy!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/10/2013.10.16-October-2013-Bonus-Review-Game-3.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/10/2013.10.16-October-2013-Bonus-Review-Game-3.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.10.16-October-2013-Bonus-Review-Game-3.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.10.16-October-2013-Bonus-Review-Game-3.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.10.16-October-2013-Bonus-Review-Game-3.sgf">Download SGF</a></li></ul></div>
+</article>

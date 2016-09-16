@@ -33,9 +33,12 @@ While we waited for the simul game with Myung to start, my mom and I had the ple
 
 We only got a few moves into the game before it was time to start the simul game though. And before I knew it, I was sitting once again before Myung as I placed 9 stones on the board. With a renewed spirit from my defeat on [Day 3](http://www.bengozen.com/north-american-go-convention-day-3/ "North American Go Convention — Day 3"), it was time to try again! Ikuzo!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.20-NAGC-Day-4.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.20-NAGC-Day-4.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.02.20-NAGC-Day-4.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.02.20-NAGC-Day-4.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.02.20-NAGC-Day-4.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Once the game was over, Mr. Choi, Myung, my mom and I went out to grab lunch at [El Pollo Ricco](http://www.yelp.com/biz/el-pollo-rico-arlington) and had a delicious lunch!
 

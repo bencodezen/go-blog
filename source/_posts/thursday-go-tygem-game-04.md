@@ -16,9 +16,12 @@ I recently had a conversation regarding the importance of ladders. And while the
 
 So whether you like it or not, you need to make your peace with ladders and make them your best friend. It's the only way to climb to the top!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/05/2014.05.29-TGT-04.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/05/2014.05.29-TGT-04.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.05.29-TGT-04.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.05.29-TGT-04.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.05.29-TGT-04.sgf">Download SGF</a></li></ul></div>
+</article>
 
 ### Game Summary
 

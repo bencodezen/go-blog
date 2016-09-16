@@ -33,9 +33,12 @@ After the customary exchange of "Have a good game," I took a deep breath and rea
 
 First move: [keima kakari](http://senseis.xmp.net/?KeimaKakari "Keima Kakari") on the upper right star.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.06-NOVA-PC-Round-2.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.02-NOVA-PC-Round-2.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.11.06-NOVA-PC-Round-2.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.11.06-NOVA-PC-Round-2.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.11.06-NOVA-PC-Round-2.sgf">Download SGF</a></li></ul></div>
+</article>
 
 As we counted the points, I couldn't help but think about the numerous times I was supposed to die. My opponent, Anderson, had played very well. In fact, he came very close to demolishing me that game. I had overestimated my abilities and underestimated his ability to play great moves and avoid a critical loss. If it had not been for the connection (Move 171), I don't think I could have won that game. My spirit was already polluted with so much shame at that point that I would have resigned had he cut off the groups properly.
 

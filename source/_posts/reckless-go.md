@@ -19,6 +19,9 @@ Fortunately, I was not given the chance to slink away in shame and got promptly 
 
 Below is the game record for your laughter and entertainment. =)
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.19-Reckless-Go.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.19-Reckless-Go.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.12.19-Reckless-Go.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.12.19-Reckless-Go.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.12.19-Reckless-Go.sgf">Download SGF</a></li></ul></div>
+</article>

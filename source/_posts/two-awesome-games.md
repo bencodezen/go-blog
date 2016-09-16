@@ -13,7 +13,12 @@ So sorry for the failure to post Friday or Saturday. Lots going on, but the foll
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/11/2010.11.07-Two-Awesome-Games.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.11.07-Two-Awesome-Games.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.11.07-Two-Awesome-Games.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.11.07-Two-Awesome-Games.sgf">Download SGF</a></li></ul></div>
+</article>
 
 To top everything off however, I also got to play my FIRST game of.... wait for it.... ONE COLOR GO. And actually, it was also my first game against Mr. Justin Teng. Now mind you, I wasn't trying to win... I was just trying to make it as far as I could into the game. Here's a picture of the game.
 

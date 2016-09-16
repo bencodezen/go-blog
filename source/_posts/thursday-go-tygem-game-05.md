@@ -16,9 +16,12 @@ Before this game, I had been getting white in most of my even games and had trou
 
 This game is the first game that I felt successful when playing White. Not only was my game not rushed and ill-conceived, but I felt like I was able to maintain control for most of the game. Hopefully you'll agree! Enjoy the game.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.05-TGT-05.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/2014.06.05-TGT-05.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.06.05-TGT-05.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.06.05-TGT-05.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.06.05-TGT-05.sgf">Download SGF</a></li></ul></div>
+</article>
 
 ### Game Summary
 

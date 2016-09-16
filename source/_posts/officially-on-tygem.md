@@ -19,6 +19,9 @@ Thus far, the opponents I have played on have a completely different style from 
 
 Case and point: see my first game record for 2013 below!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/12/2013.01.01-Starting-with-a-Bang.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/12/2013.01.01-Starting-with-a-Bang.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2013.01.01-Starting-with-a-Bang.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2013.01.01-Starting-with-a-Bang.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2013.01.01-Starting-with-a-Bang.sgf">Download SGF</a></li></ul></div>
+</article>

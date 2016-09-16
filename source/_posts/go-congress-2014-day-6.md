@@ -43,9 +43,12 @@ And with the weather so beautiful, we felt it would be a travesty to take the me
 
 Before I knew it though, it was time for me to head back for my simul of the day against Francis Meyers, 1p. (At this point, I was trying to play as many different professionals as possible.) The following is the game record:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/10/2014.08.15-US-Go-Congress-Francis-Meyers-1p.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/10/2014.08.15-US-Go-Congress-Francis-Meyers-1p.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.08.15-US-Go-Congress-Francis-Meyers-1p.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.08.15-US-Go-Congress-Francis-Meyers-1p.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.08.15-US-Go-Congress-Francis-Meyers-1p.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After my game finished, I went downstairs to help Myung and Dahye take more pictures of them while they were teaching another teacher seminar.
 

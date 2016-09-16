@@ -20,9 +20,12 @@ I'm sure some of you are wondering though, "What's the difference between this a
 2.  **Exclusively Dan Level Opponents** -  The unique kicker to this entire series is that it will consist entirely of me playing dan players on Tygem. As some of you might remember, frozensoul once gave me the challenge to exclusively play dan players on Tygem in order to get stronger. Well, your wish is granted sensei. This series is the start of me embarking on that journey.
 And since this is a new series, it would be great if you could leave some feedback below to let me know whether or not I should continue with this series or if there are things I should do to improve it! Here we go!
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/05/2014.05.08-TGT-01.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/05/2014.05.08-TGT-01.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.05.08-TGT-01.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.05.08-TGT-01.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.05.08-TGT-01.sgf">Download SGF</a></li></ul></div>
+</article>
 
 ### Game Summary
 

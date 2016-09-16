@@ -16,9 +16,12 @@ Before playing this game, I had been studying one of Seo Bong Soo's games from 
 
 Anyways, inspired by his game, I decided to try and imitate that same feeling in this game. And though I end up collapsing in on myself with a really basic reading mistake, I hope you'll still find this game entertaining.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/05/2014.05.22-TGT-03.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/05/2014.05.22-TGT-03.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/2014.05.22-TGT-03.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/2014.05.22-TGT-03.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/2014.05.22-TGT-03.sgf">Download SGF</a></li></ul></div>
+</article>
 
 ### Game Summary
 

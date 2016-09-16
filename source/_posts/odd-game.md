@@ -17,4 +17,9 @@ Anyhow, here's my game. Some moves are admittedly slow and not quite efficient, 
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.14-Odd-Game.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.14-Odd-Game.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.14-Odd-Game.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.14-Odd-Game.sgf">Download SGF</a></li></ul></div>
+</article>

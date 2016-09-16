@@ -31,9 +31,12 @@ Once we got back and arrived at the building, we ran into a local go player who 
 
 When we finally arrived on the 9th floor, I was relieved to see familiar faces and the tournament room in clear sight. As we made our way into the tournament room, I saw that Myung was already in the middle of two simul games. At first I wasn't sure if we would be too late to join, but before I knew it James took a seat and setup his handicap stones. I quickly followed suit and before I knew it, I was playing my third official professional simul game (the second one with Joanne Missingham doesn't count since it never finished and was played in a more blitz manner than anything else). Below is the game record from that night:
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.19-NAGC-Day-3.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.19-NAGC-Day-3.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.02.19-NAGC-Day-3.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.02.19-NAGC-Day-3.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.02.19-NAGC-Day-3.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After I resigned, I spent a good 10 minutes going over the game and looking at Myung's responses. I could only marvel in their simplicity as I tried to make my way through the game I had just played. I didn't get too far because James and I decided to play a game together while Myung was focusing on his simul games. James is around 2 kyu, so I think the game took him by surprise when he learned my fighting abilities were not quite the same as a typical meek 6 kyu. I don't have the game record for that night, but it was a fun game that was full of experiment and new ideas. =) Once all was said and done though, it seemed that Myung and James' ride still had things he needed to do, so I was more than happy to give them a ride back to their hotel.
 

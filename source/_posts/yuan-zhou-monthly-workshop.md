@@ -32,9 +32,12 @@ The game we were reviewing was one of [Ishida Yoshio](http://en.wikipedia.org/wi
 
 After the exciting game review, we had lunch and then proceeded with the afternoon game. Since we had an odd number of players, one of the players recorded my game while I had the opportunity to play. I felt kind of badly that I was playing and the player had to record, so in the future, I think that I would not mind being the recorder instead so other players can play instead. Anyhow, here's the game record from that afternoon.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.04-Yuan-Zhou-Workshop-Nov.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu Here"]http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.04-Yuan-Zhou-Workshop-Nov.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.12.04-Yuan-Zhou-Workshop-Nov.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.12.04-Yuan-Zhou-Workshop-Nov.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.12.04-Yuan-Zhou-Workshop-Nov.sgf">Download SGF</a></li></ul></div>
+</article>
 
 After all the games were finished, Yuan Zhou reviewed all of the games. If there's something I learned from that experience, you tend to remember your lessons a lot better when other people are watching the review and seeing the mistakes you made. For example, the one thing that I will remember forever is the Elephant's Eye (which I'll write more on at another time). In addition, being able to have both sides of the game reviewed really helps to open you eyes as to what was supposed to work and what wasn't supposed to work. On top of that, getting to see the game reviews for everyone else's game was also very helpful.
 

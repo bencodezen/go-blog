@@ -42,9 +42,12 @@ Finally, another thing cool thing that Sabum-nim does is a lecture series that 
 
 **Preliminary Thoughts** - As this was the first game I would play in YSD, I felt a lot of pressure to try and play the best go I possibly could. To top it off, my opponent was known as one of the strongest players in the league, so I was more anxious than I would've liked. And so one of the things I did was to play out the game on a real board simultaneously. By doing so, I was hoping it would calm me down.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round1.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round1.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round1.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round1.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round1.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - Playing the game out on a real board ended up helping me calm down, but it also led to me being more adventurous/experimental and to also lose on time. When the pop-up flashed, "bengozen loses on time," I sat there flustered as I tried to collect myself in thinking that at least I played a good game.
 
@@ -54,9 +57,12 @@ Finally, another thing cool thing that Sabum-nim does is a lecture series that 
 
 **Preliminary Thoughts** - Since my last game was so disastrous, I was eager to yet again prove myself. Similar to the first match however, my opponent was considered one of the strongest players in the league as well, so there was a bit of pressure to try and do well against the veteran.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round2.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round2.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round2.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round2.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round2.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - Though I lost my Round 1 game in part due to experimenting, I still ended up doing it again this round. And just like before, I lost again. I was really starting to doubt my abilities as a player and whether I even belonged in League A.
 
@@ -66,9 +72,12 @@ Finally, another thing cool thing that Sabum-nim does is a lecture series that 
 
 **Preliminary Thoughts** - Seeing as how I had lost my last two games, I had much lower expectations of myself this time around. I really had no idea if I was going to win. If anything, I was simply hoping I wouldn't play another game that would add another mark of disappointment to Sabum-nim's impression of me.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round3.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round3.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round3.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round3.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round3.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - The game was still a rather weird one for me. Still a lot more experimenting than I necessarily would have wanted, but it seemed I was not destined to play games that were in my comfort range. Luckily for me though, I was able to secure an advantage early on that allowed me to win the game.
 
@@ -78,9 +87,12 @@ Finally, another thing cool thing that Sabum-nim does is a lecture series that 
 
 **Preliminary Thoughts** - I was unable to make the original time scheduled for Round 4, but I was lucky that my opponent could reschedule to the prior Sunday. Unfortunately, unlike my previous games, I was unable to play in a focused state of mind because I was at a local Starbucks and had a lot of other work needed to be done. So I was unable to give this game my all like I normally would.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round4.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round4.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round4.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round4.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round4.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - After my opponent resigned, I breathed a sigh of relief; but I was not terribly proud of the game that I had just played. After looking back over it, it was a haphazard game that I was lucky to win only because my opponent made a mistake and I got away with a few overplays that allowed me to reverse the game in my favor. So even though I won, it felt more like I had loss since my play was rather disappointing.
 
@@ -90,9 +102,12 @@ Finally, another thing cool thing that Sabum-nim does is a lecture series that 
 
 **Preliminary Thoughts** - With my record at 2-2, my ability to stay in League A rested on this final match. And so the pressure was particularly high for this game since I was unsure if I would be able to pull it off and the idea of being demoted terrified me. On top of all of that, it was against a friend who I've gotten to know quite well over the last few weeks, so it was a mixed bag of emotions as we dove into the epic clash that would determine my fate.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round5.sgf"  class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2014/06/YSD-S9-Round5.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2014/YSD-S9-Round5.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2014/YSD-S9-Round5.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2014/YSD-S9-Round5.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **After the Game** - After clicking the resign button, I knew my fate was sealed. I was rather downtrodden, but there was a part of me that actually felt really good about the game. Unlike the other games, though I was [wrestling with disappointment of demotion at the time](http://www.bengozen.com/first-demotion/ "My First Demotion"), I actually felt like this game was something I could actually be proud of.
 

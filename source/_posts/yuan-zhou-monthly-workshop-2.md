@@ -32,6 +32,9 @@ In addition, one of the biggest takeaways I had from the entire workshop is **ho
 
 After the review, we had lunch and played a game with one another. As I looked back on my game, I believe that the reverse komi (-7.5 points) caused my opponent to take more risks than he needed to. In addition, our ranks are most likely about equal, so I believe that the game was rather lopsided to begin with. With that in mind, I do think that my play overall was rather poor and still shows a lack of my attention to the fundamentals of strong players.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.14-Yuan-Zhou-Monthly-Workshop.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/01/2013.01.14-Yuan-Zhou-Monthly-Workshop.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.01.14-Yuan-Zhou-Monthly-Workshop.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.01.14-Yuan-Zhou-Monthly-Workshop.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.01.14-Yuan-Zhou-Monthly-Workshop.sgf">Download SGF</a></li></ul></div>
+</article>

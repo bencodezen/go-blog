@@ -14,6 +14,11 @@ Lo and behold, I was granted the opportunity to play against an opponent that I 
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.18-Rematch.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.18-Rematch.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.18-Rematch.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.18-Rematch.sgf">Download SGF</a></li></ul></div>
+</article>
 
 As you can see in the game record, I managed to make it out alive with a ~30 point win! Woot woot! Elated feeling for the day: check! Can't let this get to my head too much though, got to keep getting stronger!

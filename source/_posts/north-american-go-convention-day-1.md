@@ -38,9 +38,12 @@ Even though this is not my first time playing a professional, it still blew my m
 
 Below is the game record for my game with Joanne Missingham (6P). Due to the event starting late however, I didn't really get a chance to discuss the game much with her. On the upside, I did get a couple of comments from her to clarify a few areas that I was positive caused my downfall. =)
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.14-NAGC-Day-1.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/02/2013.02.14-NAGC-Day-1.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2013/2013.02.14-NAGC-Day-1.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2013/2013.02.14-NAGC-Day-1.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2013/2013.02.14-NAGC-Day-1.sgf">Download SGF</a></li></ul></div>
+</article>
 
 And for those who don't happen to follow my twitter, the day ended with a bit of a hitch. You see, I followed the signs for visitors to park in the garage. Lo and behold, you can imagine my surprise when I came down to the garage to get my car and saw the garage doors shut. I thought I was going to be stranded outside for the rest of the night. Hahaha. But luckily I found a way into the garage and then eventually got out. Lesson learned for the next two nights!
 

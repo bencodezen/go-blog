@@ -12,8 +12,11 @@ I normally try not to post two games in one day, but tonight I just played a gam
 
 There's only one comment for the entire SGF due to how late it is, but this is perhaps one of the most controlled games I've played to date...
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.17-Mind-Blown.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.17-Mind-Blown.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.12.17-Mind-Blown.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.12.17-Mind-Blown.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.12.17-Mind-Blown.sgf">Download SGF</a></li></ul></div>
+</article>
 
 As always, comments and insights would be appreciated!

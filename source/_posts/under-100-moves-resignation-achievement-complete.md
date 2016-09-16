@@ -13,9 +13,12 @@ That's right. I have achieved my first "Under 100 Moves Resignation." I know tha
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.13-Under-100-Moves-Resignation.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.13-Under-100-Moves-Resignation.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.09.13-Under-100-Moves-Resignation.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.09.13-Under-100-Moves-Resignation.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.09.13-Under-100-Moves-Resignation.sgf">Download SGF</a></li></ul></div>
+</article>
 
 **Overall**
 

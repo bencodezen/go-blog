@@ -22,9 +22,12 @@ I stared at the board as I recalled memories of playing with my friend Nate: the
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.02-NOVA-PC-Round-1.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/11/2012.11.02-NOVA-PC-Round-1.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.11.02-NOVA-PC-Round-1.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.11.02-NOVA-PC-Round-1.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.11.02-NOVA-PC-Round-1.sgf">Download SGF</a></li></ul></div>
+</article>
 
 As we were cleaning up the stones, I felt dazed as I was still in disbelief that I had managed to pull of a win, and a narrow one at that. Before I could even really collect my thoughts together however, I heard that the next pairings had been posted. I walked over and scanned the list - Ben [8k] vs. Black [12k]. At first I was relieved since I wouldn't be playing an SDK, but then it hit me: _**I have to give him 4 stones**_.
 

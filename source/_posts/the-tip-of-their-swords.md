@@ -21,6 +21,11 @@ _Who remembers the following scene?_
 
 With Sai's wisdom in mind, here is me diving straight in to try things out without fear of its consequences in an even game against a 12k. (Not that I didn't read, but I just was no longer afraid.) I lost a few groups as a result, and a few misreadings caused the game to flip, but the game was by far one of the most interesting ones I think you'll have seen so far.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.22-The-Tip-of-Their-Swords.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.22-The-Tip-of-Their-Swords.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.22-The-Tip-of-Their-Swords.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.22-The-Tip-of-Their-Swords.sgf">Download SGF</a></li></ul></div>
+</article>
 
 And for my other rabbit jumpers on KGS, don't even pay mind to gaining that stone on KGS. Just trust your abilities and keep honing your skills. I guarantee you, the results will show itself without you keeping track of how many games till the next promotion. Cause ultimately the true promotion will manifest in you, not your KGS account.

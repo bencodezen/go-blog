@@ -31,8 +31,11 @@ In regards to the blog, here are some things that that you can look forward to:
 4.  Guides for all players of all different budget sizes!
 Finally, I think it is only appropriate that I end the year with a game that I had the pleasure of playing over the weekend. It was a hard fought game where I experimented with a number of ideas. It's a game that I am proud to include in my final kifu for 2012\. As the title of this post suggest, this is a game where we both fought it out till the very last point.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.31-Till-the-Very-End.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/12/2012.12.31-Till-the-Very-End.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.12.31-Till-the-Very-End.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.12.31-Till-the-Very-End.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.12.31-Till-the-Very-End.sgf">Download SGF</a></li></ul></div>
+</article>
 
 Happy New Years to everyone and see you in 2013!

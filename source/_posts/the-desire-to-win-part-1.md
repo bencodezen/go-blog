@@ -22,9 +22,12 @@ Who could possibly forget how tortured Hikaru felt afterwards? After all, is the
 
 The game record for today is precisely that kind of win.
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.27-The-Desire-to-Win.sgf" class="aligncenter"][/sgf]
-
-[download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2012/09/2012.09.27-The-Desire-to-Win.sgf[/download]
+<article>
+	<section data-wgo="/kifu/2012/2012.09.27-The-Desire-to-Win.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2012/2012.09.27-The-Desire-to-Win.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2012/2012.09.27-The-Desire-to-Win.sgf">Download SGF</a></li></ul></div>
+</article>
 
 For those who don't have time to see the game record and the commentary, it essentially consists of me trying to win a capture race where I'm about six moves behind. And it wasn't a complicated race, my group was two moves away from death. Ultimately, my opponent's overconfidence caused him to actually lose his entire group.
 

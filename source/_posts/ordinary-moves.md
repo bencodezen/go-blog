@@ -15,4 +15,9 @@ Here is a game that I played today as I defended my recent promotion to 12 kyu a
 
 <!--more-->
 
-[sgf sgfUrl="http://www.bengozen.com/wp-content/uploads/2010/10/2010.10.29-Ordinary-Moves.sgf" class="aligncenter"][/sgf]
+<article>
+	<section data-wgo="/kifu/2010/2010.10.29-Ordinary-Moves.sgf" data-wgo-enablewheel="false" style="width: 100%">
+	  <p>Sorry, your browser doesn't support WGo.js. Download SGF <a href="/kifu/2010/2010.10.29-Ordinary-Moves.sgf">directly</a>.</p>
+	</section>
+	<div><ul><li><a href="/kifu/2010/2010.10.29-Ordinary-Moves.sgf">Download SGF</a></li></ul></div>
+</article>
