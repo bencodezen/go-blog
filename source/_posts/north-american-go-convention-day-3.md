@@ -8,7 +8,7 @@ categories:
 tags:
 	- james
 	- myung-wan-kim
-	- pro-simuls
+	- pro-simul
 	- tournaments
 	- kifu
 ---

@@ -7,7 +7,7 @@ categories:
 	- Books
 tags:
 	- Kiseido
-	- positional-judgement
+	- positional-judgment
 	- strategy
 ---
 

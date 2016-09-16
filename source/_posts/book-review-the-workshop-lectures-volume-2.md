@@ -7,7 +7,7 @@ categories:
 	- Books
 tags:
 	- Slate-and-Shell
-	- moyo
+	- moyos
 	- strategy
 	- techniques
 ---

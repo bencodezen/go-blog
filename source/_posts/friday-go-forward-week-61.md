@@ -8,7 +8,7 @@ categories:
 	- Friday Go Forward
 tags:
 	- myung-wan-kim
-	- yunguseng-djang
+	- yunguseng-dojang
 ---
 
 ## Overview

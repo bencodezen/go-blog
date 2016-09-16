@@ -7,7 +7,7 @@ categories:
 	- Events
 tags:
 	- kifu
-	- handicap-gp
+	- handicap-go
 	- workshop
 	- nate
 	- yuan-zhou

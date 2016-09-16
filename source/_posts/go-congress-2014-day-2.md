@@ -7,7 +7,7 @@ categories:
 	- Events
 tags:
 	- go-congress
-	- jungsang
+	- jungsang-park
 	- pro-simul
 	- yuu-ho
 	- kifu

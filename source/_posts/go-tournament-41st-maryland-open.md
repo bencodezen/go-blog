@@ -7,7 +7,6 @@ categories:
 	- Events
 tags:
 	- tournaments
-	- go-tournament
 	- maryland-open
 ---
 

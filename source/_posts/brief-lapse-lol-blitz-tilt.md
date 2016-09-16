@@ -6,7 +6,7 @@ categories:
 	- Journal
 tags:
 	- blitz-go
-	- tilt
+	- on-tilt
 ---
 
 I've been sick the last week or so. And against my better judgment, I thought it would be a great idea to try playing League of Legends (LoL) again. Haha. Fortunately after only a game or two, I was very quickly reminded of how much trash talking and just unnecessary cursing and name calling goes in those games. You get like 1 game of good sportsmanship for every like 10.

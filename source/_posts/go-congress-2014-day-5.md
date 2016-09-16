@@ -9,7 +9,7 @@ tags:
 	- dahye
 	- go-congress
 	- jennie-shen
-	- jungsang
+	- jungsang-park
 	- myung-wan-kim
 	- shirley-lin
 ---

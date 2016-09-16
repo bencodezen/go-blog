@@ -8,7 +8,7 @@ categories:
 tags:
 	- goban
 	- go-game-set
-	- yunzi
+	- yunzi-stones
 	- portable-equipment
 ---
 

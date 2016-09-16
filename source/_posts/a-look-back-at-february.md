@@ -7,7 +7,7 @@ categories:
 	- Progress Reports
 tags:
 	- asr
-	- study group kyu tournament
+	- study-group-kyu
 ---
 
 For those who are wondering how my studies of Korean go have gone, while I did not finish all the material that I originally set out to do, I have learned that Korean go is centered on fighting. I know that many people will say that they already knew this, but I will tell you that experiencing it firsthand is an entirely separate matter. It wasn't until I was being pummeled by 5 dans on Tygem and studying the material they use that I began to really see the impressive feats Korean style go can accomplish. It will definitely become a useful weapon in my arsenal against the calmer players I have seen on KGS.

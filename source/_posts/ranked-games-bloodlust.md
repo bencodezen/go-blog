@@ -5,7 +5,7 @@ id: 1711
 categories:
 	- Journal
 tags:
-	- play-style
+	- play-styles
 ---
 
 I have no idea what's going on. It's like whenever I play a ranked game, my personality changes and I become hell-bent on destroying groups. Any notion of growth or progress that I've made seems to be thrown out the window. How frustrating!

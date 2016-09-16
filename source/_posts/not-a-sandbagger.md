@@ -5,7 +5,7 @@ id: 1637
 categories:
 	- Journal
 tags:
-	- tilt
+	- on-tilt
 ---
 
 Originally, as you all well know, I had intended on just continuing abstaining from ranked games, but it seems that the time has come for me to return to ranked games. What spurred this sudden change of ideas?

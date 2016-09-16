@@ -6,7 +6,7 @@ categories:
 	- Articles
 	- Weekly Go Wednesday
 tags:
-	- improvement
+	- improving
 ---
 
 ## Weekly Go Wednesday, Issue #19

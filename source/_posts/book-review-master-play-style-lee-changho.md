@@ -8,7 +8,7 @@ categories:
 tags:
 	- Slate-and-Shell
 	- Lee-Changho
-	- play-style
+	- play-styles
 ---
 
 [![Master Play Lee Changho Cover](http://www.bengozen.com/wp-content/uploads/2013/10/Master-Play-Lee-Changho-Cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/Master-Play-Lee-Changho-Cover.jpg)

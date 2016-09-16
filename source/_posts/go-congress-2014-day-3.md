@@ -10,7 +10,7 @@ tags:
 	- deguchi-mariko
 	- ding-bo
 	- go-congress
-	- jungsang
+	- jungsang-park
 	- moboy78
 	- myung-wan-kim
 	- nate

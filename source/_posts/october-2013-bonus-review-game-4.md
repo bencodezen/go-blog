@@ -5,7 +5,7 @@ id: 4187
 categories:
 	- Commentaries
 tags:
- 	- canada-go-league
+ 	- canadian-go-league
 	- kifu
 ---
 

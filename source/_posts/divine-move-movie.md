@@ -6,7 +6,7 @@ categories:
 	- Journal
 tags:
 	- goBum
-	- movie
+	- movies
 ---
 
 In case you're not involved in the [Go Twitter Community](https://twitter.com/bengozen/lists/go-weiqi-baduk "Go Twitter Online Community"), a new movie involving go has been released!!!! There is go and it has kung fu!!! Ahhh!!!!!!

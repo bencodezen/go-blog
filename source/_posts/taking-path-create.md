@@ -8,7 +8,7 @@ tags:
 	- fuseki
 	- innovation
 	- opening
-	- play-style
+	- play-styles
 ---
 
 Earlier today, I was reading _Otake's Secrets of Strategy_ by Hideo Otake 9P when I stumbled upon an interesting quote:

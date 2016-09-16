@@ -6,7 +6,7 @@ categories:
 	- Articles
 	- Weekly Go Wednesday
 tags:
-	- tilt
+	- on-tilt
 ---
 
 ## Weekly Go Wednesday #20

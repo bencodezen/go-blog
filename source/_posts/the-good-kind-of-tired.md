@@ -5,7 +5,7 @@ id: 2432
 categories:
 	- Journal
 tags:
-	- japanese embassy
+	- japanese-embassy
 	- narumi-osawa
 	- pros
 ---

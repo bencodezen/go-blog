@@ -7,7 +7,7 @@ categories:
 	- Events
 tags:
 	- dalan
-	- evan
+	- evan-cho
 	- go-congress
 	- mark
 	- moboy78

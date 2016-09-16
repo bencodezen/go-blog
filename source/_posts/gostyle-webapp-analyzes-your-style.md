@@ -7,7 +7,7 @@ categories:
 	- Software
 tags:
 	- tools
-	- play-style
+	- play-styles
 ---
 
 Every other blue moon, we have the opportunity to stumble onto something pretty awesome. Fellow go player Bonscott shared an incredible resource that I think you would all find just as fascinating as I did the first time I tried it:

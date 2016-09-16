@@ -8,7 +8,7 @@ categories:
 tags:
 	- dahye
 	- go-congress
-	- jungsang
+	- jungsang-park
 	- moboy78
 	- myung-wan-kim
 	- nate

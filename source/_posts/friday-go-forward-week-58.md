@@ -8,7 +8,7 @@ categories:
 	- Friday Go Forward
 tags:
 	- lynx
-	- yunguseng dojang
+	- yunguseng-dojang
 ---
 
 ## Overview

@@ -8,7 +8,7 @@ categories:
 	- Friday Go Forward
 tags:
 	- baduktv
-	- go-server
+	- go-servers
 ---
 
 ## Friday Go Forward: Week 36
