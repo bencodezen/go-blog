@@ -1,6 +1,10 @@
 # Header
 menu:
   Home: /
+  Reviews: /reviews
+  Articles: /categories/Articles/
+  Resources: /resources
+  About: /about
   Archives: /archives
 rss: /atom.xml
 
