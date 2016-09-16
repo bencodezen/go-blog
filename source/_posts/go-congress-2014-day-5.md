@@ -6,7 +6,7 @@ categories:
 	- Journal
 	- Events
 tags:
-	- dahye
+	- dahye-lee
 	- go-congress
 	- jennie-shen
 	- jungsang-park
