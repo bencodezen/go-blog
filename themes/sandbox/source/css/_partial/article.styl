@@ -9,24 +9,31 @@
   clearfix()
 
 .article-date
-  @extend $block-caption
-  float: left
+  text-decoration: none
+  text-transform: uppercase
+  letter-spacing: 2px
+  color: color-grey
+  line-height: 1em
+  text-shadow: 0 1px #fff
+  font-weight: bold
+  color: $cBlue
+  display inline-block
 
 .article-category
-  float: left
-  line-height: 1em
-  color: #ccc
-  text-shadow: 0 1px #fff
-  margin-left: 8px
-  &:before
-    content: "\2022"
+  padding-top: 1.25rem
+  padding-left: 1.25rem
+  font-size: 0.8rem
 
 .article-category-link
   @extend $block-caption
   margin: 0 12px 1em
+  color: $cBlue
+  &:first-child {
+    margin-left: 0
+  }
 
 .article-header
-  padding: article-padding article-padding 0
+  padding: article-padding 1em 0 1.25em
 
 .article-title
   text-decoration: none
@@ -127,12 +134,13 @@
 .article-more-link a
   display: inline-block
   line-height: 1em
-  padding: 6px 15px
-  border-radius: 15px
-  background: color-background
-  color: color-grey
+  padding: 10px 20px
+  border-radius: 8px
+  color: $cGreen
+  border: 1px solid $cGreen
   text-shadow: 0 1px #fff
   text-decoration: none
+  font-size: 0.9rem
   &:hover
     background: color-link
     color: #fff
@@ -144,17 +152,23 @@
   font-size: 0.85em
   line-height: line-height
   border-top: 1px solid color-border
-  padding-top: line-height
+  padding-top: 1.25rem
   margin: 0 article-padding article-padding
   a
-    color: color-grey
+    color: $cBlue
     text-decoration: none
     &:hover
       color: color-default
 
+.article-tag-list {
+  display: inline-block
+}
+
 .article-tag-list-item
-  float: left
+  display: inline
   margin-right: 10px
+  &:first-child
+    margin-left: 0.2rem
 
 .article-tag-list-link
   &:before
