@@ -5,6 +5,10 @@
 
 global-reset()
 
+html {
+  box-sizing: border-box;
+}
+
 input, button
   margin: 0
   padding: 0
@@ -26,7 +30,6 @@ html, body, #container
   height: 100%
 
 body
-  background: color-background
   font: font-size font-sans
   -webkit-text-size-adjust: 100%
 
@@ -62,7 +65,7 @@ body
   left: 0
   transition: 0.2s ease-out
   z-index: 1
-  background: color-background
+  background: $cWhite
   .mobile-nav-on &
     left: mobile-nav-width
 
@@ -70,6 +73,8 @@ if sidebar and sidebar isnt bottom
   #main
     @media mq-normal
       column(main-column)
+      margin-left: 0
+
 
 if sidebar is left
   @media mq-normal
