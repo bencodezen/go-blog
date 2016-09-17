@@ -6,7 +6,7 @@ menu:
   Resources: /resources
   About: /about
   Archives: /archives
-rss: /atom.xml
+rss:
 
 # Content
 excerpt_link: Read More
