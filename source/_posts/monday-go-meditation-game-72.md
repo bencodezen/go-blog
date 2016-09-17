@@ -2,7 +2,7 @@
 title: 'Monday Go Meditation: Game 72'
 date: 2016-04-04 08:00:54
 layout: monday-go-meditation
-sgf: 2016-03-29-MGM-72.sgf
+sgf: 2016.03.29-MGM-72.sgf
 gokibitz: V1CIkAm0e
 id: 6001
 summary: >
