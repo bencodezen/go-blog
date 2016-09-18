@@ -20,8 +20,9 @@
   display inline-block
 
 .article-category
+  max-width: 650px
+  margin: 0 auto
   padding-top: 1.25rem
-  padding-left: 1.25rem
   font-size: 0.8rem
 
 .article-category-link
@@ -33,7 +34,9 @@
   }
 
 .article-header
-  padding: article-padding 1em 0 1.25em
+  max-width: 650px
+  padding: article-padding 1em 0 0
+  margin: 0 auto
 
 .article-title
   text-decoration: none
@@ -51,16 +54,19 @@
   color: color-default
   padding: 0 article-padding
   p {
+    max-width: 650px
     font-family: font-serif
+    line-height: 1.5
+    margin: line-height auto
   }
-  p, table
+  table
     line-height: line-height
     margin: line-height 0
   h1, h2, h3, h4, h5, h6
+    max-width: 650px
     font-weight: bold
-  h1, h2, h3, h4, h5, h6
     line-height: line-height-title
-    margin: line-height-title 0
+    margin: line-height-title auto
   a
     color: color-link
     text-decoration: none
