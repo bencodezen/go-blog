@@ -49,6 +49,6 @@ Not only will it be easier for me to manage my blog and provide incremental impr
 
 And last but certainly not least, the nagging voice in my head is gone. It's been replaced by a clear and calm serenity that yearns once again for the click and clack of stones while beautiful patterns emerge on the board.
 
-While there are still some kinks to be worked out on the blog, I have put myself in a solid position that will allow me to work through each and every one. It's been a lot of work to get to this point and I am proud of the foundation I've built.
+While there are still [some kinks to be worked out on the blog](https://gitlab.com/bencodezen/go-blog-feedback), I have put myself in a solid position that will allow me to work through each and every one. It's been a lot of work to get to this point and I am proud of the foundation I've built.
 
 So without further adieu, welcome to the official launch of BenGoZen v3.0.0. All systems are go!
