@@ -15,7 +15,7 @@ tags:
 
 **Part I** - [Interlude](http://www.bengozen.com/wgw-38-i-want-play-go-like-that/ "WGW 38: I Want to Play Go Like That…") - [Part II](http://www.bengozen.com/1st-washington-open-baduk-championship-part-ii/ "1st Washington Open Baduk Championship — Part II")
 
-[![2014-WOpen-01](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-01.jpg)
+![](/images/2014/04/2014-WOpen-01.jpg)
 
 Hey everyone! Welcome to Part I of my awesome experience at the 1st Washington Open Baduk Championship this past weekend! Though many of you already know the results of the tournament, I'll start by asking you all to refrain from commenting on the actual result till Part II since some don't know yet.
 
@@ -33,27 +33,27 @@ Around the time dinner was wrapping up, I noticed that some of the guests were s
 
 Me? Interested in visiting a local Korean baduk club? Absolutely!
 
-[caption id="attachment_5156" align="aligncenter" width="448"][![2014-WOpen-02](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-02.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-02.jpg) Here's a shot of the inside of the club. I refrained from taking any direct pictures of people playing since I didn't want anyone feeling uncomfortable from me doing so.[/caption]
+![Here's a shot of the inside of the club. I refrained from taking any direct pictures of people playing since I didn't want anyone feeling uncomfortable from me doing so.](/images/2014/04/2014-WOpen-02.jpg)
 
 When we walked into the club, it was amazing for me to see so many gorgeous boards and bowls sitting in one room. And to top it off, there were people playing! So cool! Granted, they all spoke Korean with one another so I was rather lost when it came to what they were talking about. However, it was nice to just bask in the atmosphere and while hearing the pleasant sound of the stones clicking on the board.
 
 After some time, we said our goodbyes and I took them back to their hotel so that they could rest since we had to be up early the next day.
 
-[caption id="attachment_5157" align="aligncenter" width="358"][![2014-WOpen-03](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-03.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-03.jpg) This was the banner you were greeted with when you walked out of the elevator.[/caption]
+![This was the banner you were greeted with when you walked out of the elevator.](/images/2014/04/2014-WOpen-03.jpg)
 
 Before I knew it, the momentous day had arrived. It was officially the first day of the 1st Washing Open Baduk Championship!
 
-[caption id="attachment_5158" align="aligncenter" width="512"][![2014-WOpen-04](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-04.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-04.jpg) Look at all the people registering! And I got there pretty early too![/caption]
+![Look at all the people registering! And I got there pretty early too!](/images/2014/04/2014-WOpen-04.jpg)
 
 When I arrived in the lobby for registration, I was pleasantly surprised to see so many people waiting in line! "Hoorah!" I thought, "Hopefully this will help convince the sponsors* to continue doing this again next year!"
 
 _*In case you didn't know, this tournament was being hosted and sponsored by a number of Korean companies (you can see their logos above in the first banner) and featured a number of awesome perks like free entry fee, free lunch on both days, and even cash prizes)._
 
-[caption id="attachment_5159" align="aligncenter" width="512"][![2014-WOpen-05](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-05.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-05.jpg) The sight of a room full of gobans and stones with people playing / discussing variations is always a great joy.[/caption]
+![The sight of a room full of gobans and stones with people playing / discussing variations is always a great joy.](/images/2014/04/2014-WOpen-05.jpg)
 
 When I arrived in the playing room, I was also glad to already see a number of people already sitting and getting acclimated to the area. And as you can see, we were adequately prepared for a large number of players!
 
-[caption id="attachment_5160" align="aligncenter" width="410"][![2014-WOpen-06](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-06.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-06.jpg) Here's the schedule for both days. And if you're wondering what's in the upper right, they had Wi-Fi for everyone as well (which was awesome if I may say so myself).[/caption]
+![Here's the schedule for both days. And if you're wondering what's in the upper right, they had Wi-Fi for everyone as well (which was awesome if I may say so myself).](/images/2014/04/2014-WOpen-06.jpg)
 
 After a bit of waiting and catching up with various friends, the pairings were finally up. It was the fateful moment that you either dread or wait with anticipation when any tournament rolls around: the first round! The game that will set the stage for the rest of the tournament!
 
@@ -72,15 +72,15 @@ Though the game ended up being dramatic, I will have to say that I tried to play
 
 _*On a side note, I just wanted to rant about how chess clocks are AWFUL for Canadian byoyomi because you end up spending more time trying to figure out whether the flag is about to tip instead of focusing on your move. So you end up playing super fast moves for fear of losing on time. Stressful I tell you!_
 
-[caption id="attachment_5161" align="aligncenter" width="512"][![2014-WOpen-07](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-07.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-07.jpg) I got the salmon bento box for lunch! There was a variety of things: rice, korean noodle with some vegetables, potato salad, kimchi, bean sprouts, tempura shrimp, and a couple of other things. Very filling![/caption]
+![I got the salmon bento box for lunch! There was a variety of things: rice, korean noodle with some vegetables, potato salad, kimchi, bean sprouts, tempura shrimp, and a couple of other things. Very filling!](/images/2014/04/2014-WOpen-07.jpg)
 
 Once everyone had eaten lunch, we had our opening ceremony (which seems a little backwards since the event already started, but it was necessary because the VIP guests could not arrive earlier).
 
-[caption id="attachment_5162" align="aligncenter" width="512"][![2014-WOpen-08](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-08.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-08.jpg) You can see them giving speeches up front and everyone being respectful and listening.[/caption]
+![You can see them giving speeches up front and everyone being respectful and listening.](/images/2014/04/2014-WOpen-08.jpg)
 
-After the ceremony was done, it was time for Round 2\. My opponent this time was a Chinese woman in her forties to fifties and a 2 kyu. Since I won the first round though, there would be no handicap and White would still get 7.5 points.*
+After the ceremony was done, it was time for Round 2. My opponent this time was a Chinese woman in her forties to fifties and a 2 kyu. Since I won the first round though, there would be no handicap and White would still get 7.5 points.*
 
-_*In AGA tournaments, it seems that they calculate handicaps not based on rank but on your performance in the tournament as it progresses. _
+_*In AGA tournaments, it seems that they calculate handicaps not based on rank but on your performance in the tournament as it progresses._
 
 Before the game started, I decided I would continue to try and play a calm game. The kifu below is the result. (The commentary version will be Monday Go Meditation: Game 61)
 
@@ -112,14 +112,16 @@ Resigning within 100 moves... My record was now 1-2... Needless to say, I was up
 
 After the game, I took Myung back to the hotel so he could get some rest before the lecture that night. We talked some in the car and I was given a lot to think about. I then went off to eat dinner by myself before it was time to pick him up again.
 
-[caption id="attachment_5163" align="aligncenter" width="512"][![2014-WOpen-09](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-09.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-09.jpg) Unfortunately I only got one shot of Myung during his lecture, but I guess it's better than nothing. (Would have preferred to have gotten one when there were stones on the board, but I was too focused on the lecture to remember to take another one.)[/caption]
+![Unfortunately I only got one shot of Myung during his lecture, but I guess it's better than nothing. (Would have preferred to have gotten one when there were stones on the board, but I was too focused on the lecture to remember to take another one.)](/images/2014/04/2014-WOpen-09.jpg)
 
 After picking him up, we went back to the convention and Myung lectured on a joseki that had recently been created by young Korean professionals. A lot of it went over my head, but it was very cool to see how go is constantly evolving and changing.
 
 Once the lecture was finished, the crowd dispersed into different groups. A blitz tournament was about to start. And though I had originally planned on participating, I was not feeling up to it and decided not to. After all, today had been a rather disturbing revelation of the limitations of my go. I played one decent game and then proceeded to crash and burn...
 
 Earlier during the lecture, I had seen Park Sohyun (3p) come in and then leave the room with one of the VIP with a board and stones. While some people went up to ask Myung some questions, I decided to go check and see what she was up to. As I prepared to walk around, the following quotation from [First Kyu](http://www.amazon.com/First-Kyu-Sung-Hwa-Hong/dp/0964479699) popped in my head:
+
 > "First kyu, a player of the first rank? Really? Have you ever competed in a professional qualifying tournament? No? Then you are not, I repeat NOT first kyu!
->
-> I know I know. Nowadays all kinds of bad players call themselves first kyu."
+
+I know I know. Nowadays all kinds of bad players call themselves first kyu."
+
 "Maybe I'm just a fake 3 kyu," I thought as I walked to find her, "Perhaps I was too naive and arrogant in thinking I could compete, let alone win, as a 3 kyu..."

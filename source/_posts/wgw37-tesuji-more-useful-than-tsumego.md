@@ -18,7 +18,7 @@ Last [Friday](http://www.bengozen.com/friday-go-forward-week-58/ "Friday Go Forw
 
 After a lot of thought,  I would have to concur  with Lynx's perspective. In fact, it is one of the key components to breaking the glass ceiling when trying to gain that next stone. However, because the masses constantly spout how important life and death is, it is often forgotten in all the noise.
 
-<span style="line-height: 1.5em;">Now now, before you grab your pitchforks and torches, hear me out won't you?</span>
+Now now, before you grab your pitchforks and torches, hear me out won't you?
 
 <!--more-->
 
@@ -34,7 +34,13 @@ In addition, no matter how peaceful a player you are, you are eventually going t
 
 Who remembers this scene?
 
-[caption id="attachment_5114" align="aligncenter" width="422"][![wgw37tesuji01](http://www.bengozen.com/wp-content/uploads/2014/04/wgw37tesuji01.png)](http://www.bengozen.com/wp-content/uploads/2014/04/wgw37tesuji01.png) Ring any bells? [Credit: Hikaru No Go Anime][/caption][caption id="attachment_5115" align="aligncenter" width="384"][![wgw37tesuji02](http://www.bengozen.com/wp-content/uploads/2014/04/wgw37tesuji02.png)](http://www.bengozen.com/wp-content/uploads/2014/04/wgw37tesuji02.png) How about this one? [Credit: Hikaru no Go Anime][/caption][caption id="attachment_5116" align="aligncenter" width="384"][![wgw37tesuji03](http://www.bengozen.com/wp-content/uploads/2014/04/wgw37tesuji03.png)](http://www.bengozen.com/wp-content/uploads/2014/04/wgw37tesuji03.png) Still no? [Credit: Hikaru no Go Anime][/caption]Many of you probably figured it out after the second screenshot, but the answer for those who couldn't remember is: Episode 56, "After a Millennium Comes an Answer."
+![Ring any bells? Credit: Hikaru No Go Anime](/images/2014/04/wgw37tesuji01.png)
+
+![How about this one? Credit: Hikaru no Go Anime](/images/2014/04/wgw37tesuji02.png)
+
+![Still no? Credit: Hikaru no Go Anime](/images/2014/04/wgw37tesuji03.png)
+
+Many of you probably figured it out after the second screenshot, but the answer for those who couldn't remember is: Episode 56, "After a Millennium Comes an Answer."
 
 Anyhow, was this a move that dealt with life and death? Did Sai's incredible move kill the Meijin's group? No. It was a brilliant tesuji that made all spectators watch in amazement. And in fact, if you think about it, most of the moves that are met with astonishment and awe in the show are usually tesuji. They are all about how brilliant that connection was, or how this peep is an excellent forcing move that allows XYZ tesuji to work.
 

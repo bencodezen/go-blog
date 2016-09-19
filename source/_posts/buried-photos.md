@@ -12,7 +12,7 @@ I know that it's been over a week since I came back from Hong Kong, so first off
 
 When I got back, I thought that I would be able to just grab my photos and quickly organize them in an hour or so. And then after I did that, I would be able to start working on my posts. After all, it's only about a week's worth of pictures right?
 
-[![47766415](http://www.bengozen.com/wp-content/uploads/2014/03/47766415.jpg)](http://www.bengozen.com/wp-content/uploads/2014/03/47766415.jpg)
+![](/images/2014/03/47766415.jpg)
 
 Yeah... Let's just say I completely forgot and therefore underestimated the amount of effort it takes to properly organize your photos (and that doesn't even count editing, cropping, resizing, etc.). There were the duplicates, the variations on a shot that I had to choose through, and then renaming them properly so I can easily track what is what...
 

@@ -13,7 +13,7 @@ tags:
 
 ## Weekly Go Wednesday: Issue #36
 
-[caption id="attachment_4869" align="aligncenter" width="551"][![Credit to GoGameGuru](http://www.bengozen.com/wp-content/uploads/2014/04/jubangogame3.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/jubangogame3.jpg) Credit to [GoGameGuru](http://gogameguru.com/gu-li-strikes-back-gu-li-vs-lee-sedol-jubango-game-3/ "GoGameGuru Jubango 3 Article")[/caption]
+![Credit to GoGameGuru](/images/2014/04/jubangogame3.jpg)
 
 For Game 3 of the epic [jubango](http://www.bengozen.com/gu-li-lee-sedol-jubango/ "Gu Li and Lee Sedol Jubango") between Lee Sedol (9P) and Gu Li (9P), we have arrived at a crucial point. Lee Sedol is already 2-0 ([Game 1](http://www.bengozen.com/wgw-31-gu-li-vs-lee-sedol-jubango-game-1-amateur-review/ "WGW 31: Gu Li vs Lee Sedol — Jubango Game 1 Amateur Review") and [Game 2](http://www.bengozen.com/wgw-33-gu-li-vs-lee-sedol-jubango-game-2-amateur-review/ "WGW 33: Gu Li vs Lee Sedol — Jubango Game 2 Amateur Review")) and there is concern that the jubango will end earlier than desired. After all, everyone wants to see all 10 games. However, the rules of the jubango is that the first to six victories win. As a result, for this game, even Lee Sedol fans were rooting for Gu Li to turn the tide so that we could see more games.
 

@@ -32,11 +32,11 @@ Okay. That made sense, but I concluded that it could not be the only reason. Aft
 
 Ah. Could a part of it be arrogance from the fact that the last full tournament I played in ([NOVA Pumpkin Classic](http://www.bengozen.com/nova-pumpkin-class-2012-intro/ "NOVA Pumpkin Classic Tournament 2012 — Introduction")) resulted in me have a perfect record and getting 1st place? And in hindsight, I had not really prepared for that tournament, so perhaps I subconsciously thought that this tournament might be similar. Maybe I could just wing it and do well like last time. Not necessarily win, but at least do well. You know?
 
-<span style="line-height: 1.5em;">Well, that was about how far I got with my introspection when I arrived in a nearby conference room to see Park Sohyun (3p) playing a teaching game with one of the VIPs.*</span>
+Well, that was about how far I got with my introspection when I arrived in a nearby conference room to see Park Sohyun (3p) playing a teaching game with one of the VIPs.*
 
 _*To give some background on this story though, the VIP she was playing a teaching game with was actually an insei when he was younger. So while he was older now and out of practice, there was no doubt in my mind that he was pretty strong (i.e., he only took 2 stones for the game)._
 
-[caption id="attachment_5164" align="aligncenter" width="420"][![2014-WOpen-10](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-10.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-10.jpg) I didn't want to take a picture of her from the front at this time because I didn't get a chance to ask if it would be okay and she was in a middle of the game.[/caption]
+![I didn't want to take a picture of her from the front at this time because I didn't get a chance to ask if it would be okay and she was in a middle of the game.](/images/2014/04/2014-WOpen-10.jpg)
 
 They would play for like 30-40 moves, and then he would have a question for her and they would rewind the game back like 20 moves or clear off an area of the board to talk about a particular sequence or concept. And then the game would resume another 30-40 moves before the same thing happened again.
 
@@ -44,8 +44,8 @@ I could not understand anything they were talking about since they spoke in Kore
 
 The weird thing is that it's not as if I had never met a professional or seen a professional play against an amateur before. Yet for some reason, her moves captivated me in a way I had never quite felt before. As I watched in awe, each and every move came flowing down with a grace and beauty that I can only describe as surreal.
 
-[caption id="attachment_5192" align="aligncenter" width="560"][![wgw38-01](http://www.bengozen.com/wp-content/uploads/2014/04/wgw38-01.png)](http://www.bengozen.com/wp-content/uploads/2014/04/wgw38-01.png) Hikaru No Go Anime, Kuwabara Hon'inbo (Epsiode 29)[/caption]
+![Hikaru No Go Anime, Kuwabara Hon'inbo (Epsiode 29)](/images/2014/04/wgw38-01.png)
 
-[caption id="attachment_5193" align="aligncenter" width="576"][![wgw38-02](http://www.bengozen.com/wp-content/uploads/2014/04/wgw38-02.png)](http://www.bengozen.com/wp-content/uploads/2014/04/wgw38-02.png) Hikaru No Go Anime, Kuwabara Hon'inbo (Epsiode 29)[/caption]
+![Hikaru No Go Anime, Kuwabara Hon'inbo (Epsiode 29)](/images/2014/04/wgw38-02.png)
 
 "This..." I thought, "The way she plays... I want to play go like that..."
