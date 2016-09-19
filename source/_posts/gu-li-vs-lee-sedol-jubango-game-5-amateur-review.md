@@ -14,7 +14,7 @@ tags:
 
 ## Weekly Go Wednesday: Issue #43
 
-[caption id="attachment_5400" align="aligncenter" width="428"][![Credit to GoGameGuru](http://www.bengozen.com/wp-content/uploads/2014/06/Gu-Li-Lee-Sedol-MLily-Gu-Lee-Jubango-Game-5-1-550x365.jpg)](http://www.bengozen.com/wp-content/uploads/2014/06/Gu-Li-Lee-Sedol-MLily-Gu-Lee-Jubango-Game-5-1-550x365.jpg) Credit to [GoGameGuru](http://gogameguru.com/lee-sedol-top-world-gu-li-vs-lee-sedol-jubango-game-5/)[/caption]
+![Credit to GoGameGuru](/images/2014/06/Gu-Li-Lee-Sedol-MLily-Gu-Lee-Jubango-Game-5-1.jpg)
 
 For Game 5 of this epic [jubango](http://www.bengozen.com/gu-li-lee-sedol-jubango/ "Gu Li and Lee Sedol Jubango") between Lee Sedol (9P) and Gu Li (9P), we are at an exciting point in this match as the record stands at 2-2! So for this fifth game, this will serve as the tiebreaker for who takes the lead into the second half of the jubango!
 

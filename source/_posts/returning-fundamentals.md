@@ -12,7 +12,7 @@ tags:
 
 ## Weekly Go Wednesday, Issue #44
 
-[caption id="attachment_5444" align="aligncenter" width="488"][![Credit to TheChangeBlog](http://www.bengozen.com/wp-content/uploads/2014/06/wgw44.jpg)](http://www.bengozen.com/wp-content/uploads/2014/06/wgw44.jpg) Credit to [TheChangeBlog](http://www.thechangeblog.com/success-in-life/ "Source for featured image")[/caption]
+![Credit to TheChangeBlog](/images/2014/06/wgw44.jpg)
 
 Up until a month or so ago, my go had become quite rigid. In fact, it could be compared to an ice sculpture where the curves and angles have all been predefined. And though it is admirable in one aspect, it also represents a sense of rigidity and does not have much room for growth. And since my goal was to build something way better, it was only natural that it was time to set it on fire and let it melt away. And now that I am left with this pool of water, while the prospect of building a grand ice sculpture sounds great, it's been rather difficult figuring out where to begin.
 

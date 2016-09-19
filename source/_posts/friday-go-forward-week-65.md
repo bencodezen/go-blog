@@ -9,7 +9,7 @@ categories:
 tags:
 ---
 
-[caption id="attachment_5439" align="aligncenter" width="550"][![Credit to Google Doodle](http://www.bengozen.com/wp-content/uploads/2014/06/honinbo-shusaku-550x212.jpg)](http://www.bengozen.com/wp-content/uploads/2014/06/honinbo-shusaku-550x212.jpg) Credit to [Google Doodle](http://www.google.com/doodles/honinbo-shusakus-185th-birthday "Honinbo Shusaku Google Doodle")[/caption]
+![Honinbo Shusaku Google Doodle: Credit to Google Doodle](/images/2014/06/honinbo-shusaku.jpg)
 
 ## Overview
 
