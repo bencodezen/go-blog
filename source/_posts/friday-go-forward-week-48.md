@@ -11,7 +11,7 @@ tags:
 
 ## Friday Go Forward: Week 48
 
-[![30294-Vector-Horse-2014-Chinse-logo](http://www.bengozen.com/wp-content/uploads/2014/01/30294-Vector-Horse-2014-Chinse-logo.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/30294-Vector-Horse-2014-Chinse-logo.jpg)
+![](/images/2014/01/30294-Vector-Horse-2014-Chinse-logo.jpg)
 
 ## Overview
 

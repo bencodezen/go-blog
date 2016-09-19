@@ -11,7 +11,7 @@ tags:
 	- portable-equipment
 ---
 
-[![leathergoban01](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban01.jpg)
+![](/images/2014/01/leathergoban01.jpg)
 
 ## Leather Goban
 
@@ -19,9 +19,8 @@ tags:
 
 <!--more-->
 
-[expand title="Product Details" trigclass="expandTitle"]
+### Product Details
 
-[table]
 Title, Handmade Leather Goban
 Product, Goban (Go Board)
 Material, Leather (from excess shoe and bag factories)
@@ -29,11 +28,7 @@ Product Dimensions,  19.6 in. x 18.3 in. x 1 mm (approximate width x height x t
 Weight, Negligible
 Vendor &amp; Manufacturer, [AmbyR00](https://twitter.com/AmbyR00)
 
-[/table]
-
-[/expand]
-
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What's the best aspect about this product?**
 
@@ -60,27 +55,25 @@ When [AmbyR00](https://twitter.com/AmbyR00) first told me about his board, I was
 
 A majority of the gobans that I have owned thus far have all been made of wood, so I was thrilled to get a chance to review a goban made of non-traditional material!
 
-[caption id="attachment_4441" align="aligncenter" width="360"][![leathergoban01](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban01.jpg) Here is it in all its glory! (The back is just a straight leather pattern with no markings, so I didn't take a picture of it.)[/caption]
+![Here is it in all its glory! (The back is just a straight leather pattern with no markings, so I didn't take a picture of it.)](/images/2014/01/leathergoban01.jpg)
 
 Though impacted by a slight tinge of yellow lighting, the board is a beautiful coffee brown color that contrasts really well with the black lines drawn for the goban.
 
-[caption id="attachment_4447" align="aligncenter" width="360"][![leathergoban06](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban06.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban06.jpg) Here's a close-up of AmbyR00's signature! So cool![/caption]
+![Here's a close-up of AmbyR00's signature! So cool!](/images/2014/01/leathergoban06.jpg)
 
 As it stands, I think that this makes a great table goban since it's super light-weight and is really a pleasure to use. Here are some pictures of the board in action!
 
-[![leathergoban02](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban02.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban02.jpg)
+![](/images/2014/01/leathergoban02.jpg)
 
-[![leathergoban03](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban03.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban03.jpg)
+![](/images/2014/01/leathergoban03.jpg)
 
-[![leathergoban04](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban04.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban04.jpg)
+![](/images/2014/01/leathergoban04.jpg)
 
-[![leathergoban05](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban05.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergoban05.jpg)
+![](/images/2014/01/leathergoban05.jpg)
 
 At the end of the day, if you're looking for a light-weight goban that looks gorgeous and is easy to store away, this leather goban definitely fits the bill! Let me know if you ever have any additional questions!
 
-[/expand]
-
-[expand title="How Was It Made?" trigclass="expandTitle" expanded="true"]
+### How Was It Made?
 
 _The original post can be found here: "[Leather is sexy, especially with polka dots](http://worldismygoban.blogspot.fi/2010/12/leather-is-sexy-especially-with-polka.html "AmbyR00")", but I've recreated the content here because my biggest fear is that the link might break one day if Blogger ever goes down._
 
@@ -88,17 +81,17 @@ _The original post can be found here: "[Leather is sexy, especially with polka d
 
 I used Inkscape to create [the print](http://ubuntuone.com/p/SUZ/) (hint: use Inkscape to view it!) on the leather board, you can download the design and freely use it with your own goban. I printed the board on six transparencies, that I taped together and used as a film to develop a template for the silk press. I was originally going for six goban, but ended up with ten of them.
 
-[caption id="attachment_4616" align="aligncenter" width="400"][![leathergobanpost01](http://www.bengozen.com/wp-content/uploads/2014/01/leathergobanpost01.jpeg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergobanpost01.jpeg) The leather before it was cut. This wasn't the only one.[/caption]
+![The leather before it was cut. This wasn't the only one.](/images/2014/01/leathergobanpost01.jpeg)
 
-[caption id="attachment_4617" align="aligncenter" width="480"][![leathergobanpost02](http://www.bengozen.com/wp-content/uploads/2014/01/leathergobanpost02.jpeg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergobanpost02.jpeg) This was the template used to create the prints on the boards.[/caption]
+![This was the template used to create the prints on the boards.](/images/2014/01/leathergobanpost02.jpeg)
 
 The finished boards look actually very nice. Leather is pretty good material for creating something like a portable goban. I'll need to take a picture of one in daylight so it captures the whole beauty of them. Here's one I took with my phone when they were out from print and drying up:
 
-[caption id="attachment_4618" align="aligncenter" width="472"][![leathergobanpost03](http://www.bengozen.com/wp-content/uploads/2014/01/leathergobanpost03.jpeg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergobanpost03.jpeg) The finished boards. The polka dots really cheer them up.[/caption]
+![The finished boards. The polka dots really cheer them up.](/images/2014/01/leathergobanpost03.jpeg)
 
 Actually, these are not the first boards I have made, I also did some smaller practice boards few months ago from plywood, [laser printed paper gobans](http://www.dammfine.com/projects/gobans/), glue and water.
 
-[![leathergobanpost04](http://www.bengozen.com/wp-content/uploads/2014/01/leathergobanpost04.jpeg)](http://www.bengozen.com/wp-content/uploads/2014/01/leathergobanpost04.jpeg)
+![](/images/2014/01/leathergobanpost04.jpeg)
 
 See you later! ^^ /gg"
 

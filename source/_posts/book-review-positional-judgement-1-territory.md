@@ -10,7 +10,7 @@ tags:
 	- positional-judgment
 ---
 
-[![PositionalJudgement_1_Cover_small](http://www.bengozen.com/wp-content/uploads/2014/01/PositionalJudgement_1_Cover_small.png)](http://www.bengozen.com/wp-content/uploads/2014/01/PositionalJudgement_1_Cover_small.png)
+![Positional Judgement 1 Cover](/images/2014/01/PositionalJudgement_1_Cover_small.png)
 
 ## Positional Judgement 1: Territory
 

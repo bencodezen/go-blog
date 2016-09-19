@@ -9,7 +9,7 @@ tags:
 	- bowls
 ---
 
-[![rosewood-go-bowls-16-t](http://www.bengozen.com/wp-content/uploads/2014/01/rosewood-go-bowls-16-t.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/rosewood-go-bowls-16-t.jpg)
+![](/images/2014/01/rosewood-go-bowls-16-t.jpg)
 
 ## Rosewood Go Bowls with Carved Orchids
 
@@ -58,23 +58,21 @@ A beautiful set of rosewood orchid-engraved bowls that would hold my size 36 gla
 
 As my first artistic go bowl set, I was really excited when it finally came in the mail.
 
-[caption id="attachment_4454" align="aligncenter" width="360"][![orchidbowls01](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls01.jpg) Here it is. Ahhh.. Can't wait to see what's inside![/caption]
+![Here it is. Ahhh.. Can't wait to see what's inside!](/images/2014/01/orchidbowls01.jpg)
 
-[caption id="attachment_4455" align="aligncenter" width="360"][![orchidbowls02](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls02.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls02.jpg) Isn't that beautiful? Man...[/caption]
+![Isn't that beautiful? Man...](/images/2014/01/orchidbowls02.jpg)
 
 When I opened the box, I was really pleased to see that it was packaged really well so that nothing would be damaged in transit. A+ for their packing job!
 
-[caption id="attachment_4456" align="aligncenter" width="360"][![orchidbowls03](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls03.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls03.jpg) Out of the package and into the real world![/caption]
+![Out of the package and into the real world!](/images/2014/01/orchidbowls03.jpg)
 
-[caption id="attachment_4457" align="aligncenter" width="360"][![orchidbowls04](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls04.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls04.jpg) When you open it up, you can see they have the standard packaging beads to prevent any weird odors.[/caption]
+![When you open it up, you can see they have the standard packaging beads to prevent any weird odors.](/images/2014/01/orchidbowls04.jpg)
 
-[caption id="attachment_4458" align="aligncenter" width="360"][![orchidbowls05](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls05.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls05.jpg) Here are the bottom of the bowls. Though the right one has a streak, it's just part of the wood coloring and not due to damaging. I think it adds character. =D[/caption]
+![Here are the bottom of the bowls. Though the right one has a streak, it's just part of the wood coloring and not due to damaging. I think it adds character. =D](/images/2014/01/orchidbowls05.jpg)
 
-[caption id="attachment_4459" align="aligncenter" width="360"][![orchidbowls06](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls06.jpg)](http://www.bengozen.com/wp-content/uploads/2014/01/orchidbowls06.jpg) And here are the bowls filled with my size 36 glass stones! Woot![/caption]
+![And here are the bowls filled with my size 36 glass stones! Woot!](/images/2014/01/orchidbowls06.jpg)
 
 At the end of the day, they do the job they were intended to do: hold go stones. =) They just do it with a bit of flair since they have the orchid engraving. Haha. But if you have any interest in owning bowls like this, I would highly recommend them!
-
-[/expand]
 
 [expand title="Where Can I Buy It?" trigclass="expandTitle" expanded="true"]
 
