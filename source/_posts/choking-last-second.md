@@ -9,7 +9,7 @@ tags:
 
 In my spare time recently, I started playing Infinity Blade 3 pretty obsessively. For those who have never played any of the games, it is essentially a hack and slash game where players are rewarded for their ability to determine how best to counter their opponent’s attacks. So for example, the computer might spin around and then try to slash at you vertically from the ground up. In order to ensure you don’t get hit, you can either dodge or parry the attack with the appropriate counter attack (which in this case would be a vertical strike down towards the ground).
 
-[caption id="attachment_5571" align="aligncenter" width="245"][![The_Collector](http://www.bengozen.com/wp-content/uploads/2014/08/The_Collector.jpg)](http://www.bengozen.com/wp-content/uploads/2014/08/The_Collector.jpg) The Collector from Infinity Blade 3[/caption]
+![The Collector from Infinity Blade 3](/images/2014/08/The_Collector.jpg)
 
 With that said, there’s one boss (aka The Collector) that has been consistently crushing me (and taking my weapons which is demoralizing) when I lose. The sad thing is that it’s not because he’s necessarily stronger or better than me. In fact, there were a number of times where I was just one combo away from a victory, but then I choke at the last second and die.
 

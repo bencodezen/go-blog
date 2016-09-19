@@ -11,7 +11,7 @@ Though I wish I was already moving on with progress on the numerous things I wan
 
 And though this might sound crazy to some, I've got a decent influx of books coming my way as I prepare for a second look at the infrastructure of the blog.
 
-[caption id="attachment_5576" align="aligncenter" width="340"]![bookshipment0826](http://www.bengozen.com/wp-content/uploads/2014/08/bookshipment0826-300x210.jpg) This is just the first set of books to arrive! Got two more coming![/caption]
+![This is just the first set of books to arrive! Got two more coming!](/images/2014/08/bookshipment0826.jpg)
 
 I've always had a vision for how I wanted to see book reviews written and organized, so I plan to begin making it a reality as I gain the final major pillar that was missing from my collection.
 
