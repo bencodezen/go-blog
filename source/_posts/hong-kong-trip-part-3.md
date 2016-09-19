@@ -11,7 +11,7 @@ tags:
 	- teaching-game
 ---
 
-[Part 1 — The Scenery](http://www.bengozen.com/hong-kong-trip-part-1/ "Hong Kong Trip: Part 1 — The Scenery")   ||   [Part 2 — The Food](http://www.bengozen.com/hong-kong-trip-part-2/ "Hong Kong Trip: Part 2 — The Food")   ||   _Part 3 — Weiqi_
+[Part 1 — The Scenery](http://www.bengozen.com/hong-kong-trip-part-1/ "Hong Kong Trip: Part 1 — The Scenery") || [Part 2 — The Food](http://www.bengozen.com/hong-kong-trip-part-2/ "Hong Kong Trip: Part 2 — The Food") || _Part 3 — Weiqi_
 
 ## Introduction
 
