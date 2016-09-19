@@ -24,7 +24,7 @@ Today was the official rest day for Congress. In other words, this meant that th
 
 When I arrived at Hotel Pennsylvania, I found Nate and the gang hanging out.
 
-[![2014GC-D04-01](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D04-01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D04-01.jpg)
+![](/images/2014/09/2014GC-D04-01.jpg)
 
 <!--more-->
 
@@ -40,13 +40,13 @@ When the time came for him to leave, I have to admit I was a little sad to see m
 
 To get my mind off whether or not he’d be okay taking the train back on his own, I went back to Hotel Pennsylvania to see what everyone was up to. As I walked into the lobby, a little serendipity to have been in play because I ran into Michael as he was heading out. For those who don’t know, he was only able to stay for half the Congress, so I was really happy to be able to catch him before he left.
 
-[![2014GC-D04-02](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D04-02.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D04-02.jpg)
+![](/images/2014/09/2014GC-D04-02.jpg)
 
 When I got to the top floor, I remember that I couldn’t really find anyone. It seemed everyone had headed off to do their own thing, so I sat down with my laptop and started working on some things. Sometime later, fellow UMBC alumni Nathan Epstein (henceforth referred to as Nathan and is not to be confused with Nate Eagle) came over to chat.
 
 In the midst of talking about the tournament and my withdrawal from the tournament, he pulled out this dice that he had gotten from one of the teaching seminars.
 
-[caption id="attachment_5719" align="aligncenter" width="600"][![asdf](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D04-04.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D04-04.jpg) (Current side) One-space jump, (Bottom side) Large knight move, (Other sides) Small knight move, Diagonal, Two-space jump, Large diagonal move (i.e., elephant jump)[/caption]
+![(Current side) One-space jump, (Bottom side) Large knight move, (Other sides) Small knight move, Diagonal, Two-space jump, Large diagonal move (i.e., elephant jump)](/images/2014/09/2014GC-D04-04.jpg)
 
 Apparently this was a teaching apparatus for helping teach players about haengma (i.e., stone movement) and shape. So when he asked me if I wanted to try playing a game, I couldn’t refuse! For those who are wondering how this variant of go works, the rules are pretty simple:
 

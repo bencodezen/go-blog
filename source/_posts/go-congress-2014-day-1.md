@@ -29,7 +29,7 @@ As everyone shuffled in, we all waited for the tournament pairings to be put up.
 
 Before we knew it though, we all went off on our separate ways to find our opponents. My opponent was an Asian girl named Kelly who was probably around fourth or fifth grade. After sitting down and setting up my iPad (for recording the game) and getting my headphones ready, we fiddled around with the clock for a bit to make sure we had the right time settings.
 
-[![2014GC-D01-01](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-01.jpg)
+![](/images/2014/09/2014GC-D01-01.jpg)
 
 <!--more-->
 
@@ -46,9 +46,9 @@ Though I lost, I have to say that overall I felt I played quite well. I made a d
 
 With a loss under my belt, I went off to see how everyone else was doing. Nate was still in the middle of his game, so I went off and eventually found Satoru sitting off on his own. We sat down and talked about our respective games. Soon after, Michael and Nate came to join us and we showed our games to one another.
 
-[![2014GC-D01-08](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-08.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-08.jpg)
+![](/images/2014/09/2014GC-D01-08.jpg)
 
-[![2014GC-D01-10](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-10.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-10.jpg)
+![](/images/2014/09/2014GC-D01-10.jpg)
 
 As much as it was unfortunate at the time, it was rather funny that we all lost our first matches. And if I remember correctly, most (if not all) of the games were ones that we actually should have won. Haha.
 
@@ -62,11 +62,11 @@ Upon introducing myself, her eyes lit up as she realized who I was and she greet
 
 Once the introductions had been made, I asked her if I could play in the simul against her. My rationale at the time was that there were only 3 boards scheduled for the simul, so I figured a fourth wouldn’t hurt since it was more a teaching game than anything else. And sure enough, she was very gracious and allowed me to play.
 
-[![2014GC-D01-17](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-17-e1411507569858.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-17-e1411507569858.jpg)
+![](/images/2014/09/2014GC-D01-17.jpg)
 
-[![2014GC-D01-21](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-21.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-21.jpg)
+![](/images/2014/09/2014GC-D01-21.jpg)
 
-[caption id="attachment_5654" align="aligncenter" width="533"][![2014GC-D01-23](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-23-e1411507546969.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-23-e1411507546969.jpg) Dahye 4p explaining some areas that I could improve on.[/caption]
+![Dahye 4p explaining some areas that I could improve on.](/images/2014/09/2014GC-D01-23.jpg)
 
 It had been a while since I last played a professional, but I remembered the feeling quite well and was intent on giving her everything I got. The game record is below:
 
@@ -83,21 +83,21 @@ As I was about to leave, she handed me a present and told me that we would arran
 
 With my simul game finished, my brother and I went off to find Nate deep in thought against Andy (1p). Here are some shots of him in action:
 
-[![2014GC-D01-28](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-28.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-28.jpg)
+![](/images/2014/09/2014GC-D01-28.jpg)
 
-[![2014GC-D01-38](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-38-e1411507839946.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-38-e1411507839946.jpg)
+![](/images/2014/09/2014GC-D01-38.jpg)
 
 Apparently they ended up getting in a huge ko fight that allowed Nate to win the game. Congrats to Nate for winning against a professional!
 
 Once Nate finished his game and we all talked for a bit, my brother and I headed out to get lunch since I hadn’t eaten anything since like 8:30am and it was around 3pm at this time. Everyone else was planning on grabbing something quick since they wanted to catch other events going on (i.e., lectures, game reviews, etc.), so I headed out with my brother off to Brooklyn for some awesome pizza.
 
-[![2014GC-D01-40](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-40.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-40.jpg)
+![](/images/2014/09/2014GC-D01-40.jpg)
 
 By the time we got back to Congress, it was well into the evening. As I walked around, I had no idea where everyone was. Most of the events for the day had concluded, but there was a 13x13 tournament going on. Sure enough, I managed to find nate and Michael entrenched in their games.
 
-[![2014GC-D01-42](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-42.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-42.jpg)
+![](/images/2014/09/2014GC-D01-42.jpg)
 
-[![2014GC-D01-49](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-49.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-49.jpg)
+![](/images/2014/09/2014GC-D01-49.jpg)
 
 Since I wasn’t participating, I stuck around to watch for a bit; but then I went off to see what sorts of random events were going on. Somewhere in the midst of that wandering though, I got a text from Myung (9p) asking me if I was up for getting a bite to eat. There was a burger place he wanted to try: Shake Shack. Without any hesitation, I told him I’d be happy to go with him; but I warned him that the lines would be decently long.
 
@@ -107,7 +107,7 @@ As we walked to Shake Shack, I kept mostly to myself since Jungsang (9p) didn’
 
 So for the second time that day, my ability to speak Chinese allowed me to bridge a communication barrier with another Korean professional. You have no idea how thankful I was to my parents for making sure I learned it as a kid!
 
-[![2014GC-D01-51](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-51.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D01-51.jpg)
+![](/images/2014/09/2014GC-D01-51.jpg)
 
 The line was long as predicted, but it was great to be able to hangout with Myung (9p) and Jungsang (9p). And to my relief, they were very happy with the food and felt that the wait was worth it.
 

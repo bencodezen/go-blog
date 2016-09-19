@@ -31,9 +31,9 @@ Once all the matches were over, I caught up with Michael and started a game wit
 
 As Michael went off to his pro event, I waited around in hopes of getting a simul game against Ho Yuu, 6p. Fortunately for me, the people who had signed up didn’t show up and I was able to get a seat.
 
-[![2014GC-D02-03](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D02-03.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D02-03.jpg)
+![](/images/2014/09/2014GC-D02-03.jpg)
 
-[![2014GC-D02-08](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D02-08.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D02-08.jpg)
+![](/images/2014/09/2014GC-D02-08.jpg)
 
 Here are the results of that game:
 
@@ -50,7 +50,7 @@ Everyone had dispersed at that point, so I wandered around a bit while waiting f
 
 Nonetheless, I went ahead and asked if I could play anyhow. Thanks to Jungsang’s kindness, I was allowed to play even though I wasn’t technically registered as a dan player.
 
-[![2014GC-D02-16](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D02-16.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D02-16.jpg)
+![](/images/2014/09/2014GC-D02-16.jpg)
 
 The following is the game record:
 
@@ -67,7 +67,7 @@ Once I was done with the game, it seemed like everyone had run off in different 
 
 After being indecisive for a while, we finally decided on this sushi place. Funny thing is that we didn’t see anything impressive on the menu when we got there, and ended up trying their yakitori instead.
 
-[![2014GC-D02-19](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D02-19.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/2014GC-D02-19.jpg)
+![](/images/2014/09/2014GC-D02-19.jpg)
 
 It was a fantastic time and I had a blast hanging out with my brother. During this time, I vented about my frustration with what happened and my thoughts on what I wanted to do next. To experience that injustice of getting burned by a rule that wasn’t written and available to all players really put a damper on my experience at Congress. I mean seriously, it’s the equivalent of finding out that there is a rule that your opponent gets an extra 20 points of komi if the game is longer than 250 moves.
 

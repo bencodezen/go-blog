@@ -14,7 +14,9 @@ Recently, my girlfriend told me about a book that she was reading: [Lone Survivo
 As I listened to Luttrell talk about his training and what he went through to become a SEAL, I couldn’t help but feel rather pathetic as he described the brutal trials that he had to endure. And we’re not talking about just physical trials, but especially the mental ones as well. And as I reflected on my own life and pursuit of my goals, it dawned on me that my so-called “drive” was pathetic. And I don’t mean this in some sort of self-pitying way, but in a self-enlightened sense where suddenly it was clear where my problem was:_ I quit too easily_.
 
 In the U.S. Navy SEAL’s code, there is an excerpt that particularly resounded with me:
+
 > "I will never quit. I persevere and thrive on adversity. My Nation expects me to be physically harder and mentally stronger than my enemies. If knocked down, I will get back up, every time. I will draw on every remaining ounce of strength to protect my teammates and to accomplish the mission. I am never out of the fight."
+
 While my pursuits are not militaristic, there is a lot that I can learn from this mentality. Too often have I resigned games due to feeling overwhelmed against the odds (even though it was not the case). And too many times have I let myself quit or procrastinate because there was no one to tell me not to or encourage me to keep going.
 
 Well screw all of that. I refuse to let a minute go by where I don’t give anything less than my all. And so with that, I’ll commit to the fact that I will have my Go Congress posts finished by this Saturday. No more waiting, it’s getting finished.

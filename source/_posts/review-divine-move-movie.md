@@ -10,7 +10,7 @@ tags:
 	- korean
 ---
 
-[![thedivinemovemovie](http://www.bengozen.com/wp-content/uploads/2014/09/thedivinemovemovie-209x300.jpg)](http://www.bengozen.com/wp-content/uploads/2014/09/thedivinemovemovie.jpg)
+![The Divine Movie Post](/images/2014/09/thedivinemovemovie.jpg)
 
 When I first saw the trailer for this movie, there were two things that I noticed: go and martial arts. And as someone who grew up on kung fu movies and watching subtitled Asian movies, I was sold immediately.
 
