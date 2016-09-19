@@ -14,7 +14,7 @@ tags:
 
 ## Weekly Go Wednesday: Issue #31
 
-[caption id="attachment_4650" align="aligncenter" width="392"][![Credit to GoGameGuru](http://www.bengozen.com/wp-content/uploads/2014/02/Lee-Sedol-jubango-game-1.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/Lee-Sedol-jubango-game-1.jpg) Credit to [GoGameGuru](http://gogameguru.com/lee-sedol-gets-flying-start-gu-li-vs-lee-sedol-jubango/)[/caption]
+![Credit to GoGameGuru](/images/2014/02/Lee-Sedol-jubango-game-1.jpg)
 
 For those who didn't know, Gu Li and Lee Sedol had their first epic match of their [ten match series jubango](http://www.bengozen.com/gu-li-lee-sedol-jubango/ "Gu Li and Lee Sedol Jubango"). And though many of you might have watched the game or checked out the game record later on, I wouldn't be surprised if a number of weaker players like myself were left in bewilderment most of the time. After all, even though it was really exciting, it's hard to learn from a game where so much is going on at once!
 

@@ -11,7 +11,7 @@ tags:
 	- jasiek
 ---
 
-[![Fighting_Fundamentals_Cover](http://www.bengozen.com/wp-content/uploads/2014/02/Fighting_Fundamentals_Cover.png)](http://www.bengozen.com/wp-content/uploads/2014/02/Fighting_Fundamentals_Cover.png)
+![](/images/2014/02/Fighting_Fundamentals_Cover.png)
 
 ## Fighting Fundamentals
 
@@ -19,20 +19,16 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Fighting Fundamentals
 Author, Robert Jasiek
 Publisher, Robert Jasiek
 Published, "May 27th, 2013"
 Language, English
 Length, 256 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 *   Chapter 1 - Introduction
 *   Chapter 2 - Basics
@@ -144,9 +140,8 @@ Length, 256 Pages
 	*   Answers
 
 *   Chapter 8 - Index
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 Like many other players, when I first saw the title of this book, I wanted to get my hands on it as soon as I possibly could. However, while the idea of having all of the "fighting fundamentals" covered in a single book sounds enticing and attractive, there is way more than meets the eye.
 
@@ -162,9 +157,7 @@ The thing to realize is this: fighting is complicated. And while Jasiek has done
 
 At the end of the day, while I personally had a difficult time absorbing the material in the book, this book is truly a milestone for Western go literature in its effort to pioneer a way for us to learn about fighting. And to be honest, I think that I might just be a weird outlier who doesn't have the diligence or tenacity to absorb the material. So if even a small part of you believes that you have the personality and learning style suited to benefiting from this book, then I would disregard my experience of the book and recommend you get it whenever possible.
 
-[/expand]
-
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -195,10 +188,9 @@ At the end of the day, while I personally had a difficult time absorbing the mat
 *   Players interested in a methodical and textbook approach to the study of fighting.
 [/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle" expanded="true"]
+### Where Can I Buy It?
 
 *   Robert Jasiek (Printed) - [EUR 26.50 (shipping and handling not included)](http://home.snafu.de/jasiek/PositionalJudgement.html)
 *   Robert Jasiek (e-Book) - [EUR 13.25](http://home.snafu.de/jasiek/PositionalJudgement.html)
-[/expand]
 
 _**Last Updated on February 20th, 2014**_

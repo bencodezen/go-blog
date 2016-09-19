@@ -9,7 +9,7 @@ tags:
 	- bad-habits
 ---
 
-[caption id="attachment_4717" align="aligncenter" width="288"][![Credit to Adavita-Vision](http://www.bengozen.com/wp-content/uploads/2014/02/now-clock.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/now-clock.jpg) Credit to [Adavita-Vision](http://www.advaita-vision.org)[/caption]
+![Credit to Adavita-Vision](/images/2014/02/now-clock.jpg)
 
 ## Weekly Go Wednesday, Issue #32
 
