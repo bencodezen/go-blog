@@ -1,10 +1,12 @@
 ---
-title: all-systems-are-go
+title: All Systems Are Go!
+date: 2016-09-18 20:36:56
 categories:
 	- Journal
 tags:
 	- sabbatical
 ---
+
 
 Hello again everyone. As some have suspected, I am back (for real this time).
 
