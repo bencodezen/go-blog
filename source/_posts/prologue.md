@@ -16,8 +16,6 @@ The funny thing is that the main thing that caught my eye about this series was 
 
 Regardless, the manga definitely sparked my interest in Go. Even though my brother (who coincidentally at this time started taking the Go culture class at Chinese School) and I attempted to start learning the game at this time, it wouldn't be until after I entered and graduated college to begin taking another look into it.
 
-It wasn't until just a month ago when I was watching <span style="text-decoration: underline;">Criminal Minds</span> (Season 1: Episode - Extreme Aggressor) that I would see the following clip:
-
-[youtube="http://www.youtube.com/watch?v=POCtnn4BsC8"]
+It wasn't until just a month ago when I was watching [Criminal Minds (Season 1: Episode - Extreme Aggressor)](http://www.youtube.com/watch?v=POCtnn4BsC8) and saw the linked clip:
 
 For those unaware of my background, anything to do with psychology or philosophy will definitely enter the realm of my intellectual interests. After watching this scene, I decided to look back into one of the few games which has held its original nature for all the years it has been in existence. From that point on, my quest begins.

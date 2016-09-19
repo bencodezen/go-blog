@@ -11,7 +11,7 @@ _I was in the middle of typing up "Guide to Go Equipment for Beginners," when I 
 
 In other words, unless your bathroom is equipped with the following...
 
-[caption id="attachment_877" align="aligncenter" width="385"]![Money Toilet Paper](http://www.bengozen.com/wp-content/uploads/2010/08/Money-Toilet-Paper.jpg "Money Toilet Paper") Source: California Literary Review[/caption]
+![Source: California Literary Review](/images/2010/08/Money-Toilet-Paper.jpg "Money Toilet Paper")
 
 Make sure you read this before buying anything else.
 
@@ -27,22 +27,20 @@ Also, it is important that I mention that these guides DO NOT apply to those wit
 
 If you are curious which type of player you are, here's a brief explanation:
 
-*   Casual Player - just looking to play at clubs and with friends (aka not too competitive)
-*   Serious Player - looking to play pretty well but not planning on devoting a huge amount of time
-*   Hardcore Player - looking to aim for the highest rank possible and compete
+* Casual Player - just looking to play at clubs and with friends (aka not too competitive)
+* Serious Player - looking to play pretty well but not planning on devoting a huge amount of time
+* Hardcore Player - looking to aim for the highest rank possible and compete
 So be on the lookout for the following guides:
 
-*   Go Equipment for the Casual Player
+* Go Equipment for the Casual Player
+	* The "Don't Want to Invest in Anything Yet" Budget
+	* The $50 and Below Budget
+	* The $100 Budget
+	* The $250 Budget
+* Go Equipment for the Serious Player
+* Go Equipment for the Hardcore Player
+	* The $100 Budget
+	* The $250 Budget
+	* The "Unlimited Resource" Budget
 
-		*   The "Don't Want to Invest in Anything Yet" Budget
-		*   The $50 and Below Budget
-		*   The $100 Budget
-		*   The $250 Budget
-
-*   Go Equipment for the Serious Player
-*   Go Equipment for the Hardcore Player
-
-		*   The $100 Budget
-		*   The $250 Budget
-		*   The "Unlimited Resource" Budget
 Note: If there is a budget you'd like me to address that I forgot about, please let me know!
