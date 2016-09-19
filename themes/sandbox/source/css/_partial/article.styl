@@ -22,31 +22,31 @@
 .article-category
   max-width: 650px
   margin: 0 auto
-  padding-top: 1.25rem
+  padding: 1.25rem 1.25rem 0
   font-size: 0.8rem
+  box-sizing: content-box
 
 .article-category-link
   @extend $block-caption
   margin: 0 12px 1em
-  color: $cBlue
+  color: $cRed
   &:first-child {
     margin-left: 0
   }
 
 .article-header
-  max-width: 650px
-  padding: article-padding 1em 0 0
-  margin: 0 auto
+  padding: 1em 1.25rem 0
 
 .article-title
-  text-decoration: none
+  max-width: 650px
+  margin: 0 auto
   font-size: 2em
   font-weight: bold
-  color: color-default
   line-height: line-height-title
   transition: color 0.2s
-  a&:hover
-    color: $cBlue
+  a
+    text-decoration: none
+    color: color-default
 
 .article-entry
   @extend $base-style
@@ -68,7 +68,7 @@
     line-height: line-height-title
     margin: line-height-title auto
   a
-    color: color-link
+    color: $cBlue
     text-decoration: none
     &:hover
       text-decoration: underline
@@ -142,16 +142,10 @@
   line-height: 1em
   padding: 10px 20px
   border-radius: 3px
-  color: $cGreen
-  border: 1px solid $cGreen
-  text-shadow: 0 1px #fff
+  color: $cBlack
+  border: 1px solid $cBlack
   text-decoration: none
   font-size: 0.9rem
-  &:hover
-    background: color-link
-    color: #fff
-    text-decoration: none
-    text-shadow: 0 1px darken(color-link, 20%)
 
 .article-footer
   clearfix()
@@ -159,10 +153,11 @@
   font-size: 0.85em
   line-height: line-height
   border-top: 1px solid color-border
-  padding-top: 1.25rem
   margin: 0 auto article-padding
+  padding: 1.25rem 1.25rem 0
+  box-sizing: content-box
   a
-    color: $cBlue
+    color: $cBlack
     text-decoration: none
     &:hover
       color: color-default
