@@ -11,7 +11,7 @@ tags:
 	- principles
 ---
 
-[![roadmaptoshodanv2cover](http://www.bengozen.com/wp-content/uploads/2014/10/roadmaptoshodanv2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/roadmaptoshodanv2cover.jpg)
+![](/images/2014/10/roadmaptoshodanv2cover.jpg)
 
 ## The Basic Principles of the Opening and the Middle Game
 
@@ -19,9 +19,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, The Basic Principles of the Opening and the Middle Game
 Series/Volume, The Road Map to Shodan (Vol. 2)
 Author, Rob van Zeijst and Richard Bozulich
@@ -31,11 +30,8 @@ Language, English
 ISBN, 978-4-906574-83-4
 Length, 146 pages
 Problems, 45 problems
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Preface
 2.  A Brief Glossary of Go Terms and Concepts
@@ -104,15 +100,14 @@ Problems, 45 problems
 	1.  Principle 20
 	2.  Problems 41 to 45
 	3.  Answers to Problems 41 to 45
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
-### Introduction
+#### Introduction
 
 _The Basic Principles of the Opening and the Middle Game_, by Rob can Zeijst and Richard Bozulich, is the second volume to Kiseido’s new series: The Road Map to Shodan. Though the title might lead some astray, this book is not intended to be a definitive guide to all principles in regards to the opening and middle game. Instead, it would be more accurate to view the purpose of this book as a broad survey of common principles that beginner and intermediate players forget during their own games. And while some might write this book off as a simple marketing ploy, this book is truly a fantastic collection of principles that cover a wide range of material in an easy to understand manner.
 
-### Summary of Content
+#### Summary of Content
 
 When first presented with the title, I must admit that I was initially skeptical of what it could contain. After all, I had already read 20 Principles of the Opening, Get Strong at the Opening, 501 Opening Problems, etc. To my delight, the content of the book exceeded my expectations. Just look at the topics covered: (1) Extensions and Efficiency, (2) Confinement, Linkage, and Separation, (3) Weak Stones and Weak Positions, (4) Handling Moyos &amp; Escaping, (5) Handling Thickness, (6) The Third and Fourth Lines in the Opening, (7) Defending Against a 3-3 Invasion, (8) Turning a Moyo into Territory, and (9) How to Make Sabaki.
 
@@ -120,7 +115,7 @@ While the topics do not receive a comprehensive explanation of each topic, the b
 
 Unlike most of the other books I have read, this book does an excellent job of keeping things as simple as possible. For example, instead of inundating the reader with numerous of examples taken from professional games, the examples consist of straight-forward examples that are easy to follow. In addition, each principle is given a good mixture of examples and explanation. As a result, novice and/or more casual players would not be overwhelmed and can digest the material much more easily.
 
-### Intended Audience
+#### Intended Audience
 
 The strength of players who would benefit most from this book would be around 10k and stronger.
 
@@ -128,28 +123,26 @@ While there are other books out there that contain similar information in variou
 
 In other words, the material is written in such a way that it is quite easy to get through and absorb without multiple intense readings. That’s not to say that you can read it once and be done with it, but it is not so dense that you would have to reread a paragraph multiple times just to understand its basic meaning (let alone trying to apply it in your own games). In addition, the diagrams are short enough that it is not necessary to have a board in order to comprehend the flow of the stones (though it is certainly recommended if you have it in front of you).
 
-### Layout
+#### Layout
 
 The content is laid out in a way that is analogous to a textbook. First you have a section explaining the principles that you should learn along with a few examples to illustrate their point. The explanations are then followed up with a few problems for you to reinforce what you have just learned. And to ensure that you don’t accidentally glance at the solutions while trying to solve the problems, they are kept in a separate section after the problems are presented.
 
-### Analysis and Evaluation
+#### Analysis and Evaluation
 
 The key to understanding the brilliance of this book lies in its accessibility to players of all kinds. Even when I consider players like myself who have read numerous books and take the game quite seriously, there is something to be appreciated about the simplicity to which this book approaches the topic. And though my understanding of this topic most likely has already encroached on dan territory, I still felt that the book provided a great reinforcement of things I knew and helped fill some areas that I didn’t realize were missing.
 
 In terms of shortcomings, there is only one aspect that I would have liked to have seen: more practice problems. While there are a handful of problems to review each section, there was more than one occasion where I would have liked just a few more problems. To be clear though, this is not to say that the problems in the book do not cover the topics presented. It’s just I would have liked a few more than what is in the book.
 
-### Conclusion
+#### Conclusion
 
 While there will be players who may scoff at this book, Kiseido has done a great job of finally providing a stepping stone that beginner and intermediate players can actually benefit from. So if you have any interest in the topics mentioned above and think you could benefit from the style of teaching being used, then I highly recommend that you get a copy of this book pronto!
 
-[/expand]
-
-[expand title="Where Can I Buy It?" trigclass="expandTitle" expanded="true"]
+### Where Can I Buy It?
 
 *   [Kiseido](http://kiseido.com/go_books.htm "Kiseido Go Shop") - $21 (shipping and handling not included)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+
+### Other Books in This Series...
 
 *   Volume 1: Handicap-Go Strategy and the Sanrensei Opening (Making the Transition from Handicap to Even Games)
 *   **Volume 2: The Basic Principles of the Opening and the Middle Game**

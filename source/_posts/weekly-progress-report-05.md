@@ -28,7 +28,7 @@ With that said, I hope you guys had a great week. See you guys next week!
 * _Jump Level Up 2_ by Baduktopia
 * _This is Hanegma_ by Kim Sung-rae
 * _100 Tips for Amateur Players I_ by Youngsun Yoon
-* _Handicap-Go Strategy and the Sanrensei Opening_by by Rob van Zeijst and Richard Bozulich
+* _Handicap-Go Strategy and the Sanrensei Opening_ by by Rob van Zeijst and Richard Bozulich
 
 ## Games
 

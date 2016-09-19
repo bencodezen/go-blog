@@ -21,25 +21,24 @@ tags:
 
 The next morning we woke up and headed off to get breakfast at a popular bagel place called Brooklyn Bagels.
 
-[caption id="attachment_5780" align="aligncenter" width="800"][![Best bagels I](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-01.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-01.jpg) Best bagels I've had to date.[/caption]
+![Best bagels I've had to date.](/images/2014/10/2014GC-D06-01.jpg)
 
 <!--more-->
 
 With our stomachs full of delicious bagel, we headed down to Brooklyn so that she could try Grimaldi’s.
 
-[caption id="attachment_5781" align="aligncenter" width="600"][![The famous Grimaldi](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-02.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-02.jpg) The famous Grimaldi's![/caption]
-
+![The famous Grimaldi's!](/images/2014/10/2014GC-D06-02.jpg)
 We got there before they opened, so we went by the harbor to take some pictures.
 
-[caption id="attachment_5782" align="aligncenter" width="800"][![Look at that weather! It was gorgeous out.](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-03.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-03.jpg) Look at that weather! It was gorgeous out.[/caption]
+![Look at that weather! It was gorgeous out.](/images/2014/10/2014GC-D06-03.jpg)
 
 After walking around a bit, it was time to get in line and eat our delicious pizza!
 
-[caption id="attachment_5783" align="aligncenter" width="800"][![Margarita pizza... Soo good....](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-10.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-10.jpg) Margarita pizza... Soo good....[/caption]
+![Margarita pizza... Soo good....](/images/2014/10/2014GC-D06-10.jpg)
 
 And with the weather so beautiful, we felt it would be a travesty to take the metro back, so we walked across the Brooklyn Bridge!
 
-[![2014GC-D06-12](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-12.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-12.jpg)
+![2014GC-D06-12](/images/2014/10/2014GC-D06-12.jpg)
 
 Before I knew it though, it was time for me to head back for my simul of the day against Francis Meyers, 1p. (At this point, I was trying to play as many different professionals as possible.) The following is the game record:
 
@@ -52,39 +51,39 @@ Before I knew it though, it was time for me to head back for my simul of the day
 
 After my game finished, I went downstairs to help Myung and Dahye take more pictures of them while they were teaching another teacher seminar.
 
-[![2014GC-D06-33](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-33.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-33.jpg)
+![](/images/2014/10/2014GC-D06-33.jpg)
 
-[caption id="attachment_5785" align="aligncenter" width="800"][![2014GC-D06-21](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-21.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-21.jpg) This was one of the prizes they were giving out. As you can see, it's a Hikaru No Go set.[/caption]
+![This was one of the prizes they were giving out. As you can see, it's a Hikaru No Go set.](/images/2014/10/2014GC-D06-21.jpg)
 
-[caption id="attachment_5790" align="aligncenter" width="800"]![2014GC-D06-42](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-42.jpg) Check that out! Hikaru and Sai![/caption]
+![Check that out! Hikaru and Sai!](/images/2014/10/2014GC-D06-42.jpg)
 
-[caption id="attachment_5787" align="aligncenter" width="800"][![2014GC-D06-34](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-34.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-34.jpg) These guys tied for a prize and so they duked it out via rock, paper, scissors.[/caption]
+![These guys tied for a prize and so they duked it out via rock, paper, scissors.](/images/2014/10/2014GC-D06-34.jpg)
 
-[caption id="attachment_5788" align="aligncenter" width="800"][![2014GC-D06-37](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-37.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-37.jpg) Later on there was another prize to be fought over, so everyone joined in on a round robin tournament of rock, paper, scissors to see who would win![/caption]
+![Later on there was another prize to be fought over, so everyone joined in on a round robin tournament of rock, paper, scissors to see who would win!](/images/2014/10/2014GC-D06-37.jpg)
 
-[caption id="attachment_5789" align="aligncenter" width="800"][![2014GC-D06-38](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-38.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-38.jpg) This was another one of the prizes: a board game where the primary objective was to move from one side of the board to the other using haengma rolled from a die.[/caption]
+![This was another one of the prizes: a board game where the primary objective was to move from one side of the board to the other using haengma rolled from a die.](/images/2014/10/2014GC-D06-38.jpg)
 
-[caption id="attachment_5791" align="aligncenter" width="800"][![2014GC-D06-43](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-43.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-43.jpg) And here's the entire class with their cool go pose![/caption]
+![And here's the entire class with their cool go pose!](/images/2014/10/2014GC-D06-43.jpg)
 
 When the class wrapped up, Myung had asked if I was available to eat dinner that night (which naturally I was). However, at the last minute he had to cancel because one of his student’s parents wanted to take him out to dinner. So I left to meet up with my girlfriend and try some great falafels and crepes!
 
-[caption id="attachment_5792" align="aligncenter" width="800"][![2014GC-D06-44](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-44.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-44.jpg) This was from a place called Taim. Pretty solid falafel sandwich![/caption]
+![This was from a place called Taim. Pretty solid falafel sandwich!](/images/2014/10/2014GC-D06-44.jpg)
 
-[caption id="attachment_5793" align="aligncenter" width="800"][![2014GC-D06-46](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-46.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-46.jpg) This was from a place called Eight Turn Crepe which sold crepes that were into an ice cream cone shape and filled with deliciousness.[/caption]
+![This was from a place called Eight Turn Crepe which sold crepes that were into an ice cream cone shape and filled with deliciousness.](/images/2014/10/2014GC-D06-46.jpg)
 
 By the time I got back to Hotel Pennsylvania, Myung and Jungsang were giving a game commentary on one of the games played by Andy Liu 1p.
 
-[![2014GC-D06-48](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-48.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-48.jpg)
+![](/images/2014/10/2014GC-D06-48.jpg)
 
-[![2014GC-D06-54](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-54.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-54.jpg)
+![](/images/2014/10/2014GC-D06-54.jpg)
 
 After taking a few pictures for them, I went to see where everyone was since I didn't see anyone in the audience. And guess where I found my friends Nate and Diego?
 
-[caption id="attachment_5796" align="aligncenter" width="800"][![2014GC-D06-77](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-77.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-77.jpg) Promoted to the big league as game recorders![/caption]
+![Promoted to the big league as game recorders!](/images/2014/10/2014GC-D06-77.jpg)
 
 After watching the games for a bit, I walked out of the Master’s Tournament room, I turned to my right and who do I end up seeing?!
 
-[caption id="attachment_5797" align="aligncenter" width="800"][![2014GC-D06-78](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-78.jpg)](http://www.bengozen.com/wp-content/uploads/2014/10/2014GC-D06-78.jpg) The amazing Anders and kyu-killer Keith going over one of this games![/caption]
+![The amazing Anders and kyu-killer Keith going over one of this games!](/images/2014/10/2014GC-D06-78.jpg)
 
 It was great to finally be able to meet Anders in person. I’m just sad I wasn’t able to hangout with him more! Oh well, at least I got the chance to meet the legendary Anders in person!
 
