@@ -13,7 +13,7 @@ tags:
 	- tesuji
 ---
 
-[![basictechniquesofgocover](http://www.bengozen.com/wp-content/uploads/2013/10/basictechniquesofgocover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/basictechniquesofgocover.jpg)
+![](/images/2013/10/basictechniquesofgocover.jpg)
 
 ## Basic Techniques of Go
 
@@ -127,31 +127,32 @@ So if you fall into the category of beginner/intermediate players looking to get
 *   There is a lot of information on handicap go.
 *   They did do a pretty nice job surveying some common tesuji.
 *   There were problems to accompany the tesuji and endgame section.
+
 **What did I gain from reading this book?**
 
 *   Due to the dense material, I can't say I really gained anything from this first reading.
+
 **What aspect(s) can be improved on?**
 
 *   In all honesty, I don't feel that it would be very fair for me to criticize the book at the moment since I feel that its content is generally out of reach for me. The one thing I will say is that the title is a little misleading to the unsuspecting player. Otherwise, I will save my comments for when I am able to better comprehend the book.
+
 **Is this book easy to read?**
 
 *   As a mid to high single digit kyu, I felt that it was rather difficult to read due to the level of discussion that occurred in the book. However, if one could easily follow the level of content in this book, the English is rather straightforward and should be pretty easy to work through.
+
 **Bottom Line**
 
 1.  Content is essentially 10% opening principles, 40% handicap go, 30% tesuji, and 20% endgame.
 2.  Better suited to players already familiar with the content in the book. In other words, NOT for beginners.
 3.  If you're a beginner/intermediate player looking to get stronger, check out the Mastering Basics series instead.
-[/expand]
 
 [expand title="Recommended For..." trigclass="expandTitle"]
 
 *   Intermediate/advanced players looking for additional material to study.
-[/expand]
 
 [expand title="Where Can I Buy It?" trigclass="expandTitle"]
 
 *   Kiseido - [$18](http://kiseido.com/go_books.htm) (shipping and handling not included)
 *   SmartGo Books - [$8.99](http://gobooks.com/) (iOS Devices Only)
-[/expand]
 
 _**Last Updated on November 3rd, 2013**_

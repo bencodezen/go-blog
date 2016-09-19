@@ -9,7 +9,7 @@ tags:
 	- gogameguru
 ---
 
-[![gogamegurustuff](http://www.bengozen.com/wp-content/uploads/2013/11/gogamegurustuff.jpg)](http://www.bengozen.com/wp-content/uploads/2013/11/gogamegurustuff.jpg)
+![GoGameGuru Order](/images/2013/11/gogamegurustuff.jpg)
 
 My [GoGameGuru](http://shop.gogameguru.com) order came in!!! Woot woot!!! You can see everything I got in the picture (except the glass stones which are inside the bowls). There is so much to write about and review. Haha. However, since I do need a little bit of time to put the reviews together, the one thing I want to recommend right away is the [Foldable Go Board](http://shop.gogameguru.com/folding-go-board/?acc=e4da3b7fbbce2345d7772b0674a318d5). The quality is incredible for the price and it's definitely my favorite item of my entire order. So if you're in the market for a foldable go board, don't wait!
 

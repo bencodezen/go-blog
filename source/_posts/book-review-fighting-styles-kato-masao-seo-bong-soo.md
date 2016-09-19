@@ -11,7 +11,7 @@ tags:
 	- fighting
 ---
 
-[![MasterPlay fighting](http://www.bengozen.com/wp-content/uploads/2013/11/MasterPlay-fighting.jpg)](http://www.bengozen.com/wp-content/uploads/2013/11/MasterPlay-fighting.jpg)
+![](/images/2013/11/MasterPlay-fighting.jpg)
 
 ## Master Play: The Fighting Styles of Kato Masao &amp; Seo Bong Soo
 

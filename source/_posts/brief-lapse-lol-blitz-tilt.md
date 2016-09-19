@@ -13,7 +13,7 @@ I've been sick the last week or so. And against my better judgment, I thought it
 
 Anyhow, so then I was like, "Screw this! I'm just going to play go! Who cares if my rank drops or whatever. I'm just going to play and gain experience in go instead of trying to level up my account." And what do I decide to play first thing in? Blitz.
 
-[![giphy](http://www.bengozen.com/wp-content/uploads/2013/12/giphy.gif)](http://www.bengozen.com/wp-content/uploads/2013/12/giphy.gif)
+![Credit to giphy](/images/2013/12/giphy.gif)
 
 Needless to say it was fraught with reckless play and incredible bloodlust. Just kill… get killed… try to kill again… and then ultimately combust in one fantastic poof where I resign. Haha. And the best part is that I decide to try and continue on to another game, which ends in a similar manner. I suspect that this may be induced by the League of Legends I had just played, but no matter.
 

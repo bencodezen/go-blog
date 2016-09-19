@@ -10,7 +10,7 @@ tags:
 	- strategy
 ---
 
-[![heartofgov3cover](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov3cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov3cover.jpg)
+![](/images/2013/10/heartofgov3cover.jpg)
 
 ## Otake's Secrets of Strategy
 
@@ -94,21 +94,26 @@ Overall, I am glad that I did not give up on this series and really appreciate w
 *   A lot easier to comprehend compared to the Volume 2.
 *   Has problems that are not overly advanced and are quite helpful.
 *   Seems like it was actually written for kyu players to actually understand.
+
 **What did I gain from reading this book?**
 
 *   A better sense of some of Otake 9P's strategic principles.
 *   Greater appreciation for being able to keep whole board perspective.
 *   Increased confidence in that my abilities are improving.
+
 **What is the format of the book?**
 
 *   The problems are presented and are then followed by the solution and variations with accompanying explanations. Unlike Volume 2, the correct solution was very easy to identify which made for a much more pleasant experience.
 *   The game commentaries are structured like most normal books: diagrams accompanied by their explanations.
+
 **What aspects can be improved on?**
 
 *   Honestly, for what the book was intended to do, nothing really comes to mind.
+
 **Is this book easy to read?**
 
 *   Mostly. There are a number of occasions where the phrasing or choice of words seems rather odd and can throw off the reader, but overall the translation is comprehensible (though it definitely does not read as easily as say Kageyama's books).
+
 **Bottom Line**
 
 1.  An enjoyable read for those looking to learn about some strategic principles in go.
