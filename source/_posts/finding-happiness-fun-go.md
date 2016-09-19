@@ -17,7 +17,7 @@ As I sat there, I thought, “Me? Not attacking properly? Not enjoying the attac
 
 Needless to say, it got me wondering if this was what was wrong with me over these past couple of weeks; but what’s funny is that life had something else in store for me as well. Though I didn't know it at the time, something that I had volunteered to help out at was happening the same weekend: the [Smithsonian Folklife Festival](http://www.festival.si.edu "Smithsonian Folklife Festival Official Page") was about to give me the wake-up call that I needed.
 
-[![chinafestival](http://www.bengozen.com/wp-content/uploads/2014/07/chinafestival.jpg)](http://www.bengozen.com/wp-content/uploads/2014/07/chinafestival.jpg)
+![China Festival Badge](/images/2014/07/chinafestival.jpg)
 
 At first, with me being down lately, I have to admit that I was a bit reluctant to go as the day crept up. Before I knew it though, Saturday was upon me and I was sitting down and teaching person after person. And with each person that sat down, seeing their eyes light up as they learned the rules and enjoyed their time was really heart-warming for me. Out of all the ones I taught though, there was one in particular that I want to mention here.
 
