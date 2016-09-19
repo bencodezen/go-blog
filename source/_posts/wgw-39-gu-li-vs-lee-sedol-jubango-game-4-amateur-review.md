@@ -13,7 +13,7 @@ tags:
 
 ## Weekly Go Wednesday: Issue #39
 
-[caption id="attachment_5235" align="aligncenter" width="412"][![Credit to GoGameGuru](http://www.bengozen.com/wp-content/uploads/2014/05/Lee-Sedol-Gu-Li-MLily-Gu-Lee-Jubango-Game-4-1.jpg)](http://www.bengozen.com/wp-content/uploads/2014/05/Lee-Sedol-Gu-Li-MLily-Gu-Lee-Jubango-Game-4-1.jpg) Credit to [GoGameGuru](http://gogameguru.com/gu-li-vs-lee-sedol-jubango-game-4/ "GoGameGuru Jubango 4 Site")[/caption]
+![Credit to GoGameGuru](/images/2014/05/Lee-Sedol-Gu-Li-MLily-Gu-Lee-Jubango-Game-4-1.jpg)
 
 For Game 4 of this epic [jubango](http://www.bengozen.com/gu-li-lee-sedol-jubango/ "Gu Li and Lee Sedol Jubango") between Lee Sedol (9P) and Gu Li (9P), with the current record being 2-1 in Lee Sedol's favor, everyone sat in anticipation as they waited to see if Gu Li would be able to even up the record! With Gu Li's record against Lee Sedol as of late though, many fans were certainly feeling that Gu Li had a great chance to win this game.
 

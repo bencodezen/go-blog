@@ -12,7 +12,7 @@ tags:
 
 ## Weekly Go Wednesday, Issue #42
 
-[caption id="attachment_5371" align="aligncenter" width="420"][![Credit to Business in Canada](http://www.bengozen.com/wp-content/uploads/2014/05/wgw42.png)](http://www.bengozen.com/wp-content/uploads/2014/05/wgw42.png) Credit to [Business in Canada](https://businessincanada.com/2013/08/12/surge-in-proposals-suggests-canadians-are-struggling-to-grapple-with-immense-debt/)[/caption]
+![Credit to Business in Canada](/images/2014/05/wgw42.png)
 
 For most of the time I studied go, I was always focused on getting the right answer. Perhaps this is a result of being conditioned from school and being obsessed with answering the question correctly, but nonetheless it showed up in my approach to studying go. So more often than not, if I managed to guess what the correct answer was for a particular problem, that would be the end of it and I would move on to the next problem. After all, I got the right answer and that's what's important isn't it?
 

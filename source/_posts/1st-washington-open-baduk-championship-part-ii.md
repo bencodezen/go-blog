@@ -15,7 +15,7 @@ tags:
 
 [Part I](http://www.bengozen.com/1st-washington-open-baduk-championship-part/ "1st Washington Open Baduk Championship — Part I") - [Interlude](http://www.bengozen.com/wgw-38-i-want-play-go-like-that/ "WGW 38: I Want to Play Go Like That…") - **Part II**
 
-[caption id="attachment_5198" align="aligncenter" width="500"][![washingbadukopenpart2-01](http://www.bengozen.com/wp-content/uploads/2014/04/washingbadukopenpart2-01.png)](http://www.bengozen.com/wp-content/uploads/2014/04/washingbadukopenpart2-01.png) Hikaru No Go, Kuwabara Hon’inbo (Epsiode 29)[/caption]
+![Hikaru No Go, Kuwabara Hon’inbo (Epsiode 29)](/images/2014/04/washingbadukopenpart2-01.png)
 
 When I woke up the next day, I felt like a brand new person. I know that I could have been like a lot of other players who would have recalled the performance from the first day and felt sorry for themselves, but the the experience I had watching Park Sohyun (3p) play the night before had struck me and really opened my eyes.
 
@@ -61,7 +61,7 @@ As you might imagine, I breathed a sigh of relief and thanked my lucky stars whe
 
 When we got back, there was still some time to spare before the remaining festivities began (i.e., lecture and simul games). This was perfect however, because  I was able to spend some time talking with Sohyun (since she had been running in and out and busy with other obligations). We went over my game in Round 5, and I even got her to sign a book that she had given me the night before.
 
-[caption id="attachment_5206" align="aligncenter" width="358"][![haengmaBook](http://www.bengozen.com/wp-content/uploads/2014/04/haengmaBook-768x1024.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/haengmaBook.jpg) It's a Korean book on haengma (i.e., stone movement). Best souvenir from the event![/caption]
+![It's a Korean book on haengma (i.e., stone movement). Best souvenir from the event!](/images/2014/04/haengmaBook.jpg)
 
 As we wrapped up one of our conversations, a fellow Korean player had come by; so she had the idea to give both of us a simul game while we were waiting for everything to start (which was incredibly kind of her). I decided to play an even game with her since I wanted to feel the full power of her skills.
 
@@ -71,43 +71,44 @@ With all the games finished, they had the following activities going on simultan
 
 (1) Myung Wan Kim (9p) reviewing one of Andy Liu's (1p) game from the tournament.
 
-[caption id="attachment_5165" align="aligncenter" width="486"][![2014-WOpen-11](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-11.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-11.jpg) Myung and Andy prepare to review his game.[/caption]
+![Myung and Andy prepare to review his game.](/images/2014/04/2014-WOpen-11.jpg)
 
-[caption id="attachment_5166" align="aligncenter" width="512"][![2014-WOpen-12](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-12.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-12.jpg) Myung watching as Andy replayed his game and talked about what his thoughts were at the time.[/caption]
+![Myung watching as Andy replayed his game and talked about what his thoughts were at the time.](/images/2014/04/2014-WOpen-12.jpg)
 
-[caption id="attachment_5167" align="aligncenter" width="512"][![2014-WOpen-13](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-13.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-13.jpg) Myung discussing the variations and explaining to the audience.[/caption]
+![Myung discussing the variations and explaining to the audience.](/images/2014/04/2014-WOpen-13.jpg)
 
-[caption id="attachment_5168" align="aligncenter" width="512"][![2014-WOpen-14](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-14.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-14.jpg) As you can see, it was quite a crowd listening attentively to Myung's commentary.[/caption]
+![As you can see, it was quite a crowd listening attentively to Myung's commentary.](/images/2014/04/2014-WOpen-14.jpg)
 
 (2) Park Sohyun (3p) playing simultaneous games with eight different dan level players.
 
-[caption id="attachment_5169" align="aligncenter" width="512"][![2014-WOpen-15](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-15.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-15.jpg) They setup the table to have four boards on each side so she could easily navigate back and forth.[/caption]
+![They setup the table to have four boards on each side so she could easily navigate back and forth.](/images/2014/04/2014-WOpen-15.jpg)
 
-[caption id="attachment_5170" align="aligncenter" width="512"][![2014-WOpen-16](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-16.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-16.jpg) Here you can see a group of Korean players analyzing the board at the far end.[/caption]
+![Here you can see a group of Korean players analyzing the board at the far end.](/images/2014/04/2014-WOpen-16.jpg)
 
-[caption id="attachment_5171" align="aligncenter" width="512"][![2014-WOpen-17](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-17.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-17.jpg) Here you can see Sohyun smiling as she analyzes the board position.[/caption]
+![Here you can see Sohyun smiling as she analyzes the board position.](/images/2014/04/2014-WOpen-17.jpg)
 
 (3) Michael Chen (8d) playing simultaneous games with 5 players that were around SDK players (i.e., 1k to 9k).
 
-[caption id="attachment_5172" align="aligncenter" width="512"][![2014-WOpen-18](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-18.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-18.jpg) Michael is deep in thought....[/caption]
+![Michael is deep in thought...](/images/2014/04/2014-WOpen-18.jpg)
 
 (4) Allan Abramson (previous AGA President) giving simultaneous games to DDK players (i.e., 30k to 10k).
 
-[![2014-WOpen-19](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-19.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-19.jpg)
+![](/images/2014/04/2014-WOpen-19.jpg)
 
-[caption id="attachment_5174" align="aligncenter" width="512"][![2014-WOpen-20](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-20.jpg)](http://www.bengozen.com/wp-content/uploads/2014/04/2014-WOpen-20.jpg) An overview of all the various activities going on. So many people participating![/caption]
+![An overview of all the various activities going on. So many people participating!](/images/2014/04/2014-WOpen-20.jpg)
 
 After a couple of hours, the time finally came for the awards ceremony.
 
 The tournament was broken up into seven sections:
 
-1.  <span style="line-height: 1.5em;">Open Section (7d+)</span>
-2.  <span style="line-height: 1.5em;">Dan A (4-6d)</span>
-3.  <span style="line-height: 1.5em;">Dan B (1-3d)</span>
-4.  <span style="line-height: 1.5em;">Kyu A (1-5k)</span>
-5.  <span style="line-height: 1.5em;">Kyu B (6-10k)</span>
-6.  <span style="line-height: 1.5em;">Kyu C (11-15k)</span>
-7.  <span style="line-height: 1.5em;">Kyu D (16k+)</span>
+1.  Open Section (7d+)
+2.  Dan A (4-6d)
+3.  Dan B (1-3d)
+4.  Kyu A (1-5k)
+5.  Kyu B (6-10k)
+6.  Kyu C (11-15k)
+7.  Kyu D (16k+)
+
 When they announced the first place prize for the Kyu D division, "... 1st Place, trophy and $100" echoed over the microphone. As I heard the cash prize amount, I'd be lying if I said that part of me didn't feel just a twinge of jealously as I heard the cash prize amount. After all, it wasn't chump change by any stretch of the means!
 
 As I sat there listening to them announce the winners, I recalled the time that I had won first place in the [Pumpkin Classic](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-conclusion/ "NOVA Pumpkin Classic Tournament 2012 — Conclusion"). I smiled as I remembered that momentous feeling. And a small part of me wished that I had done better in the tournament; but then I reminded myself that I had nothing to be ashamed of for this tournament. After all, on top managing to bring my record up to 3-2, the experiences and the lessons that I had learned through this tournament were priceless and I would not have traded it in for a better record or any trophy or prize money.
@@ -138,13 +139,13 @@ As I'm sitting there bewildered and trying to make sense of how the tiebreakers 
 
 "1st Place - Benjamin Hong..."
 
-[caption id="attachment_5208" align="aligncenter" width="347"][![Wait... What?! *turns around to see if I](http://www.bengozen.com/wp-content/uploads/2014/05/omgcat.gif)](http://www.bengozen.com/wp-content/uploads/2014/05/omgcat.gif) Wait... What?! *turns around to confirm that I'm not the only one who heard that*[/caption]
+![Wait... What?! *turns around to confirm that I'm not the only one who heard that*](/images/2014/05/omgcat.gif)
 
 I honestly wish someone had taken a picture of my face, because I can tell you that I was completely and utterly surprised. But yeah, I wasn't hallucinating or imaging things. I really did get 1st place.
 
-[caption id="" align="aligncenter" width="448"][![2014-WOpen-22](http://www.bengozen.com/wp-content/uploads/2014/05/2014-WOpen-22.jpg)](http://www.bengozen.com/wp-content/uploads/2014/05/2014-WOpen-22.jpg) There's my first prize envelope. The cash prize was $200![/caption]
+![There's my first prize envelope. The cash prize was $200!](/images/2014/05/2014-WOpen-22.jpg)
 
-[caption id="attachment_5209" align="aligncenter" width="467"][![2014-WOpen-21](http://www.bengozen.com/wp-content/uploads/2014/05/2014-WOpen-21.jpg)](http://www.bengozen.com/wp-content/uploads/2014/05/2014-WOpen-21.jpg) Here's the trophy I got as well. Looks pretty sweet![/caption]
+![Here's the trophy I got as well. Looks pretty sweet!](/images/2014/05/2014-WOpen-21.jpg)
 
 The thing about tournaments is that you never know what's going to happen. I went the first day with a 1-2 record and completely thought I was out of the running. In fact, I even thought about dropping out the last round because of stupid insecurities. Imagine if I had done that? Imagine if I had just given up? The story would not have been nearly as exciting would it?
 
