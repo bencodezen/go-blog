@@ -19,4 +19,5 @@ And while the standard practice is to make big overtures about what the next yea
 
 1.  Actually play games and not just study.
 2.  Find a groove that works for my blogging. I know what I want ideally, but it’s time I found the right balance for consistency.
+
 With that said and done, I also want to take the time to thank everyone for their support of the blog. Your comments and words of advice and encouragement have been key in helping me persist through times of difficulty. I hope that you all have a great New Years Eve and will have an even better 2015\. Till next year!
