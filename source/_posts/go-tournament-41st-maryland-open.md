@@ -12,7 +12,7 @@ tags:
 
 It's that time of year again! The 41st Maryland Open Go Tournament is upon us once again! So if you live in the DC Metro Area or simply don't mind making the trip down to Baltimore, Maryland, be sure to check out the flier below for more information.
 
-[![marylandopen41](http://www.bengozen.com/wp-content/uploads/2014/03/marylandopen41.jpg)](http://www.bengozen.com/wp-content/uploads/2014/03/marylandopen41.jpg)
+![](http://www.bengozen.com/wp-content/uploads/2014/03/marylandopen41.jpg)
 
 [41st Maryland Go Open Official Site](http://baltimoregoclub.org/md_open "41st Maryland Open Go  Tournament Official Site")
 

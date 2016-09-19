@@ -12,8 +12,7 @@ tags:
 	- life-and-death
 	- tsumego
 ---
-
-[![ggpdpv1cover](http://www.bengozen.com/wp-content/uploads/2014/02/ggpdpv1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2014/02/ggpdpv1cover.jpg)
+![](/images/2014/02/ggpdpv1cover.jpg)
 
 ## Graded Go Problems for Dan Players: Volume One - 300 Life-and-Death Problems (5-kyu to 3-dan)
 
