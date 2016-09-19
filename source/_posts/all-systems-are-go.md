@@ -1,5 +1,5 @@
 ---
-title: All Systems Are Go!
+title: 'All Systems Are Go!'
 date: 2016-09-18 20:36:56
 categories:
 	- Journal
@@ -39,7 +39,7 @@ In addition, the workflow around blogging in WordPress was starting to make it v
 
 Without getting into technical jargon, it is suffice to say that I have [Nate](http://nateeagle.com/) to thank for giving me the nudge I needed to get out of WordPress once and for all.***
 
-* It should be noted that I'm referring to a personal installation of WordPress and not the site or service.
+\* It should be noted that I'm referring to a personal installation of WordPress and not the site or service.
 
 ** This was a particularly frustrating point for me since I do front-end development professionally, but could never bring myself to spend a ton of time learning WordPress development for the blog.
 
