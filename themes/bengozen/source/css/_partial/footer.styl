@@ -1,15 +1,33 @@
 #footer
-  background: color-footer-background
-  padding: 30px 0
-  border-top: 1px solid color-border
-  color: color-grey
-  a
-    color: lighten($cBlue, 20%)
-    text-decoration: none
-    &:hover
-      text-decoration: underline
+	background: color-footer-background
+	padding: 30px 0
+	border-top: 1px solid color-border
+	color: color-grey
+	a
+		color: lighten($cBlue, 20%)
+		text-decoration: none
+		&:hover
+			text-decoration: underline
 
 #footer-info
-  font-family: font-sans
-  line-height: line-height
-  font-size: 0.85em
+	display: flex
+	justify-content: space-between
+	font-family: font-sans
+	line-height: line-height
+	font-size: 0.85em
+
+.footer-info {
+	&__right {
+		display: flex;
+		align-items: center;
+
+		.nav-icon {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+			color: lighten($cBlue, 20%);
+			font-size: 1.5rem;
+		}
+	}
+}

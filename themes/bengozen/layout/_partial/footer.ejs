@@ -1,11 +1,18 @@
 <footer id="footer">
-  <% if (theme.sidebar === 'bottom'){ %>
-    <%- partial('_partial/sidebar') %>
-  <% } %>
-  <div class="outer">
-    <div id="footer-info" class="inner">
-      &copy; <%= date(new Date(), 'YYYY') %> BenGoZen<br>
-      <%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a>
-    </div>
-  </div>
+	<% if (theme.sidebar === 'bottom'){ %>
+		<%- partial('_partial/sidebar') %>
+	<% } %>
+	<div class="outer">
+		<div id="footer-info" class="inner">
+			<div class="footer-info__left">
+				&copy; <%= date(new Date(), 'YYYY') %> BenGoZen<br>
+				<%= __('powered_by') %> <a href="http://hexo.io/" target="_blank">Hexo</a>
+			</div>
+			<div class="footer-info__right">
+				<% if (theme.rss){ %>
+					<a id="nav-rss-link" class="nav-icon" href="<%- theme.rss %>" title="<%= __('rss_feed') %>"></a>
+				<% } %>
+			</div>
+		</div>
+	</div>
 </footer>
