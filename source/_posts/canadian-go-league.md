@@ -8,7 +8,7 @@ tags:
 	- canadian-go-league
 ---
 
-[![CANADA](http://www.bengozen.com/wp-content/uploads/2013/09/CANADA.jpeg)](http://www.bengozen.com/wp-content/uploads/2013/09/CANADA.jpeg)
+![](/images/2013/09/CANADA.jpeg)
 
 So it's official. I've joined the [Canadian Go League](http://members.go-canada.org/League "Canadian Go League") and will be participating in their Round 13-5! For those wondering what it is, it's essentially an online tournament that is played using KGS and is completely free to participate in! They seem to have a wide range of players and have also done a great job breaking players up into appropriate divisions.
 

@@ -10,7 +10,7 @@ tags:
 	- studying
 ---
 
-[caption id="attachment_3934" align="aligncenter" width="560"][![That](http://www.bengozen.com/wp-content/uploads/2013/09/Lee-Sedol-Eric-Lui-2013-Samsung-Cup.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/Lee-Sedol-Eric-Lui-2013-Samsung-Cup.jpg) That's my friend Eric Lui playing against Lee Sedol!!! AHH!!!!!!!! Photo Credit to [GoGameGuru](http://gogameguru.com/2013-samsung-cup-group-stage-wrap-up/)[/caption]
+![That's my friend Eric Lui playing against Lee Sedol!!! AHH!!!!!!!! Photo Credit to GoGameGuru](/images/2013/09/Lee-Sedol-Eric-Lui-2013-Samsung-Cup.jpg)
 
 I don't know if any of you have ever heard of the game "Six Degrees of Kevin Bacon" (which is a deviation from the theory "[six degrees of separation](http://en.wikipedia.org/wiki/Six_degrees_of_separation)"), but it essentially boils down to the idea that every person is connected to another within six connections. And as you might guess based on the title of my post, I am writing because my friend Eric Lui had the honor of competing in the 2013 Samsung Cup and got to play against Lee Sedol!!!! I would be lying if I said I wasn't jealous in the least, but that is still just plain epic!!!!!!
 
@@ -23,6 +23,6 @@ So how does this relate to me? Well I am the first to admit that I am pretty laz
 And then as if I wasn't already feeling guilty enough about my lazy approach to studying life and death, Lee Sedol makes the following statement:
 > Fighting spirit without the base of thorough reading is nothing but recklessness that leads directly to defeat.
 
-[![mindblown](http://www.bengozen.com/wp-content/uploads/2013/09/mindblown.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/mindblown.jpg)
+![](/images/2013/09/mindblown.jpg)
 
 While I was blown away by how insightful that comment is, another part of me also felt incredibly sheepish as I realized that Lee Sedol had just summed up why I lose most of my games in one line. Heh... Perhaps it's time to take a moment and rethink my approach to studying...

@@ -17,7 +17,7 @@ For those who aren't aware of the popularity of go in the rest of the world, the
 
 Here is the video that I watched last night:
 
-[youtube=http://www.youtube.com/watch?v=XCBHI_lNgXI&amp;list=PLq69jNwwOmf-Lkbyny1HwiRUKMg6uuFo2]
+http://www.youtube.com/watch?v=XCBHI_lNgXI&amp;list=PLq69jNwwOmf-Lkbyny1HwiRUKMg6uuFo2
 
 Since I had never watched a TV episode dedicated entirely to go (excluding _Hikaru no Go_), I was a little nervous that I might get bored or that I would be unable to gain anything from it. Contrary to my fears however, I was pleasantly surprised at how much I enjoyed it. Though many complain about the co-host interrupting often and saying "Yes" all the time, you have to be conscious of the fact that the English is clearly not her first language and that chances are pretty good that her mannerisms derive from Korean culture. So with that in mind, I was able to look past it rather easily and just enjoy all the marvelous go.
 

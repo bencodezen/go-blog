@@ -9,7 +9,7 @@ tags:
 	- reviews
 ---
 
-[caption id="attachment_4048" align="aligncenter" width="400"][![Credit to MediaWhiz](http://www.bengozen.com/wp-content/uploads/2013/09/quality-assurance.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/quality-assurance.jpg) Credit to [MediaWhiz](http://www.mediawhiz.com/trust-quality-score-for-quality-results-2)[/caption]
+![Credit to MediaWhiz](/images/2013/09/quality-assurance.jpg)
 
 So my resolution to play one game a day has ultimately fallen through. As time went on, my games began deteriorating in quality and each game began to feel more like a chore that I needed to hurry and finish instead of a learning experience. After feeling like this for a few days, I decided to that I needed to re-examine what I was doing before I started developing bad habits. Instead of just stopping the idea as a whole however, I decided to revise it to the following: **Play 1 game of go / thoroughly review one of your previous games per day.**
 

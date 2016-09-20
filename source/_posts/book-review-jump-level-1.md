@@ -12,7 +12,7 @@ tags:
 	- workbook
 ---
 
-[![Jump Level Up 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/jumplevelup1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/jumplevelup1cover.jpg)
+![Jump Level Up 1 Cover](/images/2013/08/jumplevelup1cover.jpg)
 
 ## Jump Level Up 1
 
@@ -20,9 +20,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Jump Level Up 1
 Series, Jump Level Up
 Author, Lee Jae-Hwan
@@ -33,11 +32,8 @@ Published, "May 25th, 2012"
 Language, English
 ISBN, 978-89-90965-71-4
 Length, 167 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 *   Glossary
 *   Hola Amigo Siddhartha!
@@ -67,19 +63,18 @@ Length, 167 Pages
 *   Endgame: Making Use of Jachung and Clamps
 *   How to Answer
 *   Level Tests
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
 *   My reading skills and knowledge would probably equate to a solid 5 kyu at this point.
+
 **My Perspective**
 
 *   After finishing the Level Up Series, I was really looking forward to what the intermediate level would have to offer.
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -87,29 +82,35 @@ Length, 167 Pages
 *   Reviews old joseki patterns and continues to teach new ones.
 *   Started introducing endgame technique in regards to simple but effective tesuji that players often overlook.
 *   Gives proper attention to the concepts of connections between stones.
+
 **What did I gain from reading this book?**
 
 *   Improved fundamentals in endgame techniques.
 *   More familiarity with haengma (e.g., stone movement) regarding diving, blockading, and connections.
 *   Reinforcement on my semeai (e.g., capturing races) skills.
 *   Reinforcement of my understanding of tesuji such as jachung (e.g., shortage of liberties) and clamps.
+
 **What is the format of the book?**
 
 *   The book is primarily structured as follows: (1) A one page explanation of the topic that you are about to practice. Example: When behind in liberties. They not only show the sequence for the proper technique, but also include common mistakes and brief explanations as to why they are mistakes. (2) A set of very easy to understand and follow practice problems to ensure you understand what you are learning.
+
 **What aspect can be improved on?**
 
 *   When learning about endgame techniques, there were a couple of problems where I had to figure it out for myself when solving it. In other words, there was no prior explanation that focused on that specific techniques (e.g., snapback). To be clear though, this occurred like in 1% of the problems, so it's not a big issue at all; but it's something I thought I would note.
+
 **Is this book easy to read?**
 
 *   Yes. It doesn't get much more simple or straightforward than this.
+
 **Bottom Line**
 
 1.  Continues to live to the high expectations I have for this series.
-2.  An incredible way for players to immerse themselves and gain the ability to actually apply the concepts they are learning to their own games.
-3.  Worth every penny!
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+2.  An incredible way for players to immerse themselves and gain the ability to actually apply the concepts they are learning to their own games.
+
+3.  Worth every penny!
+
+### My Review
 
 When I first heard that there was an intermediate level of the Level Up Series, you can only imagine how ecstatic I was. And though part of me thought that it would suddenly be a lot more advanced, I am really pleased with how the transition is actually hardly noticeable.
 
@@ -119,19 +120,18 @@ And another thing I'll note with about the Jump Level Up series, they still take
 
 [/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
 [/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](http://www.ymimports.com/p-2058-jump-level-up-1-10-8-kyu.aspx "Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   Jump Level Up 1
 *   Jump Level Up 2
@@ -140,6 +140,5 @@ And another thing I'll note with about the Jump Level Up series, they still take
 *   Jump Level Up 5
 *   Jump Level Up Answer Book
 *   Level Up Series
-[/expand]
 
 _**Last Updated on September 5th, 2013**_

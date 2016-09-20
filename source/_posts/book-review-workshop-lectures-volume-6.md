@@ -12,7 +12,7 @@ tags:
 	- opening
 ---
 
-[![The Workshop Lectures Volume 6 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv6.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv6.jpg)
+![The Workshop Lectures Volume 6 Cover](/images/2013/08/workshopLecturesv6.jpg)
 
 ## The Workshop Lectures (Volume 6)
 
@@ -20,9 +20,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, The Workshop Lectures (Volume 6)
 Series, The Workshop Lectures
 Author, Yilun Yang (7P)
@@ -31,56 +30,56 @@ Published, "2008"
 Language, English
 ISBN, 1-932001-42-5
 Length, 84 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Entering the Middle Game
 2.  Attacking Severely
 3.  Dealing with a Moyo
 4.  Playing With and Against the Sanrensei
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
 *   A mid-high SDK (single digit kyu) who has read his fair share of books and has a decent foundation of most areas in go.
+
 **My Perspective**
 
 *   Since these are written to be more of a "workshop" format, I was looking forward to a new style of writing along with a refreshing perspective on some common questions that most players might have.
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
 *   Covers a wide range of topics that are relevant to weaker players like myself.
 *   Presents a lot of new ideas that provide new and alternate ways to approaching traditional methods of explaining concepts such as reducing a moyo.
+
 **What did I gain from reading this book?**
 
 *   Realization that my understanding of "attacking severely" was far worse than I imagined. Though to be clear, this is not a bad thing at all. It was very helpful to have my understanding completely revamped.
 *   New ideas for how to deal with a moyo.
 *   A better understanding of the sanrensei and how to play against it as White.
+
 **What style of teaching does the book use?**
 
 *   Similar to his previous books in this series, the teaching format primarily consists of explanations regarding the topic at hand in conjunction with diagrams that have the reader test his/her ability. Then, after the problem is given, Yang typically goes into an extensive (but simple to understand) explanation of the various things the reader should consider when approaching the problem.
+
 **What aspect can be improved on?**
 
 *   No complaints from me!
+
 **Is this book easy to read?**
 
 *   Yes. The explanations are concise and the accompanying diagrams are often no more than a few moves long.
+
 **Bottom Line**
 
 1.  Breaks down topics into easy to understand explanations.
 2.  Has a lot of valuable content for such a short book!
 3.  Worth every penny you spend on it!
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 The section on "Entering the Middle Game" was a little hit and miss for me. While I really enjoyed some of Yang's advice regarding positional analysis and what to do next, there were times that I felt like we were back to discussing the opening and so I was a little disheartened by that. Overall though, Yang still did a great job advising players how to progress from the opening in to the middle game.
 
@@ -92,20 +91,16 @@ As someone who has studied and used the sanrensei rather extensively, I found th
 
 Finally, as this is the final volume for The Workshop Lecture Series, I must say that this is probably my favorite volume out of the entire series. The reason for this is most likely due to my interest in the topics within this volume; but it is also due to the fact that I think it covers a lot of ground that players really have issues dealing with. If you have any interest at all in the topics covered in this book, I wouldn't hesitate to get a copy of this!
 
-[/expand]
-
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Players who are 9 kyu or stronger.
 *   Players who want guidelines on how to handle the topics covered in the book.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Slate and Shell - [$15.00](http://www.slateandshell.com/SSYY011.html) USD (shipping and handling not included)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [The Workshop Lectures - Volume 1](http://www.bengozen.com/book-review-the-workshop-lectures-volume-1/ "Book Review: The Workshop Lectures Volume 1")
 *   [The Workshop Lectures - Volume 2](http://www.bengozen.com/book-review-the-workshop-lectures-volume-2/ "Book Review: The Workshop Lectures Volume 2")
@@ -113,6 +108,5 @@ Finally, as this is the final volume for The Workshop Lecture Series, I must say
 *   [The Workshop Lectures - Volume 4](http://www.bengozen.com/book-review-the-workshop-lectures-volume-4/ "Book Review: The Workshop Lectures Volume 4")
 *   [The Workshop Lectures - Volume 5](http://www.bengozen.com/book-review-the-workshop-lectures-volume-5/ "Book Review: The Workshop Lectures Volume 5")
 *   The Workshop Lectures - Volume 6
-[/expand]
 
 _**Last Updated on September 3rd, 2013**_

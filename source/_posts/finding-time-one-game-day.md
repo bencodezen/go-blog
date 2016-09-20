@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-[![findingtime](http://www.bengozen.com/wp-content/uploads/2013/09/findingtime.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/findingtime.jpg)
+![](/images/2013/09/findingtime.jpg)
 
 As many of you are aware, I recently started a discipline of playing at least one game a day. And while I am happy to report that I have been keeping up with it, it occurred to me that there are many people out there who would probably like to attempt something similar; but decide not to due to assuming that it would be too "time consuming." So, I thought that I would go ahead and write about my experience on finding time for one game a day.
 

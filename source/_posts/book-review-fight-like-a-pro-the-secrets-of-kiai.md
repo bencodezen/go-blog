@@ -11,7 +11,7 @@ tags:
 	- kiai
 ---
 
-[![Mastering the Basics 8 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/mtbsv8cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/mtbsv8cover.jpg)
+![](/images/2013/07/mtbsv8cover.jpg)
 
 ## Fight Like a Pro - The Secrets of Kiai
 
@@ -19,9 +19,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Fight Like a Pro - The Secrets of Kiai (Volume 8)
 Series, Mastering the Basics Series
 Author, Rob van Zeijst &amp; Richard Bozulich
@@ -30,11 +29,8 @@ Published, "December 2012"
 Language, English
 ISBN, 978-4-906574-78-0
 Length, 282 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  What is kiai?
 2.  Kiai and komi
@@ -59,19 +55,19 @@ Length, 282 Pages
 21.  Game Fifteen: Pak Yeong-hun vs. Kong Jie
 22.  Game Sixteen: O Meien vs. Miyazawa Goro
 23.  Mastering the Basics
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
 *   Of the various styles that exists in go, I'm pretty sure most people would agree that mine leans towards fighting. However, my attacks and fighting abilities are still rather wild, ineffective and often misdirected.
+
 **My Perspective**
 
 *   As my style naturally leans towards fighting, I was sold the moment I saw "fight like a pro." Based on the trends of the series, I was hoping to see the principles behind fighting and then a bunch of practice problems to hone my fighting skills.
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
+
 **What did I enjoy about the book?**
 
 *   There are problems that allows players to guess what the kiai move was.
@@ -80,29 +76,36 @@ Length, 282 Pages
 *   I really enjoyed getting to see analysis on professional games by some of the most well known players (i.e., Gu Li, Lee Changho, Lee Sedol, etc.) in today's go scene.
 *   They had a blitz game!!! It was epic!!!
 *   Though difficult to understand at times, Zeijst and Bozulich do an incredible job breaking down professional games to an understandable level.
+
 **What did I gain from reading this book?**
 
 *   A better understanding of what kiai is and how to use kiai in my own games.
 *   Realization that kiai is not equivalent to starting random fights, trying desperately to kill something, or starting a fight that endangers the life of one of your groups. Instead, they are very calculated moves that are meant to open up opportunities to make a comeback or disrupt the opponent's plans.
 *   Insight into what goes into a professional's decision and what I can do myself to try and apply it to my own games.
+
 **What is the format of this book?**
 
 *   After a short introduction on what kiai is and its significance in go, the book is universally structured as a game review. Each chapter will start with what colors each respective player had (for the featured game) followed by how much komi was played, the amount of time each player had, and where and when it was played. Then, as one might expect with any game review, there are the accompanying diagrams of the actual kifu (broken out in chunks at a time) along with variations along the way. The one refreshing aspect that gives the reader a break from simply reading are the questions that Zeijst and Bozulich pose along the way (e.g., "Where do you think Black played in response to 34?").
+
 **What aspect can be improved on?**
 
 *   This is extremely nit-picky, but what would have made each game kifu complete is if the ruleset that was used in each game was included. Again, super super minor; but something that would have been nice to have.
+
 **Is this book easy to read?**
 
 *   For the most part, the book is very easy to follow and understand. The diagrams are never too long. In addition, Zeijst and Bozulich take each game at a pretty steady pace so that weaker players like myself have an opportunity to think through certain important moves instead of just rushing through the kifu. A word of caution though, the explanations can be a little advanced at times; but this is also what is part of its charm since I can look forward to learning more when I read it again in the future.
+
 **Bottom Line**
 
 1.  A very comprehensive application of all the fundamentals you learn from the rest of the series along with other books as well.
-2.  Contains a great collection of games from current professionals (e.g., Gu Li, Lee Sedol, etc.), which is always a treat!
-3.  The focus of the book is more on kiai and not fighting techniques.
-4.  A pioneer in go literature on the topic of kiai that amateur players will definitely come to appreciate in the years to come.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+2.  Contains a great collection of games from current professionals (e.g., Gu Li, Lee Sedol, etc.), which is always a treat!
+
+3.  The focus of the book is more on kiai and not fighting techniques.
+
+4.  A pioneer in go literature on the topic of kiai that amateur players will definitely come to appreciate in the years to come.
+
+### My Review" trigclass="expandTitle" expanded="true"]
 
 One of the things I really enjoyed about this book is the fact though the explanations can be difficult to comprehend at times, the diagrams are usually only a few moves long and really allows the reader to take the game in bite sizes.
 
@@ -110,20 +113,16 @@ In addition, I really like how Zeijst and Bozulich takes great care in ensuring 
 
 Finally, though there were a number of times where I felt lost and unable to quite comprehend the severity of what was going on, I definitely felt something awaken inside of me after playing through all the kifus in this book. And even though I didn't end up learning "fighting principles," the lesson and multiple demonstrations of true kiai through the games of many strong professionals I have come to respect has truly been an eye opening experience.
 
-[/expand]
-
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Players who have a thorough understanding of the fundamentals introduced in the previous Mastering the Basics series.
 *   Players who enjoy reviewing professional games and having the games broken down to them while learning about kiai.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Kiseido - [$25.00](http://kiseido.com/go_books.htm "Kiseido Purchase Link") USD (shipping and handling not included)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [Mastering the Basics, Volume 1 - 501 Opening Problems](http://www.bengozen.com/book-review-501-opening-problems/ "Book Review: 501 Opening Problems")
 *   [Mastering the Basics, Volume 2 - 1001 Life and Death Problems](http://www.bengozen.com/book-review-1001-life-and-death-problems/ "Book Review: 1001 Life and Death Problems")
@@ -133,6 +132,5 @@ Finally, though there were a number of times where I felt lost and unable to qui
 *   [Mastering the Basics, Volume 6 - All About Ko](http://www.bengozen.com/book-review-all-about-ko/ "Book Review: All About†Ko")
 *   [Mastering the Basics, Volume 7 - Attacking and Defending Moyos](http://www.bengozen.com/book-review-attacking-and-defending-moyos/ "Book Review: Attacking and Defending Moyos")
 *   Mastering the Basics, Volume 8 - Fight Like a Pro - The Secrets of Kiai
-[/expand]
 
 _**Last Updated on September 4th, 2013**_

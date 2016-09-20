@@ -1,3 +1,4 @@
+
 ---
 title: Epic Day of Tetris... I Mean... Go...
 date: 2013-09-13 20:53:55
@@ -14,7 +15,7 @@ Today has been full of epicness, an incredible milestone, and a hilarious video 
 
 To start, I am ecstatic to announce that **I beat a 3 dan in an even game as White on Tygem**!!!!!
 
-[![excited-baby](http://www.bengozen.com/wp-content/uploads/2013/09/excited-baby.gif)](http://www.bengozen.com/wp-content/uploads/2013/09/excited-baby.gif)
+![](/images/2013/09/excited-baby.gif)
 
 That's right. Even. 6.5 komi. And I won by 9.5 points. AHHHH!!!!!! (I know it was probably a fluke, but still, a true victory against a dan player in an even game. WOOO!!!!!!!!)
 

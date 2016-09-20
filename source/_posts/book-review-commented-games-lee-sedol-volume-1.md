@@ -9,7 +9,7 @@ tags:
 	- lee-sedol
 ---
 
-[![leesedolv1cover](http://www.bengozen.com/wp-content/uploads/2013/09/leesedolv1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/09/leesedolv1cover.jpg)
+![](/images/2013/09/leesedolv1cover.jpg)
 
 ## Commented Games by Lee Sedol: Volume 1 - One Step Closer to the Summit
 
@@ -17,9 +17,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Commented Games by Lee Sedol: Volume 1 - One Step Closer to the Summit
 Series, Commented Games by Lee Sedol
 Author, Lee Sedol (9P) &amp; Lee Sena
@@ -29,11 +28,8 @@ Published, "June 2012"
 Language, English
 ISBN, 978-89-90965-37-0
 Length, 319 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 *   Commentator's Preface
 *   Writer's Preface
@@ -78,17 +74,14 @@ Length, 319 Pages
 		*   Naming
 
 		*   Chapter 3 - Epilogue
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 When I first began my journey as a go player, I bought Invincible and was excited at the prospect of working through all the games of one of the greatest go legends of all time, Shusaku. Although I'm sure the quality of information in it is incredible, the experience of trying to work through it was rather traumatic since it was so incredibly advanced. Needless to say, I learned the hard way how incredibly inaccessible professional commentaries can be.
 
 Around the time this book came out, I had just started being exposed to the modern professional go scene. Like most people, I gravitated toward the most well known and strongest players (i.e., Lee Changho, Lee Sedol, Gu Li, etc.). So Lee Sedol's book came out and it was being hailed as the Korean version of "Invincible," I was a little nervous at first. When I found out however that it was written to try and be accessible to beginner/intermediate players as well, let's just say I couldn't purchase the book fast enough.
 
-[/expand]
-
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 When I first started working through this book, one of the things that absolutely shocked me was how short the sequences were for each diagram. I was so used to other professional commentaries where game diagrams were often 10 moves or longer with such advanced discussions that this new approach was such a relief. In addition, since each game diagram is usually only a few moves long, the game discussion is broken down in far more detail and provides weaker players like myself an actual chance at learning something! In addition, at the end of each game, Lee Sedol highlights all of the important moments along with each game. This is something I had never encountered before and found it really helped me gain perspective on the game.
 
@@ -98,9 +91,7 @@ In terms of my ability to understand the discussion about the variations however
 
 And finally, yes, it may take a long time before I'm able to fully comprehend the book in its entirety and apply it to my own games; but the fact is that I had an incredible time reading this book. The combination of learning about Lee Sedol's perspective on go along with being able to get to know Lee Sedol as a person made the book an incredible experience. This will definitely be one of my favorites of all time and I am looking forward to revisiting it many times in my journey as a go player.
 
-[/expand]
-
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -108,11 +99,13 @@ And finally, yes, it may take a long time before I'm able to fully comprehend th
 *   The introductory page for each game was immensely appreciated since it gave context as to the kind of game being played along with how high the stakes were.
 *   The game commentary is extremely detailed and you get to hear Lee Sedol's personal thoughts on both the go discussion along with his mentality at the time.
 *   The way Lee Sedol highlights the important moments of each game is new and really helped to wrap up the game in a very thorough manner.
+
 **What did I gain from reading this book?**
 
 *   A much broader perspective on the game in regards to how to approach it.
 *   The realization of just how important accurate reading is when it comes to go.
 *   A new awareness of how often things can change and that trade-offs can occur at any time in the game.
+
 **How is the book structured?**
 
 1.  A one page introduction to the game with the following information:
@@ -139,37 +132,40 @@ And finally, yes, it may take a long time before I'm able to fully comprehend th
 	5.  At the end of each game, Lee Sedol goes through and summarizes the highlights of each game and discusses the importance of that moment.
 
 4.  An epilogue of Lee Sedol's thoughts of the tournament as a whole along with any thoughts he had about himself as a player and his psychological state at the time. In other words, it's as if you got the opportunity to talk to Lee Sedol and hear his thoughts on the tournament. Extremely enjoyable to read.
+
 5.  Finally, spread throughout the chapters, players will also find anecdotes and random tidbits (called Episodes in the Table of Contents) about Lee Sedol that serve as an extremely enjoyable break.
+
 **What aspect can be improved on?**
 
 *   No complaints here!
+
 **Is this book easy to read?**
 
 *   Yes. The tone of the book was primarily conversational that really helped alleviate any difficulty weaker players might normally have when reading a book with professional level commentary.
+
 **Bottom Line**
 
 1.  The first book where a professional provides commentary that can be accessible by beginner and intermediate players (though a bit more towards intermediate players).
-2.  The format of the book makes for an incredible and unforgettable experience where the reader can be immersed in go and Lee Sedol's thoughts while also getting to know him at the same time.
-3.  It takes professional level commentary to a level never seen before.
-4.  Worth every penny and more for the content and experience you get with it!
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+2.  The format of the book makes for an incredible and unforgettable experience where the reader can be immersed in go and Lee Sedol's thoughts while also getting to know him at the same time.
+
+3.  It takes professional level commentary to a level never seen before.
+
+4.  Worth every penny and more for the content and experience you get with it!
+
+### Recommended For...
 
 *   Any players who are fans of Lee Sedol.
 *   Players who have run into issues understanding professional commentaries in the past and are looking for a book that tries to bridge that gap.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   GoGameGuru - [$42.00](http://shop.gogameguru.com/commented-games-by-lee-sedol-1/?acc=e4da3b7fbbce2345d7772b0674a318d5 "Commented Games by Lee Sedol Volume 1 GoGameGuru Purchase Link") (shipping and handling not included)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   Commented Games by Lee Sedol: Volume 1 - One Step Closer to the Summit
 *   [Commented Games by Lee Sedol: Volume 2 - Dream to Be the Best](http://www.bengozen.com/book-review-commented-games-lee-sedol-volume-2/ "Book Review: Commented Games by Lee Sedol Volume 2")
 *   Commented Games by Lee Sedol: Volume 3 - TBD
-[/expand]
 
 _**Last Updated on September 10th, 2013**_
