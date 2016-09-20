@@ -12,7 +12,7 @@ tags:
 	- joseki
 ---
 
-[![Joseki Jeongseuok Compass 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/josekicompassv1.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/josekicompassv1.jpg)
+![Joseki Jeongseuok Compass 1 Cover](/images/2013/08/josekicompassv1.jpg)
 
 ## Joseki Jeongseok Compass 1
 
@@ -20,9 +20,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Joseki Jeongseok Compass 1
 Series, Joseki Jeongseok Compass
 Author, Lee Jae-Hwan
@@ -32,11 +31,8 @@ Published, "2nd Edition - October 10th, 2012"
 Language, English
 ISBN, 978-89-90965-97-4
 Length, 168 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Star Point Joseki 1
 2.  Star Point Joseki 2
@@ -58,9 +54,8 @@ Length, 168 Pages
 18.  4-5 Point Joseki 1
 19.  3-5 Point Joseki 1
 20.  3-3 Point Joseki 1
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
@@ -70,7 +65,7 @@ Length, 168 Pages
 *   While I might have become familiar with a few joseki here and there, I was realy hoping to start from the ground up and get a much better how joseki are created and built.
 [/expand]
 
-[expand title="Synopsis"  trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -79,11 +74,13 @@ Length, 168 Pages
 *   There are many opportunities for reinforcement on picking the right move.
 *   They have you evaluate the first 30-40 moves of a game and have you figure out which move was a mistake.
 *   They teach joseki that takes into consider other stone positions such as a star side point that is occupied.
+
 **What did I gain from reading this book?**
 
 *   A much better understanding of why joseki sequences are what they are.
 *   A significant boost in my comfort with joseki as a whole.
 *   Higher confidence in my ability to "create joseki" rather than "memorize joseki."
+
 **What is the format of the book?**
 
 1.  A brief introduction on why one should study joseki along with some advice for how to study joseki.
@@ -95,38 +92,36 @@ Length, 168 Pages
 		3.  Practice problems for how to respond to different situations. This includes mistakes along with proper moves.
 		4.  One to two problems where you have to evaluation a kifu (approximately 10-30 moves long) and determine which player played better and which move was the mistake.
 		5.  One to two sample professional openings that usually contain the joseki that the reader just learned.
+
 **What aspect can be improved on?**
 
 *   There are some useful proverbs that are placed on the bottom of the page (e.g., "Even a moron connects against a peep."), but they can be rather cryptic at times. This is possibly due to the fact they were translated from Korean, but they're not as helpful as I was hoping. Although to be clear, this is not the focus of the book, so it's not a big deal.
 *   They need to make more of these books! More more more!
+
 **Is this book easy to read?**
 
 *   Yes. It doesn't get much simpler than this.
+
 **Bottom Line**
 
 1.  This is how joseki should have been taught from day one!
 2.  An incredible way to be introduced to joseki as a whole.
 3.  Serves as a fantastic companion to the rest of the Level Up Series.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 One of the reasons I have always avoided the study of joseki is that most of the literature out there is EXTREMELY dense when you consider that a large portion of players interested in joseki are kyu players. In addition, I personally feel that kyu players encounter far more star point joseki in their games due to the nature of being a kyu player. In addition, star point joseki have far fewer variations and much easier to undrestand.
 
 This is seriously an incredible milestone for go literature. In all honesty, this is the book that everyone should use when they want to start learning about joseki. And in fact, this is the way that all joseki should be taught from the get go. There are so many opportunities for reinforcement. For example, I am completely in love with the new problem format they introduce: analyzing a kifu and determining not only who played better, but which move was the mistake as well! INCREDIBLE!
 
-[/expand]
-
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Players who want an easy to understand introduction to creating joseki (as opposed to memorizing them).
 *   Players who want opportunities to practice the sequence through problems instead of waiting till the off-chance it occurs in their games.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="lastExpandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](http://www.ymimports.com/p-1254-joseki-jeongseok-compass-1-20-10-kyu.aspx "Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-_**Last Updated on August DAY, YEAR**_
+_**Last Updated on August 29, 2013**_

@@ -9,7 +9,7 @@ tags:
 	- training
 ---
 
-[caption id="attachment_3814" align="aligncenter" width="400"][![Credit to Ippo Wikki](http://www.bengozen.com/wp-content/uploads/2013/08/WhiteFang.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/WhiteFang.jpg) Credit to [Ippo Wikki](http://ippo.wikia.com/wiki/White_Fang)[/caption]
+![Credit to Ippo Wikki](/images/2013/08/WhiteFang.jpg)
 
 Something interesting happened yesterday. I had just finished the arc in [Hajime no Ippo](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CC8QFjAA&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFighting_Spirit_(manga)&amp;ei=6IoOUrG_FaWbygGL6oCwAg&amp;usg=AFQjCNFFI0eP4wTVR8AszqReTx_t5ZpG1w&amp;sig2=vGXcojo8m7DpILIfiStOww&amp;bvm=bv.50768961,d.aWc) where Volg fights for a world title. And since I was looking to possibly play a game in real time, I got excited when I saw the chance to play someone from Russia. (For those who don't understand the connection, Volg is a Russian boxer.) Before I knew it, I find myself neck deep in a complicated cross-fuseki game where all the fighting spirit I had been reading about had gotten into my blood and I was trying to strike at all of my opponent's groups with everything I had.
 

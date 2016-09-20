@@ -8,14 +8,18 @@ tags:
 
 ---
 
-[caption id="attachment_3796" align="aligncenter" width="400"][![Credit to CrazyThemes](http://www.bengozen.com/wp-content/uploads/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg) Credit to CrazyThemes[/caption]
+![Credit to CrazyThemes](/images/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg)
 
 I've recently taken an interest in boxing, and I have to say that the more I study it, the more I can't help but see similarities between boxing and go. Here are a few off the top of my head:
 
 1.  There are two players in each match.
+
 2.  Regardless of how badly each player might want to win, there can only be one victor at the end of the match.
+
 3.  Exchanging blows with your opponent is inevitable and necessary for a good match.
+
 4.  There are different styles of boxing that seem analogous the go styles as well (e.g., technician/point counter, infighter/fighting, etc.).
+
 But most importantly of all, **those who rise to the top are those who are instinctively faithful to the fundamentals**.
 
 After all, look at any boxer's training regimen and what are you going to find? Running, jump rope, shadow boxing, combinations, sparring. Repeat. Repeat. Repeat. There might be a few deviations occasionally depending on what muscle groups they need to build for certain techniques, but the training menu almost always consists of the fundamentals. And what does a fight primarily consist of? The basics: jab, cross, hook, uppercut, jab, jab...

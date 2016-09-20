@@ -11,7 +11,7 @@ tags:
     - redmond
 ---
 
-[![The ABC](http://www.bengozen.com/wp-content/uploads/2013/08/abcattackanddefensecover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/abcattackanddefensecover.jpg)
+![](/images/2013/08/abcattackanddefensecover.jpg)
 
 ## The ABC's of Attack and Defense
 
@@ -19,9 +19,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, The ABC's of Attack and Defense
 Author, Michael Redmond (9P)
 Publisher, Slate and Shell
@@ -29,11 +28,8 @@ Published, "Second Printing 2005"
 Language, English
 ISBN, 1-932001-00-X
 Length, 218 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 *   Glossary of Japanese Go Terms
 *   Introduction
@@ -71,62 +67,63 @@ Length, 218 Pages
     *   Cutting and being cut
     *   Finding miai
     *   Responding to 4-5 and 3-5 point plays: It's easy!
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
 *   I have some basic knowledge of techniques involved with attacking and defense, but am still rather poor at applying it in my own games.
+
 **My Perspective**
 
 *   With a title like "The ABC's of Attack and Defense," I was really hoping for a very simplistic breakdown of attacking and defense.
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
 *   Though the book is about attack and defense, I appreciate how Redmond utilizes handicap positions (which most players are familiar with) to help illustrate his basic ideas.
 *   His approach to attack and defense is probably the simplest one I've encountered thus far in terms of presentation. Being able to properly implement it is a completely separate idea though.
 *   Redmond's explanations in his examples are quite extensive and detailed.
+
 **What did I gain from reading this book?**
 
 *   A new approach to attack and defense.
 *   A better understanding of how attacking and defense works in handicap games (as Black).
+
 **What is the format of the book?**
 
 *   The writing style of the book is similar to a lecture and primarily uses examples and diagrams as the teaching mechanism. Though there are some simplistic explanations here and there, the explanations can quickly become very complex and bewilder the unsuspecting reader. In other words, you can expect your standard explanations accompanied with diagrams for this book. One of the things I do appreciate about the format of the book however, is that there are occasional one liners that are italicized to catch your attention in case your eyes start to gloss over.
+
 **What aspect(s) can be improved on?**
 
 *   Though I am sure that this book has a lot of wisdom that players can benefit from, I would have to say that this book is still very advanced and lacks the foundation necessary for weaker players (like myself) to be able to truly grasp Redmond's messages. One way to improve this might be practice problems.
+
 **Is this book easy to read?**
 
 *   The book started off easy to follow and read, but as I progressed further into the book I became more confused and found it harder to follow what Redmond was trying to say. Now granted, I am a weak player and I'm sure someone stronger would disagree with me; but as a 4 kyu, I would have to say that this book was not the easiest to read.
+
 **Bottom Line**
 
 1.  Offers a new perspective on how to approach attack and defense.
-2.  Contains information that players new to attack and defense can appreciate, but also contains more advanced discussions regarding example scenarios that advanced players would appreciate.
-3.  Worth purchasing as a collector's item or for seriously hardcore players, but I would steer clear if you are just looking to learn about attack and defense.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+2.  Contains information that players new to attack and defense can appreciate, but also contains more advanced discussions regarding example scenarios that advanced players would appreciate.
+
+3.  Worth purchasing as a collector's item or for seriously hardcore players, but I would steer clear if you are just looking to learn about attack and defense.
+
+### My Review" trigclass="expandTitle" expanded="true"]
 
 Redmond's writing style makes feel like I am having a high level conversation with a professional go player. In the midst of his explanations, you'll find little humorous statements like, "if you have to huddle up in a corner while being sealed in, bad things happen." With that said however, I definitely need to emphasize the fact that this book is NOT for the light-hearted. In other words, while there are golden nuggets of simple wisdom that can easily be followed by most players, the explanation very quickly dive into numerous variations that are complicated and hard to follow for amateurs.
 
 Overall though, I believe that Redmond's book does offer a new perspective and approach on how to handle attack and defense. Though not necessary "new" material to those very strong in attack and defense, Redmond does a great job giving players, who are weak at attack and defense, simple advice that they can try to follow. Unfortunately, this advice is really just condensed down to a few pages, whereas the rest of the book can be confusing for weaker players and thus the message can be lost otherwise. So although I would love to recommend this book whole heartedly, it's rather bitter-sweet for me at the moment. I'll be sure to let you know if my opinion changes.
 
-[/expand]
-
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Players familiar with attack and defense and are looking for another perspective.
 *   Players who are 8 kyu and stronger who want to strengthen their understanding of attack and defense.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="lastExpandTitle"]
+### Where Can I Buy It?
 
 *   It currently seems to be out of print. =( Let me know if it ever comes back on the presses though!
-[/expand]
 
 _**Last Updated on August 31st, 2013**_

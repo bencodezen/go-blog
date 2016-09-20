@@ -11,7 +11,7 @@ tags:
 	- strategy
 ---
 
-[![The Workshop Lectures Volume 3 Cover](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv3.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/workshopLecturesv3.jpg)
+![The Workshop Lectures Volume 3 Cover](/images/2013/08/workshopLecturesv3.jpg)
 
 ## The Workshop Lectures (Volume 3)
 
@@ -19,9 +19,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, The Workshop Lectures (Volume 3)
 Series, The Workshop Lectures
 Author, Yilun Yang (7P)
@@ -30,40 +29,38 @@ Published, "2007"
 Language, English
 ISBN, 1-932001-34-4
 Length, 76 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Playing the Opening
 2.  Developments Around the 4-4 Point
 3.  Punishing Weak Groups Directly
 4.  Using Forcing Moves
 5.  Handling Weak Stones
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
 *   A mid-high SDK (single digit kyu) who has read his fair share of books and has a decent foundation of most areas in go.
+
 **My Perspective**
 
 *   Since these are written to be more of a "workshop" format, I was looking forward to a new style of writing along with a refreshing perspective on some common questions that most players might have.
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
 *   As usual, Yang continues to breakdown topics into simple explanations that I could easily understand.
 *   The topics are extremely relevant to the average player since a majority of go literature assumes that the reader is already familiar and well versed in these basic concepts.
 *   Yang usually has a checklist of questions for each section to remind the reader of the important things to remember.
+
 **What did I gain from reading this book?**
 
 *   A much better understanding of how to evaluate whether a group is weak or not.
 *   Better grasp on what forcing moves are. Though applying it is still rather hazy for me.
+
 **What style of teaching does the book use?**
 
 *   Workshop Format
@@ -77,38 +74,36 @@ Length, 76 Pages
 *   Other Learning Mechanisms:
 
 		*   Practice problems
+
 **What aspect can be improved on?**
 
 *   Though the examples can be helpful, I found that they slightly overwhelming after some time since I am still having issues actually understanding the concept solidly. A good example of this is whether or not a forcing move is good or bad. I have a general idea, but that's all. So before I get into the weeds of how to use it, it would have been better to have more basic practice questions.
+
 **Is this book easy to read?**
 
 *   Yes. The explanations are concise and the accompanying diagrams are often no more than a few moves long.
+
 **Bottom Line**
 
 1.  Breaks down topics into really easy to understand explanations.
 2.  Has a lot of valuable content for such a short book!
 3.  Worth every penny you spend on it!
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 In this volume, I found that the sections on the opening were a little harder to grasp. This is probably due to the fact that the nature of the opening is rather vast and thus trying to condense it down into a few pages is rather difficult. The forcing move section was also a little bit tough for me to really grab hold of as well. I imagine this is due to the fact that the whole concept of "timing" in go is not so easily summed up in a few pages. On the other hand though, I was very impressed by the sections regarding weak groups. And in my opinion, those two sections make the entire book worth purchasing.
 
-[/expand]
-
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Players who are 10 kyu or stronger.
 *   Players who want guidelines on how to handle the topics covered in the book.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Slate and Shell - [$18.00](http://www.slateandshell.com/SSYY009.html) USD (shipping and handling not included)
 *   SmartGo Books - [$5.99](http://www.smartgo.com/books.htm) USD (e-Book for iPhone, iPad &amp; iPod Touch Only)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [The Workshop Lectures - Volume 1](http://www.bengozen.com/book-review-the-workshop-lectures-volume-1/ "Book Review: The Workshop Lectures Volume 1")
 *   [The Workshop Lectures - Volume 2](http://www.bengozen.com/book-review-the-workshop-lectures-volume-2/ "Book Review: The Workshop Lectures Volume 2")
@@ -116,6 +111,5 @@ In this volume, I found that the sections on the opening were a little harder to
 *   [The Workshop Lectures - Volume 4](http://www.bengozen.com/book-review-the-workshop-lectures-volume-4/ "Book Review: The Workshop Lectures Volume 4")
 *   [The Workshop Lectures - Volume 5](http://www.bengozen.com/book-review-the-workshop-lectures-volume-5/ "Book Review: The Workshop Lectures Volume 5")
 *   [The Workshop Lectures - Volume 6](http://www.bengozen.com/book-review-workshop-lectures-volume-6/ "Book Review: The Workshop Lectures Volume 6")
-[/expand]
 
 _**Last Updated on August 22nd, 2013**_
