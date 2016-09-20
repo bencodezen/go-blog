@@ -12,7 +12,7 @@ tags:
 	- workbook
 ---
 
-[![jumplevelup3cover](http://www.bengozen.com/wp-content/uploads/2013/10/jumplevelup3cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/jumplevelup3cover.jpg)
+![](/images/2013/10/jumplevelup3cover.jpg)
 
 ## Jump Level Up 3
 
@@ -20,9 +20,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Jump Level Up 3
 Series, Jump Level Up
 Author, Lee Jae-Hwan
@@ -33,11 +32,8 @@ Published, "May 25th, 2012"
 Language, English
 ISBN, 978-89-90965-73-8
 Length, 167 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 *   Glossary
 *   General Knowledge
@@ -66,15 +62,12 @@ Length, 167 Pages
 *   Endgame: Sente and Gote
 *   How to Answer
 *   Level Tests
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 As a mid to high SDK (i.e., single digit kyu) player, I was expecting to see the same quality of content from previous volumes. In addition, I was hoping that I would be able to solve most problems with relative ease while finding some problems challenging.
 
-[/expand]
-
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 This volume starts with a skill that I believe many players are lazy about: counting liberties. And to be honest, I did not realize how much I would have to struggle through this section. It wasn't until I started working through these problems that I realized how lazy I've been and how weak I am at this fundamental skill. Though a bit of a shock, it was a good reminder of how weak my basics are.
 
@@ -88,9 +81,7 @@ Finally, though it feels a little late in the series to finally see this, I'm re
 
 Bottom line: Though I didn't think they could improve the series much more, this volume just goes to show how well Lee Jae-Hwan understands breaking down the fundamentals of go into understable bite size pieces. Highly recommended!
 
-[/expand]
-
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -98,6 +89,7 @@ Bottom line: Though I didn't think they could improve the series much more, this
 *   Focuses on how to punish overplays that players commonly make.
 *   Trains players on how to properly utilize moves like double hane.
 *   Introduces sente and gote in an easy to understand manner.
+
 **What did I gain from reading this book?**
 
 *   Realization of how weak my liberty counting abilities are. They are stronger now, but I know that I still have a bit to go before I am confident in them.
@@ -106,14 +98,16 @@ Bottom line: Though I didn't think they could improve the series much more, this
 *   Reinforced understanding of the foundation of endgame plays.
 **What is the format of the book?**
 
-*   The book is primarily structured as follows:
+* The book is primarily structured as follows:
 
-		*   (1) A one page explanation of the topic that you are about to practice. Example: When behind in liberties. They not only show the sequence for the proper technique, but also include common mistakes and brief explanations as to why they are mistakes.
-		*   (2) A set of very easy to understand and follow practice problems to ensure you understand what you are learning.
+	* (1) A one page explanation of the topic that you are about to practice. Example: When behind in liberties. They not only show the sequence for the proper technique, but also include common mistakes and brief explanations as to why they are mistakes.
+	* (2) A set of very easy to understand and follow practice problems to ensure you understand what you are learning.
+
 **What aspect can be improved on?**
 
-*   Page 145 - Directions should read: Black to play a sente move.
-*   Page 162: Problem #20 - The solution in the answer book is technically correct in that it's the best endgame sequence. However, it fails to what the problem is asking for (i.e., A, B, or C) since it chooses D (which does not exist in the book). For those who are looking for the simple answer, it is A.
+* Page 145 - Directions should read: Black to play a sente move.
+* Page 162: Problem #20 - The solution in the answer book is technically correct in that it's the best endgame sequence. However, it fails to what the problem is asking for (i.e., A, B, or C) since it chooses D (which does not exist in the book). For those who are looking for the simple answer, it is A.
+
 **Is this book easy to read?**
 
 *   Yes. It doesn't get much more simple or straightforward than this.
@@ -122,29 +116,25 @@ Bottom line: Though I didn't think they could improve the series much more, this
 1.  Continues to live up to the quality of content you come to expect from this series.
 2.  Provides excellent practice for concepts many players overlook (e.g., counting liberties).
 3.  Completely worth your time and money!
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](http://www.ymimports.com/p-2056-jump-level-up-3-8-6-kyu.aspx "Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
-*   [Jump Level Up 1](http://www.bengozen.com/book-review-jump-level-1/ "Book Review: Jump Level Up 1")
-*   [Jump Level Up 2](http://www.bengozen.com/book-review-jump-level-2/ "Book Review: Jump Level Up 2")
-*   Jump Level Up 3
-*   Jump Level Up 4
-*   Jump Level Up 5
-*   Jump Level Up Answer Book
-*   Level Up Series
-[/expand]
+* [Jump Level Up 1](http://www.bengozen.com/book-review-jump-level-1/ "Book Review: Jump Level Up 1")
+* [Jump Level Up 2](http://www.bengozen.com/book-review-jump-level-2/ "Book Review: Jump Level Up 2")
+* Jump Level Up 3
+* Jump Level Up 4
+* Jump Level Up 5
+* Jump Level Up Answer Book
+* Level Up Series
 
 _**Last Updated on October 6th, 2013**_

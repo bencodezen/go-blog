@@ -11,14 +11,16 @@ tags:
 ---
 
 A couple of nights ago, frozensoul mentioned something to me that really struck me.
+
 > My mind is my greatest opponent.
+
 Yup. You read that right. Instead of being trounced by opponents better than me or making dumb mistakes, I often end up out-reading myself.
 
 What do I mean by this? I'm talking about being fearful of potential aji in X area and adding unnecessary moves "just in case." Now this might sound reasonable, but let's think about this one moment. If you are adding a move to an area that doesn't require it, are you not essentially passing your turn?
 
 To further illustrate my point, take the following problem:
 
-[caption id="attachment_4139" align="aligncenter" width="190"][![Black to play.](http://www.bengozen.com/wp-content/uploads/2013/10/deadgroup.png)](http://www.bengozen.com/wp-content/uploads/2013/10/deadgroup.png) Black to play.[/caption]
+![Black to play.](/images/2013/10/deadgroup.png)
 
 Is there anyone out there who would suggest that Black capture the White stones "just to in case?" Absolutely not. Because any player above 12 kyu would know that it would be completely absurd to do anything but tenuki.
 

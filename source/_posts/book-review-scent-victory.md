@@ -10,7 +10,7 @@ tags:
 	- strategy
 ---
 
-[![heartofgov2cover](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov2cover.jpg)
+![](/images/2013/10/heartofgov2cover.jpg)
 
 ## Catching Scent of Victory
 
@@ -18,9 +18,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Catching Scent of Victory
 Series, Heart of Go Discovery Series
 Author, O Rissei 9P
@@ -30,11 +29,8 @@ Published, "October 2007"
 Language, English
 ISBN, 978-0-9788874-3-8
 Length, 270 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 *   Chapter 1 － Rissei Style Strategy in the Opening
 
@@ -78,15 +74,12 @@ Length, 270 Pages
 	*   Game 6 - A Game to Capture the Kisei Best of Seven Title
 
 *   Chapter 4 - O Rissei Go Record
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 Based on the title of the book and reading a bit about it, I expected to get some advice from O Rissei on how to "catch the scent of victory." Didn't have too high expectations, but was hoping to get a tidbit or two out of it.
 
-[/expand]
-
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 To preface this review, I want to be emphasize the fact that **I am a weak SDK kyu player at the time I read this book.** Please keep that in mind when reading the following review.
 
@@ -100,43 +93,43 @@ Although I am sure that stronger players might find a lot of value in this book,
 
 When I am stronger, I will be sure to revisit this book to update this review; but until then, stay away from this book if you're a kyu player.
 
-[/expand]
-
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
 *   Couldn't enjoy it due to how advanced it was.
+
 **What did I gain from reading this book?**
 
 *   Reminder of how deep go can really get.
+
 **What is the format of the book?**
 
 *   The book follows the overall format of diagrams and explanations. There are no real traditional problems for the reader to solve and thus can be seen as more of a book of game commentary.
+
 **What aspects can be improved on?**
 
 *   Due to my inability to comprehend anything, I have no suggestions at this time.
+
 **Is this book easy to read?**
 
 *   For kyu players, this book is the most difficult book I've read to date.
+
 **Bottom Line**
 
 1.  Extremely dense and difficult to learn from for kyu players.
 2.  If you're a kyu player, don't buy it or spend time on it.
 3.  Seriously. There are better books to spend your time on.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Strong players who enjoy deep professional level commentary.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   GoGameGuru - [$22.99](http://shop.gogameguru.com/catching-scent-of-victory/?acc=e4da3b7fbbce2345d7772b0674a318d5) (shipping and handling not included)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [Heart of Go Series - Volume 1: Perceiving the Direction of Play](http://www.bengozen.com/book-review-perceiving-direction-play/ "Book Review: Perceiving the Direction of Play")
 *   Heart of Go Series - Volume 2: Catching Scent of Victory
@@ -145,6 +138,5 @@ When I am stronger, I will be sure to revisit this book to update this review; b
 *   Heart of Go Series - Volume 5: The Way of Creating a Thick and Strong Game
 *   Heart of Go Series - Volume 6: Zone Press Park
 *   Heart of Go Series - Volume 7: Breakthrough Attacking Power Yamashita Style
-[/expand]
 
-_**Last Updated on MONTH DATE, YEAR.**_
+_**Last Updated on October 19th, 2013**_

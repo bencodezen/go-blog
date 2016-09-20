@@ -12,7 +12,7 @@ tags:
 	- workbook
 ---
 
-[![jumplevelup4cover](http://www.bengozen.com/wp-content/uploads/2013/10/jumplevelup4cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/jumplevelup4cover.jpg)
+![](/images/2013/10/jumplevelup4cover.jpg)
 
 ## Jump Level Up 4
 
@@ -20,9 +20,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Jump Level Up 4
 Series, Jump Level Up
 Author, Lee Jae-Hwan
@@ -33,11 +32,8 @@ Published, "May 25th 2012"
 Language, English
 ISBN, 978-89-90965-90-5
 Length, 167 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 *   Glossary
 *   Baduk in a Sauna
@@ -69,15 +65,12 @@ Length, 167 Pages
 *   Endgame Tesuji
 *   How to Answer
 *   Level Tests
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 As a mid to high SDK (i.e., single digit kyu) player, I was expecting to see the same quality of content from previous volumes. In addition, I was hoping that I would be able to solve most problems with relative ease while finding some problems challenging.
 
-[/expand]
-
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review" trigclass="expandTitle" expanded="true"]
 
 Once again, Lee Jae-Hwan has managed to sweep me off my feet when it comes to providing incredible content that really got my brain working. There were countless sections in here that I always knew about but really appreciated getting a chance to truly practice. Examples include: Identifying Seki, The Loose Connection, The Stone Pagoda, Hane Twice to Gain a Liberty, etc.
 
@@ -87,9 +80,8 @@ Finally, some of you will notice that my "Things to Improve" section has become 
 
 Nonetheless, this is still a wonderful addition to the series, and I'm looking forward to the next one!
 
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -97,17 +89,20 @@ Nonetheless, this is still a wonderful addition to the series, and I'm looking f
 *   Has the reader practice "fake nets."
 *   Does not hesitate to bring back basics like reading the ladder.
 *   Really trains a lot of skills players often overlook like identifying vital points, hane twice to gain a liberty, and loose ladders.
+
 **What did I gain from reading this book?**
 
 *   More comfortable with my ability to recognize seki positions.
 *   Increased familiarity with various nets and reading out whether they work or not.
 *   Increased confidence in reading out variations of basic life and death sequences.
+
 **What is the format of the book?**
 
 *   The book is primarily structured as follows:
 
     *   (1) A one page explanation of the topic that you are about to practice. Example: When behind in liberties. They not only show the sequence for the proper technique, but also include common mistakes and brief explanations as to why they are mistakes.
     *   (2) A set of very easy to understand and follow practice problems to ensure you understand what you are learning.
+
 **What aspect can be improved on?**
 
 *   Page 65 (#11) - Not a great example of bamboo vital point.
@@ -119,36 +114,34 @@ Nonetheless, this is still a wonderful addition to the series, and I'm looking f
 *   Page 128 (#18) - In the wrong section. A kill white problem in a Save black section.
 *   Page 143 (#22) - Again. Seems out of place. Problem's solution is to maximize Black's profit and not reduce White's.
 *   Page 148 (#3 Solution) - Wrong diagram. The answer should be the solid connection at 4-2 point. The tiger's mouth at 4-1 works as well but leaves a ko threat of an atari at 3-2 and is therefore inferior to the solid connection.
+
 **Is this book easy to read?**
 
 *   Yes. Other than a few odd grammatical structures, it doesn't get much more simple or straightforward than this.
+
 **Bottom Line**
 
 1.  Continues to live up to the quality of content you come to expect from this series.
 2.  Completely worth your time and money!
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](http://www.ymimports.com/p-2055-jump-level-up-4-6-4-kyu.aspx "Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
-*   [Jump Level Up 1](http://www.bengozen.com/book-review-jump-level-1/ "Book Review: Jump Level Up 1")
-*   [Jump Level Up 2](http://www.bengozen.com/book-review-jump-level-2/ "Book Review: Jump Level Up 2")
-*   [Jump Level Up 3](http://www.bengozen.com/book-review-jump-level-3/ "Book Review: Jump Level Up 3")
-*   Jump Level Up 4
-*   Jump Level Up 5
-*   Jump Level Up Answer Book
-*   Level Up Series
-[/expand]
+* [Jump Level Up 1](http://www.bengozen.com/book-review-jump-level-1/ "Book Review: Jump Level Up 1")
+* [Jump Level Up 2](http://www.bengozen.com/book-review-jump-level-2/ "Book Review: Jump Level Up 2")
+* [Jump Level Up 3](http://www.bengozen.com/book-review-jump-level-3/ "Book Review: Jump Level Up 3")
+* Jump Level Up 4
+* Jump Level Up 5
+* Jump Level Up Answer Book
+* Level Up Series
 
 _**Last Updated on October 20th, 2013**_

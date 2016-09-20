@@ -10,7 +10,7 @@ tags:
     - direction-of-play
 ---
 
-[![heartofgov1cover](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/heartofgov1cover.jpg)
+![](/images/2013/10/heartofgov1cover.jpg)
 
 ## Perceiving the Direction of Play
 
@@ -18,9 +18,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Perceiving the Direction of Play
 Series, Heart of Go Discovery Series
 Author, Kobayashi Satoru 9P
@@ -30,11 +29,8 @@ Published, "June 2007"
 Language, English
 ISBN, 978-0-9788874-2-1
 Length, 225 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 *   Chapter 1 － Thinking About The Direction of Play of the Stones
 
@@ -101,15 +97,12 @@ Length, 225 Pages
     *   Problem 13 - Fuseki Moves or Fighting Moves
     *   Problem 14 - Neutralizing or Laying Waste
     *   Problem 15 - The Relationship Between Two Sides
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 I got this book long ago, but I purchased this book because I felt that I was very lost when it came to choosing the direction of play. So while my ability to determine the direction of play has improved since then, I still feel rather skittish about my abilities to determine the correct direction of play and hope that this book will provide some guidance for me.
 
-[/expand]
-
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review" trigclass="expandTitle" expanded="true"]
 
 When I first started reading this book, I felt a little uneasy as I was hit with commentary that just felt way over my head. Fortunately though, that didn't last too long. Once the commentary was finished, there were mini-sections that summarized Kobayashi Satoru 9P's advice on the direction of joseki, fuseki, fighting, and so forth. Though not helpful for weaker players, they seem to be great reinforcement to players who already have a grasp on this topic.
 
@@ -121,20 +114,20 @@ In addition, the translation of the book is what I would label as "understandabl
 
 So bottom line, I _do not_ recommend this book for kyu players. Whole board thinking and direction of play is difficult as it is for kyu players, so it would a travesty if I let kyu players try and tackle this book only to be discouraged and have little to show for it at the end. It might be useful to dan players; but again, I cannot emphasize enough that the overall experience has a lot of room for improvement. You have been warned.
 
-[/expand]
-
-[expand title="Synopsis" trigclass="expandTitle"]
+### Synopsis
 
 **What did I enjoy about the book?**
 
 *   The primary content of the book utilizes a problem format.
 *   The problems are from real games which adds to its practicality.
 *   Satoru always includes a diagram to show how the problem arose from game play.
+
 **What did I gain from reading this book?**
 
 *   A minor confident boost in direction of play.
 *   A slightly better understanding of how to determine the direction of play.
 *   Realization of just how little I know about direction of play.
+
 **What is the format of the book?**
 
 *   The first chapter consists of high level professional game commentary that I had a hard time following.
@@ -145,32 +138,32 @@ So bottom line, I _do not_ recommend this book for kyu players. Whole board thin
     *   Usually about two to four variations and why they are wrong.
     *   And somewhere in that mix is the correct answer.
     *   A diagram or two with how the actual game proceeded afterwards.
+
 **What aspects can be improved on?**
 
 *   My biggest complaint is that the correct answer is not always obvious. Sometimes it's very clear since the diagram is labelled "The Correct Direction," but there are numerous times where you have to sort out what's right and what's wrong. In fact, there were a couple times I thought the diagram I was reading was the correct answer when it was not actually so.
 *   The translation is very terse. I recognize that there is are difficulties when it comes to translating since you want to keep as much of the language as authentic as possible, but it made it difficult to read or understand at times.
+
 **Is this book easy to read?**
 
 *   No. Even though I'm a huge go enthusiast and English is my first language, I still found it rather laborious to work through this book. And to be clear, it's not so much that the translation is difficult as a whole; but there are enough discreprancies here and there that it interferes with the overall experience of reading the book.
+
 **Bottom Line**
 
 1.  Appropriate for players who already have an understanding of direction of play.
 2.  Translation makes the overall experience of the book more difficult which reduces the value of the book to kyu players.
 3.  Recommended for dan players.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Players who already have an understanding of direction of play.
 *   Dan players who are not too concerned with explanations since the moves more or less speak for themselves.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   GoGameGuru - [$22.99](http://shop.gogameguru.com/perceiving-the-direction-of-play/?acc=e4da3b7fbbce2345d7772b0674a318d5) (shipping and handling not included)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   Heart of Go Series - Volume 1: Perceiving the Direction of Play
 *   Heart of Go Series - Volume 2: Catching Scent of Victory
@@ -179,6 +172,5 @@ So bottom line, I _do not_ recommend this book for kyu players. Whole board thin
 *   Heart of Go Series - Volume 5: The Way of Creating a Thick and Strong Game
 *   Heart of Go Series - Volume 6: Zone Press Park
 *   Heart of Go Series - Volume 7: Breakthrough Attacking Power Yamashita Style
-[/expand]
 
 _**Last Updated on October 13th, 2013**_

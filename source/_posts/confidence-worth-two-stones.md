@@ -8,7 +8,7 @@ tags:
 
 ---
 
-[caption id="attachment_4111" align="aligncenter" width="400"][![Credit to treeofknowledge](http://www.bengozen.com/wp-content/uploads/2013/10/confidence-building.jpg)](http://www.bengozen.com/wp-content/uploads/2013/10/confidence-building.jpg) Credit to [treeofknowledge](http://www.treeof.com/confidence-building/)[/caption]
+![Credit to treeofknowledge](/images/2013/10/confidence-building.jpg)
 
 Last week, I was playing a game when other players started showing up to watch the game. My opponent then remarked, "Everyone is here to see me lose." And then I promptly replied, "You've got it wrong. They're here to see me lose." Though it was said in a joking manner that was also supposed to be humble, it wasn't until after the game that a comment made by a visitng dan player struck me: "Confidence is worth two stones."
 
