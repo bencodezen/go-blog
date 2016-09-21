@@ -8,7 +8,7 @@ tags:
 	- baduktopia
 ---
 
-[![levelcollection](http://www.bengozen.com/wp-content/uploads/2013/06/levelcollection.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/levelcollection.jpg)
+![](/images/2013/06/levelcollection.jpg)
 
 If you're wondering whether or not that's my personal collection of Level Up/Jump Up books, it's not. It's just a sneak peak of the shipment that will be coming in the near future. xD
 

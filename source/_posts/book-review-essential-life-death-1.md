@@ -14,7 +14,7 @@ tags:
 	- go-problems
 ---
 
-[![eldv1cover](http://www.bengozen.com/wp-content/uploads/2013/06/eldv1cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/eldv1cover.jpg)
+![](/images/2013/06/eldv1cover.jpg)
 
 **Description:** _Essential Life &amp; Death 1_ is part of the Essential Life &amp; Death Series that is used as workbooks in private go schools in Korea. Though it might be seen as an addendum to the Level Up Series, it certainly can be used as a standalone product for anyone looking to study life and death.
 
@@ -22,7 +22,6 @@ tags:
 
 ### Book Details
 
-[table]
 Title, Essential Life &amp; Death 1
 Author, Lee Jae-Hwan
 Translators, Lee Seong-Geun &amp; Daniela Trinks
@@ -31,9 +30,6 @@ Published, "July 8th, 2009"
 Language, English
 ISBN, 978-89-90965-93-6
 Length, 168 Pages
-[/table]
-
-
 
 ### Table of Content
 
@@ -121,22 +117,21 @@ Length, 168 Pages
 82.  **10th Review**
 83.  **Final Test**
 
-
 ### Synopsis
 
 1.  A workbook-based approach to teaching life and death.
 2.  A great way for players to drill their life and death skills.
 3.  A good introductory book to learning and experiencing life and death problems.
 
-
 ### Before I Read This Book...
+
 **My Abilities**
 
 *   I've studied my fair share of life and death and can confidently say that I have a SDK (single digit kyu) level of life and death.
+
 **My Perspective**
 
 *   I was hoping for very easy problems that would help polish my basic life and death skills.
-
 
 ### My Review
 
@@ -145,11 +140,13 @@ Length, 168 Pages
 *   They have no reservation in terms of making you drill the same concept repeatedly.
 *   The concept of using seki to save your group is used very often from the very beginning.
 *   The review sections (e.g., quizzes) and tests do a great job helping you determine if you actually learned the previous lessons.
+
 **What did I gain from reading this book?**
 
 *   Polished my basic life and death skills.
 *   Improved my ability to see seki as an option when solving life and death problems.
 *   Realization that I had a long way to go for life and death.
+
 **What style of teaching does the book use?**
 
 *   Curriculum Style
@@ -159,47 +156,35 @@ Length, 168 Pages
 *   Teaching Mechanism:
 
     *   Practice problems
+
 **What aspect can be improved on?**
 
 *   No complaints here!
+
 **Is this book easy to read?**
 
 *   Yes. Unless you can't read English, it really doesn't get any simpler.
 
-
 ### In Comparison to Similar Books...
-
-[expandsub1 title="1001 Life and Death Problems" trigclass="cBookTitle"]
 
 Compared to [1001 Life and Death Problems](http://www.bengozen.com/book-review-1001-life-and-death-problems/ "Book Review: 1001 Life and Death Problems"), this series does a better job hand-holing players new to life and death through the basic shapes and variations. On the other hand, I would say that in terms of polishing a player's life and death skills, [1001 Life and Death Problems](http://www.bengozen.com/book-review-1001-life-and-death-problems/ "Book Review: 1001 Life and Death Problems") is still highly recommended. So to clarify, neither one trumps the other. Both can provide great value to a player's life and death abilities.
 
-[/expandsub1]
-
-[expandsub2 title="Elementary Go Series, Volume 4 - Life and Death" trigclass="cBookTitle"]
-
 While [Life and Death](http://www.bengozen.com/book-review-life-and-death/ "Book Review: Life and Death") does a great job providing a broad survey of different shapes through explanations and accompanying practice problems, this series uses the "learn it through experience" methodology. Though they may overlap on a good deal of material, I believe that they complement one another and would both be of great use to serious players wanting to improve their life and death.
-
-[/expandsub2]
-
-
 
 ### Recommended For...
 
 *   Players looking to improve their life and death skills.
 *   People who prefer to learn through experience rather than explanations.
 
-
 ### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](https://www.ymimports.com/p-1413-essential-life-death-1-15-10-kyu.aspx#.Ua-kqUCvP2s) USD (shipping &amp; handling not included)
 *   Baduktopia - Contact them at info@baduktopia.com to request pricing and shipping costs.
-
 
 ### Other Books in This Series...
 
 *   Essential Life and Death 2
 *   Essential Life and Death 3
 *   Essential Life and Death 4
-
 
 _**Last Updated on June 12th, 2013**_

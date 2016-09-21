@@ -11,7 +11,7 @@ tags:
 	- strategy
 ---
 
-## [![positionaljudgementcover](http://www.bengozen.com/wp-content/uploads/2013/08/positionaljudgementcover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/08/positionaljudgementcover.jpg)
+![](/images/2013/08/positionaljudgementcover.jpg)
 
 ## Overall Rating: 9 / 10 Ponnuki
 

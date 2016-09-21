@@ -10,7 +10,7 @@ tags:
 	- kiseido
 ---
 
-## [![kschgcover](http://www.bengozen.com/wp-content/uploads/2013/05/kschgcover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/kschgcover.jpg)
+![](/images/2013/05/kschgcover.jpg)
 
 ## Overall Rating: 8 / 10 Ponnuki
 

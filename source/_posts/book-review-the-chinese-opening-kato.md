@@ -12,7 +12,7 @@ tags:
 	- opening
 ---
 
-## [![chineseopeningkatocover](http://www.bengozen.com/wp-content/uploads/2013/06/chineseopeningkatocover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/chineseopeningkatocover.jpg)
+![](/images/2013/06/chineseopeningkatocover.jpg)
 
 ## Overall Rating: 9 / 10 Ponnuki
 

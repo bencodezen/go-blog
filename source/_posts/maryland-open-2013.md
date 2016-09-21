@@ -10,7 +10,7 @@ tags:
 	- tournaments
 ---
 
-[![2013-05-25 14.09.38](http://www.bengozen.com/wp-content/uploads/2013/05/2013-05-25-14.09.38.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/2013-05-25-14.09.38.jpg)
+![](/images/2013/05/2013-05-25-14.09.38.jpg)
 
 It was a beautiful Saturday morning when I pulled up to the [Maryland Open](http://www.bengozen.com/40th-maryland-open-go-tournament/ "40th Maryland Open — Go Tournament!") in Catonsville, Maryland. Though I was a little nervous for what was waiting for me at this tournament, I was excited at the prospect of seeing friends and having a day filled with go.
 
@@ -20,17 +20,18 @@ After registering (as AGA 5k) and catching up with a few people, I noticed that 
 
 _Wait. There are go books on sale here?!_
 
-[caption id="attachment_2806" align="aligncenter" width="300"][![Credit to Tumblr](http://www.bengozen.com/wp-content/uploads/2013/05/roadrunner.gif)](http://www.bengozen.com/wp-content/uploads/2013/05/roadrunner.gif) Credit to [Tumblr](http://www.tumblr.com/tagged/road%20runner)[/caption]
+![Credit to Tumblr](/images/2013/05/roadrunner.gif)
 
 When I found the section of go books for sale, I couldn't believe my eyes as I stared at possibly the largest collection and variety of go books I had ever seen all in one place... It was like I was a kid in a candy store.
 
-[caption id="attachment_2822" align="aligncenter" width="300"][![Credit to Tumblr](http://www.bengozen.com/wp-content/uploads/2013/05/kermitexcited.gif)](http://www.bengozen.com/wp-content/uploads/2013/05/kermitexcited.gif) Credit to [Tumblr](http://www.tumblr.com/tagged/excited%20gif)[/caption]
+![Credit to Tumblr](/images/2013/05/kermitexcited.gif)
 
 It's safe to say that I spent the next 20 minutes or so perusing over just about every book I'd ever been remotely interested in. Granted, I'm trying to be better about spending money on go; but all of that went to hell when I found books that were out of print. With some restraint, I ended up only purchasing:
 
-1.  <span style="text-decoration: underline;"><span style="line-height: 13px;">Improve Your Intuition, Volume 3</span></span>
-2.  <span style="text-decoration: underline;">The ABC's of Attack and Defense</span>
-3.  <span style="text-decoration: underline;">Cosmic Go</span> (Not out of print but I liked the writing style and decided to get it to further my study of handicap go)
+1.  Improve Your Intuition, Volume 3
+2.  The ABC's of Attack and Defense
+3.  Cosmic Go (Not out of print but I liked the writing style and decided to get it to further my study of handicap go)
+
 Once I was finished buying my books, I returned to socializing with my friends since I knew that spending any more time in the book section would probably result in me buying more books. Shortly after though, the pairings were up and it was time the first round of the day.
 
 As my opponent and I sat across from one another, I saw him pull out his Bose headphones in preparation for the game. In the past, I had never considered listening to music while playing go; but I decided right there and then that I would give it a shot as well. Here's the game from the first round.

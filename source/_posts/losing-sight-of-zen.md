@@ -7,7 +7,7 @@ categories:
 tags:
 ---
 
-[caption id="attachment_2954" align="aligncenter" width="413"][![moiillusions](http://www.bengozen.com/wp-content/uploads/2013/06/moiillusions.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/moiillusions.jpg) Credit to [moillusions](http://www.moillusions.com/) for the illustration and frozensoul for finding it.[/caption]
+![Credit to moiillusions and frozensoul for finding it](/images/2013/06/moiillusions.jpg)
 
 _In case this isn't apparent, this is a 2-D drawing. And also, do you spot what I see? xD_
 

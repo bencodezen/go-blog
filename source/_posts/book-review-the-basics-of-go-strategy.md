@@ -11,7 +11,7 @@ tags:
 	- sabaki
 ---
 
-## [![mtbs5cover](http://www.bengozen.com/wp-content/uploads/2013/05/mtbs5cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/mtbs5cover.jpg)
+![](/images/2013/05/mtbs5cover.jpg)
 
 ## Overall Rating: 5 / 5 Ponnuki
 

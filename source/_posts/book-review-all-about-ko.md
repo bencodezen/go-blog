@@ -11,7 +11,7 @@ tags:
 	- tsumego
 ---
 
-## [![mtbsv6cover](http://www.bengozen.com/wp-content/uploads/2013/05/mtbsv6cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/mtbsv6cover.jpg)
+![](/images/2013/05/mtbsv6cover.jpg)
 
 ## Overall Rating: 8 / 10 Ponnuki
 
