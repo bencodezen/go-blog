@@ -10,12 +10,17 @@
 .archive-year
   @extend $block-caption
 
-.archives
-  column-gap: 10px
-  @media mq-tablet
-    column-count: 2
-  @media mq-normal
-    column-count: 3
+.archives {
+	.article:first-child {
+		margin-top: 0;
+	}
+}
+
+.archive-title {
+	@extend $block-caption
+	color: $cRed
+	font-size: 1rem
+}
 
 .archive-article
   avoid-column-break()
