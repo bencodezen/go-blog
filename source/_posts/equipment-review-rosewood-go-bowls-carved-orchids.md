@@ -17,7 +17,7 @@ tags:
 
 <!--more-->
 
-[expand title="Product Details" trigclass="expandTitle"]
+### Product Details
 
 [table]
 Title, Rosewood Go Bowls with Carved Orchids
@@ -28,9 +28,9 @@ Weight, 1.9 lbs.
 Vendor, GoGameGuru
 [/table]
 
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+
+### Synopsis
 
 **What's the best aspect about this product?**
 
@@ -46,15 +46,15 @@ Vendor, GoGameGuru
 1.  Beautiful and gorgeous bowls that will comfortably hold any standard size go stones.
 2.  The orchard engraving is a great touch that really helps to give it a nice touch.
 3.  Totally worth it for those who want a bit of art along with their go bowl.
-[/expand]
 
-[expand title="What I Was Hoping For" trigclass="expandTitle"]
+
+### What I Was Hoping For
 
 A beautiful set of rosewood orchid-engraved bowls that would hold my size 36 glass stones perfectly!
 
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 As my first artistic go bowl set, I was really excited when it finally came in the mail.
 
@@ -74,9 +74,9 @@ When I opened the box, I was really pleased to see that it was packaged really w
 
 At the end of the day, they do the job they were intended to do: hold go stones. =) They just do it with a bit of flair since they have the orchid engraving. Haha. But if you have any interest in owning bowls like this, I would highly recommend them!
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle" expanded="true"]
+### Where Can I Buy It?
 
 *   GoGameGuru - [$69.00](http://shop.gogameguru.com/rosewood-go-bowls-16/?acc=e4da3b7fbbce2345d7772b0674a318d5 "Rosewood Orchid Engraved Go Bowls Purchase Link") (shipping and handling not included)
-[/expand]
+
 
 _**Last Updated on January 5th, 2014**_

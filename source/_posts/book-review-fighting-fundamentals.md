@@ -181,12 +181,12 @@ At the end of the day, while I personally had a difficult time absorbing the mat
 1.  A great first milestone for Western literature on the topic of fighting.
 2.  Suited for players who are very studious and enjoy learning through an intricate textbook.
 3.  Not recommended for players looking to get a light overview of fighting.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+
+### Recommended For...
 
 *   Players interested in a methodical and textbook approach to the study of fighting.
-[/expand]
+
 
 ### Where Can I Buy It?
 

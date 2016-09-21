@@ -18,7 +18,7 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
 [table]
 Title, Otake's Secrets of Strategy
@@ -32,9 +32,9 @@ ISBN, 978-0-9788874-4-5
 Length, 254 Pages
 [/table]
 
-[/expand]
 
-[expand title="Table of Content" trigclass="expandTitle"]
+
+### Table of Content
 
 *   Forward
 *   Ten Conditions of Go Knowledge
@@ -65,15 +65,15 @@ Length, 254 Pages
 		*   Game 1 - The Start of the Otake-Rin Rivalry (Otake Hideo vs. Rin Kaiho)
 		*   Game 2 - A Masterpiece of Positional Judgment (Otake Hideo vs. Kobayashi Koichi)
 		*   Game 3 - A Masterpiece of Sacrifice and Attacking (Honinbo Dosaku vs. Yasui Chitetsu)
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+
+### Before I Read This Book...
 
 After reading the first two volumes of this series, I have to say that I was feeling pretty apprehensive about this next one. The only glimmer of hope I saw was that Otake Hideo 9P would be discussing amateur games. I did not have very high hopes though. After all, a professionals secrets of strategy is something I thought would definitely go way over my head.
 
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 When I opened up to the first section, "Ten Conditions of Go Knowledge" (aka Ten Strategies for Go), I was incredibly relieved to actually see summarized concepts of what Otake 9P considered to be ten strategies that players should keep in mind. The explanations were a little complicated, but I felt hope as I was able to maneuver my way through them and not be completely lost since it was also relatively brief as well. This section was definitely a bit advanced, but I see no reason why a SDK (i.e., single digit kyu) would not be able to understand it with some effort.
 
@@ -85,9 +85,9 @@ In the final chapter, "Appreciating Famous Professional Games," Otake 9P continu
 
 Overall, I am glad that I did not give up on this series and really appreciate what Otake 9P did with this book. However, I would stress the fact that I still consider this book to be in the intermediate to advanced category. It's recommended if you're intending on intensely studying the game as if it were a course in school; but otherwise, it's not what I would consider light study material for the casual player.
 
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -119,19 +119,19 @@ Overall, I am glad that I did not give up on this series and really appreciate w
 1.  An enjoyable read for those looking to learn about some strategic principles in go.
 2.  Contains a nice set of problems that kyu players (around mid SDK) can solve).
 3.  Decently heavy and dense study material that is not suited for casual players just looking for a light read.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+
+### Recommended For...
 
 *   Recommended for mid to high single digit kyus and stronger players looking for an intermediate-advanced book on strategic concepts.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+
+### Where Can I Buy It?
 
 *   GoGameGuru - [$22.99](http://shop.gogameguru.com/otakes-secrets-of-strategy/?acc=e4da3b7fbbce2345d7772b0674a318d5) (shipping and handling not included)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+
+### Other Books in This Series...
 
 *   [Heart of Go Series - Volume 1: Perceiving the Direction of Play](http://www.bengozen.com/book-review-perceiving-direction-play/ "Book Review: Perceiving the Direction of Play")
 *   [Heart of Go Series - Volume 2: Catching Scent of Victory](http://www.bengozen.com/book-review-scent-victory/ "Book Review: Scent of Victory")
@@ -140,6 +140,6 @@ Overall, I am glad that I did not give up on this series and really appreciate w
 *   Heart of Go Series - Volume 5: The Way of Creating a Thick and Strong Game
 *   Heart of Go Series - Volume 6: Zone Press Park
 *   Heart of Go Series - Volume 7: Breakthrough Attacking Power Yamashita Style
-[/expand]
+
 
 _**Last Updated on November 2nd, 2013.**_

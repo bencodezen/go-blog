@@ -12,7 +12,7 @@ tags:
 	- workbook
 ---
 
-[![Level Up 10 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup10cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup10cover.jpg)
+![Level Up 10 Cover](/images/2013/07/levelup10cover.jpg)
 
 ## Level Up 10
 
@@ -20,9 +20,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Level Up 10
 Series, Level Up! Series
 Author, Lee Jae-Hwan
@@ -33,11 +32,8 @@ Published, "June 29th, 2009"
 Language, English
 ISBN, 978-89-90965-90-5
 Length, 168 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Glossary
 2.  International Baduk Tournaments (1)
@@ -72,26 +68,24 @@ Length, 168 Pages
 31.  Endgame and Pae (Ko) - Life &amp; Death
 32.  How to Answer
 33.  Level Tests 1-3
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle" expanded="true"]
+### Synopsis
 
 1.  Does a great job continuing to expose the reader to new joseki and capturing techniques.
 2.  Continues to reinforce and review fundamental concepts from previous volumes.
 3.  Continues to live up to the quality of problems and content you come to expect of the series.
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
 *   A mid to high SDK (single digit kyu) kyu who has read his fair share of go books and has a pretty strong foundation in the basics and teaching go.
+
 **My Perspective**
 
 *   I started making more errors in Level Up 9, but it definitely taught me some things about my instinctual reading abilities. So I'm looking forward to what the final installment has in store for me!.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 **What did I enjoy about the book?**
 
@@ -99,12 +93,14 @@ Length, 168 Pages
 *   I really like they show possible mistakes in joseki and teaches the reader how to handle them.
 *   Introduces the reader to different techniques in winning capturing races.
 *   Already starts to get the player to start being wary of trick plays, albeit not vey complicated ones.
+
 **What did I gain from reading this book?**
 
 *   A better understanding of the reason behind certain moves in joseki.
 *   Firmer grasp of fundamental principles behind haengma (i.e. movement of the stones).
 *   Greater comfort with capturing races and some of the techniques behind winning them.
 *   Polished my reading abilities.
+
 **What style of teaching does the book use?**
 
 *   Curriculum Style
@@ -120,28 +116,27 @@ Length, 168 Pages
 		*   Cute and entertaining comics to teach and/or reinforce lessons.
 		*   Simple explantations that are accompanied by equally simple diagrams.
 		*   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
+
 **What aspect can be improved on?**
 
 *   Page 95 Problem 6 has no solution aka impossible to solve.
 *   On a rare occassion, the directions don't quite match up to the problem (e.g., P.163 #4).
+
 **Is this book easy to read?**
 
 *   Yes. Other than the occasional article, the explanations are very easy short and easy to understand.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](https://www.ymimports.com/p-796-level-up-10-12-10-kyu.aspx "Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1")
 *   [Level Up 2](http://www.bengozen.com/book-review-level-up-vol-2/ "Book Review: Level Up 2")
@@ -155,6 +150,5 @@ Length, 168 Pages
 *   [Level Up 9](http://www.bengozen.com/book-review-level-up-9/ "Book Review: Level Up 9")
 *   Level Up Review 2
 *   Jump Level Up Series
-[/expand]
 
 _**Last Updated on July 29th, 2013**_

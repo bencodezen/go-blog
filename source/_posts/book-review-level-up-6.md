@@ -12,15 +12,14 @@ tags:
 	- workbook
 ---
 
-[![Level Up 6 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup6cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup6cover.jpg)
+![Level Up 6 Cover](/images/2013/07/levelup6cover.jpg)
 
 **Description:** _Level Up 6_ is part of the Level Up! Series that serves as a workbook in private go schools in Korea. Though designed for children, the content and practice provided is invaluable for adults and children alike.
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Level Up 6
 Series, Level Up! Series
 Author, Lee Jae-Hwan
@@ -31,11 +30,8 @@ Published, "April 29th, 2009"
 Language, English
 ISBN, 978-89-90965-86-8
 Length, 168 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Glossary
 2.  How to Study Baduk with Level-Up Books
@@ -66,16 +62,16 @@ Length, 168 Pages
 27.  Size of Endgame Moves
 28.  How to Answer
 29.  Level Test
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle" expanded="true"]
+
+### Synopsis
 
 1.  It continues to amaze me how they REALLY drill even the most rudimentary concepts like making real eyes or falsifying an eye. No wonder Korean players are so well known for their reading abilities.
 2.  As we are now in the second half of the series, I think it has done a great job starting to pick up speed in terms of complexity of the problems while still focusing on the fundamentals.
 3.  Even though I never even thought about endgame when I first started learning the game, they already start introducing it in volume 6.
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+
+### Before I Read This Book...
 
 **My Abilities**
 
@@ -83,9 +79,9 @@ Length, 168 Pages
 **My Perspective**
 
 *   Since I was able to complete the first half of the series without much difficulty, I was expecting this to be start increasing in difficulty but still remain pretty easy to work through.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 **What did I enjoy about the book?**
 
@@ -118,21 +114,21 @@ Length, 168 Pages
 **Is this book easy to read?**
 
 *   Yes. Other than the occasional article, the explanations are very easy short and easy to understand.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+
+### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](http://www.ymimports.com/p-789-level-up-6-20-18-kyu.aspx#.Uede2xbEpEA "Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+
+### Other Books in This Series...
 
 *   [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1")
 *   [Level Up 2](http://www.bengozen.com/book-review-level-up-vol-2/ "Book Review: Level Up 2")
@@ -147,6 +143,5 @@ Length, 168 Pages
 *   Level Up 10
 *   Level Up Review 2
 *   Jump Level Up Series
-[/expand]
 
 _**Last Updated on July 21st, 2013**_

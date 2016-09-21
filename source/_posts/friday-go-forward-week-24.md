@@ -10,9 +10,7 @@ tags:
 	- studying
 ---
 
-[caption id="attachment_3555" align="aligncenter" width="230"][![You can never have too many books](http://www.bengozen.com/wp-content/uploads/2013/07/toomanybooks.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/toomanybooks.jpg) Credit to [WordPainting](http://wordpainting.tumblr.com/post/4848869704/you-can-never-have-too-many-books)[/caption]
-
-## Friday Go Forward: Week 24
+![You can never have too many books](/images/2013/07/toomanybooks.jpg)
 
 ## Overview
 

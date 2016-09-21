@@ -63,7 +63,7 @@ Length, 168 Pages
 **My Perspective**
 
 *   While I might have become familiar with a few joseki here and there, I was realy hoping to start from the ground up and get a much better how joseki are created and built.
-[/expand]
+
 
 ### Synopsis
 

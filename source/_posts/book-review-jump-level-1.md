@@ -118,13 +118,13 @@ As usual with this series, I really love how I am just forced to practice concep
 
 And another thing I'll note with about the Jump Level Up series, they still take no chances in letting fundamental skills such as falsifying eyes get even the slightest bit rusty. Though it might seem like you are repeating something "so simple," I really appreciate that they do this since I still found myself answering some of the problems incorrectly (which clearly goes to show that my foundational skills are not quite flawless yet).
 
-[/expand]
+
 
 ### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
-[/expand]
+
 
 ### Where Can I Buy It?
 

@@ -111,7 +111,7 @@ Length, 218 Pages
 
 3.  Worth purchasing as a collector's item or for seriously hardcore players, but I would steer clear if you are just looking to learn about attack and defense.
 
-### My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 Redmond's writing style makes feel like I am having a high level conversation with a professional go player. In the midst of his explanations, you'll find little humorous statements like, "if you have to huddle up in a corner while being sealed in, bad things happen." With that said however, I definitely need to emphasize the fact that this book is NOT for the light-hearted. In other words, while there are golden nuggets of simple wisdom that can easily be followed by most players, the explanation very quickly dive into numerous variations that are complicated and hard to follow for amateurs.
 

@@ -20,7 +20,7 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
 [table]
 Title, Essential Life &amp; Death 1
@@ -33,9 +33,9 @@ ISBN, 978-89-90965-93-6
 Length, 168 Pages
 [/table]
 
-[/expand]
 
-[expand title="Table of Content" trigclass="expandTitle"]
+
+### Table of Content
 
 1.  One Eye by Tiger's Mouth
 2.  One Eye by Pushing Ahead
@@ -120,25 +120,25 @@ Length, 168 Pages
 81.  Capturing by Pae (Ko)
 82.  **10th Review**
 83.  **Final Test**
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle" expanded="true"]
+
+### Synopsis
 
 1.  A workbook-based approach to teaching life and death.
 2.  A great way for players to drill their life and death skills.
 3.  A good introductory book to learning and experiencing life and death problems.
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+
+### Before I Read This Book...
 **My Abilities**
 
 *   I've studied my fair share of life and death and can confidently say that I have a SDK (single digit kyu) level of life and death.
 **My Perspective**
 
 *   I was hoping for very easy problems that would help polish my basic life and death skills.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 **What did I enjoy about the book?**
 
@@ -165,9 +165,9 @@ Length, 168 Pages
 **Is this book easy to read?**
 
 *   Yes. Unless you can't read English, it really doesn't get any simpler.
-[/expand]
 
-[expand title="In Comparison to Similar Books..." trigclass="expandTitle"]
+
+### In Comparison to Similar Books...
 
 [expandsub1 title="1001 Life and Death Problems" trigclass="cBookTitle"]
 
@@ -181,25 +181,25 @@ While [Life and Death](http://www.bengozen.com/book-review-life-and-death/ "Book
 
 [/expandsub2]
 
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+
+### Recommended For...
 
 *   Players looking to improve their life and death skills.
 *   People who prefer to learn through experience rather than explanations.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](https://www.ymimports.com/p-1413-essential-life-death-1-15-10-kyu.aspx#.Ua-kqUCvP2s) USD (shipping &amp; handling not included)
 *   Baduktopia - Contact them at info@baduktopia.com to request pricing and shipping costs.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+
+### Other Books in This Series...
 
 *   Essential Life and Death 2
 *   Essential Life and Death 3
 *   Essential Life and Death 4
-[/expand]
+
 
 _**Last Updated on June 12th, 2013**_

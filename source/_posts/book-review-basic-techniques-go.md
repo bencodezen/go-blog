@@ -21,7 +21,7 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
 [table]
 Title, Basic Techniques of Go
@@ -34,9 +34,9 @@ ISBN, 4-906574-02-5
 Length, 172 Pages
 [/table]
 
-[/expand]
 
-[expand title="Table of Content" trigclass="expandTitle"]
+
+### Table of Content
 
 *   Preface to the Third Edition
 *   Technial Terms
@@ -92,15 +92,15 @@ Length, 172 Pages
 		*   Endgame Problems
 
 *   Appendix
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+
+### Before I Read This Book...
 
 I bought this book way back when I started go. I felt like I was completely lost when I first tried to read it, so here I am a couple years later trying to read it once more. What I was expecting when I bought it was a book on a broad coverage of techniques one would find with go. Now that I am much stronger and more experienced, I am still hoping for a survey of techniques along with clarification on their usage.
 
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 When I first opened this book, I was a little surprised to be greeted by a chapter on opening theory. After all, this is a book on technique is it not? I recognize that selecting the correct opening move is a "technique" in a sense, but in my mind I was thinking more along the lines of haengma (i.e., the movement of the stones) or something else.
 
@@ -118,9 +118,9 @@ In regards to its overall difficulty, it really does feel as if the reader needs
 
 So if you fall into the category of beginner/intermediate players looking to get stronger, I do not recommend this book for you. Instead, I recommend checking out the Mastering the Basics series from Kiseido as a better alternative.
 
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -146,11 +146,11 @@ So if you fall into the category of beginner/intermediate players looking to get
 2.  Better suited to players already familiar with the content in the book. In other words, NOT for beginners.
 3.  If you're a beginner/intermediate player looking to get stronger, check out the Mastering Basics series instead.
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Intermediate/advanced players looking for additional material to study.
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Kiseido - [$18](http://kiseido.com/go_books.htm) (shipping and handling not included)
 *   SmartGo Books - [$8.99](http://gobooks.com/) (iOS Devices Only)

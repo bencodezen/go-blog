@@ -18,7 +18,7 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
 [table]
 Title, Positional Judgement 1: Territory
@@ -29,9 +29,9 @@ Language, English
 Length, 272 Pages
 [/table]
 
-[/expand]
 
-[expand title="Table of Content" trigclass="expandTitle"]
+
+### Table of Content
 
 *   Chapter 1 - Introduction
 
@@ -64,15 +64,15 @@ Length, 272 Pages
 
 *   Strategy
 *   Index
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+
+### Before I Read This Book...
 
 I've been told countless times that I need to be better of positional Judgment. Before this book, the only other book on this topic (in English) was Positional Judgment by Cho Chikun. So when I got the opportunity to review the book, I jumped at the opportunity since I still don't feel terribly confident about my abilities to make position judgments.
 
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 When I first started reading this book, the first thing I noticed is that the layout of the book is very clean. Examples of this include shorter paragraphs, proper spacing between paragraphs, proper usage of bullet points and numbered lists, using bold appropriately, etc. And though this might seem like completely irrelevant, but I personally believe that poor book layouts make it difficult for the reader to read and learn the material properly. And since go literature is still maturing, it was great to see Jasiek's books taking a step forward in the right direction.
 
@@ -84,9 +84,9 @@ In addition, I would have to say that Jasiek does a good job mixing in some theo
 
 As a general overview of the book, I would have to say it is incredibly comprehensive and thorough on the topic of positional judgment. It is incredibly in-depth and detailed in regards to its explanations of specific topics and can be rather advanced if the reader is looking for a broad overview of positional judgment. So while any person who reads and fully masters the content in this book would become VERY good at positional judgment, it can be a bit scary for players looking to casually learn about the topic.
 
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -114,18 +114,18 @@ As a general overview of the book, I would have to say it is incredibly comprehe
 1.  An incredible step forward for the English go literature community on positional judgment.
 2.  The most methodical and detailed book on positional judgment that I've read thus far.
 3.  Totally worth every penny if you're interested in gaining an in-depth understanding of how positional judgment works.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+
+### Recommended For...
 
 *   Players interested in an in-depth and thorough study of positional judgment.
 *   Anyone interested in a textbook on the inner workings of positional judgment that is filled with numerous examples.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle" expanded="true"]
+
+### Where Can I Buy It?
 
 *   Robert Jasiek (Printed) - [EUR 26.50 (shipping and handling not included)](http://home.snafu.de/jasiek/PositionalJudgement.html)
 *   Robert Jasiek (e-Book) - [EUR 13.25](http://home.snafu.de/jasiek/PositionalJudgement.html)
-[/expand]
+
 
 _**Last Updated on January 2nd, 2014**_

@@ -43,15 +43,15 @@ Vendor &amp; Manufacturer, [AmbyR00](https://twitter.com/AmbyR00)
 
 1.  This is a gorgeous leather go board that looks professionally made!
 2.  Totally worth it if you're into leather products and would love to own a goban made of one!
-[/expand]
 
-[expand title="What I Was Hoping For" trigclass="expandTitle"]
+
+### What I Was Hoping For
 
 When [AmbyR00](https://twitter.com/AmbyR00) first told me about his board, I was hoping that it would be something that would be easily stored away and difficult to store away. In addition, I was hoping that it would be made of quality leather so that it didn't feel cheap and easily frayed and damaged.
 
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 A majority of the gobans that I have owned thus far have all been made of wood, so I was thrilled to get a chance to review a goban made of non-traditional material!
 
@@ -95,9 +95,9 @@ Actually, these are not the first boards I have made, I also did some smaller pr
 
 See you later! ^^ /gg"
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle" expanded="true"]
+### Where Can I Buy It?
 
 *   Contact [AmbyR00](https://twitter.com/AmbyR00) for more information!
-[/expand]
+
 
 _**Last Updated on February 7th, 2014**_

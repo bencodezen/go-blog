@@ -75,7 +75,7 @@ Since I tend to be more of a "jump before you look" type of player, I've played 
 
 3.  Highly recommended and worth the money for anyone interested in getting stronger at invading.
 
-### My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 When I first started playing, I remember how difficult it was for me to choose points of invasion. More often than not, I would stare at my opponent's formation and feel so intimidated by it that I would never invade. Luckily for me, this book really helped to open my eyes in regards to where the weaknesses in popular formations are, along with the common follow-up move to make sabaki or life.
 

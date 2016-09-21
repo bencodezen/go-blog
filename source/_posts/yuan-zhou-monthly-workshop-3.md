@@ -16,19 +16,24 @@ On Sunday, July 21st, I was able to finally join my friends at [Yuan Zhou](http:
 
 The day began as always with a tsumego on the demonstration board.
 
-[caption id="attachment_3625" align="aligncenter" width="122"][![tsumego problem](http://www.bengozen.com/wp-content/uploads/2013/07/tsumego.png)](http://www.bengozen.com/wp-content/uploads/2013/07/tsumego.png) Black to play. What is White's status?[/caption]
+![Black to play. What is White's status?](/images/2013/07/tsumego.png)
 
 Though I had the correct answer at one point, I talked myself out of it by misreading the order of moves. As a result, I unfortunately can't proudly say I solved it with confidence. Haha. But in terms of what I gained from that experience, I need much more work on my life and death skills. I'm decent with some of the instinctual moves, but I need to be better in terms of being absolutely sure of my answer.
 
-After my friend Gurujeet answered the question correctly, we moved on to reviewing a professional game between Lee Sedol [9P] and Lian Xiao [4P] ([download label="Download Kifu"]http://www.bengozen.com/wp-content/uploads/2013/07/LianLee07212013.sgf[/download]). It was an exciting game that really helped to open my eyes. Some of the major things I learned from the flow and tenacity of the players include:
+After my friend Gurujeet answered the question correctly, we moved on to reviewing a [professional game between Lee Sedol [9P] and Lian Xiao [4P]](/kifu/2013/LianLee07212013.sgf). It was an exciting game that really helped to open my eyes. Some of the major things I learned from the flow and tenacity of the players include:
 
 <!--more-->
 
-1.  <span style="line-height: 13px;">Do not give your opponent an easy time when it comes to figuring out the next move.</span>
+1.  Do not give your opponent an easy time when it comes to figuring out the next move.
+
 2.  The strength of a player is actually reflected in his/her ability to handle the center of the board.
+
 3.  When making a move, try to make the follow-up move as severe as possible.
+
 4.  If it's not life or death, don't fight on your opponent's terms.
+
 5.  Always look for a more active way to defend yourself.
+
 Afterwards, we had lunch and then got our afternoon matches. Apparently according to AGA, my rating is actually -4.375 now (i.e. 4 kyu), so I got matched up with a fellow UMBC go player by the name of Nathan. We had played against one another at the local club before, but this would be our first ranked match against one another. Below is a record of our game along with some of Yuan Zhou's and my thoughts as well.
 
 <article>

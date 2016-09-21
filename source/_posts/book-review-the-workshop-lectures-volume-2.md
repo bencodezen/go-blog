@@ -91,7 +91,7 @@ Length, 81 Pages
 2.  Has a lot of valuable content for such a short book!
 3.  Worth every penny you spend on it!
 
-### My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 I continue to be impressed with Yilun Yang's ability to take concepts that most strong players take for granted they understand and break it down for weaker players like myself who often make fundamental strategic errors such as choosing the proper pincer. Like any other book I've read, applying it to my own game will take some time; but the sheer fact that I was able to understand his main point the first time around is extremely commendable on his part. Finally, Yilun Yang does a great job simplifying the two primary styles of go: territorial vs. moyo and explaining how one should properly play if one is to choose one or the other. Definitely worth checking out if you're confused about any of the topics covered in this book!
 
@@ -105,7 +105,7 @@ I continue to be impressed with Yilun Yang's ability to take concepts that most 
 *   Slate and Shell - [$18.00](http://www.slateandshell.com/SSYY008.html) USD (shipping and handling not included)
 *   SmartGo Books - [$5.99](http://www.smartgo.com/books.htm) USD (e-Book for iPhone, iPad &amp; iPod Touch Only)
 
-### Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [The Workshop Lectures - Volume 1](http://www.bengozen.com/book-review-the-workshop-lectures-volume-1/ "Book Review: The Workshop Lectures Volume 1")
 *   The Workshop Lectures - Volume 2

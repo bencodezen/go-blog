@@ -37,7 +37,7 @@ Problems, 172 Problems
 *   Introduction - Eight Basic Joseki
 *   Part One - After the Joseki and Joseki Variations (Problems 1-122)
 *   Part Two - Choosing the Right Joseki and Playing after the Joseki (Problems 123-172)
-[/expand]
+
 
 ### Before I Read This Book...
 

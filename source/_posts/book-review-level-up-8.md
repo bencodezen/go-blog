@@ -12,7 +12,7 @@ tags:
 	- workbook
 ---
 
-[![Level Up 8 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup8cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup8cover.jpg)
+![Level Up 8 Cover](/images/2013/07/levelup8cover.jpg)
 
 ## Level Up 8
 
@@ -20,9 +20,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Level Up 8
 Series, Level Up! Series
 Author, Lee Jae-Hwan
@@ -33,11 +32,8 @@ Published, "April 29th, 2009"
 Language, English
 ISBN, 978-89-90965-88-2
 Length, 168 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Glossary
 2.  Learn Baduk and IQ-Development
@@ -73,16 +69,14 @@ Length, 168 Pages
 32.  Endgame
 33.  How to Answer
 34.  Level Tests
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle" expanded="true"]
+### Synopsis
 
 1.  Even though I may be a solid 5 kyu, I started slipping up on some of the problems.
 2.  Really enjoyed how joseki was integrated into the lesson plan.
 3.  Continues to live up to the quality of problems and content you come to expect of the series.
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
@@ -90,20 +84,21 @@ Length, 168 Pages
 **My Perspective**
 
 *   Level Up 7 was starting to really test my reading abilities, so I will continue to tread carefully with this one.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 **What did I enjoy about the book?**
 
 *   They are unrelenting with the training on ladders and nets.
 *   Introduces joseki in a fun and easy way to help the reader remember the proper sequence along with how to respond to unorthodox responses from the opponent.
 *   Continues to drill away at the reader to improve their life and death and capturing race abilities.
+
 **What did I gain from reading this book?**
 
 *   Continued polishing of my reading abilities.
 *   Better understanding of why certain star point josekis flow the way they do.
 *   Gained more familiarity and comfort with my fundamental life and death skills along with capturing races.
+
 **What style of teaching does the book use?**
 
 *   Curriculum Style
@@ -119,27 +114,26 @@ Length, 168 Pages
 		*   Cute and entertaining comics to teach and/or reinforce lessons.
 		*   Simple explantations that are accompanied by equally simple diagrams.
 		*   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
+
 **What aspect can be improved on?**
 
 *   No complaints here!
+
 **Is this book easy to read?**
 
 *   Yes. Other than the occasional article, the explanations are very easy short and easy to understand.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](https://www.ymimports.com/p-785-level-up-8-16-14-kyu.aspx "Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1")
 *   [Level Up 2](http://www.bengozen.com/book-review-level-up-vol-2/ "Book Review: Level Up 2")
@@ -153,6 +147,5 @@ Length, 168 Pages
 *   Level Up 10
 *   Level Up Review 2
 *   Jump Level Up Series
-[/expand]
 
 _**Last Updated on July 25th, 2013**_

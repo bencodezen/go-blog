@@ -20,7 +20,7 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
 [table]
 Title, GGPDP: Volume One - 300 Life-and-Death Problems (5-kyu to 3-dan)
@@ -35,22 +35,22 @@ Length, 232 pages
 Problems, 300 problems
 [/table]
 
-[/expand]
 
-[expand title="Table of Content" trigclass="expandTitle"]
+
+### Table of Content
 
 *   Translator's Preface
 *   Glossary of Go Terms Used in this Book
 *   300 Life and Death Problems (#1-300)
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+
+### Before I Read This Book...
 
 As an enthusiast of the "Graded Go Problems for Beginners" series, I have to say that I was ecstatic when I heard about this series. After all, every kyu player dreams of making it to the big dan league and being able to solve "dan level" problems. And even though I got myself a copy of this book quite a while ago, this book seemed quite daunting to me for some time due to the fact that I just felt I wasn't ready for "dan" problems. Anyhow, I'm glad I finally got around to reading it so that you can hear my thoughts on the book itself.
 
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 Perhaps my favorite aspect about the entire "Graded Go Problems" series as a whole is the extremely clean format. For those who don't know what I'm talking about, every page that contains the problems is divided into four clean and even rectangles. Secondly, the numbering, diagram, directions, and even hints are all in universal places so that once you get exposed to the format, you'll never wonder where to look next. And last but not least, the solutions are never exposed on the same page (aka you can't see the solution as you're trying to solve the problem). And thankfully, Graded Go Problems for Dan Players continues that tradition.
 
@@ -62,9 +62,9 @@ If there were to be any complaint about this series, it would probably be that t
 
 Overall, I think that this series is destined for the same greatness as the "Graded for Go Problems for Beginners" when it comes to high quality problems that are displayed in an easy to read format. Definitely a must-have for any player serious about practicing their reading and looking for ways to keep honing their ability. Highly recommended!
 
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -90,19 +90,19 @@ Overall, I think that this series is destined for the same greatness as the "Gra
 1.  Great problem set for players 5 kyu and stronger.
 2.  Continues to uphold the quality and ease of reading you come to expect from the "Graded Go Problems" series.
 3.  Highly recommended for anyone looking to take the next steps to raising their reading ability to "dan" level!
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+
+### Recommended For...
 
 *   Players 5-kyu and stronger.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+
+### Where Can I Buy It?
 
 *   Kiseido - [$25](http://kiseido.com/go_books.htm#K15) (shipping and handling not included)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+
+### Other Books in This Series...
 
 *   GGPDP - Volume One: 300 Life-and-Death Problems (5-kyu to 3-dan)
 *   GGPDP - Volume Two: 300 Tesuji Problems (5-kyu to 3-dan)
@@ -111,6 +111,6 @@ Overall, I think that this series is destined for the same greatness as the "Gra
 *   GGPDP - Volume Five: 300 Tesuji Problems (4-dan to 7-dan)
 *   GGPDP - Volume Six: Joseki Problems (TBD)
 *   GGPDP - Volume Seven: 256 Opening and Middle Game Problems (1-dan to 7-dan)
-[/expand]
+
 
 _**Last Updated on March 2nd, 2014**_

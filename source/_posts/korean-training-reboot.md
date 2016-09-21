@@ -9,7 +9,7 @@ tags:
 	- tygem
 ---
 
-[caption id="attachment_3197" align="aligncenter" width="400"][![koreanbooks](http://www.bengozen.com/wp-content/uploads/2013/07/koreanbooks.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/koreanbooks.jpg) Just came in today![/caption]
+![Just came in today!](/images/2013/07/koreanbooks.jpg)
 
 Normally I try not to post twice in a day, but being as it is the first of July, I didn't want to miss the opportunity to go ahead and post about my new training program: Korean Style Reboot!
 

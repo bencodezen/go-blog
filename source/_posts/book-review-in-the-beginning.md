@@ -18,7 +18,7 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
 [table]
 Title, In the Beginning (Volume 1)
@@ -31,9 +31,9 @@ ISBN, 978-4-906574-10-6
 Length, 152 Pages
 [/table]
 
-[/expand]
 
-[expand title="Table of Content" trigclass="expandTitle"]
+
+### Table of Content
 
 *   Introduction
 *   Chapter 1
@@ -64,9 +64,9 @@ Length, 152 Pages
 	9.  Attack and Defense
 
 *   Chapter 3 - Ten Problems
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle" ]
+
+### Synopsis" trigclass="expandTitle" ]
 
 **What did I enjoy about the book?**
 
@@ -101,18 +101,18 @@ Length, 152 Pages
 1.  If you are a beginner, steer clear of this book. This is for more advanced players.
 2.  This book is more of a synopsis of the opening as opposed to a step by step guide to the opening.
 3.  People are interested in learning about the opening should check out [Opening Theory Made Easy](http://www.bengozen.com/book-review-opening-theory-made-easy/ "Book Review: Opening Theory Made Easy") first.
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+
+### Before I Read This Book...
 **My Abilities**
 
 *   I was utterly brand new to the game when I first received this book.
 **My Perspective**
 
 *   I was looking forward to reading about the beginning steps that beginners should take.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 When I first read this book, I was an 18 kyu eager to learn all he could about go. Unfor­tu­nately, this was the first book I encoun­tered and it was so dense I was nearly dis­cour­aged from learn­ing any­thing more about open­ing the­ory. The rea­son this book receives a low score on read­abil­ity is due to the notion that it is an “ele­men­tary” book. With the West­ern edu­ca­tion sys­tem, most of us would assume that it should be appro­pri­ate for newer play­ers. Noth­ing could be fur­ther from the truth.
 
@@ -122,22 +122,22 @@ Now that my rant as a beginner is done, I want to turn the other side of the coi
 
 Finally, I also want to mention the fact that this book does NOT cover fuseki patterns (e.g., Chinese opening, ninren-sei, sanren-sei, etc.). It is simply focused on establishing basic principles and methods behinds the opening. Nothing more than that.
 
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+
+### Recommended For...
 
 *   Players looking for a thorough (but rather advanced) overview of the opening.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+
+### Where Can I Buy It?
 
 *   Amazon - [$16.17](http://www.amazon.com/gp/product/4906574106/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=4906574106&amp;linkCode=as2&amp;tag=be09a-20m "Amazon Purchase Link") USD (shipping &amp; handling not included)
 *   GoGameGuru - [$17.99](http://shop.gogameguru.com/in-the-beginning/?acc=e4da3b7fbbce2345d7772b0674a318d5 "Go Game Guru Purchase Link") USD (shipping &amp; handling not included)
 *   Kiseido - [$18.00](http://kiseido.com/go_books.htm "Kiseido Purchase Link") USD (shipping &amp; handling not included)
 *   SmartGo Books - [$9.99](http://www.smartgo.com/books.htm "SmartGo Book Link") USD (e-Book for iPad &amp; iPhone Only)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+
+### Other Books in This Series...
 
 *   Elementary Go Series, Volume 1 - In the Beginning
 *   [Elementary Go Series, Volume 2 - 38 Basic Josekis](http://www.bengozen.com/book-review-38-basic-josekis/ "Book Review: 38 Basic Josekis")
@@ -146,6 +146,6 @@ Finally, I also want to mention the fact that this book does NOT cover fuseki pa
 *   [Elementary Go Series, Volume 5 - Attack and Defense](http://www.bengozen.com/book-review-attack-and-defense/ "Book Review: Attack and Defense")
 *   [Elementary Go Series, Volume 6 - The Endgame](http://www.bengozen.com/book-review-the-endgame/ "Book Review: The Endgame")
 *   [Elementary Go Series, Volume 7 - Handicap Go](http://www.bengozen.com/book-review-handicap-go/ "Book Review: Handicap Go")
-[/expand]
+
 
 _**Last Updated on August 1st, 2013**_

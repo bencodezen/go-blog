@@ -102,7 +102,7 @@ Length, 225 Pages
 
 I got this book long ago, but I purchased this book because I felt that I was very lost when it came to choosing the direction of play. So while my ability to determine the direction of play has improved since then, I still feel rather skittish about my abilities to determine the correct direction of play and hope that this book will provide some guidance for me.
 
-### My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 When I first started reading this book, I felt a little uneasy as I was hit with commentary that just felt way over my head. Fortunately though, that didn't last too long. Once the commentary was finished, there were mini-sections that summarized Kobayashi Satoru 9P's advice on the direction of joseki, fuseki, fighting, and so forth. Though not helpful for weaker players, they seem to be great reinforcement to players who already have a grasp on this topic.
 

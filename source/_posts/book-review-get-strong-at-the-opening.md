@@ -92,7 +92,7 @@ Problems, 175 Problems
 2.  A fantastic introductory/intermediate level book with practice problems on the opening.
 3.  A must have for anyone looking to strengthen their understanding of the opening.
 
-### My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 Though this book has been sitting on my shelf for quite some time, I must admit that I am so glad that I finally got around to it. The way that Bozulich forces the reader to consider different board positions at different points of the opening was really eye opening. I would say that I would get the answer right about 40-50% of the time, but oftentimes when I was wrong my eyes were opened up to a whole new concept. So while it was great to be right at times, I found the explanations to be extremely valuable in teaching me something new.
 

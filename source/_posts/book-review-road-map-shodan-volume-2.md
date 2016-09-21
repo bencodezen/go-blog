@@ -156,6 +156,6 @@ While there will be players who may scoff at this book, Kiseido has done a great
 *   Volume 10: Tasuki Openings
 *   Volume 11: Parallel Openigs
 *   Volume 12: The Shusaku Opening
-[/expand]
+
 
 _**Last Updated on October 19th, 2014**_

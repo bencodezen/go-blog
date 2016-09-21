@@ -14,15 +14,14 @@ tags:
 	- go-problems
 ---
 
-[![eldv3cover](http://www.bengozen.com/wp-content/uploads/2013/06/eldv3cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/06/eldv3cover.jpg)
+![](/images/2013/06/eldv3cover.jpg)
 
 **Description:** _Essential Life &amp; Death 3_ is part of the Essential Life &amp; Death Series that is used as workbooks in private go schools in Korea. Though it might be seen as an addendum to the Level Up Series, it certainly can be used as a standalone product for anyone looking to study life and death.
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Essential Life &amp; Death 3
 Author, Lee Jae-Hwan
 Translators, Lee Seong-Geun &amp; Daniela Trinks
@@ -31,11 +30,8 @@ Published, "July 8th, 2009"
 Language, English
 ISBN, 978-89-90965-95-0
 Length, 168 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Rectangular Six in the Corner
 2.  Rectangular Six in the Corner with One Liberty
@@ -116,16 +112,15 @@ Length, 168 Pages
 77.  Bent Four in the Corner
 78.  **10th Review**
 79.  **Final Test**
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle" expanded="true"]
+
+### Synopsis
 
 1.  As a mid to high SDK (single digit kyu), the problems gave me a lot more difficulty this time around.
 2.  Presents a lot of new shapes that I previously would have assumed was hopeless.
 3.  Continues to live up to the high quality of problems that you come to expect from this series.
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
@@ -133,20 +128,21 @@ Length, 168 Pages
 **My Perspective**
 
 *   In general, I would say that I have always preferred learning through experience. Though in all honesty, after finishing the second volume, I was skeptical of how far I could really get in this book.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 **What did I enjoy about the book?**
 
 *   Though my inability to progress very far was slightly depressing, I was happy to see that there was still a lot of room for me to grow and improve my life and death skills.
 *   The drill seargent routine is great because I have multiple opportunities to get exposure to moves I would have never considered before.
-*   There is a huge focus on shapes that players don't normally study: rectangular six and 2-2-2\. In addition, these shapes are dissected to a very detailed level. Example: Rectangular six with one outside liberty versus two liberties.
+*   There is a huge focus on shapes that players don't normally study: rectangular six and 2-2-2. In addition, these shapes are dissected to a very detailed level. Example: Rectangular six with one outside liberty versus two liberties.
+
 **What did I gain from reading this book?**
 
 *   A broader perspective on the different variations that can arise from life and death postiions.
 *   A better grasp on techniques used to either kill or save a group.
 *   Moderate improvement in my reading abilities. (This is only due to the speed at which I was going through problems. Anyone who diligently studies each problem to mastery will most likely gain a significant boost to their reading ability).
+
 **What style of teaching does the book use?**
 
 *   Curriculum Style
@@ -156,47 +152,35 @@ Length, 168 Pages
 *   Teaching Mechanism:
 
 		*   Practice problems
+
 **What aspect can be improved on?**
 
 *   I felt that the problems got a lot more difficult very quickly. However, this should be taken with a grain of salt since there is a good chance that the reader is supposed to already have a more solid reading ability than I have before working on this book.
+
 **Is this book easy to read?**
 
 *   Yes. Unless you can't read English, it really doesn't get any simpler.
-[/expand]
 
-[expand title="In Comparison to Similar Books..." trigclass="expandTitle"]
-
-[expandsub1 title="1001 Life and Death Problems" trigclass="cBookTitle"]
+### In Comparison to Similar Books...
 
 Compared to [1001 Life and Death Problems](http://www.bengozen.com/book-review-1001-life-and-death-problems/ "Book Review: 1001 Life and Death Problems"), this series does a better job hand-holing players new to life and death through the basic shapes and variations. On the other hand, I would say that in terms of polishing a player's life and death skills, 1001 Life and Death Problems is still highly recommended. So to clarify, neither one trumps the other. Both can provide great value to a player's life and death abilities.
 
-[/expandsub1]
-
-[expandsub2 title="Elementary Go Series, Volume 4 - Life and Death" trigclass="cBookTitle"]
-
 While [Life and Death](http://www.bengozen.com/book-review-life-and-death/ "Book Review: Life and Death") does a great job providing a broad survey of different shapes through explanations and accompanying practice problems, this series uses the "learn it through experience" methodology. Though they may overlap on a good deal of material, I believe that they complement one another and would both be of great use to serious players wanting to improve their life and death.
 
-[/expandsub2]
-
-[/expand]
-
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Players looking to improve their life and death skills.
 *   People who prefer to learn through experience rather than explanations.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports -[$13.00](http://www.ymimports.com/p-816-essential-life-death-3-5-kyu-3-dan.aspx#.UeIfXxbTxEA "Yellow Mountain Imports Purchase Link") USD (shipping &amp; handling not included)
 *   Baduktopia - Contact them at info@baduktopia.com to request pricing and shipping costs.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [Essential Life and Death 1](http://www.bengozen.com/book-review-essential-life-death-1/ "Book Review: Essential Life &amp; Death 1")
 *   [Essential Life and Death 2](http://www.bengozen.com/book-review-essential-life-death-2/ "Book Review: Essential Life &amp; Death 2")
 *   Essential Life and Death 4
-[/expand]
 
 _**Last Updated on July 18th, 2013**_

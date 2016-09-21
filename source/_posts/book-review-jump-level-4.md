@@ -70,7 +70,7 @@ Length, 167 Pages
 
 As a mid to high SDK (i.e., single digit kyu) player, I was expecting to see the same quality of content from previous volumes. In addition, I was hoping that I would be able to solve most problems with relative ease while finding some problems challenging.
 
-### My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 Once again, Lee Jae-Hwan has managed to sweep me off my feet when it comes to providing incredible content that really got my brain working. There were countless sections in here that I always knew about but really appreciated getting a chance to truly practice. Examples include: Identifying Seki, The Loose Connection, The Stone Pagoda, Hane Twice to Gain a Liberty, etc.
 

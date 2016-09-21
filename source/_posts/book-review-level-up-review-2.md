@@ -12,7 +12,7 @@ tags:
 	- workbook
 ---
 
-[![Level Up Review 2 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelupr2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelupr2cover.jpg)
+![Level Up Review 2 Cover](/images/2013/07/levelupr2cover.jpg)
 
 ## Level Up Review 2
 
@@ -20,9 +20,8 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
-[table]
 Title, Level Up Review Review 2
 Series, Level Up! Series
 Author, Lee Jae-Hwan
@@ -33,11 +32,8 @@ Published, "July 8th, 2009"
 Language, English
 ISBN, 978-89-90965-92-9
 Length, 168 Pages
-[/table]
 
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Glossary
 2.  Baduk Etiquette
@@ -72,37 +68,39 @@ Length, 168 Pages
 31.  Life and Death by Ko &amp; Next Move
 32.  Opening Sample 8
 33.  Level Test
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle" expanded="true"]
+### Synopsis
 
 1.  A very thorough review of the last five volumes of Level Up.
-2.  The game samples are starting to be rather complicated.
-3.  Continues to live up to the quality of problems and content you come to expect of the series.
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+2.  The game samples are starting to be rather complicated.
+
+3.  Continues to live up to the quality of problems and content you come to expect of the series.
+
+### Before I Read This Book...
 
 **My Abilities**
 
 *   A mid to high SDK (single digit kyu) kyu who has read his fair share of go books and has a pretty strong foundation in the basics and teaching go.
+
 **My Perspective**
 
 *   Towards the end of the series, I noticed that I am actually starting to make mistakes here and there. So I'm going to try and take this a little slower in hopes of not making any mistakes.
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 **What did I enjoy about the book?**
 
 *   Spends quite a bit of time talking about go etiquette and one's mindset/attitude when playing go.
 *   Extremely thoroughly reviews the material you learned from Level Up 5 - 10.
 *   The Next Moves problems also took a step up in difficult and complication. In fact, there were quite a few times where I was a little lost as to which was the correct answer.
+
 **What did I gain from reading this book?**
 
 *   Further realization of how, even at the what they consider DDK level, there are still holes in my reading abilities.
 *   Reinforced understanding of the josekis that they have taught thus far.
 *   Polished reading ability and improved analysis speed.
+
 **What style of teaching does the book use?**
 
 *   Curriculum Style
@@ -118,29 +116,28 @@ Length, 168 Pages
 		*   Cute and entertaining comics to teach and/or reinforce lessons.
 		*   Simple explantations that are accompanied by equally simple diagrams.
 		*   Samples of openings from professional games to further acclimate the reader to full games on a 19x19 board.
+
 **What aspect can be improved on?**
 
 *   Page 55 #10 Solution is incorrect.
 *   I enjoy the Next Move problems, but the lack of explanations for why certain moves are the correct answer leaves me a little unsettled. Don't forget that this considers the fact that I have more knowledge than someone learning these things for the first time. So explanations for why a certain move (e.g., capping move) is correct would be very helpful.
 *   The calculating endgame move value problems were actually rather difficult. I don't feel like the previous volumes prepared me enough for these questions.
+
 **Is this book easy to read?**
 
 *   Yes. Other than the occasional article, the explanations are very easy short and easy to understand.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](https://www.ymimports.com/p-797-level-up-review-book-2-for-books-6-10-10-8-kyu.aspx "Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+### Other Books in This Series...
 
 *   [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1")
 *   [Level Up 2](http://www.bengozen.com/book-review-level-up-vol-2/ "Book Review: Level Up 2")
@@ -154,6 +151,5 @@ Length, 168 Pages
 *   [Level Up 9](http://www.bengozen.com/book-review-level-up-9/ "Book Review: Level Up 9")
 *   [Level Up 10](http://www.bengozen.com/book-review-level-up-10/ "Book Review: Level Up 10")
 *   Jump Level Up Series
-[/expand]
 
 _**Last Updated on July 31st, 2013**_

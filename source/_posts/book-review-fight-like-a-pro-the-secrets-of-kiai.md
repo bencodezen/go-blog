@@ -105,7 +105,7 @@ Length, 282 Pages
 
 4.  A pioneer in go literature on the topic of kiai that amateur players will definitely come to appreciate in the years to come.
 
-### My Review" trigclass="expandTitle" expanded="true"]
+### My Review
 
 One of the things I really enjoyed about this book is the fact though the explanations can be difficult to comprehend at times, the diagrams are usually only a few moves long and really allows the reader to take the game in bite sizes.
 

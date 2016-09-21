@@ -19,7 +19,7 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
+### Book Details
 
 [table]
 Title, The Fighting Styles of Kato Masao &amp; Seo Bong Soo
@@ -32,9 +32,9 @@ ISBN, 1-932001-45-X
 Length, 484 (iPhone) Pages (Smartbook Version)
 [/table]
 
-[/expand]
 
-[expand title="Table of Content" trigclass="expandTitle"]
+
+### Table of Content
 
 *   Introduction
 *   A Brief Biography of Kato Masao
@@ -43,15 +43,15 @@ Length, 484 (iPhone) Pages (Smartbook Version)
 *   A Brief Biography of Seo Bong Soo
 *   Seo Becomes a World Champion
 *   Seo Stops Another Top Japanese Pro
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+
+### Before I Read This Book...
 
 Like many kyu players out there, I always considered myself to have a "fighting style." After all, my games consisted primarily of big battles and trying to kill things. If that's not fighting, what is right? Well I wanted to find out for myself whether I could see my go in famous professional players actually known for their fighting. So as I'm in a bit of a haze in my journey at the moment, it wasn't long before I found myself purchasing this book to try and shed some light on my own style.
 
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+
+### My Review
 
 Similar to the previous volumes I read (Master Play: The Style of Lee Changho and The Style of Go Seigen), Yuan Zhou began each section with a brief introduction to the player's background. Being as I am still quite unfamiliar with the professional go scene, it was very entertaining while very informative. Without the introductions, I imagine that the game review would not have been nearly as enjoyable.
 
@@ -61,9 +61,9 @@ It was just utterly astounding seeing how these infamous "fighters" actually pla
 
 Yet again, Yuan Zhou does not fail to amaze me with how he is able to explain what is going on in the board.
 
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle"]
+
+### Synopsis
 
 **What did I enjoy about the book?**
 
@@ -88,21 +88,21 @@ Yet again, Yuan Zhou does not fail to amaze me with how he is able to explain wh
 1.  Games and explanations are not overbearing and relatively easy to follow.
 2.  Really helped to start shedding light on what "fighting style" really is.
 3.  Highly recommended for anyone interested in seeing professional level "fighting style."
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+
+### Recommended For...
 
 *   Kyu players interested in seeing great examples for actual "fighting style."
 *   Players who are fans of either Kato Masao and Seo Bong Soo and would love to learn more about them.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+
+### Where Can I Buy It?
 
 *   Slate &amp; Shell - [$17.50](http://www.slateandshell.com/SSYZ008.html "Slate and Shell Book") USD
 *   SmartGo Books - [$6.99](http://gobooks.com/books.html "SmartGo Books") USD (e-Book)
-[/expand]
 
-[expand title="Other Books in This Series..." trigclass="lastExpandTitle"]
+
+### Other Books in This Series...
 
 *   [Master Play: The Style of Lee Changho](http://www.bengozen.com/book-review-master-play-style-lee-changho/ "Book Review: Master Play — The Style of Lee Changho")
 *   [Master Play: The Style of Go Seigen](http://www.bengozen.com/book-review-master-play-style-go-seigen/ "Book Review: Master Play — The Style of Go Seigen")
@@ -110,6 +110,6 @@ Yet again, Yuan Zhou does not fail to amaze me with how he is able to explain wh
 *   Master Play: The Fighting Styles of Kato Masao &amp; Seo Bong Soo
 *   Master Play: The Territorial Styles of Kitani Minoru &amp; Cho Chikun
 *   Master Play: the Playing Style of Seven Top Pros
-[/expand]
+
 
 _**Last Updated on November 16th, 2013.**_

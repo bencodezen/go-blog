@@ -12,7 +12,7 @@ tags:
 	- workbook
 ---
 
-[![Level Up! - Volume 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/07/levelup2cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/07/levelup2cover.jpg)
+![Level Up! - Volume 2 Cover](/images/2013/07/levelup2cover.jpg)
 
 ## Level Up 2
 
@@ -20,9 +20,7 @@ tags:
 
 <!--more-->
 
-[expand title="Book Details" trigclass="expandTitle"]
-
-[table]
+### Book Details
 
 Title, Level Up 2
 Series, Level Up! Series
@@ -35,11 +33,7 @@ Language, English
 ISBN, 978-89-90965-82-0
 Length, 167 Pages
 
-[/table]
-
-[/expand]
-
-[expand title="Table of Content" trigclass="expandTitle"]
+### Table of Content
 
 1.  Glossary
 2.  How to Study Baduk as a Beginner
@@ -68,36 +62,37 @@ Length, 167 Pages
 25.  Opening Sample 3
 26.  How to Answer
 27.  Level Tests
-[/expand]
 
-[expand title="Synopsis" trigclass="expandTitle" expanded="true"]
+### Synopsis
 
 1.  Continues to live up to the quality of teaching material and practice problems that were in the first volume.
 2.  Does a fantastic job introducing life and death, ladders, and nets.
 3.  Provides lots of opportunity to review what you learned in the first volume to really ensure that the basics are solid.
-[/expand]
 
-[expand title="Before I Read This Book..." trigclass="expandTitle"]
+### Before I Read This Book...
 
 **My Abilities**
 
 *   A mid to high SDK (single digit kyu) kyu who has read his fair share of go books and has a pretty strong foundation in the basics and teaching go.
+
 **My Perspective**
 
 *   After reading [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1"), I was just excited to get started on the second book and keep the momentum going!
-[/expand]
 
-[expand title="My Review" trigclass="expandTitle" expanded="true"]
+### My Review
+
 **What did I enjoy about the book?**
 
 *   It forces you to review (and inadvertently reinforce) what you learned in [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1").
 *   Introduces life and death at its most fundamental level (i.e.,making your second eye) and drills the reader in finding it or taking it away.
 *   Spends a lot of time on ladders and gives the reader lots of opportunity to practice reading simple ladders. This is one of my favorite parts about this book since ladders are something that most players tend to shy away from.
+
 **What did I gain from reading this book?**
 
 *   Polishing my ladder reading abilities.
 *   Polishing my ability to accurately read out multiple variations since I'm double checking why the other answer doesn't work.
 *   Better understanding of how to break down concepts like ladders when teaching go to newer players.
+
 **What style of teaching does the book use?**
 
 *   Workbook Approach
@@ -113,28 +108,27 @@ Length, 167 Pages
 		*   Cute comics to illustrate concepts like, "Before capturing your opponent, look at your own weak points."
 		*   Multiple choice questions such as," Who has made better territory?"
 		*   Kifus (i.e., game records) that are only around 10 moves long with short one line statements of the move's purpose.
+
 **What aspects can be improved on?**
 
 *   The concept of chokchoksu (which is essentially shortage of liberties) should be introduced earlier on since there are a number of problems that use it in the solution.
 *   The answer book for Question #2 for page 163 should be "net."
+
 **Is this book easy to read?**
 
 *   Yes. It was very easy to progress through the book.
-[/expand]
 
-[expand title="Recommended For..." trigclass="expandTitle"]
+### Recommended For...
 
 *   Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.
 *   People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.
-[/expand]
 
-[expand title="Where Can I Buy It?" trigclass="expandTitle"]
+### Where Can I Buy It?
 
 *   Yellow Mountain Imports - [$13.00](http://www.ymimports.com/p-790-level-up-2-28-26-kyu.aspx "Level Up! - Volume 2 Yellow Mountain Imports Purchase Link") USD (shipping and handling not included)
 *   Baduktopia - E-mail them at info@baduktopia.com for more information.
-[/expand]
 
-[expand title="Other Books in this Series..." trigclass="lastExpandTitle"]
+### Other Books in this Series...
 
 *   [Level Up 1](http://www.bengozen.com/book-review-level-up-1/ "Book Review: Level Up 1")
 *   [Level Up 3](http://www.bengozen.com/book-review-level-up-3/ "Book Review: Level Up 3")
@@ -147,6 +141,5 @@ Length, 167 Pages
 *   Level Up 9
 *   Level Up 10
 *   Level Up Review 2
-[/expand]
 
 _**Last Updated on July 8th, 2013**_

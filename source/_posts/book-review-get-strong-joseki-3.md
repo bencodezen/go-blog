@@ -84,7 +84,7 @@ As with the previous volumes, I was very pleased overall with the quality of pro
 
 The favorite part of my book is still the section on "Choosing the Right Joseki and Playing the Right Joseki" since it is geared toward getting to the reader to take into account the whole board when making their decision. This is a wonderful change of scenery from the narrow perspective that players often practice on (such as focusing on just a corner or two groups for life and death). Definitely the best section of the entire series.
 
-[/expand]
+
 
 ### Recommended For...
 

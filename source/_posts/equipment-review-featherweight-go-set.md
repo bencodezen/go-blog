@@ -74,6 +74,6 @@ As you can see, it's a great set that really provides a wonderful experience whe
 ### Where Can I Buy It?
 
 *   GoGameGuru - [$25.00](http://shop.gogameguru.com/featherweight-go-game-set/?acc=e4da3b7fbbce2345d7772b0674a318d5 "Featherweight Go Set Purchase Link") (shipping and handling not included)
-[/expand]
+
 
 _**Last Updated on January 9th, 2014**_
