@@ -1,5 +1,4 @@
----
-title: {{ title }}
+title: "Monday Go Meditation: Game 00"
 date: {{ date }}
 layout: monday-go-meditation
 sgf:
