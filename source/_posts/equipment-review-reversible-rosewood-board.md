@@ -11,11 +11,11 @@ tags:
 	- portable-equipment
 ---
 
-[![rosewood-go-board](http://www.bengozen.com/wp-content/uploads/2012/10/rosewood-go-board1.jpg)](http://www.bengozen.com/wp-content/uploads/2012/10/rosewood-go-board1.jpg)
+![](/images/2012/10/rosewood-go-board1.jpg)
 
 ## Reversible "Rosewood" Go Board
 
-## Over­all Rat­ing: 2 / 10 Ponnuki
+### Over­all Rat­ing: 2 / 10 Ponnuki
 
 ### High­lights
 

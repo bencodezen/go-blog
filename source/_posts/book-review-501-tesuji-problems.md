@@ -11,7 +11,7 @@ tags:
 	- go-problems
 ---
 
-## [![mtb4cover](http://www.bengozen.com/wp-content/uploads/2013/05/mtb4cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/mtb4cover.jpg)
+![](/images/2013/05/mtb4cover.jpg)
 
 ## Overall Rating: 6 / 10 Ponnuki
 

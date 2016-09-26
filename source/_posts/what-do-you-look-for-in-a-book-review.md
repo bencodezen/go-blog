@@ -13,7 +13,7 @@ I posted this [question to the reddit baduk community](http://www.reddit.com/r/b
 
 For those who aren't aware, there are already quite a few resources out there when it comes to go book reviews:
 
-1.  [<span style="line-height: 13px;">GoBooks.info</span>](http://gobooks.info)
+1.  [GoBooks.info](http://gobooks.info)
 2.  [GoBooks Nemir](http://gobooks.nemir.org)
 3.  [Sensei's Library](http://senseis.xmp.net/?GoBooks)
 In my experience so far though, many of the sites tend to be outdated (in regards to user interface and design layout). In addition, while the content is still relevant, I always found it difficult to really determine whether or not I should purchase the book or not. In addition, the reviews are often simply huge blobs of text that can be difficult and tedious to navigate for the average user. Most of the time, due to sheer curiosity, I buy the book anyways; but this defeats the whole purpose of a book review.
@@ -24,7 +24,7 @@ So, to try and provide the best book review format in existence, **I'm asking fo
 
 Here is a list of some items to get you started:
 
-*   <span style="line-height: 13px;">Author's Teaching Style</span>
+*   [ ]Author's Teaching Style</span>
 *   My background as a reviewer before reading the book
 *   General pros and cons
 *   My expectations of the book

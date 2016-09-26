@@ -10,11 +10,11 @@ tags:
 	- portable-equipment
 ---
 
-## [![foldWoodenBoard](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard.jpg)
+![](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard.jpg)
 
 ## Folding Wooden Go Board
 
-## Over­all Rat­ing: 8 / 10 Ponnuki
+### Over­all Rat­ing: 8 / 10 Ponnuki
 
 ### High­lights
 
@@ -41,25 +41,24 @@ Although the local store does not sell it anymore, this product is definitely wo
 
 ### Addi­tional Photographs
 
-[caption id="" align="aligncenter" width="300"][![foldWoodenBoard2](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard2.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard2.jpg) Front of the Board (unfolded)[/caption]
+![Back of the Board (unfolded)](/images/2010/10/foldWoodenBoard2.jpg)
 
-[caption id="" align="aligncenter" width="300"][![foldWoodenBoard3](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard3.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard3.jpg) Back of the Board (unfolded)[/caption]
+![Back of the Board (unfolded)](/images/2010/10/foldWoodenBoard3.jpg)
 
-[caption id="" align="aligncenter" width="300"][![foldWoodenBoard4](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard4.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard4.jpg) Rubber Stop[/caption]
+![Rubber Stop](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard4.jpg)
 
-[![foldWoodenBoard5](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard5.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard5.jpg)
+![](/images/2010/10/foldWoodenBoard5.jpg)
 
-[![foldWoodenBoard6](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard6.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard6.jpg)
+![](/images/2010/10/foldWoodenBoard6.jpg)
 
-[![foldWoodenBoard7](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard7.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard7.jpg)
+![](/images/2010/10/foldWoodenBoard7.jpg)
 
 ### Ven­dor
 
-*   <span style="line-height: 13px;">Purchased at a local Chinese bookstore - [World Journal &amp; Bookstore](http://www.yelp.com/biz/world-journal-and-bookstore-rockville)
-</span>
+* Purchased at a local Chinese bookstore - [World Journal &amp; Bookstore](http://www.yelp.com/biz/world-journal-and-bookstore-rockville)
 
 ### Sim­i­lar Products
 
-*   <span style="line-height: 13px;">No products are worth mentioning at this time.</span>
+* No products are worth mentioning at this time.
 
 _**Last Updated April 20th, 2013.**_

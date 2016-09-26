@@ -11,7 +11,7 @@ tags:
 
 ## Weekly Go Wednesday, Issue #23
 
-[caption id="attachment_2427" align="aligncenter" width="300"][![Credit to Examiner](http://www.bengozen.com/wp-content/uploads/2013/04/wgw23.jpg)](http://www.bengozen.com/wp-content/uploads/2013/04/wgw23.jpg) Credit to [Examiner](http://www.examiner.com/article/boxing-s-future-3d-imax-for-pacquiao-mayweather)[/caption]
+![Credit to Examiner](/images/2013/04/wgw23.jpg)
 
 Imagine a world where boxing was a sport of non-contact sparring. No blood was ever shed. No KO's that make you wonder whether or not that person will be okay afterwards. People would crowd around in excitement to watch as two people ran circles around each other shadowboxing the air. After all, that's why people pay money to watch mixed martial arts (MMA) fights and all right?
 
@@ -29,9 +29,13 @@ One of the major obstacles that many go players face is whether or not to contin
 
 In order to help increase your mental resilience, here is some advice:
 
-1.  <span style="line-height: 13px;">**Create a "screw-around" account.** This account is purely for the times where you know that you're not quite feeling your normal self at that time. Whether it's because you know you might get interrupted, or you have an appointment coming up soon, this account will let you play quick pick-me-up games without the guilt of knowing you caused your rank graph to drop even though you knew you weren't in the right mental state to play.</span>
+1.  **Create a "screw-around" account.** This account is purely for the times where you know that you're not quite feeling your normal self at that time. Whether it's because you know you might get interrupted, or you have an appointment coming up soon, this account will let you play quick pick-me-up games without the guilt of knowing you caused your rank graph to drop even though you knew you weren't in the right mental state to play.
+
 2.  **Refrain from quick games.** This is particularly for those who don't want to create another account. From my experience, quick games for the sake of playing usually lead to feeling in a bad move after a loss due to a regrettable move that you should have easily read out. If you only have 30 minutes for a game before you have to run off somewhere, I'd be careful.
-3.  **Play quick games on smaller boards.** For those who know that the itch will be way too strong, just play on a smaller board like 9x9\. This will allow you to play to your heart's content and will make the defeats have practically zero impact on you.
+
+3.  **Play quick games on smaller boards.** For those who know that the itch will be way too strong, just play on a smaller board like 9x9. This will allow you to play to your heart's content and will make the defeats have practically zero impact on you.
+
 4.  **Each game should be viewed as a punch. A jab. Not a KO.** Although there is an obvious sense of finality to each game, each game should really viewed as a jab in boxing. Sure, you're going to completely miss sometimes, but those are necessary in order to refine your punch next time so that you will eventually hit when it actually matters.
+
 5.  **Remember: This too shall pass.** Nothing is permanent, and the sooner you understand that will you be able to to bounce back from losses like a little kid on a trampoline.
 Finally, remember that no matter how good you are at life and death, tesuji, endgame, or any other skill, it is all useless if you do not have the mental resilience to endure the ups and downs of the pursuit of the next stone.

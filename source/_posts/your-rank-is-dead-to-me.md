@@ -10,7 +10,7 @@ tags:
 
 ## Weekly Go Wednesday, Issue #24
 
-[caption id="attachment_2564" align="aligncenter" width="300"][![Tombstone Credit to WPClipart](http://www.bengozen.com/wp-content/uploads/2013/04/wgw24.png)](http://www.bengozen.com/wp-content/uploads/2013/04/wgw24.png) Tombstone Credit to [WPClipart](http://www.wpclipart.com/holiday/halloween/graveyard/epitaphs/blank/Tombstone_rounded_blank.png.html)[/caption]
+![Tombstone Credit to WPClipart](/images/2013/04/wgw24.png)
 
 In every player's journey, there comes a point in every player's growth where their opponent's rank begins to impact how they approach each game. To clarify, I'm not simply referring to overplays in handicap games as opposed to calm and balanced moves in even games. Like many of my other thoughts on players' growth in go, today's topic deals with the impact their opponent's rank has on them.
 

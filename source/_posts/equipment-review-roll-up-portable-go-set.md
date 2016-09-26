@@ -10,11 +10,11 @@ tags:
 	- portable-equipment
 ---
 
-[![rollupMagnetSet](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet.jpg)
+![](/images/2010/09/rollupMagnetSet.jpg)
 
 ## Deluxe Go Game Roll Up Magnetic Portable Set
 
-## Over­all Rat­ing: 10 / 10 Ponnuki
+### Over­all Rat­ing: 10 / 10 Ponnuki
 
 ### High­lights
 
@@ -44,36 +44,34 @@ _*Some people say that the stones are "too small," but let's be fair people, thi
 
 ### Addi­tional Photographs
 
-[![rollupMagnetSet2](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet2.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet2.jpg)
+![](/images/2010/09/rollupMagnetSet2.jpg)
 
-&nbsp;
+![There's even a nice rubber YMI Logo!](/images/2010/09/rollupMagnetSet3.jpg)
 
-[caption id="" align="aligncenter" width="300"][![rollupMagnetSet3](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet3.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet3.jpg) There's even a nice rubber YMI Logo![/caption]
+![The entire contents of the set: Case + Board + Stones in Bag](/images/2010/09/rollupMagnetSet4.jpg)
 
-[caption id="" align="aligncenter" width="400"][![rollupMagnetSet4](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet4.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet4.jpg) The entire contents of the set: Case + Board + Stones in Bag[/caption]
+![Close up shot of the board](/images/2010/09/rollupMagnetSet5.jpg)
 
-[caption id="" align="aligncenter" width="300"][![rollupMagnetSet5](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet5.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet5.jpg) Close up shot of the board[/caption]
+![Stones in the Bag](/images/2010/09/rollupMagnetSet6.jpg)
 
-[caption id="" align="aligncenter" width="300"][![rollupMagnetSet6](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet6.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet6.jpg) Stones in the Bag[/caption]
+![Bags Opened](/images/2010/09/rollupMagnetSet7.jpg)
 
-[caption id="" align="aligncenter" width="300"][![rollupMagnetSet7](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet7.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet7.jpg) Bags Opened[/caption]
+![Magnetic Stones (Top Row with Magnet Exposed)](/images/2010/09/rollupMagnetSet8.jpg)
 
-[caption id="" align="aligncenter" width="300"][![rollupMagnetSet8](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet8.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet8.jpg) Magnetic Stones (Top Row with Magnet Exposed)[/caption]
+![](/images/2010/09/rollupMagnetSet9.jpg)
 
-[![rollupMagnetSet9](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet9.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet9.jpg)
+![](/images/2010/09/rollupMagnetSet10.jpg)
 
-[![rollupMagnetSet10](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet10.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet10.jpg)
-
-[caption id="" align="aligncenter" width="300"][![rollupMagnetSet11](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet11.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/rollupMagnetSet11.jpg) Board with stones held upside down[/caption]
+![Board with stones held upside down](/images/2010/09/rollupMagnetSet11.jpg)
 
 ### Ven­dors
 
-*   <span style="line-height: 13px;">Yellow Mountain Imports - [Product Link](https://www.ymimports.com/p-232-deluxe-go-game-roll-up-magnetic-portable-set.aspx#.UWQmV5Nlm2A)</span>
-*   Amazon - [Product Link](http://www.amazon.com/gp/product/B000JHSORK/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000JHSORK&amp;linkCode=as2&amp;tag=be09a-20)
+* Yellow Mountain Imports - [Product Link](https://www.ymimports.com/p-232-deluxe-go-game-roll-up-magnetic-portable-set.aspx#.UWQmV5Nlm2A)
+* Amazon - [Product Link](http://www.amazon.com/gp/product/B000JHSORK/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000JHSORK&amp;linkCode=as2&amp;tag=be09a-20)
 
 ### Sim­i­lar Products
 
 *   [Traveling Go Set with Magnetic Playing Pieces](https://www.ymimports.com/p-1629-traveling-go-set-with-magnetic-playing-pieces.aspx#.UWQm2ZNlm2A)
-*   <span style="line-height: 13px;">[Traveling Go Set with Magnetic Playing Pieces - Large](https://www.ymimports.com/p-1957-traveling-go-set-with-magnetic-playing-pieces-large.aspx#.UWQmxJNlm2A)</span>
+*   [Traveling Go Set with Magnetic Playing Pieces - Large](https://www.ymimports.com/p-1957-traveling-go-set-with-magnetic-playing-pieces-large.aspx#.UWQmxJNlm2A)
 
 _**Last Updated April 9th, 2013.**_

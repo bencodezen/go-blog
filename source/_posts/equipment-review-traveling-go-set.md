@@ -10,7 +10,7 @@ tags:
 	- portable-equipment
 ---
 
-## [![travelgoset](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset.jpg)
+![](/images/2010/09/travelgoset.jpg)
 
 ## Traveling Go Set with Magnetic Playing Pieces
 
@@ -42,25 +42,25 @@ Even though the set might come with a couple ill-shaped pieces with missing magn
 
 ### Addi­tional Photographs
 
-[caption id="attachment_2596" align="aligncenter" width="300"][![travelgoset2](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset2.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset2.jpg) Go Set in the Box[/caption]
+![Go Set in the Box](/images/2010/09/travelgoset2.jpg)
 
-[caption id="" align="aligncenter" width="300"][![travelgoset3](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset3.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset3.jpg) Lid Removed[/caption]
+![Lid Removed](/images/2010/09/travelgoset3.jpg)
 
-[caption id="" align="aligncenter" width="300"][![travelgoset4](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset4.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset4.jpg) Go Set Outside the Box[/caption]
+![Go Set Outside the Box](/images/2010/09/travelgoset4.jpg)
 
-[caption id="" align="aligncenter" width="300"][![travelgoset5](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset5.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset5.jpg) Inside of Go Set with Bowls &amp; Stones[/caption]
+![Inside of Go Set with Bowls &amp; Stones](/images/2010/09/travelgoset5.jpg)
 
-[caption id="" align="aligncenter" width="300"][![travelgoset6](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset6.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset6.jpg) Plastic Bowls and Stones (Separate)[/caption]
+![Plastic Bowls and Stones (Separate)](/images/2010/09/travelgoset6.jpg)
 
-[caption id="" align="aligncenter" width="300"][![travelgoset7](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset7.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset7.jpg) Plastic Stones (Close Up)[/caption]
+![Plastic Stones (Close Up)](/images/2010/09/travelgoset7.jpg)
 
-[caption id="" align="aligncenter" width="300"][![travelgoset8](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset8.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset8.jpg) Set in Action (Aerial View)[/caption]
+![Set in Action (Aerial View)](/images/2010/09/travelgoset8.jpg)
 
-[caption id="attachment_2604" align="aligncenter" width="300"][![travelgoset9](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset9.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/travelgoset9.jpg) Set in Action (Close Up)[/caption]
+![ Set in Action (Close Up)](/images/2010/09/travelgoset9.jpg)
 
 ### Ven­dor
 
-*   <span style="line-height: 13px;">Yellow Mountain Imports - [Product Link](https://www.ymimports.com/p-1629-traveling-go-set-with-magnetic-playing-pieces.aspx#.UW7m07VlnJI)</span>
+* Yellow Mountain Imports - [Product Link](https://www.ymimports.com/p-1629-traveling-go-set-with-magnetic-playing-pieces.aspx#.UW7m07VlnJI)
 
 ### Sim­i­lar Products
 

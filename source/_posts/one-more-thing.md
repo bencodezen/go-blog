@@ -8,7 +8,7 @@ tags:
 	- counting
 ---
 
-[![uncle](http://www.bengozen.com/wp-content/uploads/2013/05/uncle.jpg)](http://www.bengozen.com/wp-content/uploads/2013/05/uncle.jpg)
+![Uncle from Jackie Chan Adventures](/images/2013/05/uncle.jpg)
 
 As an addendum to my [post on Tuesday](http://www.bengozen.com/no-turning-back/ "No Turning Back"), I realized yesterday that in addition to seeing the board in more of a global perspective than ever before, I have actually acquired a rather moderate level of counting / estimating territory.
 

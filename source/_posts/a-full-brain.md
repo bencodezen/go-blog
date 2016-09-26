@@ -9,7 +9,7 @@ tags:
 
 I had an interesting conversation with frozensoul today. For all my efforts at figuring out what's wrong with me, something I had not considered is that my head is filled to the brim with go material. I am constantly playing and trying to cram more information, but it may be time for me to just completely stop playing and studying.
 
-[![waitwhat](http://www.bengozen.com/wp-content/uploads/2013/05/waitwhat.gif)](http://www.bengozen.com/wp-content/uploads/2013/05/waitwhat.gif)
+![Wait what?](/images/2013/05/waitwhat.gif)
 
 Hold your keimas and relax. I'm not going to disappear from the go world. It's just that I am coincidentally going on vacation next week.
 
