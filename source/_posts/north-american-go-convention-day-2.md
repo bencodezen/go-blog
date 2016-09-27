@@ -31,7 +31,7 @@ When I'm outside the go room, I find out that Joanne Missingham is being intervi
 
 I walk around and end up finding everyone sitting in the waiting area enjoying iced tea. I hesitated for a moment before joining them, but realized that it was probably in my best interest to wait with them since they will be the first to find out if anything is starting. To my great surprise, the next thing I know I am being introduced to Myung Wan Kim (9P) and his friend James.
 
-[caption id="attachment_1922" align="aligncenter" width="241"][![Myung Wan Kim (9P)](http://www.bengozen.com/wp-content/uploads/2013/02/MyungwanKim.jpg)](http://www.bengozen.com/wp-content/uploads/2013/02/MyungwanKim.jpg) Myung Wan Kim (9P)[/caption]
+![Myung Wan Kim (9P)](/images/2013/02/MyungwanKim.jpg)
 
 After the basic introductions and finding out I was 6 kyu, Myung asked me if I had a game for him to review. I was a bit taken aback at first since I did not expect such an incredible opportunity, but told him I did and started getting my iPad out. In the middle of getting my iPad however, the conversation somehow turned into wondering if we could play on my iPad. And without missing a beat I responded, "Of course!" (Thank you SmartGo Kifu!!!!!) Myung then suggested that I play with James and then he would review the game afterwards. Words cannot describe how excited I was to hear him suggest that.
 

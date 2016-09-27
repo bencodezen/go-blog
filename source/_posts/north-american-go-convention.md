@@ -13,7 +13,7 @@ tags:
 
 **Big announcement everyone! I am ecstatic to tell you about a brand new go event coming to the East coast!**
 
-# [![North American Go Convention Logo](http://www.bengozen.com/wp-content/uploads/2012/11/nagc.jpg "North American Go Convention Logo")](http://www.bengozen.com/wp-content/uploads/2012/11/nagc.jpg)
+![North American Go Convention Logo](/images/2012/11/nagc.jpg "North American Go Convention Logo")
 
 # [North American Go Convention 2013 (NAGC)](http://www.ngol.us/ "North American Go Convention")
 

@@ -12,16 +12,16 @@ tags:
 	- go-problems
 ---
 
-[![makingGoodShapeCover](http://www.bengozen.com/wp-content/uploads/2012/12/makingGoodShapeCover.jpg)](http://www.bengozen.com/wp-content/uploads/2012/12/makingGoodShapeCover.jpg)
+![](/images/2012/12/makingGoodShapeCover.jpg)
 
 ## Overall Rating: 5 / 5 Ponnuki
 
 ### Basic Information
 
 *   **Title:** Mastering the Basics, Volume 3 - Making Good Shape
-*   **Authors: **Rob van Zeijst and Richard Bozulich
-*   **Publisher: **Kiseido
-*   **Publication Date: **December 2002
+*   **Authors:** Rob van Zeijst and Richard Bozulich
+*   **Publisher:** Kiseido
+*   **Publication Date:** December 2002
 *   **Page Length:** 206 pages
 *   **Number of Problems**: 245
 
@@ -33,7 +33,8 @@ tags:
 *   A hybrid of theoretical/conceptual explanations along with problems to illustrate the ideas.
 *   Appropriate for 15 kyu and stronger.
 *   Recommended for serious players.
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 

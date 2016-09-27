@@ -12,7 +12,7 @@ When I decided to return to ranked games, I will have to be honest in that I exp
 
 For those who don't follow me on KGS, you'll notice that my rank graph is well... a bit different from what I imagined it would be. xD
 
-[caption id="attachment_1731" align="aligncenter" width="300"][![rank2](http://www.bengozen.com/wp-content/uploads/2013/01/rank2.png)](http://www.bengozen.com/wp-content/uploads/2013/01/rank2.png) Notice how it drops at the end? Twice?![/caption]
+![Notice how it drops at the end? Twice?!](/images/2013/01/rank2.png)
 
 Like anyone else, I was really frustrated by my progress. I mean, why was I having such a difficult time beating 6-7ks when I actually managed to beat stronger players in even games from time to time? I tried to make all kinds of excuses: the stronger players were underestimating me, my opponents were just lucky I made mistakes, I was in an off mood, etc. But after I realized how those were all just external attributions for things I had control over, I decided to look inward for the answer.
 
@@ -38,6 +38,7 @@ Here's why:
 1.  Since my nature is already prone to getting into massive fights, having the time pressure only exasperates my bad habit.
 2.  If I have a bitter loss, then the aggressive tendency gets worse and I start playing games with even shorter time frames.
 3.  The shorter time frames make me more frantic and I end up playing moves that I "think" will work out, but any closer inspection would prove otherwise.
+
 As a result, I resolve to have the minimum requirements when I play: 30 minutes main time with at least 3 periods of 30 second byoyomi.* Anything shorter than that has a good chance to throw me off course. And until I have reinforced the fundamentals in every fiber, I will stick with these guidelines in order to prevent myself from self-destructing.**After all, every game I play is a game that I can be proud of, regardless of whether I win or lose.
 
 *For other players, I would recommend a bare minimum of 20 minutes main time because 10 minutes really ends up being more like blitz than anything else.

@@ -10,17 +10,16 @@ tags:
 	- kiseido
 ---
 
-[![38-basic-joseki-cover](http://www.bengozen.com/wp-content/uploads/2013/01/38-basic-joseki-cover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/01/38-basic-joseki-cover.jpg)
+![](/images/2013/01/38-basic-joseki-cover.jpg)
 
 ## 38 Basic Joseki
 
 **Description: **In the second volume of the Elementary Go Series, Kosugi and Davies outline 38 basic joseki that players might find helpful in their games.
 
-<!--more-->
+<!-- more -->
 
 ### Book Details
 
-[table]
 Title, 38 Basic Joseki (Volume 2)
 Series, Elementary Go Series
 Authors, Kiyoshi Kosugi and James Davies
@@ -29,9 +28,6 @@ Published, 1st Printing December 1975 | Eighth Printing February 2007
 Language, English
 ISBN, 978-4-906574-11-4
 Length, 246 Pages
-[/table]
-
-
 
 ### Table of Content
 
@@ -45,17 +41,18 @@ Length, 246 Pages
 *   Chapter 7: 4–5 point joseki
 *   Glossary of technical terms
 
-
-### Synopsis" trigclass="expandTitle" ]
+### Synopsis
 
 **What did I enjoy about the book?**
 
 *   There are joseki covered in here that are not typically covered by sites like Eidogo or Josekipedia.
 *   Explanations are pretty short and concise.
+
 **What did I gain from reading this book?**
 
 *   As a beginner, I had a hard time grasping anything from the book.
 *   As a more advanced player, I had more appreciation for the unique josekis they showed. However, I am still not confident in saying that I know all 38 basic joseki very well.
+
 **What style of teaching does the book use?**
 
 *   Textbook Approach
@@ -65,12 +62,15 @@ Length, 246 Pages
 *   Primary Learning Mechanism:
 
     *   Explanations with example diagrams
+
 **What aspect can be improved on?**
 
 *   Though I'm not a fan of this book as a whole for beginners, there are no complaints regarding the overall content quality and presentation.
+
 **Is this book easy to read?**
 
 *   As a beginner, this was not an easy book to read. The material was rather dense and was difficult to understand. For players that are more advanced however, the book is written rather concisely and one will appreciate how much content is packed into such a small book.
+
 **Bottom Line**
 
 1.  Best viewed as a review of joseki rather than a study of it.
@@ -78,15 +78,15 @@ Length, 246 Pages
 3.  Not very helpful for beginners looking to understand more about the game.
 4.  Definitely more appropriate for advanced players who already have a very firm grasp of the game.
 
-
 ### Before I Read This Book...
+
 **My Abilities**
 
 *   I was utterly brand new to the game when I purchased this book.
+
 **My Perspective**
 
 *   I was hopeful that I would be able to memorize all the basic joseki that people normally encounter in their games and apply it to my own. Little did I know that my perspective was very naiive and very impractical.
-
 
 ### My Review
 
@@ -98,12 +98,9 @@ Fortunately, there is a redeem­ing qual­ity to this book: the sec­tions on th
 
 At the end of the day, this book is best viewed as an exposure/review book for joseki. You might pick up a thing or two here and there, but for most players it will be rather difficult to apply it to your own games since the position always changes. If you are looking to study joseki like you would for a class, then a good place to start would be the _Dictionary of Basic Joseki_ by Ishida Yoshio. Also, for those who already have a basic sense of joseki and want more guidance on why certain choices are better than others in different board positions, be sure to check out Whole Board Thinking ([Vol. 1](http://www.bengozen.com/book-review-whole-board-thinking-in-joseki-vol-1/ "Book Review: Whole Board Thinking in Joseki, Vol 1") &amp; [Vol. 2](http://www.bengozen.com/book-review-whole-board-thinking-in-joseki-vol-2/ "Book Review: Whole Board Thinking in Joseki, Vol 2")) by Yilun Yang.
 
-
-
 ### Recommended For...
 
 *   Experienced players looking for an overview of some common joseki that they might encounter in their games.
-
 
 ### Where Can I Buy It?
 
@@ -122,6 +119,5 @@ At the end of the day, this book is best viewed as an exposure/review book for j
 *   [Elementary Go Series, Volume 5 - Attack and Defense](http://www.bengozen.com/book-review-attack-and-defense/ "Book Review: Attack and Defense")
 *   [Elementary Go Series, Volume 6 - The Endgame](http://www.bengozen.com/book-review-the-endgame/ "Book Review: The Endgame")
 *   [Elementary Go Series, Volume 7 - Handicap Go](http://www.bengozen.com/book-review-handicap-go/ "Book Review: Handicap Go")
-
 
 _**Last Updated on August 1st, 2013**_

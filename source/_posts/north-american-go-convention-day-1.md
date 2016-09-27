@@ -30,7 +30,7 @@ Of course, all you can do is really laugh as you realize how vast the world of g
 
 Anyhow, we eventually moved into the tournament room and I had the pleasure of catching up with Yuan Zhou while we waited. In addition, I played a friendly game with a someone who told me he had not played in a while. In terms of evaluating his strength, I could tell that he was no pushover and probably even stronger than me. So much for letting him take black. =D It was a fun game and it would've been interesting to see how it ended. Before we could really get into the middle game fighting though, we were happy to stop our game since [Joanne Missingham](http://senseis.xmp.net/?JoanneMissingham) arrived!
 
-[caption id="attachment_1918" align="aligncenter" width="300"][![Joanne Missingham (Hei Jia Jia) 6P](http://www.bengozen.com/wp-content/uploads/2013/02/joannemissingham.jpg)](http://www.bengozen.com/wp-content/uploads/2013/02/joannemissingham.jpg) Joanne Missingham (Hei Jia Jia) 6P[/caption]
+![Joanne Missingham (Hei Jia Jia) 6P](/images/2013/02/joannemissingham.jpg)
 
 The next thing I know, I was sitting before her as I was about to play my second professional simultaneous game. Earlier that night, I had learned that the Chinese word for dan is pronounced dee and the Chinese word for kyu is jee. So when she came around, everyone else had told her their rank in Chinese, I decided to do the same. Due to my nervousness however, I ended up saying "6 dee" instead of "6 jee." You can only imagine my surprise when she only told me to put down 2 stones when she told the other dans to put down three. Hahaha. After realizing what had happened, I quickly got her attention as I was like, "Wait wait! I'm 6 kyu! Not 6 dan!!" xD
 

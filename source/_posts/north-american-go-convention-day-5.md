@@ -53,7 +53,7 @@ When we got back, it was time another lecture from Myung. This time we reviewed 
 
 For the final pro event, I had to make a choice between attending another lecture by Myung or play a simul game with Stephanie Yin (1P).
 
-[caption id="attachment_1998" align="aligncenter" width="300"][![Stephanie (Ming Ming) Yin (1P)](http://www.bengozen.com/wp-content/uploads/2013/02/stephanieyin.jpg)](http://www.bengozen.com/wp-content/uploads/2013/02/stephanieyin.jpg) Stephanie (Ming Ming) Yin (1P)[/caption]
+=![Stephanie (Ming Ming) Yin (1P)](/images/2013/02/stephanieyin.jpg)
 
 After a bit of thought, I decided that I didn't want to pass up the opportunity to play another pro. So with that said, I sat down for my final simul game of the NAGC. Below is the game record.
 

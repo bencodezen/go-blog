@@ -24,16 +24,19 @@ Other than submitting your game record and allowing me to use your game review i
 
 1.  Unless I'm out of town with no access to any internet, you can expect a turnaround within a week.
 2.  When your game review is posted on the blog, you might get some interesting insights from other readers!
+
 **Q: How do I submit my game to you?**
 
 1.  Use the [contact](http://www.bengozen.com/contact/ "Contact") form to submit a SGF file to me.
 2.  Save your game on [Eidogo](http://www.eidogo.com "Eidogo") and be sure to include the link when you send your email.
-<!--more-->
+
+<!-- more -->
 
 **Q: What can I expect from the game review?**
 
 1.  An in-depth review that primarily focuses on the game from your perspective.
-2.  My thoughts on what I think you're trying to do and other ways I might have approached the same situation.
+2.  My thoughts on what I think you're trying to do and other ways I might have approached the same situation.'
+'
 **Q: Can I include questions or comments in my game?**
 
 Absolutely! In fact, the more you include in your game record, the better tailored the game review will be!
@@ -49,9 +52,11 @@ _Unless you specify otherwise_, I will make the following modifications to all g
 1.  <span style="line-height: 13px;">Both players' names will be changed to Black and White respectively.</span>
 2.  Ranks of both players will be kept (if the information is provided) in order to give more perspective on the game.
 3.  The date and time of the game will be removed to further anonymize the game.
+
 **Q: How will I know when my game is being featured?**
 
 1.  When you submit your game record, I will send you an email confirming that I received it and an estimated time as to when it will be featured on the blog.
 2.  I will send you a confirmation email a week before the game review is posted to inform you of the actual publish date.
 3.  A final reminder email will be sent out the day the post is published.
+
 If you have any other questions or are having difficulties getting your game to me, just [contact](http://www.bengozen.com/contact/ "Contact") me and we'll be sure to work it out together! Can't wait to see your games!

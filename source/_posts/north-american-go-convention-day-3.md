@@ -19,7 +19,7 @@ Shortly before leaving the convention on [Day 2](http://www.bengozen.com/north-a
 
 As per usual, the traffic to Virginia was not cooperating with me as I attempted to make my way to them. When I finally reached my destination, I arrived to find Myung and James outside with a local Korean go player. I was a bit bewildered at first as to why they were outside, but then I realized that the Bonchon was closed!!! Bleh. Definitely not what I anticipated. So we adapted and headed off to the Fairfax location.
 
-[caption id="attachment_1947" align="aligncenter" width="300"][![Credit to HauteLiving.com](http://www.bengozen.com/wp-content/uploads/2013/02/bonchonwings.jpg)](http://www.bengozen.com/wp-content/uploads/2013/02/bonchonwings.jpg) Credit to HauteLiving.com[/caption]
+![Credit to HauteLiving.com](/images/2013/02/bonchonwings.jpg)
 
 _If you've never had it before, it's just heavenly.... Just thinking about it is making me hungry...._
 

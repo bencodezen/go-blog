@@ -23,7 +23,7 @@ Once registration was finished, I thought it would be a good idea to show my mom
 
 <!--more-->
 
-Shortly afterwards, I noticed that they posted up the schedule for the day and saw that the professional events had been scheduled at the end of Round 1 and 3\. To clarify though, I do not mean that the events were scheduled after the rounds were over. In fact, they were scheduled at the tail end of the round time which meant that if I wanted to attend a pro event, I would face one of two situations: (1) I play in every round, but I'm forced to rush and hope that the game ends before the event. (2) I play every round, but end up resigning most of my games since I like to take my time with each move anyways.
+Shortly afterwards, I noticed that they posted up the schedule for the day and saw that the professional events had been scheduled at the end of Round 1 and 3. To clarify though, I do not mean that the events were scheduled after the rounds were over. In fact, they were scheduled at the tail end of the round time which meant that if I wanted to attend a pro event, I would face one of two situations: (1) I play in every round, but I'm forced to rush and hope that the game ends before the event. (2) I play every round, but end up resigning most of my games since I like to take my time with each move anyways.
 
 As I stood there trying to figure out what to do, my opponent found me. After panicking for a moment, I quickly found the tournament director and tried to tell him that I was not going to be playing (at least in the first round). Coincidentally, a fellow go player who was around our level had shown up late and so I tried to get the director to make a swap since it would keep the pairings equal. There was a bit of resistance at first, and it took quite a bit of back and forth before  they resolved the situation amongst themselves.
 
@@ -42,7 +42,7 @@ We only got a few moves into the game before it was time to start the simul game
 
 Once the game was over, Mr. Choi, Myung, my mom and I went out to grab lunch at [El Pollo Ricco](http://www.yelp.com/biz/el-pollo-rico-arlington) and had a delicious lunch!
 
-[caption id="attachment_1973" align="aligncenter" width="300"][![elpolloricco](http://www.bengozen.com/wp-content/uploads/2013/02/elpolloricco.jpg)](http://www.bengozen.com/wp-content/uploads/2013/02/elpolloricco.jpg) Credit to Yelp (Andrew C.)[/caption]
+![El Pollo Rico - Credit to Andrew C.](/images/2013/02/elpolloricco.jpg)
 
 Afterwards, we drove Myung back to the hotel so he could rest for the afternoon. Since we were going to pick him up later on and there were no pro events for the rest of the afternoon, my mom and I just went to a nearby mall to hangout. While it was a detour from the "all-day go convention," we had some great conversation and the thought that I could be at the go convention instead never crossed my mind.
 
@@ -50,7 +50,7 @@ Later on that day, after picking Myung and James up, I found myself sitting in m
 
 With the day coming to an end, I thought that it would be a good idea to take Myung and James out to a local Vietnamese restaurant that we love called [Viet Royale](http://www.yelp.com/biz/viet-royale-falls-church) (FYI. The Yelp reviews do not do the restaurant justice. I don't think people know what to order. =D). I wish I had taken pictures of all the food we ordered, but it is suffice to say that it was full of delicious food and great conversation.
 
-[caption id="attachment_1975" align="aligncenter" width="300"][![Credit to Yelp (Ruth C.)](http://www.bengozen.com/wp-content/uploads/2013/02/pho.jpg)](http://www.bengozen.com/wp-content/uploads/2013/02/pho.jpg) Credit to Yelp (Ruth C.)[/caption]
+![Credit to Yelp (Ruth C.)](/images/2013/02/pho.jpg)
 
 All in all, it was a fantastic day full of great company and great memories. Here's to hoping that Day 5 will live up to even 50% of it!
 

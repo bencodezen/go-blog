@@ -10,11 +10,11 @@ tags:
 
 ## _Weekly Go Wednesday, Issue #13_
 
-[![wgw13](http://www.bengozen.com/wp-content/uploads/2013/01/wgw13.jpg)](http://www.bengozen.com/wp-content/uploads/2013/01/wgw13.jpg)
+![](/images/2013/01/wgw13.jpg)
 
 Whenever a player says that they've hit a wall in their growth, the first question I would ask every player is: Are you playing any even games with stronger players? That's right. Are you putting yourself in a precarious situation where defeat is practically guaranteed? And before you go rushing off to write your rebuttal in the comments, here me out in the following Q&amp;A:
 
-<!--more-->
+<!-- more -->
 
 _"Ben. Are you out of your mind?! What are you trying to do? Ruin any remaining self-esteem I have and enjoyment in playing go?"_
 
