@@ -12,11 +12,11 @@ tags:
 	- accessories
 ---
 
-[![carryingbag](http://www.bengozen.com/wp-content/uploads/2013/03/carryingbag.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/carryingbag.jpg)
+![](/images/2013/03/carryingbag.jpg)
 
 ## Go Bowls and Stones Carrying Bag
 
-## Overall Rating: 8 / 10 Ponnuki
+### Overall Rating: 8 / 10 Ponnuki
 
 ### Important Notice
 
@@ -32,7 +32,8 @@ This review is based on the bag that I received two years ago. Since then, [YMIm
 
 *   Travel vinyl bag with two handles and a single zipper for the top.
 *   Fits standard Go bowls up to 5'' wide and 4'' high
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 
@@ -48,9 +49,9 @@ In all honesty, this is a purchase I consider mandatory for anyone looking to pu
 
 ### Additional Photographs
 
-[caption id="attachment_2377" align="aligncenter" width="300"][![yunziset02](http://www.bengozen.com/wp-content/uploads/2013/03/yunziset02.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/yunziset02.jpg) Bag with Bowls and Stones (Upright Position)[/caption]
+![Bag with Bowls and Stones (Upright Position)](/images/2013/03/yunziset02.jpg)
 
-[caption id="attachment_2378" align="aligncenter" width="300"][![yunziset03](http://www.bengozen.com/wp-content/uploads/2013/03/yunziset03.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/yunziset03.jpg) Bag with Bowls Inside[/caption]
+![Bag with Bowls Inside](/images/2013/03/yunziset03.jpg)
 
 ### Vendor
 

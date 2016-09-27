@@ -13,12 +13,12 @@ For those of you who read my series of posts on the [North American Go Conventio
 
 [Joanne Missingham Interview](https://www.facebook.com/video/embed?video_id=523594844357220)
 
-[caption id="attachment_2485" align="aligncenter" width="300"][![interview1](http://www.bengozen.com/wp-content/uploads/2013/03/interview1.png)](http://www.bengozen.com/wp-content/uploads/2013/03/interview1.png) 1:30[/caption]
+![1:30](http://www.bengozen.com/wp-content/uploads/2013/03/interview1.png)
 
-[caption id="attachment_2486" align="aligncenter" width="300"][![interview2](http://www.bengozen.com/wp-content/uploads/2013/03/interview2.png)](http://www.bengozen.com/wp-content/uploads/2013/03/interview2.png) 7:00[/caption]
+![7:00](http://www.bengozen.com/wp-content/uploads/2013/03/interview2.png)
 
-[caption id="attachment_2487" align="aligncenter" width="300"][![interview3](http://www.bengozen.com/wp-content/uploads/2013/03/interview3.png)](http://www.bengozen.com/wp-content/uploads/2013/03/interview3.png) 8:10[/caption]
+![8:10](http://www.bengozen.com/wp-content/uploads/2013/03/interview3.png)
 
 Fun times. xD
 
-*Thanks to DeepSnow for seeing the scene at 8:10\. I have no idea how I missed it.
+*Thanks to DeepSnow for seeing the scene at 8:10. I have no idea how I missed it.

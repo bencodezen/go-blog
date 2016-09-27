@@ -10,7 +10,7 @@ tags:
 
 ## Weekly Go Wednesday, Issue #21
 
-[caption id="attachment_2286" align="aligncenter" width="300"][![Zen (Credit to Forbes)](http://www.bengozen.com/wp-content/uploads/2013/03/wgw21.gif)](http://www.bengozen.com/wp-content/uploads/2013/03/wgw21.gif) Zen (Credit to [Forbes](http://www.forbes.com/sites/erikkain/2012/03/11/zen-and-the-art-of-video-game-blogging/))[/caption]
+![Zen (Credit to Forbes)](/images/2013/03/wgw21.gif)
 
 Winning and losing. Two basic concepts that what makes much of the world go round and round. After all, if every game ended with no conclusive result, who would want to play that game? People like the feeling of a conclusion, even if it is only a speck of dust in the scheme of things. So, of course, how does this apply to go?
 
@@ -24,7 +24,7 @@ Internal happiness, on the other hand, is something that cannot be so easily def
 
 When it comes to go, I have found that the emotions that come with winning and losing are analogous to external happiness. It feels great when you win, but very quickly that feeling disappears and the need for another victory comes pounding at your door. As a result, when you experience a loss, the emotions can hit rather hard and cause you to spiral into a negative pool of despair.
 
-The thing that players often fail to realize is that** your wins and losses are intricately tied together**. An excellent example of this would be the game of blackjack. The loss of one hand actually will pave the way for that future blackjack you get. And the reverse is true, your winning streak against the dealer is also a precursor for the dealer running hot and getting blackjack when everyone has 20\. So going back to go, your defeats teach you the necessary lessons that pave way for your future victories. And your victories allow you to meet stronger opponents that will defeat you. Neither one is permanent, and the cycle will only repeat itself over and over again.
+The thing that players often fail to realize is that** your wins and losses are intricately tied together**. An excellent example of this would be the game of blackjack. The loss of one hand actually will pave the way for that future blackjack you get. And the reverse is true, your winning streak against the dealer is also a precursor for the dealer running hot and getting blackjack when everyone has 20. So going back to go, your defeats teach you the necessary lessons that pave way for your future victories. And your victories allow you to meet stronger opponents that will defeat you. Neither one is permanent, and the cycle will only repeat itself over and over again.
 
 As a result, **it's more important to see each game as a learning opportunity for improvement**. After all, as pointed out by Devin, there are plenty of times where play horribly but manage to win because our opponent was slightly worse than us. On the same token, there are just as many games where we play very well; but happen to run into an opponent that is slightly better than us. That is no reason to be going off on tilt and degrading your go into a savage beats that you don't even recognize.
 

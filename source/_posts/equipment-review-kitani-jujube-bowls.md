@@ -9,22 +9,23 @@ tags:
 	- bowls
 ---
 
-[![kitanibowls](http://www.bengozen.com/wp-content/uploads/2013/03/kitanibowls.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/kitanibowls.jpg)
+![](/images/2013/03/kitanibowls.jpg)
 
 ##  Kitani Style Jujube Bowls
 
-## Overall Rating: 10 / 10 Ponnuki
+### Overall Rating: 10 / 10 Ponnuki
 
 ### Highlights
 
-*   <span style="line-height: 13px;">This is my favorite style of bowls for holding go stones since they remind me of the ones on [Hikaru No Go](http://en.wikipedia.org/wiki/Hikaru_no_Go).</span>
+*   This is my favorite style of bowls for holding go stones since they remind me of the ones on [Hikaru No Go](http://en.wikipedia.org/wiki/Hikaru_no_Go).
 *   They have a nice finish to them that makes them very beautiful to look at.
 *   Since the lid is also made of wood without any rubber coating, do not expect the lid to stay securely shut in the event the bowls tip over.
 
 ### Product Details
 
 *   Two Kitani style jujube wood Yunzi stone holders that measure 5" W x 4" H (12.7cm x 10cm)
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 
@@ -40,9 +41,9 @@ Now of course, the opinion as to which style of bowl looks better is entirely su
 
 ### Additional Photographs
 
-[![kitanibowl](http://www.bengozen.com/wp-content/uploads/2013/03/kitanibowl.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/kitanibowl.jpg)
+![](/images/2013/03/kitanibowl.jpg)
 
-[![kitanibowl02](http://www.bengozen.com/wp-content/uploads/2013/03/kitanibowl02.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/kitanibowl02.jpg)
+![](/images/2013/03/kitanibowl02.jpg)
 
 ### Vendor
 
@@ -50,8 +51,7 @@ Now of course, the opinion as to which style of bowl looks better is entirely su
 
 ### Similar Products
 
-*   <span style="line-height: 13px;">[Yunzi Double Convex Stones and Jujube Kitani Bowls - 8.8mm (Size 32)](https://www.ymimports.com/p-2113-yunzi-double-convex-stones-and-jujube-kitani-bowls-88mm-size-32.aspx#.UVW3Nxxlm2U)
-</span>
+*   [Yunzi Double Convex Stones and Jujube Kitani Bowls - 8.8mm (Size 32)](https://www.ymimports.com/p-2113-yunzi-double-convex-stones-and-jujube-kitani-bowls-88mm-size-32.aspx#.UVW3Nxxlm2U)
 *   [Yunzi Single Convex Stones and Mahogany Kitani Bowls - 5.7mm (Size 3)](https://www.ymimports.com/p-1476-yunzi-single-convex-stones-and-mahogany-kitani-bowls-57mm-size-3.aspx#.UVW3Ohxlm2U)
 *   [Yunzi Single Convex Stones and Jujube Kitani Bowls - 5.7mm (Size 3)](https://www.ymimports.com/p-2023-yunzi-single-convex-stones-and-jujube-kitani-bowls-57mm-size-3.aspx#.UVW3QBxlm2U)
 

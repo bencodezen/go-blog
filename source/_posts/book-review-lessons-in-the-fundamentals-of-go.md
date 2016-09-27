@@ -13,17 +13,17 @@ tags:
 	- tesuji
 ---
 
-## [![lessonsinthefundamentalsofgocover](http://www.bengozen.com/wp-content/uploads/2013/03/lessonsinthefundamentalsofgocover.jpg)](http://www.bengozen.com/wp-content/uploads/2013/03/lessonsinthefundamentalsofgocover.jpg)
+![](/images/2013/03/lessonsinthefundamentalsofgocover.jpg)
 
 ## Overall Rating: 5 / 5 Ponnuki
 
 ### Basic Information
 
 *   **Title:** Lessons in the Fundamentals of Go
-*   **Author: **Toshiro Kageyama 7-dan
+*   **Author:** Toshiro Kageyama 7-dan
 *   **Translator:** James Davies
-*   **Publisher: **Kiseido
-*   **Publication Date: **May 1978
+*   **Publisher:** Kiseido
+*   **Publication Date:** May 1978
 *   **Page Length:** 272 pages
 
 ### Synopsis
@@ -32,7 +32,8 @@ tags:
 *   While may seem advance, Kageyama's personality really shines through and makes this such an interesting read (regardless of your level).
 *   Appropriate for 20 kyu and stronger.
 *   Recommended for all types of players.
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 
