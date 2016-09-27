@@ -23,6 +23,6 @@ Yet, like so many other people out there, the call of go always beckons and here
 
 4. **Replay games from your favorite professional(s).** This is a particularly fun method since it allows you to fully appreciate the game without any personal anxiety of winning or losing. And as a side benefit, you're inadvertently studying the game which will ultimately lead to improvements in the long run.
 
-Last, but certainly not least, **community** (and in particular readers of this blog) have been a critical piece to my renewed interest. I cannot tell you how many times a simple request for a game and comment to have me return to the game served as powerful incentives that ultimately led me to where I am today.
+5. **Stay in touch with the community (even if from a distance).** Last, but certainly not least, community have been a critical piece to my renewed interest. I cannot tell you how many times a simple request for a game and comment to have me return to the game served as powerful incentives that ultimately led me to where I am today.
 
 
