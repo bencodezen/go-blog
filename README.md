@@ -16,4 +16,4 @@ I would post my email here so you could directly contact as well, but I have som
 
 ## About
 
-**Version**: 3.0.0
+**Version**: 3.0.1
