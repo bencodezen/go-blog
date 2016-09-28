@@ -19,7 +19,6 @@ Using emotions to judge whether you are ahead or behind is typically a recipe fo
 
 ## Game Summary
 
-[table colwidth="50|140|375|375" colalign="center|center|center|center"]
 no,Category,Good,Bad
 1,Opening, **Move 24:** This move really gave me a nice advantage in the opening. See game commentary for a more in-depth explanations., **Move 19:** I’m not sure that I handled Black’s response here correctly. Perhaps the tenuki was a mistake.
 2,Attack and Defense, **Move 50:** This diagonal jump was a new move I tried that seemed to do a great job keeping pressure on Black., **Move 58:** This move was too defensive and failed to keep pressure on Black.
@@ -27,7 +26,7 @@ no,Category,Good,Bad
 4,Strategy, **Move 44:** Leaving the cutting point to play continue my expansion of the top seemed to work out well overall., **Move 86-88:** The push and cut was a risky play since Black had a number of forcing moves to counter the strategy.
 5,Overall Reading, Nothing to brag about since most sequences I read out usually had one fatal flaw that was luckily overlooked by my opponent., **Move 76-85:** This sequence was shameful since it was a result of wishful thinking and only made things worse.
 6,Endgame, **Move 120:** Ignoring Black’s move to start my own endgame sequence was a proud moment for me.,** Move 104:** This jump may not be as big as I thought. Perhaps blocking at M2 would have been better.
-[/table]
+
 
 ## Additional Thoughts
 

@@ -24,7 +24,6 @@ When playing a moyo vs moyo game, don’t get caught up in small gains (like tak
 
 ## Game Summary
 
-[table colwidth="50|140|375|375" colalign="center|center|center|center"]
 no,Category,Good,Bad
 1,Opening,**Move 10** - This is not so much a good move as it is a move I’m proud of because it showed kiai on my part to be willing to compete with Black on a moyo game.,"**Move 18** - Though this moved seemed nice at the time, it was not very effective in terms of the whole board."
 2,Attack and Defense,**Move 44** - The fact that I was able to take a step back to defend my group first before overextending my attack was a sign of progress for me.,**Move 72** - Trying to invade to attack the Black group was a bad attack.
@@ -32,4 +31,3 @@ no,Category,Good,Bad
 4,Strategy,**Move 148** - Sacrificing my four stones to push and cut here is one of the key moves that allowed me to secure my win.,**Move 62** - This peep and following sequence to take the corner was too small strategically.
 5,Overall Reading,**Move 208** - Reading out Black’s subsequent atari and seeing how it played out was a pretty big moment for me even though I missed the killing move at the end.,**Move 82** - The following sequence was just awful for me. Complete misread.
 6,Endgame,"**Move 120** - Though this move was an overplay, the idea of taking sente instead of responding to Black was good.",**Move 86** - Blocking here instead of defending my bottom group nearly allowed my opponent to reverse the game in his favor.
-[/table]

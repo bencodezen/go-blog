@@ -20,7 +20,6 @@ tags:
 
 ### Book Details
 
-[table]
 Title, Otake's Secrets of Strategy
 Series, Heart of Go Discovery Series
 Author, Hideo Otake 9P
@@ -30,9 +29,6 @@ Published, "December 2007"
 Language, English
 ISBN, 978-0-9788874-4-5
 Length, 254 Pages
-[/table]
-
-
 
 ### Table of Content
 
@@ -71,8 +67,6 @@ Length, 254 Pages
 
 After reading the first two volumes of this series, I have to say that I was feeling pretty apprehensive about this next one. The only glimmer of hope I saw was that Otake Hideo 9P would be discussing amateur games. I did not have very high hopes though. After all, a professionals secrets of strategy is something I thought would definitely go way over my head.
 
-
-
 ### My Review
 
 When I opened up to the first section, "Ten Conditions of Go Knowledge" (aka Ten Strategies for Go), I was incredibly relieved to actually see summarized concepts of what Otake 9P considered to be ten strategies that players should keep in mind. The explanations were a little complicated, but I felt hope as I was able to maneuver my way through them and not be completely lost since it was also relatively brief as well. This section was definitely a bit advanced, but I see no reason why a SDK (i.e., single digit kyu) would not be able to understand it with some effort.
@@ -84,8 +78,6 @@ In the second chapter, "Amateur Game Guidance," I couldn't help but be thrilled 
 In the final chapter, "Appreciating Famous Professional Games," Otake 9P continues the general review style you become accustomed to in the second chapter; but I have to say that the explanations seemed to be a bit more advanced. To be clear though, I wasn't completely lost by any stretch of the means. It's just that it required more effort than I would have liked. =)
 
 Overall, I am glad that I did not give up on this series and really appreciate what Otake 9P did with this book. However, I would stress the fact that I still consider this book to be in the intermediate to advanced category. It's recommended if you're intending on intensely studying the game as if it were a course in school; but otherwise, it's not what I would consider light study material for the casual player.
-
-
 
 ### Synopsis
 
@@ -120,16 +112,13 @@ Overall, I am glad that I did not give up on this series and really appreciate w
 2.  Contains a nice set of problems that kyu players (around mid SDK) can solve).
 3.  Decently heavy and dense study material that is not suited for casual players just looking for a light read.
 
-
 ### Recommended For...
 
 *   Recommended for mid to high single digit kyus and stronger players looking for an intermediate-advanced book on strategic concepts.
 
-
 ### Where Can I Buy It?
 
 *   GoGameGuru - [$22.99](http://shop.gogameguru.com/otakes-secrets-of-strategy/?acc=e4da3b7fbbce2345d7772b0674a318d5) (shipping and handling not included)
-
 
 ### Other Books in This Series...
 
@@ -140,6 +129,5 @@ Overall, I am glad that I did not give up on this series and really appreciate w
 *   Heart of Go Series - Volume 5: The Way of Creating a Thick and Strong Game
 *   Heart of Go Series - Volume 6: Zone Press Park
 *   Heart of Go Series - Volume 7: Breakthrough Attacking Power Yamashita Style
-
 
 _**Last Updated on November 2nd, 2013.**_

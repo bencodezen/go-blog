@@ -126,11 +126,11 @@ Updated, Series, Title
 
 06/12/2013, Essential Life &amp; Death Series, [Essential Life &amp; Death 1](http://www.bengozen.com/book-review-essential-life-death-1/ "Book Review: Essential Life &amp; Death 1")
 
-[/table]
+
 
 ## **Old Book Review Design**
 
-[table]Publisher, Series, Title, Author
+Publisher, Series, Title, Author
 
 Kiseido, Mastering the Basics, [501 Opening Problems (Vol. 1)](http://www.bengozen.com/book-review-501-opening-problems/ "Book Review: 501 Opening Problems"), Bozulich + Zeijst
 

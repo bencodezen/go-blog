@@ -29,11 +29,9 @@ And since this is a new series, it would be great if you could leave some feedb
 
 ### Game Summary
 
-[table colwidth="50|140|375|375" colalign="center|center|center|center"]
 no,Category,Good,Bad
 1,Opening,**Moves 8-10**: Ignoring White's pincer to make my own enclosure and then diving in the corner felt like good timing overall.,**Move 11**: I messed up the lower left joseki due to carelessness.
 2,Middle Game,**Move 45-49**: I was really proud of this sequence since I could break up White's area while counter attacking at the same time., **Move 56**: I feel I may have mishandled this crosscut fight and gave away too much to White as a result.
 3,Fighting,**Move 158-160**: I was proud of myself for not backing away from the ko fight., Nothing bad as far as I can tell.
 4,Endgame,My endgame felt average this game. Nothing special.,**Move 134**: Letting White get this hane was really painful.
 5,Overall Reading,Overall I think I did alright. Nothing I'm particularly proud of though., **Move 100**: Didn't see that coming!
-[/table]

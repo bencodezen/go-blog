@@ -21,7 +21,6 @@ When you're really behind, your only hope is to complicate the game and push yo
 
 ## Game Summary
 
-[table colwidth="50|140|375|375" colalign="center|center|center|center"]
 no,Category,Good,Bad
 1,Opening,**Move 11** - Decisively ignoring White's extension to play on the right inside seemed like the correct move.,**Move 35** - This was a bad move that allowed White to get a nice result on the upper right.
 2,Attack and Defense,**Move 111** - Ignoring White to defend my group was an important step to giving me a chance to make a comeback.,**Move 80** - Letting White attack my group like this was very painful. It could have been awful if White had continued his attack.
@@ -29,4 +28,3 @@ no,Category,Good,Bad
 4,Strategy,**Move 115** - Ignoring White's approach on my corner to try and reverse the game was importantly to try and reverse the game.,**Move 47** - Trying to take the corner instead of expanding my moyo was a pretty big mistake.
 5,Overall Reading,**Move 151** - Being able to read out this attachment almost instantly was a proud moment for me.,**Move 63** - This was so painfully obvious to my opponent. Should have saved it for later.
 6,Endgame,**Move 161** - Taking my sente to connect here is probably what eventually pushed my opponent to resign later.,**Move 86** - Seeing White fly into my area like that was so painful. It nearly ended the game.
-[/table]

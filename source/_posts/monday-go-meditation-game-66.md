@@ -20,7 +20,6 @@ When involved in a ko fight, you must give serious consideration to each threat 
 
 ## Game Summary
 
-[table colwidth="50|140|375|375" colalign="center|center|center|center"]
 no,Category,Good,Bad
 1,Opening, Move 40 - I like this move since it was dual purpose as reinforcement and an extension.,"Move 10 - Though some might say that White ended up okay, I really did not like the result for White."
 2,Attack and Defense, Nothing worth mentioning., Move 22 - Neglecting my corner for this pincer is questionable.
@@ -28,4 +27,4 @@ no,Category,Good,Bad
 4,Strategy, Move 146 - I was proud of being able to switch strategies once I realized my mistake., Move 92 - This was too greedy on my part and helped Black more than White.
 5,Overall Reading, Move 60 - Being able to discern this move out during the game gave me the advantage early on., Move 210 - Should have realized Black was already dead.
 6,Endgame, Move 262-264 - This was a nice sequence to capture a bigger corner., Move 286 - This was a useless connection.
-[/table]
+

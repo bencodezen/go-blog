@@ -23,7 +23,6 @@ This opponent was a unique one since he thought longer than I did and took his t
 
 ### Game Summary
 
-[table colwidth="50|140|375|375" colalign="center|center|center|center"]
 no,Category,Good,Bad
 1,Opening,**Move 9-11**: Ignoring White in the upper left was good in that I did not unnecessarily strengthen my opponent by trying to struggle.,"Other than the inconsistency of Move 21, I don’t see any egregious errors in regards to the opening."
 2,Middle Game,**Move 39-63**: It felt like I did a good job attacking White while gaining nice 4th line territory on the right.,Can’t see any major mistakes at the moment.
@@ -31,4 +30,3 @@ no,Category,Good,Bad
 4,Endgame,**Move 219**: Ignoring White’s atari at M1 to make an extra point showed I was not making automatic moves and trying to look for bigger plays.,**Move 164**: Letting what get the diagonal here first was rough.
 5,Overall Reading,**Move 121**: I was proud to be able to read out this attachment and know it could not be cut without some loss to White.,**Move 70**: I could sense there was double cut aji here but failed to read it out properly.
 6,Strategy,**Move 81**: Sacrificing the F3 group in exchange for breaking up the left side seemed to show good judgment.,"**Move 21**: Though successful, the 3-3 invasion seems to be contrary to my initial plan at making a moyo. So negative points for inconsistency."
-[/table]

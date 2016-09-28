@@ -20,7 +20,6 @@ Pay attention to cutting points and weaknesses for yourself and your opponent. D
 
 ## Game Summary
 
-[table colwidth="50|140|375|375" colalign="center|center|center|center"]
 no,Category,Good,Bad
 1,Opening,**Move 19** - Recognizing the big point was critical in gaining the upper hand in the moyo race.,**Move 39** - This was too greedy. I should have just enclosed the corner.
 2,Attack and Defense, **Move 99** - Getting this allowed me to get the attack needed to maintain my lead., Nothing glaring as far as I can tell.
@@ -28,7 +27,7 @@ no,Category,Good,Bad
 4,Strategy, Overall I felt I was pretty consistent for the game.,**Move 39** - Must be reiterated for its greediness.
 5,Overall Reading,**Move 129-133** - Reading out the aji was a proud moment for me.,**Move 58-69** - I didn’t realized White would be able to connect so easily.
 6,Endgame, N/A, N/A
-[/table]
+
 
 ## Side Note
 

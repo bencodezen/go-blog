@@ -23,7 +23,6 @@ Even when you are just about to win the game, the slightest misstep could mean u
 
 ## Game Summary
 
-[table colwidth="50|140|375|375" colalign="center|center|center|center"]
 no,Category,Good,Bad
 1,Opening,**Move 39** - This move is the only one I’m “proud” of since it took full advantage of White’s mistake in this joseki.,**Move 19 and 29** - Both these moves were bad since I was unable to punish White for his mistake in the joseki.
 2,Attack and Defense,**Move 97** - Recognizing that my group was in trouble and defending it was a rather proud moment since I might have normally left it alone.,**Move 19 and 29** - These moves are worth mentioning again since they were missed opportunities to attack White early on.
@@ -31,4 +30,3 @@ no,Category,Good,Bad
 4,Strategy,**Move 53** - Trying to remove White’s base in order to attack White seems to be a key moment to why I was able to gain an advantage in the game., **Move 93–95** - Continuing to try and kill it in such a direct manner however was a mistake.
 5,Overall Reading,**Move 271** - Being able to calmly choose the correct move instead of the automatic move I might have made normally was another proud moment.,**Move 111** - Connecting here out of fear still shows the immaturity of my reading.
 6,Endgame,**Move 143** - Recognizing that I could start the endgame since I was ahead was something I was unable to do before.,**Move 237** - Defending directly here was a mistake that gave White three extra points.
-[/table]

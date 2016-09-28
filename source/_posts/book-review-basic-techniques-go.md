@@ -23,7 +23,6 @@ tags:
 
 ### Book Details
 
-[table]
 Title, Basic Techniques of Go
 Author, Haruyama Isamu 9P and Nagahara Yoshiaki 6P
 Edited by, Richard Bozulich
@@ -32,73 +31,50 @@ Published, "First Printing, Feb. 1969 | Tenth Printing, Nov. 2002"
 Language, English
 ISBN, 4-906574-02-5
 Length, 172 Pages
-[/table]
-
-
 
 ### Table of Content
 
 *   Preface to the Third Edition
 *   Technial Terms
 *   Chapter One
-
 	*   Principles of Even-Game Openings
-
-			*   Opening Moves
+		*   Opening Moves
 		*   Corner Enclosures
 		*   Approach Moves
 		*   Proper Timing of Enclosures, Approach Moves, and Extensions
-
 		*   How to Play Handicap Go
-
 *   Chapter Two
-
 	*   The Nine-Stone Handicap and the Attach-and-Extend Joseki
-
 *   Chapter Three
-
 	*   Six Stone Handicap Opening Strategy
-
-			*   White's Capping Strategy
+		*   White's Capping Strategy
 		*   Invading the Sides
-
 *   Chapter Four
-
 	*   Four-Stone Handicap and the One-Space Jump Joseki
 	*   The One-Space Jump in Four-Stone Handicap Openings
-
-			*   The Pincer
+		*   The Pincer
 		*   Double Approach Moves
 		*   Double Pincer
 		*   The Attachment
 		*   Capping
 		*   The Invasion
-
 *   Chapter Five
-
 	*   A Survey of Tesuji
-
-			*   Tesuji Problems
+		*   Tesuji Problems
 		*   Answer to the Tesuji Problems
 
 *   Chapter Six
-
 	*   The Endgame
-
-			*   Counting the Size of a Territory
+		*   Counting the Size of a Territory
 		*   Sente Endgame
 		*   Coutning the Size of an Endgame Play
 		*   Endgame Tesujis
 		*   Endgame Problems
-
 *   Appendix
-
 
 ### Before I Read This Book...
 
 I bought this book way back when I started go. I felt like I was completely lost when I first tried to read it, so here I am a couple years later trying to read it once more. What I was expecting when I bought it was a book on a broad coverage of techniques one would find with go. Now that I am much stronger and more experienced, I am still hoping for a survey of techniques along with clarification on their usage.
-
-
 
 ### My Review
 
@@ -117,8 +93,6 @@ Overall, I would divide the book into the following categories: 10% Opening Prin
 In regards to its overall difficulty, it really does feel as if the reader needs to already have a decent grasp of the material in order to truly understand and digest the contents of this book. To be clear though, I am by no means saying that the content in this book is bad. Quite the contrary in fact, there is a lot of information considering how short the book is. It's just that its rather dense for beginner/intermediate players.
 
 So if you fall into the category of beginner/intermediate players looking to get stronger, I do not recommend this book for you. Instead, I recommend checking out the Mastering the Basics series from Kiseido as a better alternative.
-
-
 
 ### Synopsis
 
