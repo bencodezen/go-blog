@@ -10,9 +10,9 @@ tags:
 	- kiai
 ---
 
-## _ Weekly Go Wednesday, Issue #10_
+## Weekly Go Wednesday, Issue #10
 
-[![Tsuna and Reborn by Electra](http://www.bengozen.com/wp-content/uploads/2012/12/tsuna.png "Tsuna and Reborn")](http://www.bengozen.com/wp-content/uploads/2012/12/tsuna.png)
+![Tsuna and Reborn by Electra](/images/2012/12/tsuna.png "Tsuna and Reborn")
 
 In almost every game in the universe, as [Yogi Berra](http://en.wikipedia.org/wiki/Yogi_Berra "Yogi Berra Wikipedia") once said, "It's not over till it's over!" Players are always forced to play it out till the end regardless of the how poorly they are doing. Granted, players can always quit in the middle of the game; but this is generally considered to be poor taste. While every game of go can theoretically be played out to the end, the ability to resign as an honorable method of admitting defeat brings about a critical component of a player's success in the game: fighting spirit.
 

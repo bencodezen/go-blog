@@ -11,26 +11,27 @@ tags:
 	- sanrensei
 ---
 
-[![Power of the Star Point Cover](http://www.bengozen.com/wp-content/uploads/2012/12/starpointpowercover.jpg "Power of the Star Point Cover")](http://www.bengozen.com/wp-content/uploads/2012/12/starpointpowercover.jpg)
+![Power of the Star Point Cover](/images/2012/12/starpointpowercover.jpg "Power of the Star Point Cover")
 
 ## Overall Rating: 4.5 / 5 Ponnuki
 
-### <span style="text-decoration: underline;">Basic Information</span>
+### Basic Information
 
 *   Title: The Power of the Star-Point - The Sanren-Sei Opening
 *   Author: Shukaku Takagawa, Honorary Honinbo (translated by John Power)
 *   Publication Date: July 1988
 *   Page Length: 134 pages
 
-### <span style="text-decoration: underline;">Synopsis</span>
+### Synopsis
 
 *   This is a fantastic book for players who want to be exposed to lots of different concepts without being inundated with dense diagrams and explanations.
 *   The book covers a very broad range of material that makes it a valuable purchase for those who have a difficult time with some of the other more dense material.
 *   Appropriate for 12 kyu and stronger.
 *   Recommended for serious players and above.
-<!--more-->
 
-### <span style="text-decoration: underline;">Detailed Review</span>
+<!-- more -->
+
+### Detailed Review
 
 #### Readability - 8 / 10
 
@@ -44,7 +45,7 @@ Fantastic coverage on a topic that many amateur players could really benefit fro
 
 The Power of the Star Point is a magnificent insight into the opening, handicap go, and whole board thinking all in one shot. It is definitely the book that gave me my breakthrough in understanding moyo formation, whole board thinking, and star point power in a whole new way. This is definitely a book you don't want to miss out on if you have the opportunity to read it.
 
-### <span style="text-decoration: underline;">Table of Contents</span>
+### Table of Contents
 
 1.  Preface
 2.  Introduction: Invitation to the Sanren-Sei

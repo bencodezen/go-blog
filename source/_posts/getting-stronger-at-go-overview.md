@@ -9,16 +9,13 @@ tags:
 	- advice
 ---
 
-<div style="text-align: center;">
-
-## _Weekly Go Wednesday, Issue #3_
+## Weekly Go Wednesday, Issue #3
 
 Of all the go topics in the entire universe, this is by far the single most popular one. After all, getting one stone strong is the eternal pursuit of every go player. There are a plethora of articles out there on how to do so, but my goal is to provide the fastest route for you to progress as a go player (to SDK at the bare minimum).
 
-<!--more-->
+<!-- more -->
 
-### <span style="text-decoration: underline;">**Things to Do
-**</span>
+### Things to Do
 
 1.  [Properly study tsumego on a consistent basis.](http://www.bengozen.com/how-to-study-tsumego/ "How to Study Tsumego")
 2.  Have a stronger player review your games with you.
@@ -30,7 +27,7 @@ Of all the go topics in the entire universe, this is by far the single most popu
 
 _*With the caveat that you are learning from your games and not just blindly playing._
 
-### <span style="text-decoration: underline;">Things <span style="color: #ff0000; text-decoration: underline;">NOT </span>To Do
+### Things <span style="color: #ff0000;">NOT</span> To Do
 </span>
 
 1.  Memorize [joseki](http://senseis.xmp.net/?Joseki).
@@ -43,5 +40,3 @@ _*With the caveat that you are learning from your games and not just blindly pla
 _* Primarily geared towards DDK's._
 
 **In the future, be sure to come back and visit this post for updates (such as more detailed articles and new advice)!**
-
-</div>

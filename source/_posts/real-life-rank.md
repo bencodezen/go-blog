@@ -9,21 +9,21 @@ categories:
 
 ## _Weekly Go Wednesday, Issue #9_
 
-[![Rank Image Credit to Adam Howell](http://www.bengozen.com/wp-content/uploads/2012/11/rank-300x300.jpg "Rank")](http://www.bengozen.com/wp-content/uploads/2012/11/rank.jpg)
+![Credit to Adam Howell](/images/2012/11/rank.jpg "Rank")
 
 For those who have never played in a in-person tournament before, the idea of a "real life rank" may seem foreign. I assure you, however, that this is something you'll want to give some thought to before you enter your first tournament.
 
 As most of us know, a majority of go players have gained their strength through online play. As a result, common sense would dictate that their rank online would be what their rank should be when they enter a tournament. While some may disagree with me, personal experience has taught me that this is not the case for the following reasons:
 
-**#1\. Your online rank is generally a representation of you on your best days.**
+**#1. Your online rank is generally a representation of you on your best days.**
 
 Yes. I realize that your rank includes your losing streaks and bad days as well. Ultimately however, people play go online when they feel like playing. It's a voluntary choice and they can voluntarily choose to stop if they feel that they are having a bad day. Tournament play is completely different in this regard. Unless you plan on leaving early, you are going to have to play every round regardless whether you're feeling off or not.
 
-**#2\. Online ranks are inflated.**
+**#2. Online ranks are inflated.**
 
 Think about it for a moment. How many times have you played games where opponents resigned after the first fifty moves because they lost a group? In fact, I would say that a large number of ranked games online are won by resignation. This means that there are many times where the game may have been reversed if the opponent was willing to try harder and finish the game in its entirety.
 
-**#3\. Tournament games and online ranked games are on completely different levels.**
+**#3. Tournament games and online ranked games are on completely different levels.**
 
 Two reasons: attitude and stamina.
 

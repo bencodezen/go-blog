@@ -10,17 +10,16 @@ tags:
 	- opening
 ---
 
-[![](http://www.bengozen.com/wp-content/uploads/2010/08/in-the-beginning_5.jpg "In the Beginning Cover")](http://www.bengozen.com/wp-content/uploads/2010/08/in-the-beginning_5.jpg)
+![](/images/2010/08/in-the-beginning_5.jpg "In the Beginning Cover")
 
 ## In the Beginning
 
-**Description: **In the first volume of the Elementary Go Series, Ishigure covers some basic principles and methods in the opening of the game. While a great overview of the beginning as a whole, this book is more suited for intermediate to advanced players as opposed to beginners.
+**Description:** In the first volume of the Elementary Go Series, Ishigure covers some basic principles and methods in the opening of the game. While a great overview of the beginning as a whole, this book is more suited for intermediate to advanced players as opposed to beginners.
 
 <!--more-->
 
 ### Book Details
 
-[table]
 Title, In the Beginning (Volume 1)
 Series, Elementary Go Series
 Author, Ikuro Ishigure
@@ -29,15 +28,11 @@ Published, 1st Printing April 1985 | Eighth Printing February 2006
 Language, English
 ISBN, 978-4-906574-10-6
 Length, 152 Pages
-[/table]
-
-
 
 ### Table of Content
 
 *   Introduction
 *   Chapter 1
-
 	1.  The First Moves of the Game
 	2.  The 3–4 Point
 	3.  The 3–3 Point
@@ -50,9 +45,7 @@ Length, 152 Pages
 	10.  Invasions
 	11.  Extending into the Center
 	12.  Pushing and Crawling
-
 *   Chapter 2 - Nine Concepts
-
 	1.  Make Your Stones Work Together
 	2.  Efficiency
 	3.  Play Away from Strength
@@ -62,40 +55,38 @@ Length, 152 Pages
 	7.  Reverse Strategy
 	8.  Light and Heavy
 	9.  Attack and Defense
-
 *   Chapter 3 - Ten Problems
 
-
-### Synopsis" trigclass="expandTitle" ]
+### Synopsis
 
 **What did I enjoy about the book?**
 
 *   There is a LOT of content for such a small book.
 *   Covers nine concepts that are useful for more advanced players.
 *   Has ten practice problems that are graded on a scale as opposed to simply right or wrong.
+
 **What did I gain from reading this book?**
 
 *   As a beginner, I had a hard time grasping anything from the book.
 *   As a more advanced player, I felt that I gained a better understanding of the opening. Though I will say that the boost in my confidence was only moderate.
+
 **What style of teaching does the book use?**
 
 *   Textbook Approach
-
 	*   Content is organized in a curriculum format and follows a lecture style of writing.
-
 *   Primary Learning Mechanism:
-
 	*   Explanations with example diagrams
-
 *   Other Learning Mechanisms:
-
 	*   Practice problems
+
 **What aspect can be improved on?**
 
 *   I would have liked to see more problems in the book to allow the reader to practice what he/she learned.
+
 **Is this book easy to read?**
 
 *   As a beginner, this was not an easy book to read. The material was rather dense and was difficult to understand. For players that are more advanced however, the book is written rather concisely and one will appreciate how much content is packed into such a small book.
+
 **Bottom Line**
 
 1.  If you are a beginner, steer clear of this book. This is for more advanced players.
@@ -104,13 +95,14 @@ Length, 152 Pages
 
 
 ### Before I Read This Book...
+
 **My Abilities**
 
 *   I was utterly brand new to the game when I first received this book.
+
 **My Perspective**
 
 *   I was looking forward to reading about the beginning steps that beginners should take.
-
 
 ### My Review
 
@@ -122,12 +114,9 @@ Now that my rant as a beginner is done, I want to turn the other side of the coi
 
 Finally, I also want to mention the fact that this book does NOT cover fuseki patterns (e.g., Chinese opening, ninren-sei, sanren-sei, etc.). It is simply focused on establishing basic principles and methods behinds the opening. Nothing more than that.
 
-
-
 ### Recommended For...
 
 *   Players looking for a thorough (but rather advanced) overview of the opening.
-
 
 ### Where Can I Buy It?
 
@@ -135,7 +124,6 @@ Finally, I also want to mention the fact that this book does NOT cover fuseki pa
 *   GoGameGuru - [$17.99](http://shop.gogameguru.com/in-the-beginning/?acc=e4da3b7fbbce2345d7772b0674a318d5 "Go Game Guru Purchase Link") USD (shipping &amp; handling not included)
 *   Kiseido - [$18.00](http://kiseido.com/go_books.htm "Kiseido Purchase Link") USD (shipping &amp; handling not included)
 *   SmartGo Books - [$9.99](http://www.smartgo.com/books.htm "SmartGo Book Link") USD (e-Book for iPad &amp; iPhone Only)
-
 
 ### Other Books in This Series...
 

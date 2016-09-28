@@ -15,7 +15,7 @@ tags:
 
 ## THE ULTIMATE SHOWDOWN!!!
 
-[caption id="attachment_998" align="aligncenter" width="300"][![FFVII - Cloud vs Sephiroth by Shld](http://www.bengozen.com/wp-content/uploads/2012/11/FFVII_AC__Cloud_VS_SEPHIROTH_by_Shld.jpg "FFVII - Cloud vs Sephiroth by Shld")]
+![FFVII - Cloud vs Sephiroth by Shld](/images/2012/11/FFVII_AC__Cloud_VS_SEPHIROTH_by_Shld.jpg "FFVII - Cloud vs Sephiroth by Shld")
 
 Both players: 3-0, and I was facing my worst nightmare: **another** 4 stone handicap game.
 
@@ -34,7 +34,7 @@ As the game was coming to a close, we had a pretty big crowd watching the game. 
 
 When we finished counting the score, I couldn't believe my ears when I heard: "Black has 59 points. White has 88.5 points."
 
-[caption id="attachment_1049" align="aligncenter" width="500"][![How I Met Your Mother](http://www.bengozen.com/wp-content/uploads/2012/11/barneyhighestoffive.gif "barneyhighestoffive")](http://www.bengozen.com/wp-content/uploads/2012/11/barneyhighestoffive.gif) How I Met Your Mother[/caption]
+![How I Met Your Mother](/images/2012/11/barneyhighestoffive.gif "barneyhighestoffive")
 
 ## **PERFECT RECORD!!!**
 

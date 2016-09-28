@@ -15,6 +15,7 @@ Life is funny sometimes. Just when I thought I had a breakthrough in my go, I we
 3.  Fail to notice any of my own weak groups.
 4.  Have little to no legitimate purpose behind my moves.
 5.  Play locally and hope it works out on the entire board.
+
 Fortunately, I was not given the chance to slink away in shame and got promptly reamed out for my play. So, as instructed, I will be taking tonight to retreat into solitary and repent for my miserable play by writing down "The List" 50 times. (Proof will be posted tomorrow.) In addition, I want to thank my opponent for not letting me get away with my overplays. I will give you a better game next time!
 
 Below is the game record for your laughter and entertainment. =)

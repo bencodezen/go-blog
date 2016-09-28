@@ -11,11 +11,11 @@ tags:
 
 ## _Weekly Go Wednesday, Issue #4_
 
-### <span style="text-decoration: underline;">**Tactic #1: The Wedge**</span>
+### **Tactic #1: The Wedge**
 
 Here is a scenario that occurs quite frequently in games.
 
-[![](http://www.bengozen.com/wp-content/uploads/2012/10/wedge1.png "wedge1")](http://www.bengozen.com/wp-content/uploads/2012/10/wedge1.png)
+![](/images/2012/10/wedge1.png "wedge1")
 
 **White just played the one point jump. Black to play.**
 
@@ -25,7 +25,7 @@ Trick question. The answer is to tenuki. Nothing beneficial can come out of play
 
 Up until recently, I was in the camp with the rest of the players who stared at the situation and thought, "Why don't I just wedge in?" First off, from the reading I've done thus far, the wedge is a tesuji. Secondly, I have read this out thoroughly and I can successfully cut the two groups apart without losing my cutting stone. (See variation below).
 
-[![](http://www.bengozen.com/wp-content/uploads/2012/10/wedge-variations.png "wedge variations")](http://www.bengozen.com/wp-content/uploads/2012/10/wedge-variations.png)
+![](/images/2012/10/wedge-variations.png "wedge variations")
 
 While you get brownie points for reading out the variations properly and succeeding in your original goal, there is a one earth shattering reason why this misuse of the tactic will consistently cost you game after game:
 
@@ -37,11 +37,11 @@ This type of wedge, while seemingly effective in disconnecting your opponent's s
 
 _So... when does the wedge make sense?_
 
-[![](http://www.bengozen.com/wp-content/uploads/2012/10/wedge2.png "wedge2")](http://www.bengozen.com/wp-content/uploads/2012/10/wedge2.png)
+![](/images/2012/10/wedge2.png "wedge2")
 
 This new scenario is similar to the original diagram, but there are two differences to take note of. First, white is offered a second one point jump for reinforcement. Secondly, and most importantly, black is much stronger this time around. With this crucial difference, the wedge that was once to white's benefit is now a strong weapon for black to use.
 
-[![](http://www.bengozen.com/wp-content/uploads/2012/10/wedge-variations-2.png "wedge variations 2")](http://www.bengozen.com/wp-content/uploads/2012/10/wedge-variations-2.png)
+![](/images/2012/10/wedge-variations-2.png "wedge variations 2")
 
 As you can now see, regardless of which variation white chooses, his triangled stones are destined for impending doom.
 
@@ -55,5 +55,6 @@ After all, which of the following options would you prefer to offer your opponen
 
 **"Your stones could die this way, or that way. Your choice."**
 
-_Many thanks to fellow ASR member sita for helping me grasp this concept. _
+_Many thanks to fellow ASR member sita for helping me grasp this concept._
+
 _All diagrams were generated using CGoban3._

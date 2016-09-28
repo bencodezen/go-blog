@@ -11,11 +11,11 @@ I have to admit that the responses that I received yesterday from my post have c
 
 For those of you who have never seen this video, please take 20 seconds and watch this unbelievable and tragic event happen to a professional 9-dan.
 
-[youtube="http://www.youtube.com/watch?v=qt1FvPxmmfE"]
+http://www.youtube.com/watch?v=qt1FvPxmmfE
 
 _Can you imagine? Playing a professional game on live television as a professional 9-dan and then putting yourself in self-atari? Although you have to admit, the man handled himself quite well and his reaction was quite priceless._
 
-<!--more-->
+<!-- more -->
 
 That being said, the reason for the second part of this post is due to a friend of mine, Justin, who commented on a distinction that I had not really considered: **the competitive setting**. For those who would like to read about his personal experience with both sides of the regretful win/loss, see his comment in [Part 1 of this topic](http://www.bengozen.com/the-desire-to-win-part-1/ "The Desire to Win – Part 1").
 

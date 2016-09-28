@@ -14,7 +14,7 @@ tags:
 
 [Introduction](http://www.bengozen.com/nova-pumpkin-class-2012-intro/ "NOVA Pumpkin Classic Tournament 2012 — Introduction") --- [Round 1](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-1/ "NOVA Pumpkin Classic Tournament 2012 — Round 1") --- **Round 2** --- [Round 3](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-3/ "NOVA Pumpkin Classic Tournament 2012 — Round 3") --- [Round 4](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-4/ "NOVA Pumpkin Classic Tournament 2012 — Round 4") --- [Conclusion](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-conclusion/ "NOVA Pumpkin Classic Tournament 2012 — Conclusion")
 
-[![4 Stones Handicap by Eidogo](http://www.bengozen.com/wp-content/uploads/2012/11/4-stones-300x300.png "4 Stones Handicap")](http://www.bengozen.com/wp-content/uploads/2012/11/4-stones.png)
+![4 Stones Handicap by Eidogo](/images/2012/11/4-stones.png "4 Stones Handicap")
 
 In all my naivety, it never occurred to me that I might end up giving my opponent handicap stones. After all, the majority of the time spent playing online were either even games or against stronger opponents who would give me handicap stones, not the other way around!! To make matters worse, I had spent so much time studying how Black should deal with handicap games that I wasn't quite sure what to do as White. And as if that wasn't enough, my familiarity with handicap games extended as far as 3 stones. Now that I was facing an opponent with 4 stones, I couldn't help but feel the blood begin to drain from my face as I stared down the menacing board.
 
@@ -27,6 +27,7 @@ As my mind began to race, I tried to calm down as I tried to reverse engineer Wh
 1.  White must play aggressively to negate Black's advantage.
 2.  White must therefore deviate from standard tactics.
 3.  White must do the best job possible to confuse Black and complicate matters as much as possible.
+
 Okay. I had my strategy now. Rely on my reading abilities to help me kill something and I'll be able to catch up... (_Boy would this get me into trouble...)_
 
 After the customary exchange of "Have a good game," I took a deep breath and reached for my first stone.

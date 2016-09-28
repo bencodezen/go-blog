@@ -14,7 +14,7 @@ tags:
 
 [Introduction](http://www.bengozen.com/nova-pumpkin-class-2012-intro/ "NOVA Pumpkin Classic Tournament 2012 — Introduction") --- <span style="text-decoration: underline;">**Round 1**</span> --- [Round 2](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-2/ "NOVA Pumpkin Classic Tournament 2012 — Round 2") --- [Round 3](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-3/ "NOVA Pumpkin Classic Tournament 2012 — Round 3") --- [Round 4](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-round-4/ "NOVA Pumpkin Classic Tournament 2012 — Round 4") --- [Conclusion](http://www.bengozen.com/nova-pumpkin-classic-tournament-2012-conclusion/ "NOVA Pumpkin Classic Tournament 2012 — Conclusion")
 
-[![3 Stones Handicap by Eidogo](http://www.bengozen.com/wp-content/uploads/2012/11/3-stones-300x298.png "3 Stones Handicap ")](http://www.bengozen.com/wp-content/uploads/2012/11/3-stones.png)
+![3 Stones Handicap by Eidogo](/images/2012/11/3-stones.png "3 Stones Handicap ")
 
 My opponent made his first move: upper left star.
 

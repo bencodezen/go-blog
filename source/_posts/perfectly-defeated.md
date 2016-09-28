@@ -18,6 +18,6 @@ From that point on though, it was like I was on a pure vengeful pursuit to win a
 
 As if that weren't bad enough, I then go off and challenge another 6k. This match is going great, because he's in a killing mood too but I'm managing to outread him for most of the game... and then I failed to realize one of my sequences put a big group in atari and then everything died...
 
-[![why you keep losing meme](http://www.bengozen.com/wp-content/uploads/2012/11/losingmeme-300x225.jpg "Y u keep losing")](http://www.bengozen.com/wp-content/uploads/2012/11/losingmeme.jpg)
+![](/images/2012/11/losingmeme.jpg "Y u keep losing")
 
 **ARGHHHHHHHHHH!!!!!**

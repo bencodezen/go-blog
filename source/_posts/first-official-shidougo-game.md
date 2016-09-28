@@ -17,7 +17,7 @@ Now granted, this was a teaching game; but I assure you that I did nothing less 
 
 It's been so long since I played against an opponent so vastly stronger than me that I forgot what it was like to play just to simply survive. That's right: just survive. Instead, I tried to take big points and was under the false assurance that my groups were alive and that I was giving frozensoul a good game.
 
-That being said. There are too many mistakes to be mentioned and the prized moments are practically nonexistent. If you would like to see what 9k mistakes look like and how they get properly demolished, please <del>take the time to visit the link above</del> see the kifu below!
+That being said. There are too many mistakes to be mentioned and the prized moments are practically nonexistent. If you would like to see what 9k mistakes look like and how they get properly demolished, please see the kifu below!
 
 <!--more-->
 

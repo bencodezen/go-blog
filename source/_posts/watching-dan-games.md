@@ -8,7 +8,7 @@ tags:
 	- training
 ---
 
-[![](http://www.bengozen.com/wp-content/uploads/2012/12/CQ5-logo.png "Adobe CQ Logo")](http://www.bengozen.com/wp-content/uploads/2012/12/CQ5-logo.png)
+![](/images/2012/12/CQ5-logo.png "Adobe CQ Logo")
 
 So I currently have the pleasure and exciting opportunity to be participating in an all week training for Adobe CQ5.5, but that means that there is very little time for playing go. =(
 

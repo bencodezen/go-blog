@@ -10,7 +10,9 @@ tags:
 ---
 
 Today's game was a reminder of a concept I was told long ago in one of my teaching games:
+
 > The less groups you have on the board, the more likely it is that you're going to win.
+
 Sounds simple enough right? And yet at the same time, why is this the case?
 
 <!--more-->

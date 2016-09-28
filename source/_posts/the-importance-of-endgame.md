@@ -31,4 +31,5 @@ While he ended up resigning due to the capturing race, in reality this game goes
 1.  Practice estimating the score so that I do not have a distorted view of the game.
 2.  Be more meticulous about my endgame moves since I only get a few opportunities to really practice it.
 3.  Continue to practice my reading abilities so that I do not get caught in liberty shortages due to misreading.
+
 Here's to hoping I have learned my lesson.

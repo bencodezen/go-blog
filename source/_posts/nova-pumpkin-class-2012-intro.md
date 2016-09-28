@@ -27,6 +27,7 @@ This is a six part series that will be released once per day (excluding weekends
 *   **Game Format:** AGA Rules
 *   **Main Time:** 45 min
 *   **Byoyomi:** 20 moves in 5 minutes
+
 The morning of the tournament, I was running late and worried that I would miss the registration time. As someone who has run a tournament before, I should've known better than to think that they wouldn't let me participate in the tournament. At worst, I would have to miss the first round and then participate in the rest of the rounds. Nonetheless, I was still relieved to make it in time for registration.
 
 When I got up to the registration table, I was asked to confirm whether I'd be registering as an 8k. My mind faltered momentarily as I second-guessed my decision to enter as an 8k, but memories of being crushed as an 8k at the Baltimore Go Club quickly brought me to my senses. Sure, I might be 7k on KGS, but that was me on my best days. There was no telling whether my KGS rating was truly accurate in terms of tournament play where there would be multiple matches whether I liked it or not. (_I will be writing an article on this in the near future, but hopefully you understand my rationale for now._)

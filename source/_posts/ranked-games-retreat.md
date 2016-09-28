@@ -9,7 +9,7 @@ tags:
 	- goals
 ---
 
-[![Scenic Imagery of Stones - Credit to YellowStonePackTrips](http://www.bengozen.com/wp-content/uploads/2012/12/retreat2.jpg "Retreat Stones")](http://www.bengozen.com/wp-content/uploads/2012/12/retreat2.jpg)
+![Scenic Imagery of Stones - Credit to YellowStonePackTrips](/images/2012/12/retreat2.jpg "Retreat Stones")
 
 When I woke up this morning to check to see if my [ASR](http://www.advancedstudyroom.com/ASR/ "Advanced Study Room") class had changed, I was pleasantly surprised to find out that I was actually promoted to Beta II!!! Definitely wasn't expecting it and I'm sure it was because of the need to fill in the class after people were either demoted or dropped. Nonetheless, this is great news for me because it means that I've managed to graduate two classes since I started in July! Although it would be nice to be promoted to Alpha class next month, my goal for this month is to simply stay in the Beta class for now.
 

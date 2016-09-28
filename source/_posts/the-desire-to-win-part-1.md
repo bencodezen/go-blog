@@ -14,9 +14,9 @@ Today, I am writing about a more solemn topic that I know most people would shy 
 
 In terms of what I mean when I say the desire to win, I'm not just talking about the simple desire for victory. After all, most people enjoy winning and the feeling of doing so. Instead, I'm talking about the type of desperation to win that you lose your rationale and even if you somehow manage to win, it's the type of win that eats away at you because you know you didn't really deserve it.
 
-For <span style="text-decoration: underline;">Hikaru no Go</span> fans, the following scene should be familiar.
+For Hikaru no Go fans, the following scene should be familiar.
 
-[caption id="attachment_466" align="aligncenter" width="392"][![](http://www.bengozen.com/wp-content/uploads/2012/09/hikaru83_06.jpg "Hikaru No Go - Chapter 83")](http://www.bengozen.com/wp-content/uploads/2012/09/hikaru83_06.jpg) Hikaru No Go - Chapter 83[/caption]
+![Hikaru No Go - Chapter 83](/images/2012/09/hikaru83_06.jpg "Hikaru No Go - Chapter 83")
 
 Who could possibly forget how tortured Hikaru felt afterwards? After all, is there really any honor or joy that can really come from a win like this?
 
