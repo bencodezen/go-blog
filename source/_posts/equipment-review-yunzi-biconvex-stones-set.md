@@ -37,7 +37,7 @@ tags:
 
 When purchasing my first go set, this was by far the most anticipated piece of equipment. After all, the prospect of playing with real stones and making the aesthetic sound as you play each move was so exciting! However, I digress, here is what the package looked like when it came in. As with all other items I've received from [Yellow Mountain Imports](http://www.ymimports.com), everything was packaged and protected very well.
 
-![Top layer of styrofoam (not in picture)](http://www.bengozen.com/wp-content/uploads/2010/09/yunziset.jpg)
+![Top layer of styrofoam (not in picture)](/images/2010/09/yunziset.jpg)
 
 When you open the bag, here's what you see.
 

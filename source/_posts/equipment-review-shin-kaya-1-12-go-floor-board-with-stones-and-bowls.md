@@ -40,7 +40,7 @@ tags:
 
 This was my first set of real go equipment. When it arrived, I was happier than a child on a shopping spree at a toy store. And so, you can imagine how happy I was to see that my order was packaged very well. Here are some shots of the package:
 
-![](http://www.bengozen.com/wp-content/uploads/2013/03/gosetbox.jpg)
+![](/images/2013/03/gosetbox.jpg)
 
 ![As you can see, the contents inside are very well protected.](/images/2013/03/gosetbox2.jpg)
 

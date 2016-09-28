@@ -11,7 +11,7 @@ tags:
 	- go-problems
 ---
 
-![](http://www.bengozen.com/wp-content/uploads/2013/09/getstrongv4cover.jpg)
+![](/images/2013/09/getstrongv4cover.jpg)
 
 ## Get Strong at Joseki 3
 

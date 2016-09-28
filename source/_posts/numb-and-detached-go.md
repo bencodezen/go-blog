@@ -10,7 +10,7 @@ tags:
 
 ## _Weekly Go Wednesday, Issue #17_
 
-![](http://www.bengozen.com/wp-content/uploads/2013/02/wgw17.jpg)
+![](/images/2013/02/wgw17.jpg)
 
 As players pursue to gain another stone in strength, unless they are some kind of genius, they will eventually hit roadblocks and obstacles that will cause them to become frustrated and possibly even numb and detached from their go.
 

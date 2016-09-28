@@ -10,7 +10,7 @@ tags:
 	- plastic-board
 ---
 
-![](http://www.bengozen.com/wp-content/uploads/2014/01/dirtcheapgoboard01.jpg)
+![](/images/2014/01/dirtcheapgoboard01.jpg)
 
 ## Dirt Cheap Goban
 

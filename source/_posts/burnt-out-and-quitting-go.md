@@ -9,7 +9,7 @@ tags:
 	- go-congress
 ---
 
-![Just kidding! Credit to Giphy](http://www.bengozen.com/wp-content/uploads/2014/04/justkidding.gif)
+![Just kidding! Credit to Giphy](/images/2014/04/justkidding.gif)
 
 ## **APRIL FOOLS!!!!! xD**
 

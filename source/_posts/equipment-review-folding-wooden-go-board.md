@@ -10,7 +10,7 @@ tags:
 	- portable-equipment
 ---
 
-![](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard.jpg)
+![](/images/2010/10/foldWoodenBoard.jpg)
 
 ## Folding Wooden Go Board
 
@@ -46,7 +46,7 @@ Although the local store does not sell it anymore, this product is definitely wo
 
 ![Back of the Board (unfolded)](/images/2010/10/foldWoodenBoard3.jpg)
 
-![Rubber Stop](http://www.bengozen.com/wp-content/uploads/2010/10/foldWoodenBoard4.jpg)
+![Rubber Stop](/images/2010/10/foldWoodenBoard4.jpg)
 
 ![](/images/2010/10/foldWoodenBoard5.jpg)
 

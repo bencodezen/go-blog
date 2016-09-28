@@ -4,13 +4,13 @@ id: 180
 date: 2012-10-22 12:10:33
 ---
 
-[caption id="attachment_3526" align="aligncenter" width="400"][![My go books](http://www.bengozen.com/wp-content/uploads/2012/10/bookCollection.jpg)](http://www.bengozen.com/wp-content/uploads/2012/10/bookCollection.jpg) A good portion of my collection[/caption]
+![A good portion of my collection](/images/2012/10/bookCollection.jpg)
 
 Welcome to BenGoZen's Book Reviews! I apologize for the mess on this page; but I assure you that I will be working hard to improve the overall user experience of the page in the future. For now, hopefully the ability to sort the table will help you find what you need! And if you have any suggestions for how I might organize all this information, be sure to [contact me](http://www.bengozen.com/contact/ "Contact")!
 
 ## **New Book Review Design**
 
-[table]Updated, Series, Title
+Updated, Series, Title
 
 01/02/2014, Positional Judgment, [Volume 1 - Territory](http://www.bengozen.com/book-review-positional-judgement-1-territory/ "Book Review: Positional Judgement 1 — Territory")
 
@@ -162,7 +162,7 @@ Kiseido, -, [The Chinese Opening](http://www.bengozen.com/book-review-the-chines
 
 Kiseido, -, [Positional Judgment](http://www.bengozen.com/book-review-positional-judgment/ "Book Review: Positional Judgment"), Chikun
 
-Slate &amp; Shell, -, [The Chinese Opening](http://www.bengozen.com/book-review-the-chinese-opening-zhou/ "Book Review: The Chinese Opening (Zhou)"), Zhou
+Slate & Shell, -, [The Chinese Opening](http://www.bengozen.com/book-review-the-chinese-opening-zhou/ "Book Review: The Chinese Opening (Zhou)"), Zhou
 
 Yutopian, The Nihon Ki-in Handbook Series, [Volume 1 - Proverbs](http://www.bengozen.com/book-review-the-nihon-ki-in-handbook-of-proverbs/ "Book Review: The Nihon Ki-in Handbook of Proverbs"), Golem
 
@@ -171,8 +171,6 @@ The Ishi Press, -, [Kage's Secret Chronicles of Handicap Go](http://www.bengoze
 The Ishi Press, -, [The Power of Star Point: The Sanren-Sei Opening](http://www.bengozen.com/book-review-the-sanren-sei-opening/ "Book Review: The Sanren-Sei Opening"), Takagawa
 
 Good Move Press, -, [First Kyu](http://www.bengozen.com/book-review-first-kyu/ "Book Review: First Kyu"), Hong
-
-[/table]
 
 **_Last Updated January 2nd, 2014_**
 

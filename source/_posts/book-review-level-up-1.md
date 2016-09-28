@@ -12,7 +12,7 @@ tags:
 	- workbook
 ---
 
-[![Level Up! - Volume 1 Cover](http://www.bengozen.com/wp-content/uploads/2013/10/levelup1cover.jpg "Level Up! - Volume 1 Cover")](http://www.bengozen.com/wp-content/uploads/2013/10/levelup1cover.jpg)
+[![Level Up! - Volume 1 Cover](/images/2013/10/levelup1cover.jpg "Level Up! - Volume 1 Cover")](/images/2013/10/levelup1cover.jpg)
 
 ## Level Up 1
 
