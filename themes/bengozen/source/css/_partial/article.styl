@@ -158,11 +158,27 @@
   margin: 0 auto article-padding
   padding: 1.25rem 1.25rem 0
   box-sizing: content-box
+
   a
     color: $cBlack
     text-decoration: none
     &:hover
       color: color-default
+
+  &__left {
+    width: 100%;
+    padding-bottom: 1rem;
+    float: left;
+
+    @media (min-width: 425px) {
+      width: initial;
+      padding-bottom: 0;
+    }
+  }
+
+  &__right {
+    float: right;
+  }
 
 .article-tag-list {
   display: inline-block
@@ -179,7 +195,6 @@
     content: "#"
 
 .article-comment-link
-  float: right
   &:before
     content: "\f075"
     font-family: font-icon
@@ -187,7 +202,6 @@
 
 .article-share-link
   cursor: pointer
-  float: right
   margin-left: 20px
   &:before
     content: "\f064"
