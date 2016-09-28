@@ -10,26 +10,27 @@ tags:
 	- opening
 ---
 
-[![opening-theory-made-easy-cover](http://www.bengozen.com/wp-content/uploads/2010/10/opening-theory-made-easy-cover.jpg)](http://www.bengozen.com/wp-content/uploads/2010/10/opening-theory-made-easy-cover.jpg)
+![](/images/2010/10/opening-theory-made-easy-cover.jpg)
 
 ## Overall Rating: 5 / 5 Ponnuki
 
-### <span style="text-decoration: underline;">Basic Information</span>
+### Basic Information
 
-*   **Title: **Opening Theory Made Easy
-*   **Author: **Hitake Odeo, 9 dan
-*   **Publication Date:** October 1992
-*   **Page Length: **170 pages
+* **Title:** Opening Theory Made Easy
+* **Author:** Hitake Odeo, 9 dan
+* **Publication Date:** October 1992
+* **Page Length:** 170 pages
 
-### <span style="text-decoration: underline;">Synopsis</span>
+### Synopsis
 
-*   The best introductory book to opening theory.
-*   Concise, easy to read, and easy to carry.
-*   Appropriate for 15 kyu and stronger.
-*   Recommended for any player with an interest in understanding the opening.
-<div style="text-align: left;"><!--more--></div>
+* The best introductory book to opening theory.
+* Concise, easy to read, and easy to carry.
+* Appropriate for 15 kyu and stronger.
+* Recommended for any player with an interest in understanding the opening.
 
-### <span style="text-decoration: underline;">Detailed Review</span>
+<!-- more -->
+
+### Detailed Review
 
 #### Readability - 9 / 10
 
@@ -41,13 +42,13 @@ This is a book that delivers on exactly what the title says. Opening theory made
 
 #### Conclusion
 
-<span style="text-decoration: underline;">Opening Theory Made Easy</span> is what <span style="text-decoration: underline;">In the Beginning</span> should have been. When a new player buys a book that says "in the beginning" and is the first volume in an "elementary" go series, you'd think that it would be simple to follow. For those who haven't invested in this series, steer clear for now. If you've already purchased it, don't worry about it. That book will be a nice book to study after you understand this one.
+_Opening Theory Made Easy_ is what _In the Beginning_ should have been. When a new player buys a book that says "in the beginning" and is the first volume in an "elementary" go series, you'd think that it would be simple to follow. For those who haven't invested in this series, steer clear for now. If you've already purchased it, don't worry about it. That book will be a nice book to study after you understand this one.
 
 This will definitely be a classic that I will re-read over and over again. Bravo Otake Hideo. This one will definitely go in the hall of fame in my library of Go books.
 
 In summary though, if you are even remotely interested in the opening theory of the game, this is THE book to buy. It's portability and ease of reading will have you blowing through it in no time and learning a lot of crucial principles that will be critical to your growth in the game. Don't delay! Buy it now!!!
 
-### <span style="text-decoration: underline;">Table of Contents</span>
+### Table of Contents
 
 1.  Chapter One - Fuseki Fundamentals
 
@@ -78,7 +79,7 @@ In summary though, if you are even remotely interested in the opening theory of 
 	6.  Reduce a large moyo lightly
 	7.  Don't cling to stones that have served their purpose
 
-### <span style="text-decoration: underline;">Recommended Vendors</span>
+### Recommended Vendors
 
 1.  GoGameGuru - [$17.99](http://shop.gogameguru.com/opening-theory-made-easy/?acc=e4da3b7fbbce2345d7772b0674a318d5 "GoGameGuru Purchase Link for Opening Theory Made Easy") (S&amp;H not included)
 2.  Kiseido - [$18.00](http://www.kiseido.com/go_books.htm "Kiseido Purchase Link") (S&amp;H not included)

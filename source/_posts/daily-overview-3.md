@@ -15,4 +15,5 @@ Overall.. here are my ratings for the day.
 1.  Problems - Minimal
 2.  Theory - Minimal
 3.  Games - Satisfactory
-<div>Hopefully I'll be able to at least to satisfactory on all three on a more consistent basis.</div>
+
+Hopefully I'll be able to at least to satisfactory on all three on a more consistent basis.

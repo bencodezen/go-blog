@@ -8,7 +8,7 @@ tags:
 	- philosophy
 ---
 
-[caption id="attachment_863" align="aligncenter" width="337"]![Priorities by xkcd](http://www.bengozen.com/wp-content/uploads/2010/09/priorities.png "Priorities by xkcd") Priorities by xkcd[/caption]
+![Priorities by xkcd](/images/2010/09/priorities.png)
 
 So as someone who has officially left the comfort zone of school (I don't consider grad school an umbrella to hide under anymore), one of the questions I'm hit the hardest with deals with whether or not I'm going to end up becoming a "Go junkie."
 

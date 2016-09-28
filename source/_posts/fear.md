@@ -11,7 +11,9 @@ tags:
 I recently wrote a post concerning being able to overcome the blade of your opponent.  To not fear it, but to step forth and dive into the abyss.
 
 As a manga reader, I've recently read the Fairy Tale chapter.  There is a scene where the protagonist (Natsu) faces an unsurmountable strength.  When confronted, Natsu normally will not stop until he wins.  For the first time however, he admits defeat.  And just when he does, his opponent then says:
+
 > "Fear is not 'evil.' It is to know your own weakness.  If you know your weakness, people can become strong." - Gildartz
+
 As much as I try to avoid it, failing to save a vital group that costs you the game is one that still gets me in a bad mood. See the following kifu to see. The game changers starts at Move 95.
 
 <!--more-->

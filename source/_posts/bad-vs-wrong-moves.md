@@ -9,11 +9,11 @@ tags:
 
 So I was in my Group Decision Making class yesterday when we began discussing the difference between a bad decision and a wrong decision. In all honesty, most people use the words interchangeably and don't even give it a second thought. Unfortunately though, they are all very wrong (and yes I mean wrong and not bad). Why is that? Because **wrong decisions in nature are better than bad decisions.** What?! Preposterous is what you may say, but hear me out.
 
-<span style="text-decoration: underline;">_A wrong decision is one that usually results in an undesired manner. _</span>
+_A wrong decision is one that usually results in an undesired manner. _
 
 Example: Investing in Stock A may end up being a wrong decision for Person X because the stock market will crash soon after.
 
-<span style="text-decoration: underline;">_A bad decision also results in an undesired as well, but **the crucial difference is the lack of the decision process leading up to it**. _</span>
+_A bad decision also results in an undesired as well, but **the crucial difference is the lack of the decision process leading up to it**. _
 
 Example: Person X invests in Stock A simply because the TV says that the stocks for Company A are going way up without any research to verify the information.
 

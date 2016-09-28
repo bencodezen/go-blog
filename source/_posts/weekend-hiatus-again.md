@@ -8,7 +8,7 @@ tags:
 	- fundamentals
 ---
 
-[caption id="attachment_852" align="aligncenter" width="300"]![](http://www.bengozen.com/wp-content/uploads/2010/09/dirty-dozen-impatience-300x294.jpg "Dirty Dozen Impatience")Credit to Sunny and Fit[/caption]
+![Dirty Dozen Impatience (Credit to Sunny and Fit)](/images/2010/09/dirty-dozen-impatience.jpg)
 
 Bleh. I've failed so far as to keeping regular blog posts once I go up to Baltimore on the weekends.... I'll need to fix that. But regardless, I played quite a bit with Todd over the past couple days... and I have to say it's been frustrating yet enlightening. I know I've said this multiple times in the past... but I'd say that the implications of the line that "Go is 98% patience" is "Read ahead you idiot."
 

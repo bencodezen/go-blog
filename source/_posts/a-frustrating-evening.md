@@ -7,8 +7,7 @@ categories:
 tags:
 ---
 
-<div style="clear: both; text-align: center;"></div>
-[![](http://www.bengozen.com/wp-content/uploads/2010/10/stress-relief-kit.png "Stress Relief Kit")](http://www.bengozen.com/wp-content/uploads/2010/10/stress-relief-kit.png)
+![Stress Relief Kit](/images/2010/10/stress-relief-kit.png)
 
 It seems I can't seem to get my wrapped up properly in a game tonight. Every time I try to play online, it has been a miserable game each and every time. I always start out playing solid, and then always seem to mess up later on.
 

@@ -1,5 +1,6 @@
 ---
 title: Getting Back Into Go
+date: 2016-09-28 10:23:00
 categories:
 	- Articles
 	- Weekly Go Wednesday

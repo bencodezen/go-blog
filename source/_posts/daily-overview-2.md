@@ -15,4 +15,5 @@ Outside of trying to create the regimen, I'm seriously looking into programs in 
 1.  Problems - 30 solid minutes.
 2.  Theory - Exemplary.
 3.  1 Solid Game - Completed.
+
 Also, it's going to sound and look like I've read a ton of Go books. In theory, that means I should be growing exponentially! One little detail though, I've READ them. Comprehension is an ENTIRELY different matter. Once I work through all the ones I want to work through, re-reading and re-reviewing will be occurring. But that seems very far away.

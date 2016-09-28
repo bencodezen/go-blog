@@ -22,6 +22,6 @@ So sorry for the failure to post Friday or Saturday. Lots going on, but the foll
 
 To top everything off however, I also got to play my FIRST game of.... wait for it.... ONE COLOR GO. And actually, it was also my first game against Mr. Justin Teng. Now mind you, I wasn't trying to win... I was just trying to make it as far as I could into the game. Here's a picture of the game.
 
-[caption id="attachment_619" align="aligncenter" width="640"]![](http://www.bengozen.com/wp-content/uploads/2010/11/one-color-go-1024x682.jpg "one color go") One Color Go w/ Justin Teng[/caption]
+![One Color Go w/ Justin Teng](/images/2010/11/one-color-go-1024x682.jpg)
 
 Not shabby for my first game. Now I'm almost certainly being decimated, but I was happy with being able to get this far.

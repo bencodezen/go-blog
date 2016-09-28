@@ -14,6 +14,8 @@ That being said, no idea what my strength is anymore.  Maybe the time away has 
 
 The rest of this month will serve as my beta testing for my plan, but this is what I'm looking at.
 
-1.  Serious games per week: 3 games per week
-2.  Study method: Review and study a little bit during each weekday.
-<div>That's it? Yup. The key thing for this plan is consistency.  I'm in no rush to get to the dan level. It'll come when it's time. Meanwhile, watch your back SDK's. I'm coming for ya! =D</div>
+1.  **Serious games per week**: 3 games per week
+
+2.  **Study method**: Review and study a little bit during each weekday.
+
+That's it? Yup. The key thing for this plan is consistency.  I'm in no rush to get to the dan level. It'll come when it's time. Meanwhile, watch your back SDK's. I'm coming for ya! =D

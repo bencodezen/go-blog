@@ -27,7 +27,8 @@ tags:
 *   One folding Go Board (19x19).
 *   Measures 18-1/4"L x 17"W x 3-3/4"H (46.5cm x 43cm x 9.7cm).
 *   Board is 1-1/2" (4cm) thick.
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 
