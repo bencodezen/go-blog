@@ -11,17 +11,17 @@ tags:
     - tsumego
 ---
 
-![graded-go-problems-for-beginners-volume-2](http://www.bengozen.com/wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-2.jpg)
+![](/images/2012/12/graded-go-problems-for-beginners-volume-2.jpg)
 
 ## Overall Rating: 5 / 5 Ponnuki
 
 ### Basic Information
 
 *   **Title:** Graded Go Problems for Beginners, Volume 2
-*   **Author: **Kano Yoshinori
+*   **Author:** Kano Yoshinori
 *   **Translator:** Richard Bozulich
-*   **Publisher: **Kiseido Publishing Company
-*   **Publication Date: **September 1985
+*   **Publisher:** Kiseido Publishing Company
+*   **Publication Date:** September 1985
 *   **Page Length:** 248 pages
 *   **Number of Problems**: 327
 
@@ -31,7 +31,8 @@ tags:
 *   Continues to live up to the series' reputation of great problems and easy to understand solutions.
 *   Appropriate for 20 kyu and stronger.
 *   Recommended for casual players and above.
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 

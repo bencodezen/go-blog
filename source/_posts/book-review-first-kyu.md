@@ -9,16 +9,16 @@ tags:
 	- novel
 ---
 
-[![first-kyu-cover](http://www.bengozen.com/wp-content/uploads/2010/09/first-kyu-cover.jpg)](http://www.bengozen.com/wp-content/uploads/2010/09/first-kyu-cover.jpg)
+![](/images/2010/09/first-kyu-cover.jpg)
 
 ## Overall Rating: 10 / 10 Ponnuki
 
 ### Basic Information
 
 *   **Title:** First Kyu
-*   **Author: **Dr. Sung-Hwa Hong
-*   **Publisher: **Good Move Press
-*   **Publication Date: **July 1999
+*   **Author:** Dr. Sung-Hwa Hong
+*   **Publisher:** Good Move Press
+*   **Publication Date:** July 1999
 *   **Page Length:** 194 pages
 
 ### Synopsis
@@ -27,7 +27,8 @@ tags:
 *   A fantastic insight into the world of go in Korea.
 *   Even if we subtract the aspect of go from the book, it is still a great story that I think many will appreciate.
 *   Highly recommended for anyone with the _**slightest**_ interest in go/baduk/weiqi.
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 
@@ -50,6 +51,7 @@ _I've decided not to jot down the table of contents since it is a little reveali
 #### Recommended Vendor:
 
 1.  Amazon - [$50.00](http://www.amazon.com/gp/product/0964479699/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;tag=be09a-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0964479699)* (S&amp;H not included)
-_*Amazon used to carry this book, but it seems that it's rather difficult to locate now. So if anyone ever notices the price/availability of the book has changed or if you know of any other vendors, please let me know!_
+
+_Note: Amazon used to carry this book, but it seems that it's rather difficult to locate now. So if anyone ever notices the price/availability of the book has changed or if you know of any other vendors, please let me know!_
 
 _Last Updated December 29th, 2012_

@@ -9,7 +9,7 @@ tags:
 	- teaching
 ---
 
-## [![Go Teaching Ladder Main Page Screenshot](http://www.bengozen.com/wp-content/uploads/2012/12/goteachingladdermainpage.png "Go Teaching Ladder Main Page")](http://www.bengozen.com/wp-content/uploads/2012/12/goteachingladdermainpage.png)
+![Go Teaching Ladder Main Page Screenshot](/images/2012/12/goteachingladdermainpage.png "Go Teaching Ladder Main Page")
 
 ## Rating: 4 /5 Ponnuki
 
@@ -32,6 +32,7 @@ The process for submitting a game for review is very simple:
 3.  Verify that the information is correct.
 4.  Submit your request.
 5.  Enjoy your game review when you receive it!
+
 One of the things about GTL that makes it so effective is the fact that they allow you to ask specific questions about your game so that you can be sure those aspects are given the attention you desire. If it weren't for this aspect, the value of the reviews would be diminished greatly.
 
 The only downside to this resource is the fact that the wait time can be up to a couple weeks at a time depending on your reviewer. While you should expect nothing less from a volunteer based site, this can diminish the value of the game reviews since you may not quite remember the lessons as vividly as shortly after the game.

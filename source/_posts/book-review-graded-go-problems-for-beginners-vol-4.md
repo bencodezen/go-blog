@@ -11,17 +11,17 @@ tags:
 	- tsumego
 ---
 
-![graded-go-problems-for-beginners-volume-4](http://www.bengozen.com/wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-4.jpg)
+![](/images/2012/12/graded-go-problems-for-beginners-volume-4.jpg)
 
 ## Overall Rating: 4.5 / 5 Ponnuki
 
 ### Basic Information
 
 *   **Title:** Graded Go Problems for Beginners, Volume 4
-*   **Author: **Kano Yoshinori
+*   **Author:** Kano Yoshinori
 *   **Translator:** Richard Bozulich
-*   **Publisher: **Kiseido
-*   **Publication Date: **April 1990
+*   **Publisher:**Kiseido
+*   **Publication Date:** April 1990
 *   **Page Length:** 197 pages
 *   **Number of Problems**: 390
 
@@ -31,7 +31,8 @@ tags:
 *   Continues the general format from the previous volumes, but has a higher expectation of its readers.
 *   Appropriate for 10 kyu and stronger.
 *   Recommended for serious players and above.
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 
@@ -58,12 +59,10 @@ Although I am a 6 kyu, I know that this volume is still quite difficult for me t
 1.  Preface
 2.  Glossary
 3.  Problems
-
-		1.  Advanced Problems: Level One
-		2.  Advanced Problems: Level Two
-		3.  Advanced Problems: Level Three - Life and Death Problems
-		4.  Advanced Problems: Level Four - Life and Death Problems
-
+	1.  Advanced Problems: Level One
+	2.  Advanced Problems: Level Two
+	3.  Advanced Problems: Level Three - Life and Death Problems
+	4.  Advanced Problems: Level Four - Life and Death Problems
 4.  Answers
 5.  National Go Association
 

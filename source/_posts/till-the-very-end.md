@@ -13,7 +13,7 @@ Well everyone, looks like this will be my final post for 2012. As I look back a
 
 In terms of how my progress, here's my rank graph for 2012.
 
-[![2012 rank](http://www.bengozen.com/wp-content/uploads/2012/12/2012-rank.png)](http://www.bengozen.com/wp-content/uploads/2012/12/2012-rank.png)
+![2012 rank](/images/2012/12/2012-rank.png)
 
 _Note: I did not play a single ranked game in December though. So the graph seems a little weird... haha._
 
@@ -26,9 +26,13 @@ For next year, my goal is to reach a solid dan status on KGS. Ambitious? Yes. Im
 In regards to the blog, here are some things that that you can look forward to:
 
 1.  Weekly Go Wednesdays will be back starting this very week, so please submit any topics or ideas that you might have!
+
 2.  More book reviews!
+
 3.  Go equipment review updates and new additions!
+
 4.  Guides for all players of all different budget sizes!
+
 Finally, I think it is only appropriate that I end the year with a game that I had the pleasure of playing over the weekend. It was a hard fought game where I experimented with a number of ideas. It's a game that I am proud to include in my final kifu for 2012\. As the title of this post suggest, this is a game where we both fought it out till the very last point.
 
 <article>

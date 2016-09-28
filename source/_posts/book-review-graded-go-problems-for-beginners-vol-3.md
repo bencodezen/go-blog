@@ -11,17 +11,17 @@ tags:
 	- tsumego
 ---
 
-![graded-go-problems-for-beginners-volume-3](http://www.bengozen.com/wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-3.jpg)
+![](/images/2012/12/graded-go-problems-for-beginners-volume-3.jpg)
 
 ## Overall Rating: 4.5 / 5 Ponnuki
 
 ### Basic Information
 
 *   **Title:** Graded Go Problems for Beginners, Volume 3
-*   **Author: **Kano Yoshinori
+*   **Author:** Kano Yoshinori
 *   **Translator:** Richard Bozulich
-*   **Publisher: **Kiseido Publishing Company
-*   **Publication Date: **March 1987
+*   **Publisher:** Kiseido Publishing Company
+*   **Publication Date:** March 1987
 *   **Page Length:** 199 pages
 *   **Number of Problems**: 421
 
@@ -31,13 +31,14 @@ tags:
 *   Continues the general format from the previous volumes, but has a higher expectation of its readers.
 *   Appropriate for 10 kyu and stronger.
 *   Recommended for serious players and above.
-<!--more-->
+
+<!-- more -->
 
 ### Detailed Review
 
 #### Readability - 8 / 10
 
-From this point on, the problems enter an advanced level and leaves behind the simpler problems we became familiar with in Volume 1 and Volume 2\. As a result, some of the solutions will be harder to understand and the variations may not necessarily cover the answer you came up with. This is to be expected however, seeing as how we are progressing towards the land of SDK's (i.e., single digit kyus).
+From this point on, the problems enter an advanced level and leaves behind the simpler problems we became familiar with in Volume 1 and Volume 2. As a result, some of the solutions will be harder to understand and the variations may not necessarily cover the answer you came up with. This is to be expected however, seeing as how we are progressing towards the land of SDK's (i.e., single digit kyus).
 
 For overall readability explanation, see the readability section in the [review on the entire series](http://www.bengozen.com/book-review-graded-go-problems-for-beginners-series/ "Book Review: Graded Go Problems for Beginners Series").
 
