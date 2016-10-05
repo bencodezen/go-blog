@@ -9,17 +9,19 @@ tags:
 
 ## Overview
 
-Hey everyone. Sorry for not updating the weekly status report for the last two weeks. I’ve been doing a bit of introspection and came to the realization that everything had started to become a bit too mundane for my liking. I know that this runs slightly counter to my whole notion of “consistency,” but I feel like there comes a point when it becomes robotic (which is the last thing I want for this blog).
+After much thought, I've decided to bring back weekly progress reports since they provide some insight into what I've been up to. And while I used to use the Friday Go Forward series format in order to provide updates, that proved to be difficult since Friday is often very hectic and a lot can happen between Friday and Saturday. So these will now be released on Sunday for more comprehensive coverage of last week.
 
 <!-- more -->
 
-So as you’ve probably noticed, the official “Journal Entries” series was killed off since I felt like it was somewhat a repetition of this weekly status report. In addition, because I hadn’t been investing as much time in go as I would like, it felt like I was saying the same thing over and over again.
-
-Well forget all that. I’m going back to the basics and my roots as a blogger. Can’t quite articulate what that exactly entails, but I can tell you for sure that I am feeling a change in the wind. It’s going to be an exciting ride!
+And as always, feedback from you is always great since it will help me to improve this report's usefuless for everyone. So don't hesitate to request anything!
 
 ## Daily Training Regimen
 
-*   Work on Jump Level Up series.
+* 6 Tsumego from Tsumego Pro's Daily Problem Set
+* 40 Tsumego
+	* 25 Easy
+	* 10 Intermediate
+	* 5 Hard
 
 ## Books
 
