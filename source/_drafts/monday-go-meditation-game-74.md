@@ -1,3 +1,4 @@
+---
 title: "Monday Go Meditation: Game 74"
 date: 2016-09-26 11:03:00
 layout: monday-go-meditation
