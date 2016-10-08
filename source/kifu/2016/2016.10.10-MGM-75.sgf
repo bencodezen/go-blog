@@ -9,54 +9,94 @@ GN[Monday Go Meditation: Game 75]PW[White]PB[bengozen]WR[1d]BR[1d]PC[Tygem]RE[W+
 ;W[dn]C[Apparently, this is the taisha joseki (which is one of the most complicated joseki). I have heard of it and glanced at it a few times in the past, but I honestly had no idea what to do from here.]
 ;B[ep]C[Since this was a Tygem match and I wanted to use my games on Tygem for experimenting and learning, I decided to look up what a proper sequence for the taisha would be. And it starts with this attachment here. 
 
-My basic understanding is that since White played a large knight move, then it is important for Black to keep White separated.]
-;W[dp]C[White wedges.]
-;B[do]C[And then you must atari from this side. Otherwise, you will be in a bit of trouble if I'm not mistaken.]
-;W[dq]C[White connects.]
-;B[co]C[So Black connects too in order to keep the fight in balance.]
-;W[eo]
-;B[fp]
-;W[fq]
-;B[cq]
-;W[gp]
-;B[fo]
-;W[en]
-;B[gq]
-;W[hq]
-;B[gr]
-;W[hp]
-;B[dr]
-;W[pe]
-;B[fr]
-;W[qd]
-;B[qc]
-;W[od]
-;B[pc]
-;W[qe]
-;B[oc]
-;W[nd]
-;B[nc]
-;W[md]
-;B[gn]
-;W[mc]
-;B[dk]
-;W[gm]
-;B[hn]
-;W[kp]
-;B[hm]
-;W[el]
-;B[ek]
-;W[gl]
-;B[ik]
-;W[dl]
-;B[fk]
-;W[ck]
-;B[cj]
-;W[bk]
-;B[bj]
-;W[cm]
-;B[bn]
-;W[bm]
+My basic understanding is that since White played a large knight move, then Black's here is to keep White separated.]
+;W[dp]LB[do:A][dq:B]C[White wedges to separate Black.
+
+So now the question is, atari from A (D5) or B (D3)?]
+;B[do]C[You must atari from this side in order to keep the fight going. Otherwise, White is going to end up with a favorable result.]
+;W[dq]LB[co:A][eo:B]C[White connects. 
+
+Next question, should you connect at A (C5) or B (E5)?]
+(;B[co]C[Correct. You need to connect here in order to maintain the balance of this fight. If you connected on the outside, you would allow White to easily settle in the corner while relying on the ladder to stabilize the group. See the variation for what I mean.]
+;W[eo]C[So White cuts here as anticipated. After all, this is a fight remember?]
+;B[fp]C[There is a variation for ko, but this is the most popular variation from what I read. And to be honest, there's no ko at the beginning anyways, so I would have extended regardless.]
+;W[fq]C[White extends her base and keeps Black's stones at two liberties.]
+;B[cq]LB[gp:A]C[At this point, I would normally be tempted to extend at A (G4) in order to prevent White's atari, but this is the correct move since it maintains that balance in the corner. You'll see that both White and Black have similar formations which must be critical with complicated fights like this.]
+;W[gp]LB[gq:A]C[White's atari here is actually a mistake as far as the joseki goes. White should simple extend at A (G3).]
+;B[fo]C[I obviously run out and atari at the same time.]
+;W[en]C[White must connect to keep the fight going on.
+
+Now of course, where should Black play next?]
+;B[gq]TR[fo][ep][fp]C[In this entire game, I'm the proudest of this single move. It seems scary to play since the marked group only has two liberties. But remember, this joseki is a fighting joseki, so complications are inherent in it. And my instincts and reading told me that I had a fighting chance, so I had to see it through with the cut!]
+;W[hq]C[White ataris from the top.]
+;B[gr]C[So I descend.]
+;W[hp]TR[dp][dq][eq][fq]C[White protects the cutting point. 
+
+Now the question to Black (which I read out when I cut), can Black capture the marked White group even though the F4 group only has two liberties?
+
+Hint: You have three ladder variations to read out. I have added all three variations after the next move for you to read out if you can't see them all.]
+;B[dr]LB[fn:A][go:B]C[My reading said I would be okay, but there were three ladders to consider before making this move.
+
+See A and B for the ladder variations to read out.
+]
+(;W[pe]LB[gn:A]C[White is able to read it out as well and plays this ladder breaker. And I consider playing A (G6) as a response since trying to outread the ladder breaker would prove difficult for me since it was late and I knew I couldn't spend all my time on this fight.]
+;B[fr]LB[gn:A][hr:B]C[I chose the more simple capture here since it takes away White's sente play at B (H2) which would better solidify White's bottom influence. However, part of me thinks that plays A (G6) may have been better since it would have keep White's group separated.]
+;W[qd]C[Nonetheless, now the battle in the upper-right begins!]
+;B[qc]LB[qe:A]C[I debated the crosscut at A (R15) before playing this hane, but I couldn't see a variation that would play out in my favor. So I wanted to simplify this position as much as possible since I knew that White still had weaknesses I could exploit in the lower left.]
+;W[od]C[White ataris immediately.]
+;B[pc]C[So I connect.]
+;W[qe]C[White connects here as expected.]
+;B[oc]LB[nc:A][rc:B]C[So I decide to extend solidly instead of the one point jump at A (O17) since I know that there could be potential shape problems if White gets B (S17) later on. In addition, this would keep my group very strong. 
+]
+;W[nd]LB[mc:A]C[White extends as expected.
+
+I debate jumping to A (N17) to get ahead once again.]
+;B[nc]LB[md:A]C[But I didn't like the shape I would get if White pushed through. Now granted, seeing this move now, perhaps I would have been okay with jumping. So it was probably a little irrational, but this shape is quite solid and threatens the follow up of A (N16).]
+;W[md]LB[lc:A][qk:B]C[White extends to prevent me from hitting the other head of White's two stones.
+
+Now at this point, the natural move should probably be A (M17). However, I'm feeling like White's thickness is pretty good and maybe I should be splitting the right side with a move like B (R9).
+
+However, I also have the nagging feeling that White has weak groups that I can exploit.]
+;B[gn]LB[dk:A][kp:B]C[So I choose this move instead to aim at either A (D9) or B (L4).]
+;W[mc]C[White's turn here is painful since it seals my group in. However, my reading tells me that my group cannot be killed. And if I respond now, I will probably end in gote which is not what I wanted at all.]
+;B[dk]C[So I ignore White and decide to attack instead.
+
+Now upon reflection, I'm debating whether the bottom would have been better, but at the time, my thinking was any thickness I might get from this attack could be benefited by my upper left star point.]
+;W[gm]LB[fm:A][hm:B]C[White attaches to make sabaki.
+
+For a moment, I debate trying to cut immediately with A (F7), but the variations seemed to be in White's favor.
+
+I debated B (H7) as well, but you can see the variation for why I didn't choose it.]
+(;B[hn]LB[kp:A]C[So I just extended wanted to keep the shape simple since now I can aim at A (L4) too.]
+;W[kp]C[Well looks like White saw that threat too.]
+;B[hm]LB[el:B][gl:A][fm:C]C[So I turn expecting White to extend at A (G8), which I would follow up with B (E8) which would threaten the cut at C (F7).]
+;W[el]LB[dl:A]C[White goes straight for the shape move. Should have thought of that...
+
+I debate undercutting White with A (D8), but...]
+;B[ek]C[I felt this would be better to harrass White while also starting to build up the upper right like I had originally planned.]
+;W[gl]C[White now extends and has the shape I was trying to avoid anyways.]
+;B[ik]LB[gj:A]C[So this is what I would call my first "mistake" in the game. The idea was that I would keep harrassing Whtie to build the left while gaining some influence in the center to make it easier for me to negate the potential moyo on the right.
+
+However, I think this is the wrong direction. A (G10) would have been a more natural attack that absolutely would build the upper left.]
+;W[dl]LB[gj:A][ck:B][fk:D][cl:C]C[I'm a little surprised that White does not jump at A (G10), but this makes sense since it starts to give White eye shape.
+
+And for a while, I debate B (C9), C (C8), and D (F9).]
+;B[fk]C[I decide to take away White's shape point, but again, I think I made another mistake here since I really should be undermining White's base so I can continue attacking it.]
+;W[ck]C[Now White gets this hane.]
+;B[cj]C[Which I have to block.]
+;W[bk]C[White descends.]
+;B[bj]C[I follow to at least get some sort of thickness for the upper left.]
+;W[cm]C[And now White is very much alive.]
+;B[bn]C[I decide to play this kosumi now since it would falsify an eye for White while also simultaneously expanding my corner territory. So a pretty big move.]
+;W[bm]LB[gc:A][qk:B][qp:C]C[White of course responsd, but now White is very stable and one must question whether Black profited properly from this attack. And to be honest, I think my moves were too slack and this was too easy on White.
+
+With this attack over now, the question becomes where to play next?
+
+A (G17) - A move that would start to give the upper left framework some structure whlle negating the influence of the N17 group?
+
+A (R9) - Splitting the right in order to prevent White from having the ideal formation?
+
+C (R4) - Approach the corner and probe White's intentions?]
 ;B[qp]
 ;W[qq]
 ;B[rq]
@@ -303,3 +343,23 @@ My basic understanding is that since White played a large knight move, then it i
 ;W[fe]
 ;B[dc]
 ;W[qf]TW[ha][ia][ja][ka][la][ma][ib][jb][kb][lb][jc][id][oe][cf][jf][ig][kg][rg][sg][ih][kh][rh][sh][ii][ki][ri][si][sj][rk][sk][bl][sl][dm][sm][lq][kr][ls][ms][ns]TB[aa][ca][sa][ab][bb][cb][rb][ac][sc][ej][fj][gl][ml][gm][nm][on][po][ap][bp][dp][aq][bq][dq][eq][fq][sq][ar][br][cr][sr][as][bs][cs][ds][es][fs][gs][qs][rs][ss]C[I was a little sad to see that I was 5.5 points behind, but to be honest, I was actually happy that the game was that close. Perhaps my skills are not as rusty anymore!])
+(;B[hm]C[So I hane.]
+;W[gl]LB[hn:A]C[White would extend, but now I have the cutting point of A (H6) to deal with. Don't forget that White has a growing moyo on the right I haven't dealt with it.]
+;B[hn]C[So I would have connected in order to ensure I had a foothold in White's moyo.]
+;W[el]C[Which would give White this move and White would have decent shape. Although looking at it now, maybe White is still not all that stable. ]))
+(;W[fn]C[This atari has two ladder variations.]
+;B[go]C[Black runs.]
+(;W[ho]C[And the first ladder starts here.])
+(;W[gn]C[White can continue the ladder from here.]
+;B[ho]C[Black runs.]
+;W[io]C[Here is the second variation.]))
+(;W[go]C[White can atari from this side as well.]
+;B[fn]C[Black runs.]
+;W[fm]C[And here is the third ladder variation.]))
+(;B[eo]C[So you connect here.]
+;W[co]C[White will cut here.]
+;B[cn]C[You can certainly atari.]
+;W[bo]C[White will descent]
+;B[bn]C[You'll descent once.]
+;W[bp]C[White will have to turn.]
+;B[dm]C[And now you can capture this stone because you have the ladder, but this is inferior in my eyes since White is fully stable with a decent amount of corner territory while Black has at best a bit of thickness that is contingent on the D6 stone being captured (which gives White the opportunity to play ladder breakers later).]))
