@@ -1,10 +1,11 @@
 ---
 title: 'Weekly Progress Report: #13'
-date: 2016-10-02 06:48:00
+date: 2016-10-09 21:01:00
 categories:
 	- Journal
 	- Progress Reports
 tags:
+	- training
 ---
 
 ## Overview
@@ -25,11 +26,10 @@ And as always, feedback from you is always great since it will help me to improv
 
 ## Books
 
-*   _Jump Level Up 3_ by Baduktopia
-*   _Handicap-Go Strategy and the Sanrensei Opening_ by by Rob van Zeijst and Richard Bozulich
-*   _The 21st Century Dictionary of Basic Joseki: Volume One_ by Takao Shinji, 9-dan
+* _Relentless: Lee Sedol vs Gu Li_ by GoGameGuru
+* _Pure and Simple: Takao's Astute Use of Brute Force_ by Takao Shinji
 
 ## Games
 
-*   [KGS](http://www.gokgs.com "KGS Website") - 1 game
-*   [OGS](http://www.online-go.com "Online Go Server") -  3 ongoing games
+* [KGS](http://www.gokgs.com "Kiseido Go Server") - 1 game
+* [Tygem](http://www.tygemgo.com/ "Tygem Go Server") - 2 games
