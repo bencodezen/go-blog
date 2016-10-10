@@ -42,7 +42,7 @@ In addition, because I have komi, I'm not worried about a cross-fuseki game and 
 ;B[fk]BL[583.378]C[Black extends.]
 ;W[eg]WL[474.43]C[So I seize the opportunity to wedge and continue cutting Black apart.]
 ;B[fg]BL[582.107]C[Black blocks and ataris.]
-;W[ei]WL[466.992]LB[dg:A]C[This double atari seems small and incorrect in hindsight. I really should have connect at A (D13) and let Black decide what he wanted. 
+;W[ei]WL[466.992]LB[dg:A]C[This double atari seems small and incorrect in hindsight. I really should have connect at A (D13) and let Black decide what he wanted.
 
 In my defense though, at the time I though I would gain access to the center and separate Black into two different groups.]
 ;B[fh]BL[580.784]C[Black connects to my surprise.]
@@ -254,8 +254,7 @@ The woes of not using my time properly...]
 ;B[fj]BL[471.553]C[Black continues to ignore since it doesn't matter.]
 ;W[oa]WL[30]OW[3]C[So I connect hoping that it has made some sort of difference.]
 ;B[og]BL[470.723]C[Black captures yet again.]
-;W[]WL[30]OW[3]C[I pass.]
-;B[]BL[470.721]TW[aa][ba][ca][da][ea][fa][ja][la][sa][ab][bb][cb][db][eb][fb][kb][lb][nb][ac][bc][cc][dc][ec][ad][sd][ae][be][se][af][bf][cf][rf][sf][ag][bg][cg][rg][sg][ah][bh][rh][sh][bi][ri][si][aj][pj][qj][rj][sj][ak][bk][pk][qk][rk][sk][al][bl][cl][pl][ql][sl][am][bm][dm][qm][rm][an][bn][cn][en][ao][co][do][eo][bp][cp]TB[pc][od][he][ie][je][ke][me][ne][if][jf][of][gg][hg][jg][kg][ng][hh][kh][nh][ei][fi][hi][ji][ki][ij][jj][kj][nn][io][jo][ko][mo][ip][kp][lp][mp][rp][sp][iq][jq][kq][lq][mq][rq][sq][fr][gr][hr][ir][jr][kr][mr][nr][pr][qr][rr][sr][as][bs][cs][ds][es][fs][gs][hs][is][js][ks][ls][ms][ns][os][ps][qs][rs][ss]C[And Black wins by 7.5 points, but you and I both know it was more along the lines of 12-15 points with all the random moves made inside Black's own territory. So close yet so far...])
+TW[aa][ba][ca][da][ea][fa][ja][la][sa][ab][bb][cb][db][eb][fb][kb][lb][nb][ac][bc][cc][dc][ec][ad][sd][ae][be][se][af][bf][cf][rf][sf][ag][bg][cg][rg][sg][ah][bh][rh][sh][bi][ri][si][aj][pj][qj][rj][sj][ak][bk][pk][qk][rk][sk][al][bl][cl][pl][ql][sl][am][bm][dm][qm][rm][an][bn][cn][en][ao][co][do][eo][bp][cp]TB[pc][od][he][ie][je][ke][me][ne][if][jf][of][gg][hg][jg][kg][ng][hh][kh][nh][ei][fi][hi][ji][ki][ij][jj][kj][nn][io][jo][ko][mo][ip][kp][lp][mp][rp][sp][iq][jq][kq][lq][mq][rq][sq][fr][gr][hr][ir][jr][kr][mr][nr][pr][qr][rr][sr][as][bs][cs][ds][es][fs][gs][hs][is][js][ks][ls][ms][ns][os][ps][qs][rs][ss]C[And Black wins by 7.5 points, but you and I both know it was more along the lines of 12-15 points with all the random moves made inside Black's own territory. So close yet so far...])
 (;B[in]C[Black could certainly have played here.]
 ;W[jn]C[I would push once.]
 ;B[jo]LB[jj:A]C[Black can still block in good shape, but now White has the initiative as far as playing moves like A (K10).]))
