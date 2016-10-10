@@ -1,6 +1,6 @@
 ---
 title: 'Weekly Progress Report: #14'
-date: 2016-10-09 21:01:00
+date: 2016-10-17 00:00:00
 categories:
 	- Journal
 	- Progress Reports
@@ -10,7 +10,7 @@ tags:
 
 ## Overview
 
-After much thought, I've decided to bring back weekly progress reports since they provide some insight into what I've been up to. And while I used to use the Friday Go Forward series format in order to provide updates, that proved to be difficult since Friday is often very hectic and a lot can happen between Friday and Saturday. So these will now be released on Sunday for more comprehensive coverage of last week.
+
 
 <!-- more -->
 
@@ -31,5 +31,5 @@ And as always, feedback from you is always great since it will help me to improv
 
 ## Games
 
-* [KGS](http://www.gokgs.com "Kiseido Go Server") - 1 game
-* [Tygem](http://www.tygemgo.com/ "Tygem Go Server") - 2 games
+* [KGS](http://www.gokgs.com "Kiseido Go Server") - 0 game
+* [Tygem](http://www.tygemgo.com/ "Tygem Go Server") - 0 game
