@@ -5,6 +5,7 @@ categories:
 	- Journal
 	- Progress Reports
 tags:
+	- training
 ---
 
 ## Overview
