@@ -24,12 +24,14 @@ And as always, feedback from you is always great since it will help me to improv
 	* 10 Intermediate
 	* 5 Hard
 
+## Weekly Training Regimen
+
+* Play 3 games (ideally 19x19, but two 9x9 games can substitute a 19x19 game)
+	* [KGS](http://www.gokgs.com "Kiseido Go Server") - 1 game
+	* [OGS](http://www.online-go.com "Online Go Server") - 2 games
+	* [Tygem](http://www.tygemgo.com/ "Tygem Go Server") - 0 game
+
 ## Books
 
 * _Relentless: Lee Sedol vs Gu Li_ by GoGameGuru
 * _Pure and Simple: Takao's Astute Use of Brute Force_ by Takao Shinji
-
-## Games
-
-* [KGS](http://www.gokgs.com "Kiseido Go Server") - 1 game
-* [Tygem](http://www.tygemgo.com/ "Tygem Go Server") - 2 games
