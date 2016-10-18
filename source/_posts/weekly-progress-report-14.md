@@ -10,7 +10,7 @@ tags:
 
 ## Overview
 
-This week has been a little haphazard as far as training goes. I am happy to report that I did manage to play three games this week, so yay for that! I haven't been as diligent as far as studying books, but that will come in due time. My main focus has been drilling tsuemgo for my "instinctive tsumego reading" ability. More to come on this idea on Wednesday!
+This week has been a little haphazard as far as training goes. I am happy to report that I did manage to play three games this week, so yay for that! I haven't been as diligent as far as studying books, but that will come in due time. My main focus has been drilling tsuemgo for my "instinctive tsumego reading" ability. More to come on this idea next Wednesday!
 
 <!-- more -->
 
