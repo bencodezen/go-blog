@@ -9,6 +9,8 @@ tags:
     - kiseido
     - go-problems
     - tsumego
+alias:
+    - book-review-graded-go-problems-for-beginners-vol-2/index.html
 ---
 
 ![](/images/2012/12/graded-go-problems-for-beginners-volume-2.jpg)

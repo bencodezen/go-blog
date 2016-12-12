@@ -9,6 +9,8 @@ tags:
 	- kiseido
 	- ko
 	- tsumego
+alias:
+	- book-review-all-about-ko/index.html
 ---
 
 ![](/images/2013/05/mtbsv6cover.jpg)

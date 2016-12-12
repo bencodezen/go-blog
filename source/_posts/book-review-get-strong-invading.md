@@ -8,6 +8,8 @@ categories:
 tags:
 	- invading
 	- kiseido
+alias:
+	- book-review-get-strong-invading/index.html
 ---
 
 ![](/images/2013/09/getstrongv5cover.jpg)

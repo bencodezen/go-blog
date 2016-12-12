@@ -9,6 +9,8 @@ tags:
 	- kiseido
 	- tesuji
 	- go-problems
+alias:
+	- book-review-1001-life-and-death-problems/index.html
 ---
 
 ![](/images/2013/05/mtb4cover.jpg)

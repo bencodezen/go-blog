@@ -9,6 +9,8 @@ tags:
 	- Kiseido
 	- strategy
 	- principles
+alias:
+	- book-review-the-second-book-of-go/index.html
 ---
 
 ![Cover of The Second Book of Go](/images/2012/11/secondbookofgocover.jpg "Cover of The Second Book of  Go")

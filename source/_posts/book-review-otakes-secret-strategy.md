@@ -8,6 +8,8 @@ categories:
 tags:
 	- Hinoki-Press
 	- strategy
+alias:
+	- book-review-otakes-secret-strategy/index.html
 ---
 
 ![](/images/2013/10/heartofgov3cover.jpg)

@@ -8,6 +8,8 @@ categories:
 tags:
 	- joseki
 	- kiseido
+alias:
+	- book-review-38-basic-joseki/index.html
 ---
 
 ![](/images/2013/01/38-basic-joseki-cover.jpg)

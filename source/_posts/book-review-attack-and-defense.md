@@ -9,6 +9,8 @@ tags:
 	- attack-and-defense
 	- fighting
 	- kiseido
+alias:
+	- book-review-1001-life-and-death-problems/index.html
 ---
 
 ![](/images/2013/06/egsattackanddefensecover.jpg)

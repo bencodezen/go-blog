@@ -10,6 +10,8 @@ tags:
 	- attacking
 	- joseki
 	- opening
+alias:
+	- book-review-the-workshop-lectures-volume-1/index.html
 ---
 
 ![The Workshop Lectures Volume 1](/images/2013/08/workshopLecturesv1.jpg)

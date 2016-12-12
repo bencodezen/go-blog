@@ -10,6 +10,8 @@ tags:
 	- fundamentals
 	- shape
 	- go-problems
+alias:
+	- book-review-making-good-shape/index.html
 ---
 
 ![](/images/2012/12/makingGoodShapeCover.jpg)

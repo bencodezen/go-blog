@@ -10,6 +10,8 @@ tags:
 	- principles
 	- strategy
 	- opening
+alias:
+	- book-review-the-workshop-lectures-volume-5/index.html
 ---
 
 ![The Workshop Lectures Volume 5 Cover](/images/2013/08/workshopLecturesv5.jpg)

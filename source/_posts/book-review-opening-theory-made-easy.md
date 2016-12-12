@@ -8,6 +8,8 @@ categories:
 tags:
 	- kiseido
 	- opening
+alias:
+	- book-review-opening-theory-made-easy/index.html
 ---
 
 ![](/images/2010/10/opening-theory-made-easy-cover.jpg)

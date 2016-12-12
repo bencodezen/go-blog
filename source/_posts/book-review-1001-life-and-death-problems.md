@@ -11,6 +11,8 @@ tags:
 	- go-problems
 	- life-and-death
 	- tsumego
+alias:
+	- book-review-1001-life-and-death-problems/index.html
 ---
 
 ![](/images/2013/04/mtb2cover.jpg)

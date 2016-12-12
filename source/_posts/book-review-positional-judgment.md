@@ -9,6 +9,8 @@ tags:
 	- Kiseido
 	- positional-judgment
 	- strategy
+alias:
+	- book-review-positional-judgement-1-territory/index.html
 ---
 
 ![](/images/2013/08/positionaljudgementcover.jpg)

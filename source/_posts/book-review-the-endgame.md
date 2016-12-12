@@ -8,6 +8,8 @@ categories:
 tags:
 	- Kiseido
 	- endgame
+alias:
+	- book-review-the-endgame/index.html
 ---
 
 ![The Endgame Cover](/images/2013/07/egsv7theendgame.jpg)

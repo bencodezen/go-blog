@@ -10,6 +10,8 @@ tags:
 	- chinese-opening
 	- fuseki
 	- opening
+alias:
+	- book-review-the-chinese-opening-zhou/index.html
 ---
 
 ![](/images/2013/06/chineseopeningzhoucover.jpeg)

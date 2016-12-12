@@ -7,6 +7,8 @@ categories:
 	- Books
 tags:
 	- kiseido
+alias:
+	- book-review-modern-master-games-vol-1/index.html
 ---
 
 ![](/images/2013/06/mmgv1cover.jpg)

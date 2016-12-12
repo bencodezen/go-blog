@@ -9,6 +9,8 @@ tags:
 	- Slate-and-Shell
 	- Lee-Changho
 	- play-styles
+alias:
+	- book-review-master-play-style-lee-changho/index.html
 ---
 
 ![Master Play Lee Changho Cover](/images/2013/10/Master-Play-Lee-Changho-Cover.jpg)

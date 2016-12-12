@@ -9,6 +9,8 @@ tags:
 	- attack-and-defense
 	- kiseido
 	- moyos
+alias:
+	- book-review-attacking-and-defending-moyos/index.html
 ---
 
 ![](/images/2013/07/mybsv7cover.jpg)

@@ -9,6 +9,8 @@ tags:
 	- Kiseido
 	- strategy
 	- sabaki
+alias:
+	- book-review-the-basics-of-go-strategy/index.html
 ---
 
 ![](/images/2013/05/mtbs5cover.jpg)

@@ -8,6 +8,8 @@ categories:
 tags:
 	- handicap-go
 	- kiseido
+alias:
+	- book-review-kages-secret-chronicles-of-handicap-go/index.html
 ---
 
 ![](/images/2013/05/kschgcover.jpg)

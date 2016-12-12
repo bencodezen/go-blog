@@ -8,6 +8,8 @@ categories:
 tags:
 	- kiseido
 	- opening
+alias:
+	- book-review-in-the-beginning/index.html
 ---
 
 ![](/images/2010/08/in-the-beginning_5.jpg "In the Beginning Cover")

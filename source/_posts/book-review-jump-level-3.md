@@ -10,6 +10,8 @@ tags:
 	- korean-style
 	- training
 	- workbook
+alias:
+	- book-review-jump-level-3/index.html
 ---
 
 ![](/images/2013/10/jumplevelup3cover.jpg)

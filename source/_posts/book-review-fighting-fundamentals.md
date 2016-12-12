@@ -9,6 +9,8 @@ tags:
 	- fighting
 	- fundamentals
 	- jasiek
+alias:
+	- book-review-fighting-fundamentals/index.html
 ---
 
 ![](/images/2014/02/Fighting_Fundamentals_Cover.png)

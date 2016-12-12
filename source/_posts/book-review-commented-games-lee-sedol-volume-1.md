@@ -7,6 +7,8 @@ categories:
 	- Books
 tags:
 	- lee-sedol
+alias:
+	- book-review-1001-life-and-death-problems/index.html
 ---
 
 ![](/images/2013/09/leesedolv1cover.jpg)

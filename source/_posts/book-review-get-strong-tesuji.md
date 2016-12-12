@@ -9,6 +9,8 @@ tags:
 	- kiseido
 	- tesuji
 	- go-problems
+alias:
+	- book-review-get-strong-tesuji/index.html
 ---
 
 ![](/images/2013/09/getstrongv6.jpg)

@@ -10,6 +10,8 @@ tags:
 	- go-problems
 	- jeongseok
 	- joseki
+alias:
+	- book-review-joseki-jeongseok-compass-1/index.html
 ---
 
 ![Joseki Jeongseuok Compass 1 Cover](/images/2013/08/josekicompassv1.jpg)

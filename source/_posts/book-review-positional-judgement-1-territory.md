@@ -8,6 +8,8 @@ categories:
 tags:
 	- Jasiek
 	- positional-judgment
+alias:
+	- book-review-positional-judgement-1-territory/index.html
 ---
 
 ![Positional Judgement 1 Cover](/images/2014/01/PositionalJudgement_1_Cover_small.png)

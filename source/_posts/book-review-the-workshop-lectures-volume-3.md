@@ -9,6 +9,8 @@ tags:
 	- Slate-and-Shell
 	- principles
 	- strategy
+alias:
+	- book-review-the-workshop-lectures-volume-3/index.html
 ---
 
 ![The Workshop Lectures Volume 3 Cover](/images/2013/08/workshopLecturesv3.jpg)

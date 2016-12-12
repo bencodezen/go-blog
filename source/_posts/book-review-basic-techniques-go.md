@@ -11,6 +11,8 @@ tags:
 	- handicap-go
 	- opening
 	- tesuji
+alias:
+	- book-review-basic-techniques-go/index.html
 ---
 
 ![](/images/2013/10/basictechniquesofgocover.jpg)

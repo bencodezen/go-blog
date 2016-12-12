@@ -11,6 +11,8 @@ tags:
 	- training
 	- workbook
 	- tsumego
+alias:
+	- book-review-life-and-death/index.html
 ---
 
 ![](/images/2013/06/egslifeanddeathcover.jpg)

@@ -7,6 +7,8 @@ categories:
 	- Books
 tags:
 	- novel
+alias:
+	- book-review-the-master-of-go/index.html
 ---
 
 ![](/images/2013/12/masterofgocover.jpg)

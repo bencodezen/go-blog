@@ -10,6 +10,8 @@ tags:
 	- moyos
 	- strategy
 	- techniques
+alias:
+	- book-review-the-workshop-lectures-volume-2/index.html
 ---
 
 ![The Workshop Lectures Volume 2 Cover](/images/2013/08/workshopLecturesv2.jpg)

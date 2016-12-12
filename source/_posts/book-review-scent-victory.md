@@ -8,6 +8,8 @@ categories:
 tags:
 	- Hinoki-Press
 	- strategy
+alias:
+	- book-review-scent-victory/index.html
 ---
 
 ![](/images/2013/10/heartofgov2cover.jpg)

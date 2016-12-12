@@ -8,6 +8,8 @@ categories:
 tags:
 	- slate-and-shell
 	- yuan-zhou
+alias:
+	- book-review-how-not-to-play-go/index.html
 ---
 
 ![](/images/2010/09/hntpgcover.jpg)

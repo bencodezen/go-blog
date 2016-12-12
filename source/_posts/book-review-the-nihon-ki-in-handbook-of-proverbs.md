@@ -8,6 +8,8 @@ categories:
 tags:
 	- proverbs
 	- principles
+alias:
+	- book-review-the-nihon-ki-in-handbook-of-proverbs/index.html
 ---
 
 ![](/images/2012/01/proverbs.jpg "Nihon Ki-in Handbook of Proverbs")

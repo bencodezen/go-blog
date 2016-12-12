@@ -9,6 +9,8 @@ tags:
 	- Go-Seigen
 	- playing-style
 	- Slate-and-Shell
+alias:
+	- book-review-master-play-style-go-seigen/index.html
 ---
 
 ![](/images/2013/09/masterplaygoseigencover.jpg)

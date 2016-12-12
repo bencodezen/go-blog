@@ -9,6 +9,8 @@ tags:
 	- slate-and-shell
 	- attack-and-defense
 	- fighting
+alias:
+	- book-review-fighting-styles-kato-masao-seo-bong-soo/index.html
 ---
 
 ![](/images/2013/11/MasterPlay-fighting.jpg)

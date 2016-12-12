@@ -11,6 +11,8 @@ tags:
 	- lessons
 	- shape
 	- tesuji
+alias:
+	- book-review-lessons-in-the-fundamentals-of-go/index.html
 ---
 
 ![](/images/2013/03/lessonsinthefundamentalsofgocover.jpg)

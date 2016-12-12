@@ -7,6 +7,8 @@ categories:
 	- Books
 tags:
 	- novel
+alias:
+	- book-review-first-kyu/index.html
 ---
 
 ![](/images/2010/09/first-kyu-cover.jpg)

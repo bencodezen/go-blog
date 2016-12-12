@@ -11,6 +11,8 @@ tags:
 	- kiseido
 	- life-and-death
 	- tsumego
+alias:
+	- book-review-graded-go-problems-dan-players-vol-1/index.html
 ---
 ![](/images/2014/02/ggpdpv1cover.jpg)
 

@@ -10,6 +10,8 @@ tags:
 	- joseki
 	- strategy
 	- go-problems
+alias:
+	- book-review-whole-board-thinking-in-joseki-vol-1/index.html
 ---
 
 ![](/images/2013/06/wholeboardjosekiv1cover.jpg)

@@ -11,6 +11,8 @@ tags:
 	- principles
 	- go-problems
 	- tsumego
+alias:
+	- book-review-1001-life-and-death-problems/index.html
 ---
 
 ![](/images/2013/04/mtb1cover.jpg)

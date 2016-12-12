@@ -12,6 +12,8 @@ tags:
 	- life-and-death
 	- tsumego
 	- go-problems
+alias:
+	- book-review-essential-life-death-2/index.html
 ---
 
 ![](/images/2013/06/eldv2cover.jpg)

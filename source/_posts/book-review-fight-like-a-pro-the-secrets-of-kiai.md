@@ -9,6 +9,8 @@ tags:
 	- kiseido
 	- fighting
 	- kiai
+alias:
+	- book-review-fight-like-a-pro-the-secrets-of-kiai/index.html
 ---
 
 ![](/images/2013/07/mtbsv8cover.jpg)

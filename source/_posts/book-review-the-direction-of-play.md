@@ -10,6 +10,8 @@ tags:
 	- direction-of-play
 	- fuseki
 	- strategy
+alias:
+	- book-review-the-direction-of-play/index.html
 ---
 
 ![](/images/2013/07/directionofplaycover.jpg)

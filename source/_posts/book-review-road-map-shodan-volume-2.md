@@ -9,6 +9,8 @@ tags:
 	- Kiseido
 	- opening
 	- principles
+alias:
+	- book-review-road-map-to-shodan-volume-2/index.html
 ---
 
 ![](/images/2014/10/roadmaptoshodanv2cover.jpg)

@@ -10,6 +10,8 @@ tags:
 	- korean-style
 	- training
 	- workbook
+alias:
+	- book-review-level-up-review-1/index.html
 ---
 
 ![Level Up Review 1 Cover](/images/2013/07/levelupr1cover.jpg)

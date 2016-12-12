@@ -10,6 +10,8 @@ tags:
 	- fuseki
 	- opening
 	- go-problems
+alias:
+	- book-review-get-strong-at-the-opening/index.html
 ---
 
 ![Get Strong at the Opening Cover](/images/2013/08/getstrongv1cover.jpg)

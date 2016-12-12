@@ -9,6 +9,8 @@ tags:
 	- kiseido
 	- joseki
 	- go-problems
+alias:
+	- book-review-get-strong-at-joseki-1/index.html
 ---
 
 ![Get Strong at Joseki 1 Cover](/images/2013/08/getstrongv2.jpg)

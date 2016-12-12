@@ -8,6 +8,8 @@ categories:
 tags:
 	- handicap-go
 	- kiseido
+alias:
+	- book-review-handicap-go/index.html
 ---
 
 ![Handicap Go Cover](/images/2013/07/egsv7cover.jpg)

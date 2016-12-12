@@ -9,6 +9,8 @@ tags:
 	- Kiseido
 	- go-problems
 	- tesuji
+alias:
+	- book-review-tesuji/index.html
 ---
 
 ![](/images/2013/06/egstesujicover.jpg)

@@ -8,6 +8,8 @@ categories:
 tags:
     - Hinoki-Press
     - direction-of-play
+alias:
+    - book-review-perceiving-direction-play/index.html
 ---
 
 ![](/images/2013/10/heartofgov1cover.jpg)

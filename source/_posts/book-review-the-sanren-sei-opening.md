@@ -9,6 +9,8 @@ tags:
 	- fuseki
 	- opening
 	- sanrensei
+alias:
+	- book-review-the-sanren-sei-opening/index.html
 ---
 
 ![Power of the Star Point Cover](/images/2012/12/starpointpowercover.jpg "Power of the Star Point Cover")
