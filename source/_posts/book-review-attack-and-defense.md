@@ -10,7 +10,7 @@ tags:
 	- fighting
 	- kiseido
 alias:
-	- book-review-1001-life-and-death-problems/index.html
+	- book-review-attack-and-defense/index.html
 ---
 
 ![](/images/2013/06/egsattackanddefensecover.jpg)

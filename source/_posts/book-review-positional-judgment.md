@@ -10,7 +10,7 @@ tags:
 	- positional-judgment
 	- strategy
 alias:
-	- book-review-positional-judgement-1-territory/index.html
+	- book-review-positional-judgement/index.html
 ---
 
 ![](/images/2013/08/positionaljudgementcover.jpg)

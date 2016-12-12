@@ -10,7 +10,7 @@ tags:
     - fighting
     - redmond
 alias:
-    - book-review-1001-life-and-death-problems/index.html
+    - book-review-abcs-attack-defense/index.html
 ---
 
 ![](/images/2013/08/abcattackanddefensecover.jpg)

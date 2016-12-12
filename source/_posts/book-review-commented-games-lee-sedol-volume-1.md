@@ -8,7 +8,7 @@ categories:
 tags:
 	- lee-sedol
 alias:
-	- book-review-1001-life-and-death-problems/index.html
+	- book-review-commented-games-lee-sedol-volume-1/index.html
 ---
 
 ![](/images/2013/09/leesedolv1cover.jpg)
