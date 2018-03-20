@@ -2,13 +2,13 @@
 
 ## Issues
 
-### Track My Progress
+### Track Progress
 
-You can track my progress with issues here: [Issues Board](https://gitlab.com/bencodezen/go-blog/board).
+You can track my progress with issues here: [Issues Board](https://github.com/bencodezen/go-blog/issues).
 
 ### Submit a Bug or Request
 
-The best way would be to submit an issue on the [Issues page](https://gitlab.com/bencodezen/go-blog/issues). However, this does require a GitLab account.
+The best way would be to submit an issue on the [Issues page](https://github.com/bencodezen/go-blog/issues).
 
 My next recommendation would be to contact me directly on [Twitter](www.twitter.com/bengozen).
 
