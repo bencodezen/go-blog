@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>free &#8211; BenGoZen</title>
+	<atom:link href="/tag/free/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>GoStyle WebApp Analyzes Your Style!</title>
+		<link>/gostyle-webapp-analyzes-your-style/</link>
+		<comments>/gostyle-webapp-analyzes-your-style/#comments</comments>
+		<pubDate>Tue, 18 Jun 2013 21:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[gostyle]]></category>
+		<category><![CDATA[great tool]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[style]]></category>
+		<category><![CDATA[webapp]]></category>
+
+		<guid isPermaLink="false">//?p=3001</guid>
+		<description><![CDATA[Every other blue moon, we have the opportunity to stumble onto something pretty awesome. Fellow go player Bonscott shared an incredible resource that I think you would all find just as fascinating as I did the first time I tried it: GoStyle WebApp The process is really simple. Just visit the link above and enter [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Every other blue moon, we have the opportunity to stumble onto something pretty awesome. Fellow go player Bonscott shared an incredible resource that I think you would all find just as fascinating as I did the first time I tried it:</p>
+<p style="text-align: center;"><a href="http://gostyle.j2m.cz/webapp.html">GoStyle WebApp</a></p>
+<p style="text-align: left;">The process is really simple. Just visit the link above and enter in your KGS username (or send a zip file of a bunch of games), and click Submit. It will take a few minutes or so to process all your games, but the resulting report is just incredible.</p>
+<p style="text-align: left;">Besides the fact that it&#8217;s free and you have nothing to lose by trying it, here are things you can expect in the report:</p>
+<ol>
+<li><strong>Estimated Strength</strong> &#8211; Believe it or not. This is not just based on the ranks of players you play with. Mine seems a little inflated (~1k), but it&#8217;s cool that they try to estimate your strength aside from your determined rank on KGS and the players you play.</li>
+<li><strong>Style</strong> &#8211; On a scale of 1 &#8211; 10, it tells you where you fall in terms of: Territorality, Novelty, Agressivity, Thickness</li>
+<li><strong>Professionals who have a similar style to you</strong> &#8211; *mind blown*</li>
+<li><strong>Professionals whose style is farthest from yours</strong> &#8211; *mind blown*</li>
+<li><strong>Distinctive patterns and tips</strong> &#8211; It analyzes the patterns in your games and tells you bad habits and even gives you inspiration for new moves to try!</li>
+</ol>
+<p>Granted, this is still a work in progress and not perfect by any means; but I think it&#8217;s a really cool tool for go players.<br />
+If you&#8217;re interested in what the WebApp said about me, be sure to see below:<br />
+<span id="more-3001"></span><br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp1.png"><img class="aligncenter size-full wp-image-3002" alt="webapp1" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp1.png?resize=720%2C160" width="720" height="160" data-recalc-dims="1" /></a> <a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp2.png"><img class="aligncenter size-full wp-image-3003" alt="webapp2" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp2.png?resize=720%2C271" width="720" height="271" data-recalc-dims="1" /></a> <a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp3.png"><img class="aligncenter size-full wp-image-3004" alt="webapp3" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp3.png?resize=720%2C182" width="720" height="182" data-recalc-dims="1" /></a> <a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp4.png"><img class="aligncenter size-full wp-image-3005" alt="webapp4" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp4.png?resize=720%2C455" width="720" height="455" data-recalc-dims="1" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/gostyle-webapp-analyzes-your-style/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3001</post-id>	</item>
+		<item>
+		<title>Website Review: Go Teaching Ladder</title>
+		<link>/website-review-go-teaching-ladder/</link>
+		<pubDate>Fri, 28 Dec 2012 17:00:16 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Websites]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[game reviews]]></category>
+		<category><![CDATA[lessons]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[teaching]]></category>
+
+		<guid isPermaLink="false">//?p=1316</guid>
+		<description><![CDATA[Rating: 4 /5 Ponnuki Synopsis: A fantastic resource for game reviews when you don&#8217;t have time for real-time reviews. It&#8217;s FREE!!!! The reviews are not instantaneous, but what you&#8217;d expect from a volunteer based service? Detailed Review: GoTeachingLadder is a fantastic resource for players want to have their games reviewed. As it is a completely [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/12/goteachingladdermainpage.png"><img class="aligncenter  wp-image-1317" title="Go Teaching Ladder Main Page" alt="Go Teaching Ladder Main Page Screenshot" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/12/goteachingladdermainpage.png?resize=497%2C364" width="497" height="364" data-recalc-dims="1" /></a></h2>
+<h2 style="text-align: center;">Rating: 4 /5 Ponnuki</h2>
+<h3 style="text-align: left;">Synopsis:</h3>
+<ul>
+<li>A fantastic resource for game reviews when you don&#8217;t have time for real-time reviews.</li>
+<li>It&#8217;s FREE!!!!</li>
+<li>The reviews are not instantaneous, but what you&#8217;d expect from a volunteer based service?</li>
+</ul>
+<h3 style="text-align: left;">Detailed Review:</h3>
+<p style="text-align: left;"><a title="Go Teaching Ladder Website" href="http://gtl.xmp.net/">GoTeachingLadder</a> is a fantastic resource for players want to have their games reviewed.</p>
+<p style="text-align: left;">As it is a completely volunteer based service, one cannot expect the same level of reviews that you might receive from strong players online; but this does not diminish the value of this website.</p>
+<p style="text-align: left;">The process for submitting a game for review is very simple:</p>
+<ol>
+<li>Click the link for submitting a game.</li>
+<li>Fill out the form.</li>
+<li>Verify that the information is correct.</li>
+<li>Submit your request.</li>
+<li>Enjoy your game review when you receive it!</li>
+</ol>
+<p>One of the things about GTL that makes it so effective is the fact that they allow you to ask specific questions about your game so that you can be sure those aspects are given the attention you desire. If it weren&#8217;t for this aspect, the value of the reviews would be diminished greatly.<br />
+The only downside to this resource is the fact that the wait time can be up to a couple weeks at a time depending on your reviewer. While you should expect nothing less from a volunteer based site, this can diminish the value of the game reviews since you may not quite remember the lessons as vividly as shortly after the game.<br />
+For more information and common questions, visit their FAQ page <a title="Go Teaching Ladder FAQ" href="http://gtl.xmp.net/about/faq">here</a>!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1316</post-id>	</item>
+	</channel>
+</rss>

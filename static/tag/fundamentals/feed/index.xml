@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>fundamentals &#8211; BenGoZen</title>
+	<atom:link href="/tag/fundamentals/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Returning to the Fundamentals</title>
+		<link>/returning-fundamentals/</link>
+		<comments>/returning-fundamentals/#comments</comments>
+		<pubDate>Wed, 11 Jun 2014 11:15:59 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[building blocks]]></category>
+		<category><![CDATA[directionless]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[kageyama]]></category>
+		<category><![CDATA[lessons in the fundamentals of go]]></category>
+
+		<guid isPermaLink="false">//?p=5442</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #44 Up until a month or so ago, my go had become quite rigid. In fact, it could be compared to an ice sculpture where the curves and angles have all been predefined. And though it is admirable in one aspect, it also represents a sense of rigidity and does not [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #44</h2>
+<figure id="attachment_5444" style="width: 488px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/06/wgw44.jpg"><img class="size-full wp-image-5444" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/06/wgw44.jpg?resize=488%2C299" alt="Credit to TheChangeBlog" width="488" height="299" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a title="Source for featured image" href="http://www.thechangeblog.com/success-in-life/">TheChangeBlog</a></figcaption></figure>
+Up until a month or so ago, my go had become quite rigid. In fact, it could be compared to an ice sculpture where the curves and angles have all been predefined. And though it is admirable in one aspect, it also represents a sense of rigidity and does not have much room for growth. And since my goal was to build something way better, it was only natural that it was time to set it on fire and let it melt away. And now that I am left with this pool of water, while the prospect of building a grand ice sculpture sounds great, it&#8217;s been rather difficult figuring out where to begin.<br />
+For those who don&#8217;t use <a title="BenGoZen's Twitter" href="http://www.twitter.com/bengozen">Twitter</a>, I recently tweeted about picking up <a title="Book Review: Lessons in the Fundamentals of Go" href="//book-review-lessons-in-the-fundamentals-of-go/"><em>Lessons in the Fundamentals of Go</em></a> by Kageyama 7P again. You might wonder why I&#8217;m doing this. After all, I&#8217;ve read this book at least four or five times at this point. However, I&#8217;ve noticed that my progress in go has reached a vulnerable stage. It&#8217;s not stagnant, yet it is not necessarily progressing either in the traditional sense of climbing ranks. Instead of complaining and being frustrated however, I&#8217;ve decided that this is as good a time as any to return to the fundamentals.<br />
+<span id="more-5442"></span><br />
+I am currently at a place where my go feels directionless, so I have been trying to establish some new foundations through standard training exercises: life and death problems, studying the <a title="Book Review: Jump Level Up 1" href="//book-review-jump-level-1/">Jump Level Up</a> series, replaying Go Seigen&#8217;s games, and playing games as well. While all those activities will surely benefit me somehow in the future, my go felt as shapeless as ever. And since I don&#8217;t have a true teacher and mentor (in terms of taking private lessons), I was rather lost in terms of what to do next.<br />
+As I was perusing my bookshelf and picking up book after book (i.e., The Basics of Go Strategy, Positional Judgment, etc.), the bright yellow binding caught my eye and I breathed a sigh of relief as it hit me. <strong>Just go back to the fundamentals.</strong><br />
+It&#8217;s true that having a teacher would make my life a lot easier. After all, he/she would know me so well that devising a customized training program would be a piece of cake. However, for the numerous players out there who either haven&#8217;t found a teacher or it is too expensive, I wrote this post to remind you that there is still hope out there for people like us.<br />
+While gaining a stone becomes harder as you climb the ladder, remember that it only becomes truly difficult as you climb into the higher ranks of dan. Until then, remember that a lot of our weaknesses can be found in our lack of the fundamentals. And if there is anyone who can give you a swift kick in the butt to remind you of that, it is Kageyama.<br />
+So if you&#8217;re serious about getting stronger at go, make sure you have a copy of <em><a title="Book Review: Lessons in the Fundamentals of Go" href="//book-review-lessons-in-the-fundamentals-of-go/">Lessons in the Fundamentals of Go</a> </em>in your collection of go books. It will be your beacon of light as you try and make your way into the dan levels and above.</p>
+]]></content:encoded>
+			<wfw:commentRss>/returning-fundamentals/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5442</post-id>	</item>
+		<item>
+		<title>WGW 34: The Value of Repetition</title>
+		<link>/wgw-34-value-repetition/</link>
+		<comments>/wgw-34-value-repetition/#comments</comments>
+		<pubDate>Wed, 12 Mar 2014 11:15:24 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[again]]></category>
+		<category><![CDATA[basics]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[repeat]]></category>
+		<category><![CDATA[repetition]]></category>
+
+		<guid isPermaLink="false">//?p=4792</guid>
+		<description><![CDATA[Weekly Go Wednesday: Issue #34 As most of you know, I own a majority of the English go literature that exists out in the market. And in conjunction with that notion, I&#8217;ve also reviewed quite a few books as I&#8217;ve progressed throughout my journey. What some of you may not realize however, is that one [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday: Issue #34</h2>
+<p>As most of you know, I own a majority of the English go literature that exists out in the market. And in conjunction with that notion, I&#8217;ve also reviewed quite a few books as I&#8217;ve progressed throughout my journey. What some of you may not realize however, is that one of the downsides to me trying to review books in quick succession means that I am unable to spend a lot of time absorbing the material. As a result, my growth as a player is not necessarily correlated with the number of books I&#8217;ve read.<br />
+Lately I&#8217;ve been really starting to see the detrimental effect of my poor reading abilities. I have found myself in numerous positions where I may have made strategically sound decisions and had aims that should have worked in actuality, but due to my weak reading skills I was unable to follow through or execute my plan properly. So after numerous frustrating games and irritation with my own growth, I&#8217;ve decided to take a step back in my studies.<br />
+<span id="more-4792"></span><br />
+Instead of moving onto new books that I&#8217;ve yet to read or try to solve problems much higher than my reading ability, I am going back to ground zero. In other words, I&#8217;m going back to the basics of basics. For example, I have decided to start the Level Up series over again and start at <a title="Book Review: Level Up 1" href="//book-review-level-up-1/">Level Up 1</a>. And in the case of the go problems I&#8217;m solving, I&#8217;m spending my time cycling through the same 600 problems (not all at once though) over and over again.<br />
+Now you might wonder, where is the value in that?<br />
+Well the thing about a game as complex as go is that there are often so many variables going on at any point in the game. Are you checking the life and death of a group? Perhaps you are estimating the board territory to see what to do next. Or what about those two groups over there, is there a way to cut them off? Can you ignore your opponent&#8217;s threat?<br />
+The fact is that the more efficient you are at making decisions about things associated with reading, the more time you will have to spend on things like your strategy and which direction of play is better. And as most of you probably know from your own research, the kinds of problems that amateur players constantly mess up in games are actually quite simple ones.<br />
+In order to speed up your reading ability, I believe that the key is honing in on your instinctual abilities. For example, if I were to give most of you a position where your opponent had a bent in three shape, you probably wouldn&#8217;t have to spend any time trying to read it out. BAM. Right on the vital point. Dead. No questions about it. Imagine the kinds of things you could do if you could do that with more shapes and positions?<br />
+So by going back to the basics and the &#8220;easy stuff,&#8221; I intend on improving my own instinctual reading abilities. As Kageyama emphasized again and again in his book, <a title="Book Review: Lessons in the Fundamentals of Go" href="//book-review-lessons-in-the-fundamentals-of-go/">Lessons in the Fundamentals of Go</a>, many amateur players blow off the fundamentals and then wind up wondering why they can&#8217;t get any stronger.<br />
+Don&#8217;t make that same mistake. <strong>Do not underestimate the power of repetition and its abilities to improve your basics.</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/wgw-34-value-repetition/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4792</post-id>	</item>
+		<item>
+		<title>Boxing and Go</title>
+		<link>/boxing-and-go/</link>
+		<comments>/boxing-and-go/#comments</comments>
+		<pubDate>Tue, 13 Aug 2013 16:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[boxing]]></category>
+		<category><![CDATA[consistency]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[improving]]></category>
+		<category><![CDATA[menu]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">//?p=3794</guid>
+		<description><![CDATA[I&#8217;ve recently taken an interest in boxing, and I have to say that the more I study it, the more I can&#8217;t help but see similarities between boxing and go. Here are a few off the top of my head: There are two players in each match. Regardless of how badly each player might want [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_3796" style="width: 400px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg"><img class="size-full wp-image-3796" alt="Credit to CrazyThemes" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg?resize=400%2C225" width="400" height="225" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to CrazyThemes</figcaption></figure>
+I&#8217;ve recently taken an interest in boxing, and I have to say that the more I study it, the more I can&#8217;t help but see similarities between boxing and go. Here are a few off the top of my head:</p>
+<ol>
+<li>There are two players in each match.</li>
+<li>Regardless of how badly each player might want to win, there can only be one victor at the end of the match.</li>
+<li>Exchanging blows with your opponent is inevitable and necessary for a good match.</li>
+<li>There are different styles of boxing that seem analogous the go styles as well (e.g., technician/point counter, infighter/fighting, etc.).</li>
+</ol>
+<p>But most importantly of all, <strong>those who rise to the top are those who are instinctively faithful to the fundamentals</strong>.<br />
+After all, look at any boxer&#8217;s training regimen and what are you going to find? Running, jump rope, shadow boxing, combinations, sparring. Repeat. Repeat. Repeat. There might be a few deviations occasionally depending on what muscle groups they need to build for certain techniques, but the training menu almost always consists of the fundamentals. And what does a fight primarily consist of? The basics: jab, cross, hook, uppercut, jab, jab&#8230;<br />
+So how is this relevant to go? Well, one topic that I know runs rampant throughout the community is the idea of getting stronger (especially for kyu players who want to reach dan level). And as I begin to study boxing, I can&#8217;t help but wonder what a go players training menu should look like? I mean sure, everyone will say do life and death problems, but that advice is so incredibly generic and subject to interpretation (as to how to study it) that I would guarantee that many players have gone astray and become frustrated with their progress because they couldn&#8217;t figure out what to do to keep getting better.<br />
+I know that no one has a magical formula for getting better at go; but I think that there is more wisdom that can be offered from my study of boxing in terms of trying to discover better guidelines for designing a training menu for go. After all, it&#8217;s not about knowing the most complicated joseki or knowing the common trick plays, but to instead constantly improve the fundamentals.<br />
+More on this as I continue researching and testing out different things&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/boxing-and-go/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3794</post-id>	</item>
+		<item>
+		<title>Friday Go Forward: Week 22</title>
+		<link>/friday-go-forward-week-22/</link>
+		<pubDate>Fri, 05 Jul 2013 09:00:35 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[back to the basics]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[lots of studying]]></category>
+		<category><![CDATA[polishing reading]]></category>
+
+		<guid isPermaLink="false">//?p=3145</guid>
+		<description><![CDATA[Friday Go Forward: Week 22 Overview As I&#8217;m sure you all are aware, this week marks the start of my Korean Training Reboot! I am having the time of life as I&#8217;m going over the basics of all basics for the first time ever. Now I know it probably sounds stupid to some of you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 22</h2>
+<h2>Overview</h2>
+<p>As I&#8217;m sure you all are aware, this week marks the start of my <a title="Korean Training Reboot!" href="//korean-training-reboot/">Korean Training Reboot</a>! I am having the time of life as I&#8217;m going over the basics of all basics for the first time ever. Now I know it probably sounds stupid to some of you that I&#8217;m spending my time on books intended for 30 kyus, but I feel like I am getting a lot of value just drilling basics such as &#8220;can my stone escape from atari.&#8221; It&#8217;s not so much that I&#8217;m learning something &#8220;new,&#8221; but instead I am really trying to polish the fundamentals of my reading ability. Here&#8217;s to hoping I know what I&#8217;m doing!</p>
+<h2>Games</h2>
+<ul>
+<li>DGS &#8211; 2 ongoing games</li>
+<li>Nova &#8211; 2 ongoing games</li>
+</ul>
+<h2>Education &amp; Training</h2>
+<ul>
+<li>Finished <em>Attacking and Defending Moyos</em>.</li>
+<li>Finished on <i>Elementary Go Series, Vol 4 &#8211; Life and Death.</i></li>
+<li>Started and finished <em>Level Up 1</em>.</li>
+<li>Started working on <em>Level Up 2</em>.</li>
+<li>Worked on <em>Modern Master Games, Vol. 1</em>.</li>
+<li>Worked on <i>Elementary Go Series, Vol 5 &#8211; Attack and Defense</i>.</li>
+<li>Worked on <i>Whole Board Thinking of Joseki, Vol. 1</i>.</li>
+<li>Worked on <em>Essential Life &amp; Death 3.</em></li>
+</ul>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">3145</post-id>	</item>
+		<item>
+		<title>An Eye Opening Day&#8230;</title>
+		<link>/an-eye-opening-day/</link>
+		<comments>/an-eye-opening-day/#comments</comments>
+		<pubDate>Thu, 23 May 2013 21:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[boxing]]></category>
+		<category><![CDATA[frozensoul]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[lesson]]></category>
+
+		<guid isPermaLink="false">//?p=2760</guid>
+		<description><![CDATA[I just finished the arc in Hajime no Ippo where Takamura fights for his second world title. In an effort not to spoil it for anyone who plans on reading or watching the show, all I will say is that his faithfulness to his fundamentals was incredibly moving. No matter what the situation, people&#8217;s faith [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I just finished the arc in <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CC8QFjAA&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFighting_Spirit_(manga)&amp;ei=7y-eUeeuMZT84APWmoCQCA&amp;usg=AFQjCNFFI0eP4wTVR8AszqReTx_t5ZpG1w&amp;sig2=bnBEMLGq_Odc2VyHaBCoNQ&amp;bvm=bv.46865395,d.dmg">Hajime no Ippo</a> where Takamura fights for his second world title. In an effort not to spoil it for anyone who plans on reading or watching the show, all I will say is that his faithfulness to his fundamentals was incredibly moving. No matter what the situation, people&#8217;s faith in the fundamentals is what allow them to pull themselves out of the most difficult situations.<br />
+Aside from that though, I&#8217;ve had one of the most eye opening lessons to date. My whole perspective on moyos and just go in general has completely changed. Granted, integrating this new perspective into my play will probably be terribly exhausting for awhile; but ho ho ho&#8230;. this could change everything&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/an-eye-opening-day/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2760</post-id>	</item>
+		<item>
+		<title>Book Review: 1001 Life and Death Problems</title>
+		<link>/book-review-1001-life-and-death-problems/</link>
+		<pubDate>Sun, 19 May 2013 09:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=1553</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Mastering the Basics, Volume 2 &#8211; One Thousand and One Life-and-Death Problems Authors: Compiled and edited by Richard Bozulich Publisher: Kiseido Publication Date: February 2002 Page Length: 244 pages Number of Problems: 1001 problems (what else did you expect? =D) Synopsis New and refreshing approach to teaching life and death. Appropriate [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/04/mtb2cover.jpg"><img class="aligncenter size-full wp-image-2694" alt="mtb2cover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/04/mtb2cover.jpg?resize=300%2C450" width="300" height="450" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Mastering the Basics, Volume 2 &#8211; One Thousand and One Life-and-Death Problems</li>
+<li><strong>Authors: </strong>Compiled and edited by Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>February 2002</li>
+<li><strong>Page Length:</strong> 244 pages</li>
+<li><strong>Number of Problems</strong>: 1001 problems (what else did you expect? =D)</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>New and refreshing approach to teaching life and death.</li>
+<li>Appropriate for 12 kyu and stronger.</li>
+<li>Recommended for casual players.</li>
+</ul>
+<p><span id="more-1553"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 8 / 10</h4>
+<p>The directions for the problems don&#8217;t get any simpler. You have one of two directions: Black to kill or Black to live. This can be slightly confusing for those who wish for more specific directions whether life means seki or not; but this is more accurate to what players must do in their actual games. In addition, the explanation are on the shorter side in order to accommodate the large number of problems. Due to the lack of variations, the readability of the book is rather difficult since there will be times where you are unsure of why your answer is wrong. However, since players purchasing this book are aiming to master the basics and progress into intermediate and hard life and death problems, the format of the book is a great stepping stone for doing so.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>The content quality is primarily boosted by the way that the problems are categorized. You start with one move problems (to kill or live), and then work your way up to three move problems and then five move problems. As a result, each section is carefully designed to meet those requirements and allow players to get a much better grasp of life and death concepts before jumping to something more advanced. Very high marks for this categorization method.</p>
+<h4>Final Thoughts</h4>
+<p>This book is not for the faint-hearted. 1,001 problems is a lot more difficult than it seems and it can get tiring at times. However, I cannot stress enough how great this book is at giving players a really good structure for practicing and reinforcing basic life and death skills. It may not cover every life and death problem category that exists out there, but it focuses on the important ones that you will generally see at the beginner and intermediate level. In addition, it gives players great practice in increasing the number of moves they are able to see in their head. So if you&#8217;re looking to focus on life and death problems that provide a challenge that won&#8217;t bore you to death, this is the book for you.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>Some Important Terms and Concepts</li>
+<li>Part One &#8211; One-move problems &#8211; Black to live</li>
+<li>Part Two &#8211; One-move problems &#8211; Black to kill</li>
+<li>Part Three &#8211; Three-move problems &#8211; Black to live</li>
+<li>Part Four &#8211; Three-move problems &#8211; Black to kill</li>
+<li>Part Five- Five-move problems &#8211; Black to live</li>
+<li>Part Six- Five-move problems &#8211; Black to kill</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated May 14th, 2013 &#8211; 5 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1553</post-id>	</item>
+		<item>
+		<title>Book Review: Lessons in the Fundamentals of Go</title>
+		<link>/book-review-lessons-in-the-fundamentals-of-go/</link>
+		<pubDate>Sat, 09 Mar 2013 14:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[basics]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[kageyama]]></category>
+		<category><![CDATA[lessons]]></category>
+		<category><![CDATA[shape]]></category>
+		<category><![CDATA[tesuji]]></category>
+
+		<guid isPermaLink="false">//?p=1393</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Lessons in the Fundamentals of Go Author: Toshiro Kageyama 7-dan Translator: James Davies Publisher: Kiseido Publication Date: May 1978 Page Length: 272 pages Synopsis A hybrid of theoretical/conceptual explanations along with problems to illustrate the ideas. While may seem advance, Kageyama&#8217;s personality really shines through and makes [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/03/lessonsinthefundamentalsofgocover.jpg"><img class="aligncenter size-full wp-image-2181" alt="lessonsinthefundamentalsofgocover" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/03/lessonsinthefundamentalsofgocover.jpg?resize=248%2C400" width="248" height="400" data-recalc-dims="1" /></a></h2>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Lessons in the Fundamentals of Go</li>
+<li><strong>Author: </strong>Toshiro Kageyama 7-dan</li>
+<li><strong>Translator:</strong> James Davies</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>May 1978</li>
+<li><strong>Page Length:</strong> 272 pages</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>A hybrid of theoretical/conceptual explanations along with problems to illustrate the ideas.</li>
+<li>While may seem advance, Kageyama&#8217;s personality really shines through and makes this such an interesting read (regardless of your level).</li>
+<li>Appropriate for 20 kyu and stronger.</li>
+<li>Recommended for all types of players.</li>
+</ul>
+<p><span id="more-1393"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 10 / 10</h4>
+<p>When it comes to readability, I&#8217;m not sure there&#8217;s a single go book out there that can outclass Kageyama&#8217;s ability to show his humorous and delightful personality through his writing. There is almost never a dull moment in this book. Often times, he will seem to be going off on a tangent (like baseball), but he will always find a way to bring it back full circle to emphasize one of his points. His pragmatic and straight forward advice is something that every go player can make use of, regardless of how strong you desire to be. In fact, even if we set aside the actual treasure trove of go advice that is in this book, I would argue that the entertainment value of his writing makes the book worth every penny.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>Although this is not your classic tsumego book, it does have a similar style to the <a href="http://senseis.xmp.net/?ElementaryGoSeries">Elementary Go Series</a> where there are a few problems at the end of most chapters. In addition, I will be the first to admit that some of these problems are rather difficult and can be discouraging if you are under the impression you need to be able to solve them the first time you see them. In fact, the value of this book lies in its ability to expose you to so many different concepts and ideas. Considering the size of the book and the how short each of the chapters are, the amount of content he covers is nothing short of incredible.</p>
+<h4>Final Thoughts</h4>
+<p>Although this is my third time reading the book, and it still has not lost a bit of its charm. I continue to learn something new every time I read it, and never fail to crack a smile when Kageyama goes on one of his rants about how amateur players always try to find shortcuts to reading ladders. Nonetheless, this is truly a classic that I believe will never be outdated. So do yourself a favor, and if you are going to only have a small collection of go books, this is definitely one you will want to have.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Chapter 1: Ladders and Nets</li>
+<li>Chapter 2: Cutting and Connecting</li>
+<li>Chapter 3: The Stones Go Walking</li>
+<li>Chapter 4: The Struggle to Get Ahead</li>
+<li>Chapter 5: Territory and Spheres of Influence</li>
+<li>Interlude: Lecturing on NHK-TV</li>
+<li>Chapter 6: Life and Death</li>
+<li>Chapter 7: How to Study Joseki</li>
+<li>Chapter 8: Good Shape and Bad</li>
+<li>Chapter 9: Proper and Improper Moves</li>
+<li>Chapter 10: Tesuji: The Snap-Back; Shortage of Liberties; The Spiral Latter; The Placement; The Attachment; Under the Stones</li>
+<li>Chapter 11: Endgame Pointers</li>
+<li>Appendix: Game Commentary: Beating the Meijin</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>Amazon &#8211; <a title="Amazon Purchase Link" href="http://www.amazon.com/gp/product/4906574289/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=4906574289&amp;linkCode=as2&amp;tag=be09a-20">$18.00</a> (S&amp;H not included)</li>
+<li>GoGameGuru- <a title="GoGameGuru Purchase Link" href="http://shop.gogameguru.com/lessons-in-the-fundamentals-of-go/?acc=e4da3b7fbbce2345d7772b0674a318d5">$17.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$18.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated March 8th, 2013 &#8211; 6 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1393</post-id>	</item>
+		<item>
+		<title>Book Review: Making Good Shape</title>
+		<link>/book-review-making-good-shape/</link>
+		<pubDate>Tue, 15 Jan 2013 22:30:07 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[bad shape]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[good shape]]></category>
+		<category><![CDATA[shape]]></category>
+
+		<guid isPermaLink="false">//?p=1546</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Mastering the Basics, Volume 3 &#8211; Making Good Shape Authors: Rob van Zeijst and Richard Bozulich Publisher: Kiseido Publication Date: December 2002 Page Length: 206 pages Number of Problems: 245 Synopsis Gives players fantastic exposure to new concepts and ideas regarding shape. High quality content for a subject that has minimal [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/12/makingGoodShapeCover.jpg"><img class="aligncenter size-full wp-image-1670" alt="makingGoodShapeCover" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/12/makingGoodShapeCover.jpg?resize=300%2C407" width="300" height="407" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Mastering the Basics, Volume 3 &#8211; Making Good Shape</li>
+<li><strong>Authors: </strong>Rob van Zeijst and Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>December 2002</li>
+<li><strong>Page Length:</strong> 206 pages</li>
+<li><strong>Number of Problems</strong>: 245</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>Gives players fantastic exposure to new concepts and ideas regarding shape.</li>
+<li>High quality content for a subject that has minimal literature compared to other concepts of go (e.g., life and death).</li>
+<li>Any player who has a desire to get stronger and enter the realm of SDK&#8217;s should absolutely get this book.</li>
+<li>A hybrid of theoretical/conceptual explanations along with problems to illustrate the ideas.</li>
+<li>Appropriate for 15 kyu and stronger.</li>
+<li>Recommended for serious players.</li>
+</ul>
+<p><span id="more-1546"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 9 / 10</h4>
+<p>While a large portion of this book is focused on problems, the first chapter consists of explanations regarding shape concepts and theories. Overall, it is relatively easy to understand and read. It can be rather dense at times, but this is something you want from a book that is focused solely on a topic that doesn&#8217;t receive very much attention. Like any other tsumego book, the diagrams and solutions are quite straightforward. The only time I would imagine anyone would have any difficulty following the content would be at the end when example games are given. Then again, I always find those hard to follow and truly grasp anything from. So as a result, I&#8217;m not including it in the evaluation.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>As I mentioned before, this book consists of both a theoretical/conceptual part and a tsumego part. The theory section of the book is done remarkably well and deserves nothing but the highest of accolades in terms of collecting all the various insights on shape into one chapter. In addition, the tsumego section covers a wide variety of game positions that I have personally seen. This only helps to further drive home concepts that we are being exposed to. In addition, the explanations are quite detailed for a tsumego and does a good job covering typical responses that players might choose and why they are not very good.</p>
+<h4>Final Thoughts</h4>
+<p>Unlike typical tsumego books, approach this book as you would a theory based book. In other words, the goal of the book is being exposed to new concepts and not &#8220;solving the problem.&#8221; Spend a couple minutes or so on each one, but no more, since the solution is often (at least for me) different from what you can come up with. Once you&#8217;ve done that, flip over to the solution and see why the authors chose the answer they did.<br />
+The reason for this approach is that your goal is to be exposed to new concepts and ideas regarding good shape. Although the format of the book may be in terms of &#8220;problems&#8221; and &#8220;solutions,&#8221; there is no true right or wrong. If anything, you should try to see it as &#8220;better&#8221; or &#8220;more efficient.&#8221; By approaching the book in this manner, you will gain far more and find it far less frustrating since you will not feel bad for not having the &#8220;right answer.&#8221;<br />
+This is truly an amazing book that has so much value to players looking to further understand a concept that eludes many of us. Although I have technically &#8220;finished&#8221; the book, the theories and concepts are far from being fully integrated into my play. It is definitely is a book that I will be revisiting time and time again.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>Some Important Terms and Concepts</li>
+<li>Chapter One: The Efficiency of Stones</li>
+<li>Chapter Two: Examples of Good Shape</li>
+<li>Chapter Three: 245 Problems.</li>
+<li>Chapter Four: Example Games</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>Amazon &#8211; <a title="Amazon Purchase Link" href="http://www.amazon.com/gp/product/4906574734/ref=as_li_ss_tl?ie=UTF8&amp;tag=be09a-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=4906574734">$25.00</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+<li>SmartGo Books (eBook) &#8211; <a href="http://www.smartgo.com/booksbycategory.htm">$8.99</a> (Apple users only)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated January 15th, 2012 &#8211; 6 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1546</post-id>	</item>
+		<item>
+		<title>Weekend Hiatus Again&#8230;.</title>
+		<link>/weekend-hiatus-again/</link>
+		<pubDate>Tue, 28 Sep 2010 12:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[growth]]></category>
+		<category><![CDATA[need patience]]></category>
+		<category><![CDATA[weekend hiatus]]></category>
+
+		<guid isPermaLink="false">//?p=98</guid>
+		<description><![CDATA[Bleh. I&#8217;ve failed so far as to keeping regular blog posts once I go up to Baltimore on the weekends&#8230;. I&#8217;ll need to fix that. But regardless, I played quite a bit with Todd over the past couple days&#8230; and I have to say it&#8217;s been frustrating yet enlightening. I know I&#8217;ve said this multiple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_852" style="width: 300px" class="wp-caption aligncenter"><img class="size-full wp-image-852" title="Dirty Dozen Impatience" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2010/09/dirty-dozen-impatience-300x294.jpg?resize=300%2C294" alt="" width="300" height="294" data-recalc-dims="1" /><figcaption class="wp-caption-text">Credit to Sunny and Fit</figcaption></figure>
+Bleh. I&#8217;ve failed so far as to keeping regular blog posts once I go up to Baltimore on the weekends&#8230;. I&#8217;ll need to fix that. But regardless, I played quite a bit with Todd over the past couple days&#8230; and I have to say it&#8217;s been frustrating yet enlightening. I know I&#8217;ve said this multiple times in the past&#8230; but I&#8217;d say that the implications of the line that &#8220;Go is 98% patience&#8221; is &#8220;Read ahead you idiot.&#8221;<br />
+I&#8217;m not the first nor will I be the last to say that I believe that Go really does reveal a lot about a person&#8217;s character. What I&#8217;ve realized&#8230; is that I&#8217;m not as patient as I thought I was. I like to get things done quickly and to use talent and intuition to hope for the best result. The only problem is that this mindset doesn&#8217;t translate well in Go and in the bigger picture&#8230; life.<br />
+Second epiphany is that my asinine &#8220;wanna-be pro&#8221; self keeps trying to create all these clever trick plays (e.g. shortage of liberty situations or awesome snapbacks). What does that mean for a player still in the DDK who plays an opponent of shodan strength? Complete and utter failure. As Todd so kindly reminded me, &#8220;Go is not about killing stones&#8230;.&#8221; I must&#8217;ve heard and read this about a hundred times since I&#8217;ve started, yet still it still has not sunk into my brain&#8230;. sigh.<br />
+So what do I take away from all of this? Two things:</p>
+<ol>
+<li>Train my patience as a person so that it will not only impact my ability as a Go player, but the rest of my life as well.</li>
+<li>Focus on the fundamentals of Go. Stay away from trying to do anything crazy until the basic are set and stone in my style of play.</li>
+</ol>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">98</post-id>	</item>
+		<item>
+		<title>Pointers from a Stronger Player</title>
+		<link>/pointers-from-a-stronger-player/</link>
+		<pubDate>Wed, 22 Sep 2010 04:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[justin]]></category>
+		<category><![CDATA[progress report]]></category>
+
+		<guid isPermaLink="false">//?p=102</guid>
+		<description><![CDATA[So I had the pleasant surprise of having Justin watch over one of my games tonight.  It&#8217;s always funny how obvious the mistakes I make are when a stronger player points them out&#8230; or more obvious moves.  But he did leave me with an interesting thought&#8230; &#8220;As a word of advice, just do problems.  Focus [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I had the pleasant surprise of having Justin watch over one of my games tonight.  It&#8217;s always funny how obvious the mistakes I make are when a stronger player points them out&#8230; or more obvious moves.  But he did leave me with an interesting thought&#8230;<br />
+&#8220;As a word of advice, just do problems.  Focus on the fundamentals.  Everything else will come later.&#8221;<br />
+I think that may be where my training is a bit lacking at this point.  I keep reading more theory type books, but have neglected my problems.  Looks like I&#8217;m going to switch gears starting October.  SDK (Single Digit Kyu) may be out of reach by this point, but we&#8217;ll set a new target when my second month is up.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">102</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>training update &#8211; BenGoZen</title>
+	<atom:link href="/tag/training-update/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Minor Training Adjustment</title>
+		<link>/minor-training-adjustment/</link>
+		<pubDate>Tue, 05 Feb 2013 22:30:03 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[no time]]></category>
+		<category><![CDATA[training update]]></category>
+
+		<guid isPermaLink="false">//?p=1827</guid>
+		<description><![CDATA[Upon trying to continue my study of Lee Sedol&#8217;s book, I have realized that it will be impossible for me to properly study it. While it is easy to simply replay the moves, I realized that simply going through the motions was not doing me any good. I want to try and absorb as much [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Upon trying to continue my study of Lee Sedol&#8217;s book, I have realized that it will be impossible for me to properly study it. While it is easy to simply replay the moves, I realized that simply going through the motions was not doing me any good. I want to try and absorb as much of his explanations as much as possible, and frankly with my schedule I simply don&#8217;t have the time to do so unless I let everything else in my life go to a complete mess. =D So I&#8217;ll be shelving the book for this month, but no worries, that is all the training adjustments that will happen for this month. Onward I go!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1827</post-id>	</item>
+	</channel>
+</rss>

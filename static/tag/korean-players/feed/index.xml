@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>korean players &#8211; BenGoZen</title>
+	<atom:link href="/tag/korean-players/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Getting Pulverized by Tygem Dans</title>
+		<link>/getting-pulverized-tygem-dans/</link>
+		<comments>/getting-pulverized-tygem-dans/#comments</comments>
+		<pubDate>Wed, 07 May 2014 01:53:03 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[korean players]]></category>
+		<category><![CDATA[losing]]></category>
+		<category><![CDATA[tygem]]></category>
+
+		<guid isPermaLink="false">//?p=5242</guid>
+		<description><![CDATA[I mentioned recently that I wanted to turn my attention Tygem because of how different the players are there. I tried explaining it to a friend a night or two ago but couldn&#8217;t find the right game to really illustrate it. Well, after talking with frozensoul today, I thought I&#8217;d fire up one of my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I mentioned recently that I wanted to turn my attention Tygem because of how different the players are there. I tried explaining it to a friend a night or two ago but couldn&#8217;t find the right game to really illustrate it.<br />
+Well, after talking with frozensoul today, I thought I&#8217;d fire up one of my old dan level accounts on Tygem and take a stab at playing on it again.<br />
+Oy vey&#8230; the epitome of aggressiveness occurred tonight. Invade&#8230; fight&#8230;. invade&#8230; attach&#8230; die&#8230;. invade&#8230; fight&#8230; ahhhh&#8230;&#8230;<br />
+I think I&#8217;ve lost like 5+ games in a row now. While I feel like I&#8217;m on a bit of an emotional tilt from getting pulverized game after game, I think it&#8217;s good medicine to offset my victory at the <a title="1st Washington Open Baduk Championship — Part II" href="//1st-washington-open-baduk-championship-part-ii/">Washington Baduk Open Championship</a>.<br />
+Perhaps it&#8217;s the fact that I haven&#8217;t played much, or maybe it&#8217;s just that I&#8217;m really weak against Korean players. In fact, as I think back to the games I lost, I think the bottom line is that they were able to outfight me and play much sharper moves each time (which ended up killing me constantly). I tried to swing by with all my might, but it was like I was poking them with a sewing needle and then came down on me with a two handed axe.<br />
+Ah well. They say to lose your first 100 games when you start playing right? Looks like I&#8217;ll be starting that exercise up again as I dive back into the war zone. *deep breath* See you on the other side.</p>
+]]></content:encoded>
+			<wfw:commentRss>/getting-pulverized-tygem-dans/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5242</post-id>	</item>
+	</channel>
+</rss>

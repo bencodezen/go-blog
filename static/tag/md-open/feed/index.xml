@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>md open &#8211; BenGoZen</title>
+	<atom:link href="/tag/md-open/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Maryland Open 2013</title>
+		<link>/maryland-open-2013/</link>
+		<comments>/maryland-open-2013/#comments</comments>
+		<pubDate>Sat, 01 Jun 2013 09:00:23 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[2013]]></category>
+		<category><![CDATA[md open]]></category>
+		<category><![CDATA[tournament]]></category>
+
+		<guid isPermaLink="false">//?p=2803</guid>
+		<description><![CDATA[It was a beautiful Saturday morning when I pulled up to the Maryland Open in Catonsville, Maryland. Though I was a little nervous for what was waiting for me at this tournament, I was excited at the prospect of seeing friends and having a day filled with go. After registering (as AGA 5k) and catching up [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/05/2013-05-25-14.09.38.jpg"><img class="aligncenter size-full wp-image-2804" alt="2013-05-25 14.09.38" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/05/2013-05-25-14.09.38.jpg?resize=500%2C296" width="500" height="296" data-recalc-dims="1" /></a><br />
+It was a beautiful Saturday morning when I pulled up to the <a title="40th Maryland Open — Go Tournament!" href="//40th-maryland-open-go-tournament/">Maryland Open</a> in Catonsville, Maryland. Though I was a little nervous for what was waiting for me at this tournament, I was excited at the prospect of seeing friends and having a day filled with go.<br />
+<span id="more-2803"></span><br />
+After registering (as AGA 5k) and catching up with a few people, I noticed that a girl (whom I&#8217;d never seen before) come up to the registration table to purchase the books she had in hand (two Elementary Go Series books).</p>
+<p style="text-align: center;"><em>Wait. There are go books on sale here?!</em></p>
+<figure id="attachment_2806" style="width: 300px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/roadrunner.gif"><img class=" wp-image-2806 " alt="Credit to Tumblr" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/roadrunner.gif?resize=300%2C226" width="300" height="226" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://www.tumblr.com/tagged/road%20runner">Tumblr</a></figcaption></figure>
+When I found the section of go books for sale, I couldn&#8217;t believe my eyes as I stared at possibly the largest collection and variety of go books I had ever seen all in one place&#8230; It was like I was a kid in a candy store.<br />
+<figure id="attachment_2822" style="width: 300px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/05/kermitexcited.gif"><img class=" wp-image-2822 " alt="Credit to Tumblr" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/05/kermitexcited.gif?resize=300%2C162" width="300" height="162" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://www.tumblr.com/tagged/excited%20gif">Tumblr</a></figcaption></figure>
+It&#8217;s safe to say that I spent the next 20 minutes or so perusing over just about every book I&#8217;d ever been remotely interested in. Granted, I&#8217;m trying to be better about spending money on go; but all of that went to hell when I found books that were out of print. With some restraint, I ended up only purchasing:</p>
+<ol>
+<li><span style="text-decoration: underline;"><span style="line-height: 13px;">Improve Your Intuition, Volume 3</span></span></li>
+<li><span style="text-decoration: underline;">The ABC&#8217;s of Attack and Defense</span></li>
+<li><span style="text-decoration: underline;">Cosmic Go</span> (Not out of print but I liked the writing style and decided to get it to further my study of handicap go)</li>
+</ol>
+<p>Once I was finished buying my books, I returned to socializing with my friends since I knew that spending any more time in the book section would probably result in me buying more books. Shortly after though, the pairings were up and it was time the first round of the day.<br />
+As my opponent and I sat across from one another, I saw him pull out his Bose headphones in preparation for the game. In the past, I had never considered listening to music while playing go; but I decided right there and then that I would give it a shot as well. Here&#8217;s the game from the first round.<a href="//wp-content/uploads/2013/05/2013-05-25-MD-Open-2013-Game-1.sgf"><br />
+</a><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/05\/2013-05-25-MD-Open-2013-Game-1.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/05/2013-05-25-MD-Open-2013-Game-1.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/05/2013-05-25-MD-Open-2013-Game-1.sgf[/download]
+<p>After that intense match, we all headed out for lunch at a nearby Korean supermarket. I got sushi and enjoyed someone&#8217;s miso soup while we talked all sorts of interesting topics (e.g., Steven&#8217;s experience in Japan with shabu-shabu, the metro station in Japan, etc.).  Before I knew it though, it was time for the second round. The only problem was that my opponent was nowhere to be found.<br />
+At this time, I was actually quite comfortable with the idea of my opponent not showing. The first round had given me a lot to think about and I was happy to simply watch other games instead of playing. Sure enough though, about ten minutes later my opponent came in ready to play. Here is the game record for the second round.<a href="//wp-content/uploads/2013/05/2013-05-25-MD-Open-2013-Game-2.sgf"><br />
+</a><br />
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/05\/2013-05-25-MD-Open-2013-Game-2.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/05/2013-05-25-MD-Open-2013-Game-2.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/05/2013-05-25-MD-Open-2013-Game-2.sgf[/download]
+<p>Unfortunately, I was unable to stay in the third round or attend the second day of the tournament, so my story ends here. However, even though I would have been curious to see how I would have done in the tournament, it was a fun filled day where I got to meet a lot of great people and play some great go. No regrets on my part. =)<br />
+Big shoutout to Eulerstotl, Yuki, Steven, Gurujeet, Todd, Keith, Josh and Justin! It was great seeing you all there!</p>
+]]></content:encoded>
+			<wfw:commentRss>/maryland-open-2013/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2803</post-id>	</item>
+		<item>
+		<title>Friday Go Forward: Week 8</title>
+		<link>/friday-go-forward-week-8/</link>
+		<pubDate>Fri, 22 Mar 2013 13:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[md open]]></category>
+		<category><![CDATA[processing speed]]></category>
+		<category><![CDATA[stamina]]></category>
+		<category><![CDATA[tournament preparation]]></category>
+
+		<guid isPermaLink="false">//?p=2234</guid>
+		<description><![CDATA[Games KGS &#8211; 8 game ( 6 win : 2 loss ) DGS &#8211; 7 ongoing games Tsumego Go Game &#8211; Life and Death (iPad App) &#8211; Practice Phase 2 ( Class 6 &#8211; 10 ) Other Elementary Go Series, Volume 5 &#8211; Attack and Defense &#8211; Page 21-57 Thoughts Although it doesn&#8217;t feel like it, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Games</h2>
+<ul>
+<li>KGS &#8211; 8 game ( 6 win : 2 loss )</li>
+<li>DGS &#8211; 7 ongoing games</li>
+</ul>
+<h2>Tsumego</h2>
+<ul>
+<li>Go Game &#8211; Life and Death (iPad App) &#8211; Practice Phase 2 ( Class 6 &#8211; 10 )</li>
+</ul>
+<h2>Other</h2>
+<ul>
+<li><span style="text-decoration: underline;">Elementary Go Series, Volume 5 &#8211; Attack and Defense</span> &#8211; Page 21-57</li>
+</ul>
+<h2>Thoughts</h2>
+<p>Although it doesn&#8217;t feel like it, this week has actually been pretty active in regards to playing. As you can see, I have seven ongoing games on <a href="http://www.dragongoserver.net/">Dragon Go Server</a>! And although this isn&#8217;t final or solid quite yet, my KGS account did manage to hit 5k this week! So we&#8217;ll see whether or not it sticks around. Haha.<br />
+Meanwhile, I find myself actually taking even more time to play games than I used to. I&#8217;m in this weird place where 30 minutes feels a bit too short but anything longer than that takes a long time and can be very tiring. Oh well, looks like I have two more things I need to improve: (1) Stamina &amp; (2) My Brain&#8217;s Processing Speed. After all, I need to get myself competition ready! <a title="40th Maryland Open — Go Tournament!" href="//40th-maryland-open-go-tournament/">MD Open 2013</a> is only two months away!<br />
+Many thanks to the following people for taking the time to find me and play with me on DGS: Paul, Tilwen, Devin, Tyler, Andrew, Todd, and Gurujeet! I&#8217;m looking forward to seeing what you all play next!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2234</post-id>	</item>
+		<item>
+		<title>40th Maryland Open &#8211; Go Tournament!</title>
+		<link>/40th-maryland-open-go-tournament/</link>
+		<pubDate>Tue, 19 Mar 2013 16:30:14 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[competition]]></category>
+		<category><![CDATA[go tournament]]></category>
+		<category><![CDATA[maryland open]]></category>
+		<category><![CDATA[md open]]></category>
+
+		<guid isPermaLink="false">//?p=2257</guid>
+		<description><![CDATA[For those who are on the East Coast or have plans to be in the area during Memorial Weekend, be sure to try and come out for the 40th Maryland Open Go Tournament! Here is a basic rundown of the event for those who are curious: When? May 25th and 26th, 2013 (Saturday and Sunday) [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For those who are on the East Coast or have plans to be in the area during Memorial Weekend, be sure to try and come out for the 40th Maryland Open Go Tournament! Here is a basic rundown of the event for those who are curious:</p>
+<ul>
+<li><strong style="line-height: 13px;">When?</strong><span style="line-height: 13px;"> May 25th and 26th, 2013 (Saturday and Sunday)</span></li>
+<li><strong>Where?</strong> <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=501+N.+Rolling+Rd.+Catonsville+Md&amp;sll=37.0625,-95.677068&amp;sspn=59.639182,60.732422&amp;ie=UTF8&amp;z=17&amp;iwloc=A">501 N. Rolling Road, Catonsville, MD 21228</a> (near Baltimore)</li>
+<li><strong>What?</strong> 5 Round AGA Rated Tournament (3 Rounds on Saturday &amp; 2 Rounds on Sunday)</li>
+<li><strong>Why?</strong> As if playing go in person was not enough incentive, there will be prizes in all sections (dan and kyu) from Yellow Mountain Imports and cash prizes for the open section!</li>
+</ul>
+<p>For more information or to sign up, please be sure to visit their site here: <a href="http://baltimoregoclub.org/md_open">Maryland Open 2013</a>. Hope to see you there!<br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/03/md_open_2013.jpg"><img class="aligncenter size-full wp-image-2261" alt="md_open_2013" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/03/md_open_2013.jpg?resize=610%2C793" width="610" height="793" data-recalc-dims="1" /></a></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2257</post-id>	</item>
+	</channel>
+</rss>

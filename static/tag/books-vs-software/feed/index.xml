@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>books vs. software &#8211; BenGoZen</title>
+	<atom:link href="/tag/books-vs-software/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Tsumego: Books vs. Software</title>
+		<link>/go-problems-books-vs-software/</link>
+		<pubDate>Wed, 31 Oct 2012 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[books vs. software]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=14</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #5 Although I&#8217;m normally a huge fan of technology and its ability to improve our lives, this is definitely one of those times where I warrant caution in its usage. Unlike a book, tsumego software allows you to try out moves that you think will work without actually reading it out. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><em>Weekly Go Wednesday, Issue #5</em></h2>
+<figure id="attachment_801" style="width: 371px" class="wp-caption aligncenter"><img class=" wp-image-801 " title="old-school-vs-new-school" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2012/10/old-school-vs-new-school.jpg?resize=371%2C328" alt="Cassette and iPod Talking" width="371" height="328" data-recalc-dims="1" /><figcaption class="wp-caption-text">Credit to JackTechh</figcaption></figure>
+Although I&#8217;m normally a huge fan of technology and its ability to improve our lives, this is definitely one of those times where I warrant caution in its usage.<br />
+<strong>Unlike a book, tsumego software allows you to try out moves that you think will work without actually reading it out.</strong> Let&#8217;s not forget, you are doing tsumego to improve your reading ability. If you&#8217;re not actually reading it out, how much improvement do you really expect to see? In addition, as if it wasn&#8217;t bad enough that you aren&#8217;t actually reading it out, you end up reinforcing a terrible habit on two levels:</p>
+<p style="padding-left: 30px;">#1. <em>Mental Reinforcement</em> &#8211; Your brain isn&#8217;t actually reading it out. Instead, it&#8217;s more of a &#8220;let&#8217;s play here and see how the computer responds.&#8221; So your brain is getting lazier since you know that the software will show you what&#8217;s wrong anyways. Thus, I would argue that it deteriorates your reading ability.</p>
+<p style="padding-left: 30px;">#2. <em>Physical Reinforcement</em> &#8211; Whether you realize it or not, each time you carelessly place a stone on the board, you are creating the muscle memory of the bad move. In other words, you are not only mentally saying, &#8220;Yes. I think this should work,&#8221; but your body  is also saying, &#8220;I concur with my brain and will act in conjunction with this idea.&#8221;</p>
+<p>There will be players who will then argue that it would be impossible to play go because everyone makes bad moves like this at one point or another. While that point may seem valid, the reason that it doesn&#8217;t apply to this scenario is that there is a crucial difference between making a bad move in an actual game and making a bad move in a tsumego problem:</p>
+<p style="padding-left: 30px;"><strong>There is little to no psychological attachment to solving tsumego incorrectly. It might be a little frustrating at times; but its impact on players is like a drop of water compared to the vast ocean that players feel when faced with the traumatic moment of realizing that their poor move cost them a group or the game.</strong></p>
+<p>As a result, players end up learning from their bad moves in their games; but generally fail to do so when making bad moves while solving tsumego.</p>
+<p style="text-align: center;"><strong>HOWEVER&#8230;.</strong></p>
+<p>This does not mean that tsumego software should be banned and never see daylight again. In fact, it would be a travesty if anyone were to take that away as my thesis for this post. Like anything else in life, it has to be used correctly for it to be beneficial to the user.<br />
+The following tips will help ensure that you are getting the most out of your tsumego software:</p>
+<ol>
+<li><strong>Read out every variation to the best of your ability before you place a single stone.</strong></li>
+<li><strong>If you end up choosing the wrong move&#8230;</strong>
+<ul>
+<li><strong>Figure out and understand <span style="text-decoration: underline;">why</span> it doesn&#8217;t work.</strong></li>
+<li>Reset the problem to the beginning.</li>
+<li>Read it out again without any stones on the board to reinforce the why it doesn&#8217;t work.</li>
+<li>Once you can see the entire sequence, play it through once more before moving on.</li>
+</ul>
+</li>
+<li><strong>Spend more time solving easy to intermediate problems.</strong></li>
+</ol>
+<p>Remember, being able to carry tsumego with us wherever we go these days is a luxury that we should all appreciate. Just remember that you use it properly and I assure you that you will thank yourself as your continue down the endless path to becoming one stone stronger.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">14</post-id>	</item>
+	</channel>
+</rss>

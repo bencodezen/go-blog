@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>full effort &#8211; BenGoZen</title>
+	<atom:link href="/tag/full-effort/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>An Introspective Weekend</title>
+		<link>/an-introspective-weekend/</link>
+		<pubDate>Tue, 29 Jan 2013 03:57:31 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[full effort]]></category>
+		<category><![CDATA[introspection]]></category>
+		<category><![CDATA[proper attention]]></category>
+		<category><![CDATA[respecting opponents]]></category>
+
+		<guid isPermaLink="false">//?p=1774</guid>
+		<description><![CDATA[Over the last couple of days, I&#8217;ve been doing a bit of self-reflection. Amidst the thinking and introspection, one of the things that I realized was that I had a really inconsistent approach to my games. Although I didn&#8217;t realize it at the time, I often found myself trying to play a game for the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the last couple of days, I&#8217;ve been doing a bit of self-reflection. Amidst the thinking and introspection, one of the things that I realized was that I had a really inconsistent approach to my games. Although I didn&#8217;t realize it at the time, I often found myself trying to play a game for the heck of it or to try and fit in a quick win before I needed to do something else. Then, on the complete opposite end, there were times when I played games where time was not a factor and I could completely immerse myself in my games. As one might expect, this made a significant impact on the results of my games.<br />
+While time is clearly one of the aspects that impacted my games, I realized that more blame can be attributed to my attitude toward the games. After all, a number of my ranked games were played with the idea that, &#8220;I can beat stronger players in even games, so this game should take only a fraction of the time and energy.&#8221; Unbelievably cocky no? Way to completely overrate myself and not respect my opponents for the strength they possessed.<br />
+I&#8217;m sure I&#8217;ll write more on this in the future, but I think it&#8217;s important that you give every opponent the respect they deserve. Trying to complicate a game in order to utilize your strong reading abilities to win is very different from underestimating your opponent and expecting them to make poor decisions. After all, I think a lot of us can agree that losing a game because you underestimate your opponent feels pretty crappy.<br />
+So while I&#8217;ve been a little quiet in terms of playing games, it&#8217;s not because I&#8217;m taking a break from go; but I&#8217;ve decided that I want to give every game I play the attention that it deserves. I&#8217;ve been rather busy as of late, but I&#8217;m trying my best not to play a game just to satisfy an itch. After all, I want every game I play to be a game I am proud to call my own, regardless of whether I win or lose.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1774</post-id>	</item>
+	</channel>
+</rss>

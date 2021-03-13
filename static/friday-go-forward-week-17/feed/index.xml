@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Friday Go Forward: Week 17</title>
+	<atom:link href="/friday-go-forward-week-17/feed/" rel="self" type="application/rss+xml" />
+	<link>/friday-go-forward-week-17/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/friday-go-forward-week-17/#comment-793</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Thu, 15 May 2014 13:20:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2768#comment-793</guid>
+		<description><![CDATA[The Lessons Learned was a section that came from personal experience. So it could be that I acquired them while solving a problem, reading a book, playing a game, or getting a game review from a stronger player. But they are more like &quot;Aha!&quot; moments as opposed to just new things I learned.]]></description>
+		<content:encoded><![CDATA[<p>The Lessons Learned was a section that came from personal experience. So it could be that I acquired them while solving a problem, reading a book, playing a game, or getting a game review from a stronger player. But they are more like &#8220;Aha!&#8221; moments as opposed to just new things I learned.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: saxmaam</title>
+		<link>/friday-go-forward-week-17/#comment-792</link>
+		<dc:creator><![CDATA[saxmaam]]></dc:creator>
+		<pubDate>Wed, 14 May 2014 23:59:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2768#comment-792</guid>
+		<description><![CDATA[The Lessons Learned are intriguing.  Where did you get these insights?  Particular books, or just things coming together?]]></description>
+		<content:encoded><![CDATA[<p>The Lessons Learned are intriguing.  Where did you get these insights?  Particular books, or just things coming together?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

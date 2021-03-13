@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>congress &#8211; BenGoZen</title>
+	<atom:link href="/tag/congress/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 56</title>
+		<link>/friday-go-forward-week-56/</link>
+		<comments>/friday-go-forward-week-56/#comments</comments>
+		<pubDate>Fri, 04 Apr 2014 11:15:01 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[congress]]></category>
+		<category><![CDATA[dojang]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[insei]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[yunguseng]]></category>
+
+		<guid isPermaLink="false">//?p=4845</guid>
+		<description><![CDATA[Friday Go Forward: Week 56 Overview This week marked the start of April and thus the official countdown to US Go Congress! In addition, I am uber psyched to announce that I officially joined the Yunguseng Dojang and will definitely be part of Season 9 2014! Even though it hasn&#8217;t started yet, since it&#8217;s a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 56</h2>
+<h2>Overview</h2>
+<p>This week marked the start of April and thus the official countdown to <a title="US Go Congress Official Site" href="http://www.gocongress.org/">US Go Congress</a>! In addition, I am uber psyched to announce that I officially joined the <a title="Yunguseng Dojang Official Site" href="http://www.yunguseng.com/">Yunguseng Dojang</a> and will definitely be part of Season 9 2014! Even though it hasn&#8217;t started yet, since it&#8217;s a break month, I was able to get started on checking out some of the recorded material in there. And while I would love to rant on and on about it right now, I will keep it short and just say that there is a lot of great stuff waiting for me to discover.<br />
+I think I have come up with a new training regimen for my training my tsumego and reading, but I haven&#8217;t finalized it yet so I&#8217;ll wait till next week to update the section with what I&#8217;m doing. And in terms of playing go, it has been a bit quieter this week, but I&#8217;m definitely hoping to get online and play a game soon! Hope you all are doing well and I&#8217;ll see you next week!</p>
+<h2>Training Regimen</h2>
+<ul>
+<li><b>Reading Ability &#8211; </b>Work on the tasks below until whichever comes first.*
+<ul>
+<li>Work on go problems for 30 minutes.</li>
+<li>Work on 300 go problems.</li>
+</ul>
+</li>
+</ul>
+<p>*<em>This is a way to split the difference between task based versus time based training. If you work faster than normal, and can get through 300 (or whichever number you decide on) problems. Kudos to you. But in the event you&#8217;re having trouble and need more time to work on the problems, just keep at it until 30 minutes is up (or whatever time you think it best for you).</em></p>
+<h2>Games</h2>
+<ul>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  2 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 5 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  4 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li>Worked on <em>Life and Death Problems 1 &#8211; Basics</em> by Robert Jasiek.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-56/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4845</post-id>	</item>
+	</channel>
+</rss>

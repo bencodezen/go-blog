@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>estimation &#8211; BenGoZen</title>
+	<atom:link href="/tag/estimation/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Estimating Territory</title>
+		<link>/estimating-territory/</link>
+		<pubDate>Wed, 02 Jan 2013 22:30:49 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Tactics]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[counting]]></category>
+		<category><![CDATA[estimating territory]]></category>
+		<category><![CDATA[estimation]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[good habits]]></category>
+
+		<guid isPermaLink="false">//?p=1586</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #11 Counting (i.e., estimating territory at any point in the game). Although this is a skill that many would say is critical to improving the consistency of your games, this is probably the skill that is most avoided by go players all around. For those who are not aware of the benefits [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center"><strong><em>Weekly Go Wednesday, Issue #11</em></strong></h2>
+<figure id="attachment_1590" style="width: 288px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/abacus.jpg"><img class=" wp-image-1590  " alt="Credit to David R. Tribble" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/abacus.jpg?resize=288%2C216" width="288" height="216" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to David R. Tribble</figcaption></figure>
+Counting (i.e., estimating territory at any point in the game). Although this is a skill that many would say is critical to improving the consistency of your games, this is probably the skill that is most avoided by go players all around. For those who are not aware of the benefits of counting, it boils down to one simple principle: <strong>It provides guidance as to how aggressively/defensively you should be playing</strong>.<br />
+<span id="more-1586"></span><br />
+For example, if you are ahead by 30 points on the board, the best thing to do is to solidify your positions and reduce the possibility of your opponent successively invading and destroying your territory. Without counting, you might make overplays and take unnecessary risks that could allow your opponent to turn the game around. On the other hand, if you are behind, you better start invading or doing whatever you can to change the flow of the game.<br />
+With that benefit, you must be asking yourself, why doesn&#8217;t everyone do it then?</p>
+<ol>
+<li><strong>It is a time consuming process. </strong>Whether it&#8217;s trying to determine whether you can kill your opponent&#8217;s group, or whether you can win that capturing race, most players (myself included) are so preoccupied with the tactical aspects of go that counting rarely makes the cut when managing our time.</li>
+<li><strong>Counting is not as simple as 1 + 1 = 2. </strong>While estimating territory may seem rather easy, it requires a fundamental understanding of where realistic territory exists and what is still undecided. As any player is well aware, the game can be decided by as little as half a point. So overestimation/underestimation can obviously have a huge impact on the result of the game. As a result, the haziness of estimating territory only serves to scare more players away.</li>
+<li><strong>The board is constantly changing.</strong> This further discourages players from counting since it&#8217;s difficult to predict where the opponent will go next.</li>
+</ol>
+<p>Fortunately, all hope is not lost! Although this may seem rather self-explanatory, it is important to remember that the key word to remember when counting is that you are <strong>estimating</strong>. If you can get yourself to within 10 points of the actual score, you are far better off than most amateur players.<br />
+In terms of how you can improve your counting abilities, here are some tips to get you started:</p>
+<ol>
+<li><strong>Don&#8217;t spend any longer than a minute counting. </strong>If you are spending more time, you are being too exact.</li>
+<li><strong>Count in pairs.</strong> This will allow you to count at a much faster pace.</li>
+<li><strong>Don&#8217;t count anything that looks questionable.</strong> If it looks like either player can jump in and easily live/escape, throw that territory out the window.</li>
+<li><strong>Create a blueprint.</strong> In an ideal world, you would be able to easily remember how much each territory is. For most of us though, we will find ourselves forgetting or confusing how much each section is worth. So to build up to the skill of being able to remember it all, create a quick sketch of the board with your first estimations when you first count, and then modify it accordingly the next time you count.</li>
+<li><strong>Compare your estimation with a stronger player&#8217;s estimation.</strong> This can be a huge benefit to helping you understand how to make more accurate decisions regarding how to estimate the score.</li>
+</ol>
+<p>Like any other skill in life, do not be discouraged if your counting skills are off. The key thing is to keep practicing and making it a habit. Start by counting just once per game, and then increase it to two when you feel comfortable doing so. I assure you that you will definitely get faster over time.<br />
+Finally, there is one final matter that must be addressed: estimating score using software. While this is a really convenient tool, it is important to realize that it is far from perfect. I have seen the software mistaken large groups for dead when they are clearly alive. As a result, remember that it is not something you should use as a reference point.<br />
+If you have any tips or exercises that helped you improve your counting abilities, please be sure to share it below!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1586</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,1129 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js no-svg">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Book Review: The Master of Go &#8211; BenGoZen</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="BenGoZen &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BenGoZen &raquo; Comments Feed" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="BenGoZen &raquo; Book Review: The Master of Go Comments Feed" href="/book-review-the-master-of-go/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bengozen.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='typology-fonts-css'  href='https://fonts.googleapis.com/css?family=Domine%3A400%7CJosefin+Sans%3A400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='typology-main-css'  href='/wp-content/themes/typology/assets/css/min.css?ver=1.4' type='text/css' media='all' />
+<style id='typology-main-inline-css' type='text/css'>
+body,blockquote:before, q:before{font-family: 'Domine';font-weight: 400;}body,.typology-action-button .sub-menu{color:#444444;}body{background:#f8f8f8;font-size: 1.6em;}.typology-fake-bg{background:#f8f8f8;}.typology-sidebar,.typology-section{background:#ffffff;}h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6,.submit,.mks_read_more a,input[type="submit"],a.mks_button,.cover-letter,.post-letter,.woocommerce nav.woocommerce-pagination ul li span,.woocommerce nav.woocommerce-pagination ul li a,.woocommerce div.product .woocommerce-tabs ul.tabs li,.typology-pagination a,.typology-pagination span,.comment-author .fn,.post-date-month,.typology-button-social,.mks_autor_link_wrap a,.entry-pre-title,.typology-button,button{font-family: 'Josefin Sans';font-weight: 600;}.typology-header .typology-nav{font-family: 'Josefin Sans';font-weight: 600;}.typology-cover .entry-title,.typology-cover h1 { font-size: 6.4rem;}h1, .h1 {font-size: 4.8rem;}h2, .h2 {font-size: 3.5rem;}h3, .h3 {font-size: 2.8rem;}h4, .h4 {font-size: 2.3rem;}h5, .h5,.typology-layout-c.post-image-on .entry-title {font-size: 1.8rem;}h6, .h6, blockquote, q {font-size: 1.5rem;}.widget{font-size: 1.4rem;}.typology-header .typology-nav a{font-size: 1.1rem;}.typology-layout-b .post-date-hidden,.meta-item{font-size: 1.3rem;}.post-letter {font-size: 26rem;}.cover-letter {font-size: 60rem;}h1, h2, h3, h4, h5, h6,.h1, .h2, .h3, .h4, .h5, .h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.post-date-month{color:#333333;}.typology-single-sticky a{color:#444444;}.entry-title a:hover,.typology-single-sticky a:hover{color:#9e1919;}.bypostauthor .comment-author:before,#cancel-comment-reply-link:after{background:#9e1919;}a,.widget .textwidget a,.typology-layout-b .post-date-hidden{color: #9e1919;}.single .typology-section:first-child .section-content, .section-content-page, .section-content.section-content-a{max-width: 720px;}.typology-header{height:110px;}.typology-header-sticky-on .typology-header{background:#9e1919;}.cover-letter{padding-top: 110px;}.site-title a,.typology-site-description{color: #ffffff;}.typology-header .typology-nav,.typology-header .typology-nav > li > a{color: #ffffff;}.typology-header .typology-nav .sub-menu a{ color:#444444;}.typology-header .typology-nav .sub-menu a:hover{color: #9e1919;}.typology-action-button .sub-menu ul a:before{background: #9e1919;}.sub-menu .current-menu-item a{color:#9e1919;}.dot,.typology-header .typology-nav .sub-menu{background:#ffffff;}.typology-header .typology-main-navigation .sub-menu .current-menu-ancestor > a,.typology-header .typology-main-navigation .sub-menu .current-menu-item > a{color: #9e1919;}.typology-header-wide .slot-l{left: 35px;}.typology-header-wide .slot-r{right: 20px;}.meta-item,.meta-item span,.meta-item a,.comment-metadata a{color: #888888;}.comment-meta .url,.meta-item a:hover{color:#333333;}.typology-post:after,.section-title:after,.typology-pagination:before{background:rgba(51,51,51,0.2);}.typology-layout-b .post-date-day,.typology-outline-nav li a:hover,.style-timeline .post-date-day{color:#9e1919;}.typology-layout-b .post-date:after,blockquote:before,q:before{background:#9e1919;}.typology-sticky-c,.typology-sticky-to-top span,.sticky-author-date{color: #888888;}.typology-outline-nav li a{color: #444444;}.typology-post.typology-layout-b:before{background:rgba(68,68,68,0.1);}.submit,.mks_read_more a,input[type="submit"],a.mks_button,.typology-button,.submit,.typology-button-social,.widget .mks_autor_link_wrap a,.widget .mks_read_more a,button{color:#ffffff;background: #9e1919;border:1px solid #9e1919;}.button-invert{color:#9e1919;background:transparent;}.widget .mks_autor_link_wrap a:hover,.widget .mks_read_more a:hover{color:#ffffff;}.typology-cover{min-height: 240px;}.typology-cover-empty{height:209px;min-height:209px;}.typology-fake-bg .typology-section:first-child {top: -99px;}.typology-flat .typology-cover-empty{height:110px;}.typology-flat .typology-cover{min-height:110px;}.typology-cover-empty,.typology-cover,.typology-header-sticky{background: #333333;;}.typology-cover-overlay:after{background: rgba(51,51,51,0.6);}.typology-sidebar-header{background:#9e1919;}.typology-cover,.typology-cover .entry-title,.typology-cover .entry-title a,.typology-cover .meta-item,.typology-cover .meta-item span,.typology-cover .meta-item a,.typology-cover h1,.typology-cover h2,.typology-cover h3{color: #ffffff;}.typology-cover .typology-button{color: #333333;background:#ffffff;border:1px solid #ffffff;}.typology-cover .button-invert{color: #ffffff;background: transparent;}.typology-cover-slider .owl-dots .owl-dot span{background:#ffffff;}.typology-outline-nav li:before,.widget ul li:before{background:#9e1919;}.widget a{color:#444444;}.widget a:hover,.widget_calendar table tbody td a,.entry-tags a:hover{color:#9e1919;}.widget_calendar table tbody td a:hover,.widget table td,.entry-tags a{color:#444444;}.widget table,.widget table td,.widget_calendar table thead th,table,td, th{border-color: rgba(68,68,68,0.3);}.widget ul li,.widget .recentcomments{color:#444444;}.widget .post-date{color:#888888;}#today{background:rgba(68,68,68,0.1);}.typology-pagination .current, .typology-pagination .infinite-scroll a, .typology-pagination .load-more a, .typology-pagination .nav-links .next, .typology-pagination .nav-links .prev, .typology-pagination .next a, .typology-pagination .prev a{color: #ffffff;background:#333333;}.typology-pagination a, .typology-pagination span{color: #333333;border:1px solid #333333;}.typology-footer{background:#f8f8f8;color:#aaaaaa;}.typology-footer h1,.typology-footer h2,.typology-footer h3,.typology-footer h4,.typology-footer h5,.typology-footer h6,.typology-footer .post-date-month{color:#aaaaaa;}.typology-count{background: #9e1919;}.typology-footer a, .typology-footer .widget .textwidget a{color: #888888;}input[type="text"], input[type="email"], input[type="url"], input[type="tel"], input[type="number"], input[type="date"], input[type="password"], textarea, select{border-color:rgba(68,68,68,0.2);}blockquote:after, blockquote:before, q:after, q:before{-webkit-box-shadow: 0 0 0 10px #ffffff;box-shadow: 0 0 0 10px #ffffff;}pre,.entry-content #mc_embed_signup{background: rgba(68,68,68,0.1);}body.wp-editor,{background:#ffffff;}.site-title{text-transform: uppercase;}.typology-site-description{text-transform: none;}.typology-nav{text-transform: uppercase;}h1, h2, h3, h4, h5, h6{text-transform: uppercase;}.section-title{text-transform: uppercase;}.widget-title{text-transform: uppercase;}.meta-item{text-transform: none;}.typology-button{text-transform: uppercase;}.submit,.mks_read_more a,input[type="submit"],a.mks_button,.typology-button,.widget .mks_autor_link_wrap a,.widget .mks_read_more a,button,.typology-button-social{text-transform: uppercase;}
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='/wp-content/plugins/jetpack/css/jetpack.css?ver=6.7' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":0,"root_domain":"bengozen.com","event_timeout":100,"event_precision":0,"event_formsubmit":0,"ga_pagescrolldepth_tracking":0,"ga_with_gtag":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js?ver=5.3.5'></script>
+<script type='text/javascript' src='/wp-content/plugins/glift-go-game/js/glift.js?ver=1.1.1'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Demolished with a Silver Lining' href='/demolished-with-a-silver-lining/' />
+<link rel='next' title='Nothing But Go' href='/nothing-but-go/' />
+<meta name="generator" content="WordPress 4.9.8" />
+<link rel="canonical" href="/book-review-the-master-of-go/" />
+<link rel='shortlink' href='https://wp.me/p9L6T0-NM' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fbook-review-the-master-of-go%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fbook-review-the-master-of-go%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Book Review: The Master of Go" />
+<meta property="og:url" content="http://bengozen.com/book-review-the-master-of-go/" />
+<meta property="og:description" content="Description: A fictional chronicle of a match played between a revered and invincible Master and a younger, more modern challenger. It is set in a time where the immutable traditions of imperial Ja…" />
+<meta property="article:published_time" content="2013-07-24T09:00:32+00:00" />
+<meta property="article:modified_time" content="2013-07-24T09:00:32+00:00" />
+<meta property="og:site_name" content="BenGoZen" />
+<meta property="og:image" content="http://bengozen.com//wp-content/uploads/2013/12/masterofgocover.jpg" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="459" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Book Review: The Master of Go" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+
+<!-- BEGIN ExactMetrics v5.3.5 Universal Analytics - https://exactmetrics.com/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35954107-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END ExactMetrics Universal Analytics -->
+			<style type="text/css" id="wp-custom-css">
+				@media (min-width: 1024px) {
+	.typology-section #disqus_thread {
+		padding-left: 50px;
+		padding-right: 50px;
+	}
+}			</style>
+			</head>
+
+	<body class="post-template-default single single-post postid-3086 single-format-standard">
+
+		<header id="typology-header" class="typology-header">
+			<div class="container">
+					<div class="slot-l">
+	<div class="typology-site-branding">
+	
+	<span class="site-title h4"><a href="/" rel="home"><img class="typology-logo" src="/wp-content/uploads/2018/03/BenGoZen.png" alt="BenGoZen"></a></span>	
+</div>
+	
+</div>
+
+<div class="slot-r">
+				<ul id="menu-mainnav" class="typology-nav typology-main-navigation"><li id="menu-item-2559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2559"><a href="//">Home</a></li>
+<li id="menu-item-2553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2553"><a href="/reviews/">Reviews</a>
+<ul class="sub-menu">
+	<li id="menu-item-5997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5997"><a href="/reviews/books/">Book Reviews</a></li>
+	<li id="menu-item-2574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2574"><a href="/category/reviews/equipment/">Equipment</a></li>
+	<li id="menu-item-2575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2575"><a href="/category/reviews/vendors/">Vendors</a></li>
+	<li id="menu-item-2623" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2623"><a href="/category/reviews/websites/">Websites</a></li>
+</ul>
+</li>
+<li id="menu-item-2624" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2624"><a href="/category/guides/">Guides</a></li>
+<li id="menu-item-5993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5993"><a href="/resources/">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-2630" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2630"><a href="http://playgo.to/iwtg/en/">Learn to Play Go!</a></li>
+	<li id="menu-item-5996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5996"><a href="/resources/shops/">Shops</a></li>
+	<li id="menu-item-5995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5995"><a href="/resources/tools/">Tools</a></li>
+	<li id="menu-item-5994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5994"><a href="/resources/other-go-blogs/">Other Go Blogs</a></li>
+</ul>
+</li>
+<li id="menu-item-5992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5992"><a href="/about/">About</a></li>
+<li id="menu-item-5991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5991"><a href="/contact/">Contact</a></li>
+</ul>			
+	<ul class="typology-nav typology-actions-list">
+    <li class="typology-action-button typology-action-sidebar">
+		<span>
+			<i class="fa fa-bars"></i>
+		</span>
+</li>
+</ul></div>			</div>
+		</header>
+	
+			
+				<div id="typology-cover" class="typology-cover typology-cover-empty">
+					</div>
+		<div class="typology-fake-bg">
+			<div class="typology-section">
+
+				<div class="section-content">
+    <article id="post-3086" class="typology-post typology-single-post post-3086 post type-post status-publish format-standard hentry category-books category-reviews tag-biography tag-elegy tag-fictional tag-historical tag-honinbo tag-novel tag-shusai">
+
+        
+            <header class="entry-header">
+
+                <h1 class="entry-title entry-title-cover-empty">Book Review: The Master of Go</h1>
+                 
+                    <div class="entry-meta"><div class="meta-item meta-author">By <span class="vcard author"><span class="fn"><a href="/author/bengozen/">BenGoZen</a></span></span></div><div class="meta-item meta-category">In <a href="/category/reviews/books/" rel="category tag">Books</a>, <a href="/category/reviews/" rel="category tag">Reviews</a></div><div class="meta-item meta-date"><span class="updated">July 24, 2013</span></div><div class="meta-item meta-rtime">3 Min read</div><div class="meta-item meta-comments"><a href="/book-review-the-master-of-go/#comments"><span class="dsq-postid">25 comments</span></a></div></div>
+                
+                                    <div class="post-letter">B</div>
+                
+            </header>
+
+                
+        <div class="entry-content clearfix">
+                        
+            
+            <p><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/12/masterofgocover.jpg"><img class="aligncenter size-full wp-image-3092" alt="masterofgocover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/12/masterofgocover.jpg?resize=300%2C459" width="300" height="459" data-recalc-dims="1" /></a><br />
+<strong>Description:</strong> A fictional chronicle of a match played between a revered and invincible Master and a younger, more modern challenger. It is set in a time where the immutable traditions of imperial Japan met the onslaught of the twentieth century.<br />
+<span id="more-3086"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, The Master of Go<br />
+Author, Yasunari Kawabata<br />
+Translator, Edward G. Seidensticker<br />
+Publisher, Vintage Books<br />
+Published, &#8220;June 1996&#8243;<br />
+Language, English<br />
+ISBN, 0-394-47541-0<br />
+Length, 188 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Introduction</li>
+<li>Chapter 1</li>
+<li>Chapter 2</li>
+<li>Chapter 3</li>
+<li>Chapter 4</li>
+<li>Chapter 5</li>
+<li>&#8230;</li>
+<li>Chapter 40</li>
+<li>Chapter 41</li>
+<li>Notes</li>
+</ul>
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ol>
+<li>The story is told from a third person&#8217;s perspective on &#8220;The Master of Go.&#8221;</li>
+<li>Although the story revolves around go, it is more of a historical retelling and/or biography than an intriguing story about go the way <a title="Book Review: First Kyu" href="//book-review-first-kyu/">First Kyu</a> is.</li>
+<li>Recommended for someone looking for a meditative elegy on a famous go player&#8217;s last game.</li>
+</ol>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+I knew beforehand that this book would be more of a historic (but partially fictional) retelling of Shusai&#8217;s last game. However, that did not stop me from hoping that it would live up (even if only 10%) to First Kyu. So unfortunately, I am the first to admit that I had a harder time appreciating the book after the gripping and culturally enriching storyline that First Kyu had. Though to be fair, it is important to note that the two books have completely different approaches to telling a story that is themed around go.<br />
+For what sliver of objectivity I have left in regards to this book, I will admit that it is a book that commands your attention in a way that a drop of water would captivate you after being submerged in pure silence. It certainly is not a book for those looking for a protagonist to become attached to or some plot with twists and jaw-dropping turns. Instead though, there is an air of tranquility and introspection about the game and the player that even I had to appreciate as I read the book. In other words, if I might paraphrase what my friend Martin said, &#8220;There&#8217;s a reason it has a Nobel prize while First Kyu does not.&#8221;<br />
+Bottom line, although this book doesn&#8217;t rate too highly for me personally, it is a great book if you&#8217;re looking for a calming book immersed in go during a turbulent time in Japan.<br />
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Recommended for someone looking for a meditative elegy on a famous go player&#8217;s last game.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>Amazon &#8211; <a title="Amazon Purchase Link" href="http://www.amazon.com/gp/product/0679761063/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0679761063&amp;linkCode=as2&amp;tag=be09a-20">$12.15</a> USD (shipping and handling not included)</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on July 24th, 2013</strong></em></p>
+
+                        
+                            <div class="entry-tags"><a href="/tag/biography/" rel="tag">biography</a> <a href="/tag/elegy/" rel="tag">elegy</a> <a href="/tag/fictional/" rel="tag">fictional</a> <a href="/tag/historical/" rel="tag">historical</a> <a href="/tag/honinbo/" rel="tag">honinbo</a> <a href="/tag/novel/" rel="tag">novel</a> <a href="/tag/shusai/" rel="tag">shusai</a></div>
+            
+        </div>
+        
+                     	
+	
+		<div class="typology-social-icons">
+							<a href="javascript:void(0);" class="typology-facebook typology-share-item hover-on" data-url="http://www.facebook.com/sharer/sharer.php?u=http://bengozen.com/book-review-the-master-of-go/&amp;t=Book+Review%3A+The+Master+of+Go"><i class="fa fa-facebook"></i></a>							<a href="javascript:void(0);" class="typology-twitter typology-share-item hover-on" data-url="http://twitter.com/intent/tweet?url=http://bengozen.com/book-review-the-master-of-go/&amp;text=Book+Review%3A+The+Master+of+Go"><i class="fa fa-twitter"></i></a>							<a href="javascript:void(0);"  class="typology-reddit typology-share-item hover-on" data-url="http://www.reddit.com/submit?url=http://bengozen.com/book-review-the-master-of-go/&amp;title=Book+Review%3A+The+Master+of+Go"><i class="fa fa-reddit-alien"></i></a>					</div>
+
+	        
+    </article>
+</div>
+				
+	<div class="section-head"><h3 class="section-title h6">About the author</h3></div>		
+	<div class="section-content typology-author">
+			
+		<div class="container">
+
+			<div class="col-lg-2">
+				<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=100&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=200&#038;d=mm&#038;r=g 2x' class='avatar avatar-100 photo' height='100' width='100' />			</div>
+
+			<div class="col-lg-10">
+
+				<h5 class="typology-author-box-title">BenGoZen</h5>
+				<div class="typology-author-desc">
+									</div>
+
+				<div class="typology-author-links">
+					<a class="typology-button-social hover-on" href="/author/bengozen/">View all posts</a>				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+
+				
+	
+				
+				
+		<div class="section-head"><h3 class="section-title h6">&lt;span class=&quot;dsq-postid&quot; data-dsqidentifier=&quot;3086 http://bengozen.com//?p=3086&quot;&gt;25 comments&lt;/span&gt;</h3></div>
+		<div id="comments" class="section-content typology-comments">
+
+						
+			
+				<ul class="comment-list">
+											<li id="comment-924" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-924" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/081665ee4e19db1544b75cbc12c65f51?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/081665ee4e19db1544b75cbc12c65f51?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='http://neagle.github.com/' rel='external nofollow' class='url'>Nate Eagle</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-924">
+							<time datetime="2013-07-24T10:35:00+00:00">
+								July 24, 2013 at 10:35 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I can&#8217;t say I loved this book, either, though I do think about it a lot. But I&#8217;d hate to hold everything up to First Kyu&#8230; that book was so damn good.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-925" class="comment odd alt depth-2">
+			<article id="div-comment-925" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-925">
+							<time datetime="2013-07-24T10:49:00+00:00">
+								July 24, 2013 at 10:49 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>But that is the reality of the situation for most people who read First Kyu. Haha. The way he embeds go into such an epic storyline while enriching the reader in Korean culture was just absolutely mind-blowing.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-926" class="comment even thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-926" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/471d91dd08cc433c2a7ccd1b00995fe0?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/471d91dd08cc433c2a7ccd1b00995fe0?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">Fan</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-926">
+							<time datetime="2013-07-24T15:07:00+00:00">
+								July 24, 2013 at 3:07 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hello. Which game are you referring to when you say &#8220;retelling of Shusai’s last game?&#8221; Is it his game with go seigen?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-927" class="comment odd alt depth-2 parent">
+			<article id="div-comment-927" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-927">
+							<time datetime="2013-07-24T15:13:00+00:00">
+								July 24, 2013 at 3:13 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I wish it were his game with Go Seigen! Haha. But the game in the book is from his retirement game against Kitani Minoru.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-928" class="comment even depth-3 parent">
+			<article id="div-comment-928" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/471d91dd08cc433c2a7ccd1b00995fe0?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/471d91dd08cc433c2a7ccd1b00995fe0?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">Fan</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-928">
+							<time datetime="2013-07-24T15:15:00+00:00">
+								July 24, 2013 at 3:15 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Thanks a lot. Btw, which server do you play on?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-929" class="comment odd alt depth-4 parent">
+			<article id="div-comment-929" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/471d91dd08cc433c2a7ccd1b00995fe0?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/471d91dd08cc433c2a7ccd1b00995fe0?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">Fan</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-929">
+							<time datetime="2013-07-24T15:17:00+00:00">
+								July 24, 2013 at 3:17 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Also, can u post the kifu for the game here (the retirement game)? Thanks!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-932" class="comment even depth-5">
+			<article id="div-comment-932" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-932">
+							<time datetime="2013-07-24T15:22:00+00:00">
+								July 24, 2013 at 3:22 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I will have to update the review in the future. But just so you can check it out now:<br />
+<a href="http://gokifu.com/share/iy0" rel="nofollow">http://gokifu.com/share/iy0</a><br />
+Enjoy!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-931" class="comment odd alt depth-4 parent">
+			<article id="div-comment-931" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-931">
+							<time datetime="2013-07-24T15:21:00+00:00">
+								July 24, 2013 at 3:21 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I play on a number of servers! Primarily KGS, Nova.gs, and Dragon Go Server. How about you?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-934" class="comment even depth-5 parent">
+			<article id="div-comment-934" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">RisingStar</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-934">
+							<time datetime="2013-07-24T15:23:00+00:00">
+								July 24, 2013 at 3:23 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Whoa! I didn&#8217;t know you played on KGS?! Which room do you play in? Can I join it?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-935" class="comment odd alt depth-5 parent">
+			<article id="div-comment-935" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-935">
+							<time datetime="2013-07-24T15:25:00+00:00">
+								July 24, 2013 at 3:25 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I&#8217;m not really room-centric. I&#8217;m more focused on just playing with people who want to play. But you can always find me in the English Game Room and Study Group Kyu room. What&#8217;s your username?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-936" class="comment even depth-5 parent">
+			<article id="div-comment-936" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">RisingStar</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-936">
+							<time datetime="2013-07-24T15:34:00+00:00">
+								July 24, 2013 at 3:34 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>You can find me as risingstar. I created the account today. What&#8217;s your username?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-939" class="comment odd alt depth-5">
+			<article id="div-comment-939" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-939">
+							<time datetime="2013-07-24T16:37:00+00:00">
+								July 24, 2013 at 4:37 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Sounds good!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-930" class="comment even thread-even depth-1 parent">
+			<article id="div-comment-930" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">RisingStar</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-930">
+							<time datetime="2013-07-24T15:19:00+00:00">
+								July 24, 2013 at 3:19 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I love your blog!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-933" class="comment odd alt depth-2 parent">
+			<article id="div-comment-933" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-933">
+							<time datetime="2013-07-24T15:22:00+00:00">
+								July 24, 2013 at 3:22 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Thanks for your enthusiasm! I really appreciate it! And if you ever have any requests, be sure to let me know and I&#8217;ll see what I can do!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-937" class="comment even depth-3 parent">
+			<article id="div-comment-937" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">RisingStar</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-937">
+							<time datetime="2013-07-24T15:51:00+00:00">
+								July 24, 2013 at 3:51 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Actually, I&#8217;m looking for an official sized wooden go board that is affordable (~$100-$150) and good quality. Can you recommend anything?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-938" class="comment odd alt depth-4 parent">
+			<article id="div-comment-938" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-938">
+							<time datetime="2013-07-24T16:36:00+00:00">
+								July 24, 2013 at 4:36 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Absolutely. I recommend checking YMImports to see if you like anything there, but since they don&#8217;t have any shin-kaya table boards available at the moment, I recommend checking out:<br />
+<a href="http://shop.gogameguru.com/shin-kaya-go-board-05-c/" rel="nofollow">http://shop.gogameguru.com/shin-kaya-go-board-05-c/</a><br />
+Let me know if you have any other questions!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-940" class="comment even depth-5">
+			<article id="div-comment-940" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/8bf6ea2c284b4f40508ee616be1a4538?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">RisingStar</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-940">
+							<time datetime="2013-07-24T16:42:00+00:00">
+								July 24, 2013 at 4:42 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Thanks!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li id="comment-941" class="comment odd alt thread-odd thread-alt depth-1 parent">
+			<article id="div-comment-941" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/24090c62a227bcc2ef3b504e7351dfea?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/24090c62a227bcc2ef3b504e7351dfea?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">Martin Siepermann</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-941">
+							<time datetime="2013-07-25T08:09:00+00:00">
+								July 25, 2013 at 8:09 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>IMHO what is important to know / notice is that &#8220;Master of Go&#8221; is not really about go, but &#8220;First Kyu&#8221; is. In Master of Go the game is a methapor for the clash of old and new Japan in a time where the nation just has started the most suicidal war in the history of mankind but nobody wanted to hear about it. Insted they played incredible slow go in spas &#8230; First Kyu has a completly different focus, it&#8217;s really hard to compare them at all. But one thing for those who disregard &#8220;Master of Go&#8221;: There will never be a Nobel prize for &#8220;First Kyu&#8221; &#8211; that&#8217;s for sure. But Kawabata got one for Master of Go (and other books), so maybe it&#8217;s just not that bad &#8230; 😉<br />
+And last but not least my personal feelings about the books: I love them both! 🙂</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-942" class="comment even depth-2 parent">
+			<article id="div-comment-942" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-942">
+							<time datetime="2013-07-25T08:50:00+00:00">
+								July 25, 2013 at 8:50 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I think you bring up an excellent point. In many ways, comparing the two books is like comparing apples and oranges. To clarify though (which I will probably go back into the review to fix), it&#8217;s not that I thought the book was bad by any means. It&#8217;s just that I went into it with a slightly different expectation since I read First Kyu before. But yes, there&#8217;s definitely a reason why it won a Nobel prize. =D</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-943" class="comment odd alt depth-3 parent">
+			<article id="div-comment-943" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/24090c62a227bcc2ef3b504e7351dfea?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/24090c62a227bcc2ef3b504e7351dfea?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">Martin Siepermann</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-943">
+							<time datetime="2013-07-25T11:41:00+00:00">
+								July 25, 2013 at 11:41 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>BTW, your blog is great! If only there were a Nobel prize for blogs &#8230; 😉 </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-944" class="comment even depth-4 parent">
+			<article id="div-comment-944" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-944">
+							<time datetime="2013-07-25T11:45:00+00:00">
+								July 25, 2013 at 11:45 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Haha. I am super flattered and appreciate the compliment! I only hope that I will continue to live up to you and everyone&#8217;s expectations as I continue enhancing the blog! =D</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+<ul class="children">
+		<li id="comment-945" class="comment odd alt depth-5 parent">
+			<article id="div-comment-945" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/24090c62a227bcc2ef3b504e7351dfea?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/24090c62a227bcc2ef3b504e7351dfea?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">Martin Siepermann</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-945">
+							<time datetime="2013-07-25T14:23:00+00:00">
+								July 25, 2013 at 2:23 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Come on, that&#8217;s easy: Just become a pro in go and win a Nobel prize! 😉</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-946" class="comment even depth-5 parent">
+			<article id="div-comment-946" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-946">
+							<time datetime="2013-07-25T21:04:00+00:00">
+								July 25, 2013 at 9:04 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Alright. If you say so! =D</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-947" class="comment odd alt depth-5 parent">
+			<article id="div-comment-947" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/24090c62a227bcc2ef3b504e7351dfea?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/24090c62a227bcc2ef3b504e7351dfea?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn">Martin Siepermann</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-947">
+							<time datetime="2013-07-27T00:44:00+00:00">
+								July 27, 2013 at 12:44 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Well, not really &#8230; 😉<br />
+But, as you want to make a living out of go and you are very good in writing in a journalist style it might be a good idea to also consider other options than becoming pro. Maybe you&#8217;re more another John Fairrbairn than another Go Seigen? Just a thought &#8230; 🙂 </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+		<li id="comment-948" class="comment even depth-5">
+			<article id="div-comment-948" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=80&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=160&#038;d=mm&#038;r=g 2x' class='avatar avatar-80 photo' height='80' width='80' />						<b class="fn"><a href='//' rel='external nofollow' class='url'>Ben</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="/book-review-the-master-of-go/#comment-948">
+							<time datetime="2013-07-27T01:07:00+00:00">
+								July 27, 2013 at 1:07 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Haha. Perhaps! All I know is I will pursue this as long as I can, regardless of which path I take! =)</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+				</ul>
+			
+		</div>
+
+
+			</div>
+
+		
+	
+	
+		<div class="typology-section typology-section-related">
+
+			<div class="section-head"><h3 class="section-title h6">Read more</h3></div>
+			
+			<div class="section-content section-content-c">
+
+				<div class="typology-posts">
+
+											<article class="typology-post typology-layout-c col-lg-6 text-center post-image-off post-5887 post type-post status-publish format-standard hentry category-books category-reviews tag-kiseido tag-middle-game tag-opening tag-principles tag-richard-bozulich tag-rob-van-zeijst tag-sabaki">
+
+            
+    <header class="entry-header">
+        <h2 class="entry-title h4"><a href="/book-review-road-map-shodan-volume-2/">Book Review: The Road Map to Shodan, Volume 2</a></h2>         
+            <div class="entry-meta"><div class="meta-item meta-date"><span class="updated">October 19, 2014</span></div></div>
+                            <div class="post-letter">B</div>
+            </header>
+
+</article>											<article class="typology-post typology-layout-c col-lg-6 text-center post-image-off post-5624 post type-post status-publish format-standard hentry category-reviews tag-korean tag-movie tag-the-divine-move">
+
+            
+    <header class="entry-header">
+        <h2 class="entry-title h4"><a href="/review-divine-move-movie/">Review: The Divine Move (Movie)</a></h2>         
+            <div class="entry-meta"><div class="meta-item meta-date"><span class="updated">September 10, 2014</span></div></div>
+                            <div class="post-letter">R</div>
+            </header>
+
+</article>											<article class="typology-post typology-layout-c col-lg-6 text-center post-image-off post-5515 post type-post status-publish format-standard hentry category-journal category-kifu category-reviews category-websites tag-yunguseng-dojang">
+
+            
+    <header class="entry-header">
+        <h2 class="entry-title h4"><a href="/experience-ysd-s9-part-2/">My Experience with YSD &#8211; S9 &#8211; Part 2</a></h2>         
+            <div class="entry-meta"><div class="meta-item meta-date"><span class="updated">July 2, 2014</span></div></div>
+                            <div class="post-letter">M</div>
+            </header>
+
+</article>											<article class="typology-post typology-layout-c col-lg-6 text-center post-image-off post-5395 post type-post status-publish format-standard hentry category-journal category-kifu category-reviews category-websites tag-anatoly tag-brian tag-commentary tag-dojang tag-kifu-2 tag-league tag-oren tag-reviews-2 tag-sauk tag-season-9 tag-yunguseng">
+
+            
+    <header class="entry-header">
+        <h2 class="entry-title h4"><a href="/experience-ysd-s9-part-1/">My Experience with YSD &#8211; S9 &#8211; Part 1</a></h2>         
+            <div class="entry-meta"><div class="meta-item meta-date"><span class="updated">June 3, 2014</span></div></div>
+                            <div class="post-letter">M</div>
+            </header>
+
+</article>									
+				</div>
+			</div>
+		
+		</div>
+
+	
+	
+
+	
+
+	<div id="typology-single-sticky" class="typology-single-sticky">
+		
+		<div class="typology-sticky-content meta">
+			
+<div class="typology-flex-center">
+	<div class="typology-sticky-author typology-sticky-l">
+		<img alt='' src='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/c4690dcbc22f13b7b4bd3b1a5c1266e1?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' />		<span class="sticky-author-title">
+			<a href="/author/bengozen/">By BenGoZen</a> 
+			<span class="sticky-author-date">July 24, 2013</span>
+		</span>
+	</div>
+	<div class="typology-sticky-c">
+		
+	</div>
+
+	<div class="typology-sticky-comments typology-sticky-r">
+							<a href="/book-review-the-master-of-go/#comments"><span class="dsq-postid" data-dsqidentifier="3086 http://bengozen.com//?p=3086"><i class="fa fa-comments-o"></i>25 comments</span></a>			</div>
+
+</div>
+		</div>
+
+		<div class="typology-sticky-content prev-next">
+			<nav class="typology-prev-next-nav typology-flex-center">
+	
+	
+<div class="typology-prev-link typology-sticky-l">	
+				
+			<a href="/book-review-level-up-8/">
+				<span class="typology-pn-ico"><i class="fa fa fa-chevron-left"></i></span>
+				<span class="typology-pn-link">Book Review: Level Up 8</span>
+			</a>
+	</div>
+	
+	<a href="javascript: void(0);" class="typology-sticky-to-top typology-sticky-c">
+			<span class="typology-top-ico"><i class="fa fa fa-chevron-up"></i></span>
+			<span class="typology-top-link">To Top</span>
+	</a>
+
+<div class="typology-next-link typology-sticky-r">	
+		
+			<a href="/book-review-level-up-7/">
+				<span class="typology-pn-ico"><i class="fa fa fa-chevron-right"></i></span>
+				<span class="typology-pn-link">Book Review: Level Up 7</span>
+			</a>
+			</div>
+</nav>
+
+		</div>
+	</div>
+
+
+			<footer id="typology-footer" class="typology-footer">
+
+				<div class="container">
+											<div class="col-lg-4"><div id="custom_html-3" class="widget_text widget clearfix widget_custom_html"><h4 class="widget-title h5">D3</h4><div class="textwidget custom-html-widget"><p>
+	© 2018 Ben Hong • <a href="https://twitter.com/bengozen">@bengozen</a>
+</p></div></div></div>
+					
+											<div class="col-lg-4"><div id="custom_html-4" class="widget_text widget clearfix widget_custom_html"><h4 class="widget-title h5">Q3</h4><div class="textwidget custom-html-widget"><p>
+	<a href="https://github.com/bencodezen/go-blog/issues/new?title=Feature%20Request">Feature Request</a> • <a href="https://github.com/bencodezen/go-blog/issues/new?title=Bug">Bugs</a> • <a href="https://github.com/bencodezen/go-blog/">GitHub</a>
+</p></div></div></div>
+					
+									</div>
+
+			</footer>
+
+		</div>
+
+		<div class="typology-sidebar">
+	<div class="typology-sidebar-header">
+		<div class="typology-sidebar-header-wrapper">
+			<div class="typology-site-branding">
+	
+	<span class="site-title h4"><a href="/" rel="home"><img class="typology-logo" src="/wp-content/uploads/2018/03/BenGoZen.png" alt="BenGoZen"></a></span>	
+</div>
+			<span class="typology-sidebar-close"><i class="fa fa-times" aria-hidden="true"></i></span>
+		</div>
+	</div>
+
+	<div class="widget typology-responsive-menu">
+					<ul id="menu-mainnav-1" class="typology-nav typology-main-navigation"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-2559"><a href="//">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2553"><a href="/reviews/">Reviews</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5997"><a href="/reviews/books/">Book Reviews</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2574"><a href="/category/reviews/equipment/">Equipment</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2575"><a href="/category/reviews/vendors/">Vendors</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2623"><a href="/category/reviews/websites/">Websites</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2624"><a href="/category/guides/">Guides</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5993"><a href="/resources/">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2630"><a href="http://playgo.to/iwtg/en/">Learn to Play Go!</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5996"><a href="/resources/shops/">Shops</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5995"><a href="/resources/tools/">Tools</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5994"><a href="/resources/other-go-blogs/">Other Go Blogs</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5992"><a href="/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5991"><a href="/contact/">Contact</a></li>
+</ul>		</div>
+
+					
+								<div id="categories-4" class="widget clearfix widget_categories"><h4 class="widget-title h5">Categories</h4>		<ul>
+	<li class="cat-item cat-item-2"><a href="/category/advice/" >Advice</a> (34)
+</li>
+	<li class="cat-item cat-item-3"><a href="/category/articles/" >Articles</a> (20)
+</li>
+	<li class="cat-item cat-item-4"><a href="/category/commentaries/" >Commentaries</a> (10)
+</li>
+	<li class="cat-item cat-item-5"><a href="/category/cultural/" >Cultural</a> (5)
+</li>
+	<li class="cat-item cat-item-6"><a href="/category/events/" >Events</a> (51)
+</li>
+	<li class="cat-item cat-item-7"><a href="/category/guides/" >Guides</a> (5)
+</li>
+	<li class="cat-item cat-item-8"><a href="/category/journal/" >Journal</a> (279)
+</li>
+	<li class="cat-item cat-item-9"><a href="/category/kifu/" >Kifu</a> (137)
+</li>
+	<li class="cat-item cat-item-10"><a href="/category/lessons/" >Lessons</a> (5)
+</li>
+	<li class="cat-item cat-item-11"><a href="/category/monday-go-meditation/" title="Weekly Game Reviews (Monday)">Monday Go Meditation</a> (67)
+</li>
+	<li class="cat-item cat-item-12"><a href="/category/progress-reports/" >Progress Reports</a> (83)
+</li>
+	<li class="cat-item cat-item-14"><a href="/category/reviews/" >Reviews</a> (116)
+<ul class='children'>
+	<li class="cat-item cat-item-22"><a href="/category/reviews/books/" title="Go, Weiqi, Baduk Book Reviews">Books</a> (81)
+</li>
+	<li class="cat-item cat-item-23"><a href="/category/reviews/equipment/" title="All go, weiqi, baduk equipment reviews.">Equipment</a> (18)
+</li>
+	<li class="cat-item cat-item-16"><a href="/category/reviews/software/" >Software</a> (1)
+</li>
+	<li class="cat-item cat-item-19"><a href="/category/reviews/vendors/" >Vendors</a> (6)
+</li>
+	<li class="cat-item cat-item-20"><a href="/category/reviews/websites/" title="All related go, weiqi, baduk website reviews.">Websites</a> (9)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-17"><a href="/category/tactics/" >Tactics</a> (3)
+</li>
+	<li class="cat-item cat-item-18"><a href="/category/thursday-go-tygem/" >Thursday Go Tygem</a> (7)
+</li>
+	<li class="cat-item cat-item-21"><a href="/category/weekly-go-wednesday/" >Weekly Go Wednesday</a> (45)
+</li>
+		</ul>
+</div><div id="archives-3" class="widget clearfix widget_archive"><h4 class="widget-title h5">Archives</h4>		<label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+		<select id="archives-dropdown-3" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://bengozen.com/2018/04/'> April 2018 &nbsp;(1)</option>
+	<option value='http://bengozen.com/2018/03/'> March 2018 &nbsp;(4)</option>
+	<option value='http://bengozen.com/2016/12/'> December 2016 &nbsp;(1)</option>
+	<option value='http://bengozen.com/2016/04/'> April 2016 &nbsp;(1)</option>
+	<option value='http://bengozen.com/2015/06/'> June 2015 &nbsp;(1)</option>
+	<option value='http://bengozen.com/2015/04/'> April 2015 &nbsp;(2)</option>
+	<option value='http://bengozen.com/2015/03/'> March 2015 &nbsp;(1)</option>
+	<option value='http://bengozen.com/2015/02/'> February 2015 &nbsp;(1)</option>
+	<option value='http://bengozen.com/2015/01/'> January 2015 &nbsp;(2)</option>
+	<option value='http://bengozen.com/2014/12/'> December 2014 &nbsp;(5)</option>
+	<option value='http://bengozen.com/2014/11/'> November 2014 &nbsp;(9)</option>
+	<option value='http://bengozen.com/2014/10/'> October 2014 &nbsp;(17)</option>
+	<option value='http://bengozen.com/2014/09/'> September 2014 &nbsp;(13)</option>
+	<option value='http://bengozen.com/2014/08/'> August 2014 &nbsp;(4)</option>
+	<option value='http://bengozen.com/2014/07/'> July 2014 &nbsp;(11)</option>
+	<option value='http://bengozen.com/2014/06/'> June 2014 &nbsp;(20)</option>
+	<option value='http://bengozen.com/2014/05/'> May 2014 &nbsp;(24)</option>
+	<option value='http://bengozen.com/2014/04/'> April 2014 &nbsp;(18)</option>
+	<option value='http://bengozen.com/2014/03/'> March 2014 &nbsp;(17)</option>
+	<option value='http://bengozen.com/2014/02/'> February 2014 &nbsp;(17)</option>
+	<option value='http://bengozen.com/2014/01/'> January 2014 &nbsp;(18)</option>
+	<option value='http://bengozen.com/2013/12/'> December 2013 &nbsp;(5)</option>
+	<option value='http://bengozen.com/2013/11/'> November 2013 &nbsp;(23)</option>
+	<option value='http://bengozen.com/2013/10/'> October 2013 &nbsp;(27)</option>
+	<option value='http://bengozen.com/2013/09/'> September 2013 &nbsp;(32)</option>
+	<option value='http://bengozen.com/2013/08/'> August 2013 &nbsp;(26)</option>
+	<option value='http://bengozen.com/2013/07/'> July 2013 &nbsp;(45)</option>
+	<option value='http://bengozen.com/2013/06/'> June 2013 &nbsp;(24)</option>
+	<option value='http://bengozen.com/2013/05/'> May 2013 &nbsp;(20)</option>
+	<option value='http://bengozen.com/2013/04/'> April 2013 &nbsp;(24)</option>
+	<option value='http://bengozen.com/2013/03/'> March 2013 &nbsp;(26)</option>
+	<option value='http://bengozen.com/2013/02/'> February 2013 &nbsp;(22)</option>
+	<option value='http://bengozen.com/2013/01/'> January 2013 &nbsp;(21)</option>
+	<option value='http://bengozen.com/2012/12/'> December 2012 &nbsp;(26)</option>
+	<option value='http://bengozen.com/2012/11/'> November 2012 &nbsp;(17)</option>
+	<option value='http://bengozen.com/2012/10/'> October 2012 &nbsp;(10)</option>
+	<option value='http://bengozen.com/2012/09/'> September 2012 &nbsp;(7)</option>
+	<option value='http://bengozen.com/2012/08/'> August 2012 &nbsp;(7)</option>
+	<option value='http://bengozen.com/2010/12/'> December 2010 &nbsp;(2)</option>
+	<option value='http://bengozen.com/2010/11/'> November 2010 &nbsp;(8)</option>
+	<option value='http://bengozen.com/2010/10/'> October 2010 &nbsp;(37)</option>
+	<option value='http://bengozen.com/2010/09/'> September 2010 &nbsp;(28)</option>
+	<option value='http://bengozen.com/2010/08/'> August 2010 &nbsp;(7)</option>
+
+		</select>
+		</div>				
+</div>
+
+<div class="typology-sidebar-overlay"></div>		
+			<div style="display:none">
+	<div class="grofile-hash-map-c4690dcbc22f13b7b4bd3b1a5c1266e1">
+	</div>
+	<div class="grofile-hash-map-081665ee4e19db1544b75cbc12c65f51">
+	</div>
+	<div class="grofile-hash-map-c4690dcbc22f13b7b4bd3b1a5c1266e1">
+	</div>
+	<div class="grofile-hash-map-471d91dd08cc433c2a7ccd1b00995fe0">
+	</div>
+	<div class="grofile-hash-map-8bf6ea2c284b4f40508ee616be1a4538">
+	</div>
+	<div class="grofile-hash-map-24090c62a227bcc2ef3b504e7351dfea">
+	</div>
+	</div>
+<script type='text/javascript' src='/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"bengozen"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.16'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201848'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var typology_js_settings = {"rtl_mode":"","header_sticky":"1","logo":"http:\/\/bengozen.com\/wp-content\/uploads\/2018\/03\/BenGoZen.png","logo_retina":"http:\/\/bengozen.com\/wp-content\/uploads\/2018\/03\/BenGoZen@2x.png","use_gallery":"1","slider_autoplay":"0","cover_video_image_fallback":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/themes/typology/assets/js/min.js?ver=1.4'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201848.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:6.7',blog:'144214914',post:'3086',tz:'-5',srv:'bengozen.com'} ]);
+	_stq.push([ 'clickTrackerInit', '144214914', '3086' ]);
+</script>
+
+	</body>
+</html>
+<!--Generated by Endurance Page Cache-->

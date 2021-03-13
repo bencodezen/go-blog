@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>micro chinese &#8211; BenGoZen</title>
+	<atom:link href="/tag/micro-chinese/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>WGW 39: Gu Li vs Lee Sedol &#8211; Jubango Game 4 Amateur Review</title>
+		<link>/wgw-39-gu-li-vs-lee-sedol-jubango-game-4-amateur-review/</link>
+		<comments>/wgw-39-gu-li-vs-lee-sedol-jubango-game-4-amateur-review/#comments</comments>
+		<pubDate>Wed, 07 May 2014 11:15:07 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[9p]]></category>
+		<category><![CDATA[gu li]]></category>
+		<category><![CDATA[jubango]]></category>
+		<category><![CDATA[lee sedol]]></category>
+		<category><![CDATA[micro chinese]]></category>
+
+		<guid isPermaLink="false">//?p=5234</guid>
+		<description><![CDATA[Weekly Go Wednesday: Issue #39 For Game 4 of this epic jubango between Lee Sedol (9P) and Gu Li (9P), with the current record being 2-1 in Lee Sedol&#8217;s favor, everyone sat in anticipation as they waited to see if Gu Li would be able to even up the record! With Gu Li&#8217;s record against Lee Sedol [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday: Issue #39</h2>
+<figure id="attachment_5235" style="width: 412px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/05/Lee-Sedol-Gu-Li-MLily-Gu-Lee-Jubango-Game-4-1.jpg"><img class=" wp-image-5235" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/05/Lee-Sedol-Gu-Li-MLily-Gu-Lee-Jubango-Game-4-1.jpg?resize=412%2C275" alt="Credit to GoGameGuru" width="412" height="275" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a title="GoGameGuru Jubango 4 Site" href="http://gogameguru.com/gu-li-vs-lee-sedol-jubango-game-4/">GoGameGuru</a></figcaption></figure>
+For Game 4 of this epic <a title="Gu Li and Lee Sedol Jubango" href="//gu-li-lee-sedol-jubango/">jubango</a> between Lee Sedol (9P) and Gu Li (9P), with the current record being 2-1 in Lee Sedol&#8217;s favor, everyone sat in anticipation as they waited to see if Gu Li would be able to even up the record! With Gu Li&#8217;s record against Lee Sedol as of late though, many fans were certainly feeling that Gu Li had a great chance to win this game.<br />
+I am happy to say that today&#8217;s review is forged from the combined efforts of myself and frozensoul (5d) once again! Though I didn&#8217;t make this explicitly clear before, please feel free to direct any questions to him on KGS or even leave a comment below for him and he&#8217;ll be sure to answer. Hope that you enjoy our game review and let us know if there&#8217;s anything we can do to improve it for you!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/05\/Lee-Sedol-vs-Gu-Li-J4-AmateurReview.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/05/Lee-Sedol-vs-Gu-Li-J4-AmateurReview.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/05/Lee-Sedol-vs-Gu-Li-J4-AmateurReview.sgf[/download]
+<p style="text-align: left;"><em>For more advanced reviews, be sure to keep an eye out on <a title="World Go Online Review of Jubango Game 1" href="http://www.kiseido.com/printss/guliten1.html">World Go Online</a> and <a title="GoGameGuru Review of Jubango Game 3" href="http://gogameguru.com/gu-li-strikes-back-gu-li-vs-lee-sedol-jubango-game-3/">GoGameGuru</a> since I&#8217;m sure they will have their own in the near future.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/wgw-39-gu-li-vs-lee-sedol-jubango-game-4-amateur-review/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5234</post-id>	</item>
+	</channel>
+</rss>

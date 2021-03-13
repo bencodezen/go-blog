@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Still Deep in the Trenches</title>
+	<atom:link href="/still-deep-trenches/feed/" rel="self" type="application/rss+xml" />
+	<link>/still-deep-trenches/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Moboy78</title>
+		<link>/still-deep-trenches/#comment-2502</link>
+		<dc:creator><![CDATA[Moboy78]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 02:38:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2502</guid>
+		<description><![CDATA[The lack of a &quot;final answer&quot; in go can sometimes be a bit of a good thing in my opinion.  Usually the only times in go when there is a level of ambiguity to what move might be considered the &#039;best move&#039; on the board is the opening and early middle game. It is in those two stages of the game where peoples&#039; individual styles of play are shown.  I think people are able to have such different styles of play in go because of that ambiguity and lack of a &quot;final answer&quot;.  Objectively speaking, move x might not be any better than move y, but it might resonate more with my style of playing go than with someone else&#039;s.  I think that makes go a more forgiving game than chess and makes those stages of the game a bit easier to master.
+I&#039;d also like to clarify my earlier statement about sequences and the example I&#039;d used with me asking a stronger player about a sequence.  It wasn&#039;t the variation (moves x, y, and z) that I found irksome, it&#039;s the fact that if I don&#039;t know that particular joseki then I&#039;d have to spend a very inconvenient amount of time during a game reading out the different variations to see which one is best.  It&#039;s not really a big deal in casual games, but I find it very annoying during a tournament game and I encounter a joseki I don&#039;t know.]]></description>
+		<content:encoded><![CDATA[<p>The lack of a &#8220;final answer&#8221; in go can sometimes be a bit of a good thing in my opinion.  Usually the only times in go when there is a level of ambiguity to what move might be considered the &#8216;best move&#8217; on the board is the opening and early middle game. It is in those two stages of the game where peoples&#8217; individual styles of play are shown.  I think people are able to have such different styles of play in go because of that ambiguity and lack of a &#8220;final answer&#8221;.  Objectively speaking, move x might not be any better than move y, but it might resonate more with my style of playing go than with someone else&#8217;s.  I think that makes go a more forgiving game than chess and makes those stages of the game a bit easier to master.<br />
+I&#8217;d also like to clarify my earlier statement about sequences and the example I&#8217;d used with me asking a stronger player about a sequence.  It wasn&#8217;t the variation (moves x, y, and z) that I found irksome, it&#8217;s the fact that if I don&#8217;t know that particular joseki then I&#8217;d have to spend a very inconvenient amount of time during a game reading out the different variations to see which one is best.  It&#8217;s not really a big deal in casual games, but I find it very annoying during a tournament game and I encounter a joseki I don&#8217;t know.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: MolokaiCowboy</title>
+		<link>/still-deep-trenches/#comment-2501</link>
+		<dc:creator><![CDATA[MolokaiCowboy]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 02:10:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2501</guid>
+		<description><![CDATA[An issue I have had with Go (versus chess) over the years is
+that Go is &#039;softer&#039; less deterministic. You mention how you ask about x, y, z and
+the answer you receive from the stronger player is not fully satisfying.
+ In
+chess, usually (not always) you can drill down to a &#039;final&#039; answer with hard analysis. Go is just
+too deep for that most times. Hard analysis is difficult because there are so
+many variations and few of them are forcing as in chess. In chess if the
+variation loses a piece - its over. In Go if the variation loses a small group
+- it may just be the beginning of things at the whole-board level. This is one reason why the Monte Carlo sampling technique works better in Go than in chess - the distribution of samples in Go is relatively smooth. In chess, most moves just lose outright so samples are unreliable.
+I do think
+chess combinations are more aesthetically satisfying (and diverse) than Go
+combinations - but perhaps that is just because I am a better chess player than
+Go player.]]></description>
+		<content:encoded><![CDATA[<p>An issue I have had with Go (versus chess) over the years is<br />
+that Go is &#8216;softer&#8217; less deterministic. You mention how you ask about x, y, z and<br />
+the answer you receive from the stronger player is not fully satisfying.<br />
+ In<br />
+chess, usually (not always) you can drill down to a &#8216;final&#8217; answer with hard analysis. Go is just<br />
+too deep for that most times. Hard analysis is difficult because there are so<br />
+many variations and few of them are forcing as in chess. In chess if the<br />
+variation loses a piece &#8211; its over. In Go if the variation loses a small group<br />
+&#8211; it may just be the beginning of things at the whole-board level. This is one reason why the Monte Carlo sampling technique works better in Go than in chess &#8211; the distribution of samples in Go is relatively smooth. In chess, most moves just lose outright so samples are unreliable.<br />
+I do think<br />
+chess combinations are more aesthetically satisfying (and diverse) than Go<br />
+combinations &#8211; but perhaps that is just because I am a better chess player than<br />
+Go player.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: MolokaiCowboy</title>
+		<link>/still-deep-trenches/#comment-2500</link>
+		<dc:creator><![CDATA[MolokaiCowboy]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 01:46:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2500</guid>
+		<description><![CDATA[That&#039;s definitely a rub in Go. Even to local situations there is a &#039;complexity&#039; factor that just a small difference completely changes things. But, still, I think there is a geometric paradigm to find...somehow, somewhere.
+Like chess tactic problems, I think the value of doing endless life-death and tesuji problems can only take one so far in Go... I am sure I am in the minority on that line of thinking. Visualization has to come before pattern recognition.
+Go and chess do share the similar &#039;tactics&#039; and &#039;strategy&#039; as it were - &#039;reading/calculation and chess/go &#039;thinking.&#039; On the latter I found Ben&#039;s Monday Meditations extremely valuable to my study. They remind me of Irving Chernev&#039;s chess books with an annotation each move. Ben is clearly a superior communicator and I hope he puts the pieces together soon, comes back with both barrels firing.]]></description>
+		<content:encoded><![CDATA[<p>That&#8217;s definitely a rub in Go. Even to local situations there is a &#8216;complexity&#8217; factor that just a small difference completely changes things. But, still, I think there is a geometric paradigm to find&#8230;somehow, somewhere.<br />
+Like chess tactic problems, I think the value of doing endless life-death and tesuji problems can only take one so far in Go&#8230; I am sure I am in the minority on that line of thinking. Visualization has to come before pattern recognition.<br />
+Go and chess do share the similar &#8216;tactics&#8217; and &#8216;strategy&#8217; as it were &#8211; &#8216;reading/calculation and chess/go &#8216;thinking.&#8217; On the latter I found Ben&#8217;s Monday Meditations extremely valuable to my study. They remind me of Irving Chernev&#8217;s chess books with an annotation each move. Ben is clearly a superior communicator and I hope he puts the pieces together soon, comes back with both barrels firing.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/still-deep-trenches/#comment-2499</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Wed, 03 Sep 2014 00:14:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2499</guid>
+		<description><![CDATA[I would never laugh! It would definitely be an honor to see your game and even review it for you if you&#039;d like!
+Haha. If I can even have a game against Lee Sedol on the blog, I think that would be a dream come true.
+Best of luck on your studies till then!]]></description>
+		<content:encoded><![CDATA[<p>I would never laugh! It would definitely be an honor to see your game and even review it for you if you&#8217;d like!<br />
+Haha. If I can even have a game against Lee Sedol on the blog, I think that would be a dream come true.<br />
+Best of luck on your studies till then!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: MolokaiCowboy</title>
+		<link>/still-deep-trenches/#comment-2498</link>
+		<dc:creator><![CDATA[MolokaiCowboy]]></dc:creator>
+		<pubDate>Tue, 02 Sep 2014 21:48:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2498</guid>
+		<description><![CDATA[Howdy, Ben -
+My first game is probably a few months away, as per my plan. I am endeavoring to learn from the mistakes I feel I made when I first studied chess.
+ But I will certainly share it if you promise not to laugh! By then I also expect to see your beat-down of Lee Sedol here! :)]]></description>
+		<content:encoded><![CDATA[<p>Howdy, Ben &#8211;<br />
+My first game is probably a few months away, as per my plan. I am endeavoring to learn from the mistakes I feel I made when I first studied chess.<br />
+ But I will certainly share it if you promise not to laugh! By then I also expect to see your beat-down of Lee Sedol here! 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/still-deep-trenches/#comment-2497</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Sat, 30 Aug 2014 12:39:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2497</guid>
+		<description><![CDATA[There&#039;s no shame in plugging away at the Baduktopia books! After all, I still haven&#039;t finished Jump Level Up 5! Though I totally feel you on the need to branch out, it&#039;s probably the reason I haven&#039;t gone back to finish it yet.
+And no worries about still wanting to add more books, I think I&#039;m one of the worst when it comes to constantly trying to grow my library (even though I still have books to read). Haha.]]></description>
+		<content:encoded><![CDATA[<p>There&#8217;s no shame in plugging away at the Baduktopia books! After all, I still haven&#8217;t finished Jump Level Up 5! Though I totally feel you on the need to branch out, it&#8217;s probably the reason I haven&#8217;t gone back to finish it yet.<br />
+And no worries about still wanting to add more books, I think I&#8217;m one of the worst when it comes to constantly trying to grow my library (even though I still have books to read). Haha.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Todd Bowlby</title>
+		<link>/still-deep-trenches/#comment-2496</link>
+		<dc:creator><![CDATA[Todd Bowlby]]></dc:creator>
+		<pubDate>Sat, 30 Aug 2014 04:23:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2496</guid>
+		<description><![CDATA[Looking forward to the reviews!
+I&#039;m STILL plugging away at the baduktopia books, believe it or not.  They&#039;ve been so good for me, and now, finally at jump level up v.2, I&#039;m feeling a real challenge, and a need to branch out ... with the compass and the essential life and death books!
+Part of me is sick of the same thing all the time, but the other part of me really likes that I&#039;m actually improving.  But I really look forward to hearing about more books to put on my list, which is strange and consumerist of me, but I get that way when it comes to Go stuff.:)]]></description>
+		<content:encoded><![CDATA[<p>Looking forward to the reviews!<br />
+I&#8217;m STILL plugging away at the baduktopia books, believe it or not.  They&#8217;ve been so good for me, and now, finally at jump level up v.2, I&#8217;m feeling a real challenge, and a need to branch out &#8230; with the compass and the essential life and death books!<br />
+Part of me is sick of the same thing all the time, but the other part of me really likes that I&#8217;m actually improving.  But I really look forward to hearing about more books to put on my list, which is strange and consumerist of me, but I get that way when it comes to Go stuff.:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Moboy78</title>
+		<link>/still-deep-trenches/#comment-2495</link>
+		<dc:creator><![CDATA[Moboy78]]></dc:creator>
+		<pubDate>Sat, 30 Aug 2014 03:26:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2495</guid>
+		<description><![CDATA[The really annoying part about the Go geometry you&#039;re referring to is that the issue of what to do when you&#039;re in an unfamiliar position.  Invariably, when I&#039;m reviewing a game with a stronger player and I ask them about how to play out a position, they&#039;ll say something like, &quot;Well, moves x. y. and z are joseki here, but if you don&#039;t know that then just trust your reading&quot;.  As annoying as it can be at times, I&#039;ve always found this advice to be true.  Thus, in my opinion, the &quot;key&quot; you seek is in reading.]]></description>
+		<content:encoded><![CDATA[<p>The really annoying part about the Go geometry you&#8217;re referring to is that the issue of what to do when you&#8217;re in an unfamiliar position.  Invariably, when I&#8217;m reviewing a game with a stronger player and I ask them about how to play out a position, they&#8217;ll say something like, &#8220;Well, moves x. y. and z are joseki here, but if you don&#8217;t know that then just trust your reading&#8221;.  As annoying as it can be at times, I&#8217;ve always found this advice to be true.  Thus, in my opinion, the &#8220;key&#8221; you seek is in reading.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/still-deep-trenches/#comment-2494</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2014 18:18:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2494</guid>
+		<description><![CDATA[Great advice. I know that one of my biggest weakness is laziness at being precise in my reading. Whenever I overcome that hurdle, I&#039;m sure it will show itself in my games as well. And like you said, things sort of have to organically happen anyhow, so I won&#039;t spend energy and effort trying to force it anymore.
+Hope your studies are going well and that I&#039;ll be able to see one of your games someday!]]></description>
+		<content:encoded><![CDATA[<p>Great advice. I know that one of my biggest weakness is laziness at being precise in my reading. Whenever I overcome that hurdle, I&#8217;m sure it will show itself in my games as well. And like you said, things sort of have to organically happen anyhow, so I won&#8217;t spend energy and effort trying to force it anymore.<br />
+Hope your studies are going well and that I&#8217;ll be able to see one of your games someday!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: MolokaiCowboy</title>
+		<link>/still-deep-trenches/#comment-2493</link>
+		<dc:creator><![CDATA[MolokaiCowboy]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2014 16:56:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5575#comment-2493</guid>
+		<description><![CDATA[Take as long as you need to sort it all out in your mine, Ben.
+I have about 150 Go books now and with Internet content more than enough to be 9p! :)
+I have around 6000 chess books - I am a collector and a player. Remember that only a few get to the top of either game. If you do what everyone else does - you can&#039;t get there, not room for everybody. I study chess for 40 years, never get much past 2000 ELO (probably around 1kyu-1d). So many study so much - but never make significant progress, My teacher a 2400 ELO told me to &#039;jiggle the tumblers&#039; and study in a different way. I took his advice and studied the Endgame when others were studying opening and middle game. I think it was good advice, otherwise I probably never get past 1700-1800.
+Endgame in Go is not quite the microcosm of the entire game as it is in chess - but it is where I am studying Go right now. I think accurate &#039;reading&#039; in Go and &#039;calculation&#039; in chess is what keeps those who read books and study so much from getting to the top. Sadly, &#039;you either have it or you don&#039;t&#039; - and I don&#039;t. But you can at least fully develop whatever native skills you have and that is what I am trying to do. Endgame study and problems, lots of Lee Chang Ho games (along with my hero Takagawa!). The core skill in both games I conclude is &#039;visualization&#039; so I am burning the goban into my mind, doing simple problems and ladders &#039;blindfold.&#039;
+I also conclude local Go positions can be broken down into perhaps a dozen &#039;templates&#039; for study - but I am not there quite yet! :) There is a &#039;key&#039; to the Go geometry, I am sure, and it is not in any books that I have seen.
+Also, psychologically, you have to sort of let it happen. The more you force things, the bigger the wall you make to have to get through.
+Just my thoughts...]]></description>
+		<content:encoded><![CDATA[<p>Take as long as you need to sort it all out in your mine, Ben.<br />
+I have about 150 Go books now and with Internet content more than enough to be 9p! 🙂<br />
+I have around 6000 chess books &#8211; I am a collector and a player. Remember that only a few get to the top of either game. If you do what everyone else does &#8211; you can&#8217;t get there, not room for everybody. I study chess for 40 years, never get much past 2000 ELO (probably around 1kyu-1d). So many study so much &#8211; but never make significant progress, My teacher a 2400 ELO told me to &#8216;jiggle the tumblers&#8217; and study in a different way. I took his advice and studied the Endgame when others were studying opening and middle game. I think it was good advice, otherwise I probably never get past 1700-1800.<br />
+Endgame in Go is not quite the microcosm of the entire game as it is in chess &#8211; but it is where I am studying Go right now. I think accurate &#8216;reading&#8217; in Go and &#8216;calculation&#8217; in chess is what keeps those who read books and study so much from getting to the top. Sadly, &#8216;you either have it or you don&#8217;t&#8217; &#8211; and I don&#8217;t. But you can at least fully develop whatever native skills you have and that is what I am trying to do. Endgame study and problems, lots of Lee Chang Ho games (along with my hero Takagawa!). The core skill in both games I conclude is &#8216;visualization&#8217; so I am burning the goban into my mind, doing simple problems and ladders &#8216;blindfold.&#8217;<br />
+I also conclude local Go positions can be broken down into perhaps a dozen &#8216;templates&#8217; for study &#8211; but I am not there quite yet! 🙂 There is a &#8216;key&#8217; to the Go geometry, I am sure, and it is not in any books that I have seen.<br />
+Also, psychologically, you have to sort of let it happen. The more you force things, the bigger the wall you make to have to get through.<br />
+Just my thoughts&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

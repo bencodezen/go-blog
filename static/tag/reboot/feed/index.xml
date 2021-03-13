@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>reboot &#8211; BenGoZen</title>
+	<atom:link href="/tag/reboot/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 61</title>
+		<link>/monday-go-meditation-game-61/</link>
+		<comments>/monday-go-meditation-game-61/#comments</comments>
+		<pubDate>Mon, 23 Jun 2014 11:15:57 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[3k opponent]]></category>
+		<category><![CDATA[b+resign]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[kifu]]></category>
+		<category><![CDATA[reboot]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=5470</guid>
+		<description><![CDATA[Introduction This week marks the reboot of the Monday Go Meditation (MGM) series! In the spirit of continuous improvement, I felt it was time to give this series an upgrade in order to continue striving for the perfect weekly column for my game reviews. Here are some enhancements that I have made: All MGM&#8217;s will now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Introduction</strong></h2>
+<p>This week marks the reboot of the Monday Go Meditation (MGM) series! In the spirit of continuous improvement, I felt it was time to give this series an upgrade in order to continue striving for the perfect weekly column for my game reviews. Here are some enhancements that I have made:</p>
+<ol>
+<li><strong>All MGM&#8217;s will now include the game summary table. </strong>After doing the <a title="Thursday Go Tygem: Game 07" href="//thursday-go-tygem-game-07/">Thursday Go Tygem</a> series for a bit, it seemed that the table was a popular aspect of it since it allowed me to provide a broad overview of the game in the event you don&#8217;t have time to go through the entire game. As a result, I felt it would be a great addition to MGM.</li>
+<li>A<strong>ll games featured here will be 2 weeks old at the most.</strong> One thing I noticed is that the games being posted were starting to be a few weeks if not a month old, which is not good since it does not reflect my current progress as a player. Though this makes it a little harder for me since I can&#8217;t prepare as many game reviews in advance, I am confident this change will make this weekly column much more viable.</li>
+<li><strong>The commentary will also be taking on a more &#8220;stream of consciousness&#8221; type narrative</strong> in order to provide more context in terms of how I was feeling throughout the game and the emotions and thoughts I wrestled with. As a result, the game reviews will not be heavily focused on explaining things in depth or showing numerous variations since that is more of a teaching-oriented type review (which I do plan on featuring here in the future, but don&#8217;t feel it&#8217;s appropriate for MGM).</li>
+</ol>
+<p>So in light of all that, this week&#8217;s game features an even game against a 3k that I played last week before going on my losing streak. Haha. It&#8217;s a great game that illustrates how emotions can really cloud your judgment when it comes to the actual board position and how you&#8217;re really doing.<br />
+As always, it would be greatly appreciated if you could let me know what you think about these new changes. Hope you enjoy the review!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.23-MGM-61.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.23-MGM-61.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.23-MGM-61.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">Using emotions to judge whether you are ahead or behind is typically a recipe for poor decision making.</p>
+<p style="text-align: center;"><span id="more-5470"></span></p>
+<h2 style="text-align: center;"><strong>Game Summary</strong></h2>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening, <strong>Move 24:</strong> This move really gave me a nice advantage in the opening. See game commentary for a more in-depth explanations., <strong>Move 19:</strong> I’m not sure that I handled Black’s response here correctly. Perhaps the tenuki was a mistake.<br />
+2,Attack and Defense, <strong>Move 50:</strong> This diagonal jump was a new move I tried that seemed to do a great job keeping pressure on Black., <strong>Move 58:</strong> This move was too defensive and failed to keep pressure on Black.<br />
+3,Shape, Nothing worth mentioning., <strong>Move 64:</strong> Not connecting and letting Black push through to connect his groups together was a travesty.~~<strong>Move 52:</strong> The hane was bad and left too many cutting points for me to worry about later.<br />
+4,Strategy, <strong>Move 44:</strong> Leaving the cutting point to play continue my expansion of the top seemed to work out well overall., <strong>Move 86-88:</strong> The push and cut was a risky play since Black had a number of forcing moves to counter the strategy.<br />
+5,Overall Reading, Nothing to brag about since most sequences I read out usually had one fatal flaw that was luckily overlooked by my opponent., <strong>Move 76-85:</strong> This sequence was shameful since it was a result of wishful thinking and only made things worse.<br />
+6,Endgame, <strong>Move 120:</strong> Ignoring Black’s move to start my own endgame sequence was a proud moment for me.,<strong> Move 104:</strong> This jump may not be as big as I thought. Perhaps blocking at M2 would have been better.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-61/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5470</post-id>	</item>
+		<item>
+		<title>Korean Training Reboot!</title>
+		<link>/korean-training-reboot/</link>
+		<comments>/korean-training-reboot/#comments</comments>
+		<pubDate>Mon, 01 Jul 2013 21:37:22 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[fresh start]]></category>
+		<category><![CDATA[korean style]]></category>
+		<category><![CDATA[reboot]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[tygem]]></category>
+
+		<guid isPermaLink="false">//?p=3196</guid>
+		<description><![CDATA[Normally I try not to post twice in a day, but being as it is the first of July, I didn&#8217;t want to miss the opportunity to go ahead and post about my new training program: Korean Style Reboot! Starting today, I will be faithfully following the Korean texts you see above everyday until I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_3197" style="width: 400px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/07/koreanbooks.jpg"><img class="size-full wp-image-3197" alt="koreanbooks" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/07/koreanbooks.jpg?resize=400%2C300" width="400" height="300" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Just came in today!</figcaption></figure>
+Normally I try not to post twice in a day, but being as it is the first of July, I didn&#8217;t want to miss the opportunity to go ahead and post about my new training program: Korean Style Reboot!<br />
+Starting today, I will be faithfully following the Korean texts you see above everyday until I finish them all. (I&#8217;m still missing the answer book from the Jump Level Up series and the Train Like a Pro series, but I I have more than enough to start with. =D) In the meantime, I have also created a new account on Tygem (zenlotus) that will start from 18k and go as far as I can take it. I&#8217;ll still be on the other servers, but my primary focus will be on Tygem when I have the time.<br />
+And to clarify, it&#8217;s not that I won&#8217;t study any of the other books I have, it&#8217;s just that I will be making sure to spend a dedicated amount of time each day to the Korean baduk books.<br />
+Korean training reboot initiate!</p>
+]]></content:encoded>
+			<wfw:commentRss>/korean-training-reboot/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3196</post-id>	</item>
+		<item>
+		<title>Mental Discipline</title>
+		<link>/mental-discipline/</link>
+		<comments>/mental-discipline/#comments</comments>
+		<pubDate>Thu, 20 Jun 2013 21:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[discipline]]></category>
+		<category><![CDATA[lack of focus]]></category>
+		<category><![CDATA[mental]]></category>
+		<category><![CDATA[overload]]></category>
+		<category><![CDATA[physical energy]]></category>
+		<category><![CDATA[reboot]]></category>
+		<category><![CDATA[tired]]></category>
+
+		<guid isPermaLink="false">//?p=3050</guid>
+		<description><![CDATA[Recently, I have been trying to figure out how to resolve my problem of being undisciplined when it comes to reading out sequences or figuring out what move to play next. One of the first solutions I came up with was to simply try and practice more problems, but it didn&#8217;t really seem to help [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Recently, I have been trying to figure out how to resolve my problem of being undisciplined when it comes to reading out sequences or figuring out what move to play next.<br />
+One of the first solutions I came up with was to simply try and practice more problems, but it didn&#8217;t really seem to help much. So the next thing I tried was reading more theoretical go books in hopes of having something click inside me that would all of a sudden fix my problem. That didn&#8217;t work out too well either.<br />
+After some thought, I realized that my problem is actually multidimensional.</p>
+<ol>
+<li><span style="line-height: 13px;"><strong>Physical Energy</strong> &#8211; I have been a lot more tired than I would like to admit lately. Though I didn&#8217;t recognize it at the time, it was playing a major role in my being nonchalant about what or where I played next.  </span></li>
+<li><strong>Multiple Points of Focus</strong> &#8211; Those who know me personally will attest to the fact that I am the type who is constantly trying to multi-task and can jump from one thing to another in a blink of an eye. While that can be useful in certain contexts, it is actually becoming detrimental to my go in the long run (along with other things, but let&#8217;s face it, go is the first priority here. =P).</li>
+<li><strong>Overload / Burnout</strong> &#8211; As a result of the previous two points, it is only natural that my brain would eventually become overloaded and simply burnout.</li>
+</ol>
+<p>It&#8217;s clear that I need a reboot on my system and approach to things. To start though, I&#8217;ve resolved to achieve two goals: (1) Simplify &amp; Focus and (2) Gain back the physical energy that I once had.</p>
+]]></content:encoded>
+			<wfw:commentRss>/mental-discipline/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3050</post-id>	</item>
+	</channel>
+</rss>

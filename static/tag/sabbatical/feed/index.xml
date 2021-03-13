@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>sabbatical &#8211; BenGoZen</title>
+	<atom:link href="/tag/sabbatical/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Go Game Sabbatical</title>
+		<link>/go-game-sabbatical/</link>
+		<pubDate>Sun, 19 Aug 2012 21:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[baduk]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[sabbatical]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=39</guid>
+		<description><![CDATA[So I&#8217;ve started reading my go books again, and I did not realize how poorly I&#8217;ve been playing lately. As a result, I&#8217;m taking a break from online games (once again) because I&#8217;ve only been reinforcing really poor playing habits. At first I was troubled as to why I was still a DDK, but it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I&#8217;ve started reading my go books again, and I did not realize how poorly I&#8217;ve been playing lately. As a result, I&#8217;m taking a break from online games (once again) because I&#8217;ve only been reinforcing really poor playing habits.<br />
+At first I was troubled as to why I was still a DDK, but it does not surprise me any longer. It&#8217;s time for me to undergo some serious training.<br />
+Go ability transformation here I come!<br />
+<em>UPDATE: So I noticed I tend to get overly frustrated and then determine to take a &#8220;sabbatical&#8221; only to find myself playing again the next day. Thus, scratch that idea, it&#8217;s just time to play better.</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">39</post-id>	</item>
+		<item>
+		<title>On Second Thought&#8230;</title>
+		<link>/on-second-thought/</link>
+		<pubDate>Thu, 30 Dec 2010 02:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[sabbatical]]></category>
+
+		<guid isPermaLink="false">//?p=43</guid>
+		<description><![CDATA[So I know I wrote about coming back from the sabbatical, but it looks like I&#8217;ll have to retract that statement unfortunately. There are some things that have come up in my life that are going to require a significant amount of attention and energy. So it&#8217;ll be some time before I will be able [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: left;">
+So I know I wrote about coming back from the sabbatical, but it looks like I&#8217;ll have to retract that statement unfortunately. There are some things that have come up in my life that are going to require a significant amount of attention and energy. So it&#8217;ll be some time before I will be able to attend to Go for awhile. I&#8217;m more than willing to play with anyone here and there if they want. The difference is that I won&#8217;t be able to just hang around KGS anymore to play.<br />
+To all my fellow Go players, thanks for all the help so far. I&#8217;m sorry I have to dip for a little while, but rest assured you can always get a game with me anytime you like. Just shoot me an e-mail or comment on the blog and we&#8217;ll set something up. Take care everyone!
+</div>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">43</post-id>	</item>
+		<item>
+		<title>Sabbatical</title>
+		<link>/sabbatical/</link>
+		<pubDate>Mon, 29 Nov 2010 21:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[sabbatical]]></category>
+
+		<guid isPermaLink="false">//?p=45</guid>
+		<description><![CDATA[Sorry everyone. It&#8217;s been awhile since I&#8217;ve been able to seriously update or post anything. I&#8217;m currently on a mini-sabbatical and trying to get a lot of things in my life straightened out.  Progress on my Go studies has been close to none so it&#8217;ll be interesting to see how I do when I get [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Sorry everyone. It&#8217;s been awhile since I&#8217;ve been able to seriously update or post anything. I&#8217;m currently on a mini-sabbatical and trying to get a lot of things in my life straightened out.  Progress on my Go studies has been close to none so it&#8217;ll be interesting to see how I do when I get back to the game.  I&#8217;m planning on doing a major overhaul on the blog so that it is a bit easier to navigate and just heavier on content. So I&#8217;ll be back in a week to give you guys what I&#8217;ll be projecting.  Till then!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">45</post-id>	</item>
+	</channel>
+</rss>

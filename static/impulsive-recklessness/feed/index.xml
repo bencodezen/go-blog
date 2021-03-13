@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Impulsive Recklessness</title>
+	<atom:link href="/impulsive-recklessness/feed/" rel="self" type="application/rss+xml" />
+	<link>/impulsive-recklessness/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/impulsive-recklessness/#comment-1098</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Fri, 23 Aug 2013 12:16:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3850#comment-1098</guid>
+		<description><![CDATA[Well said! Thank you for the reminder! So funny I just wrote about breathing and then forgot about it in the next post. Haha. xD]]></description>
+		<content:encoded><![CDATA[<p>Well said! Thank you for the reminder! So funny I just wrote about breathing and then forgot about it in the next post. Haha. xD</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: PadreTomasito</title>
+		<link>/impulsive-recklessness/#comment-1097</link>
+		<dc:creator><![CDATA[PadreTomasito]]></dc:creator>
+		<pubDate>Fri, 23 Aug 2013 04:46:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3850#comment-1097</guid>
+		<description><![CDATA[Breathe! You forgot to breathe!]]></description>
+		<content:encoded><![CDATA[<p>Breathe! You forgot to breathe!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

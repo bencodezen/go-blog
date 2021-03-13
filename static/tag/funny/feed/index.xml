@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>funny &#8211; BenGoZen</title>
+	<atom:link href="/tag/funny/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Just Discovered KGSBash&#8230;</title>
+		<link>/just-discovered-kgsbash/</link>
+		<pubDate>Thu, 15 Aug 2013 19:57:13 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[funny]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[kgs]]></category>
+		<category><![CDATA[kgsbash]]></category>
+
+		<guid isPermaLink="false">//?p=3803</guid>
+		<description><![CDATA[I&#8217;ve been feeling rather off the last couple of days. Not sick or anything, but just feeling a little out of it. Haven&#8217;t really felt like studying, but it&#8217;s been fun playing a casual game here and there. But on a more important note, I just discovered a site called KGSBash. And if you&#8217;re wondering [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been feeling rather off the last couple of days. Not sick or anything, but just feeling a little out of it. Haven&#8217;t really felt like studying, but it&#8217;s been fun playing a casual game here and there. But on a more important note, I just discovered a site called <a href="http://kgsbash.org/">KGSBash</a>. And if you&#8217;re wondering what it&#8217;s about, here are some that had me laughing&#8230;<br />
+<em><a href="http://kgsbash.org/?54"><b><span style="text-decoration: underline;">#54</span></b></a> </em><br />
+<em>adoreme: it is said that kgs has a secret end stage</em><br />
+<em>adoreme: get 9dan</em><br />
+<em>adoreme: and beat 50 9dans in a row</em><br />
+<em>adoreme: then tartrate will appear as the endboss</em><br />
+<em><a href="http://kgsbash.org/?49"><b><span style="text-decoration: underline;">#49</span></b></a>  </em><br />
+<em>RayFrost [2k]: I played a 3p today&#8230; with 9 handicap</em><br />
+<em>RayFrost [2k]: I lost.</em><br />
+<em>RayFrost [2k]: 3p is strong. <img src="https://s.w.org/images/core/emoji/11/72x72/1f610.png" alt="😐" class="wp-smiley" style="height: 1em; max-height: 1em;" /></em><br />
+<em>LazyDragon [3k]: i once played a 5p with 9hc &#8211; also lost &#8230;</em><br />
+<em>tellone [2k]: i once played a very drunk 2p who forgot which collor he had</em><br />
+<em>tellone [2k]: and i still lost</em><br />
+Oh KGS&#8230; Good times&#8230;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">3803</post-id>	</item>
+	</channel>
+</rss>

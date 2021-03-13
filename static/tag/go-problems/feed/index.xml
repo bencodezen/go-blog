@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>go problems &#8211; BenGoZen</title>
+	<atom:link href="/tag/go-problems/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: Graded Go Problems for Dan Players &#8211; Vol. 1</title>
+		<link>/book-review-graded-go-problems-dan-players-vol-1/</link>
+		<pubDate>Sun, 02 Mar 2014 12:15:22 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[collection]]></category>
+		<category><![CDATA[dan]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[kiseido]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[reading]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=4735</guid>
+		<description><![CDATA[Graded Go Problems for Dan Players: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan) Description: This is the first volume of the continuing series to the popular &#8220;Graded Go Problems for Beginners.&#8221; This first book is focused on providing life-and-death techniques that are foundational to developing stronger reading abilities as players try to climb [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/ggpdpv1cover.jpg"><img class="aligncenter  wp-image-4736" alt="ggpdpv1cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/ggpdpv1cover.jpg?resize=288%2C373" width="288" height="373" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Graded Go Problems for Dan Players: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan)</h2>
+<p><strong>Description:</strong> This is the first volume of the continuing series to the popular &#8220;Graded Go Problems for Beginners.&#8221; This first book is focused on providing life-and-death techniques that are foundational to developing stronger reading abilities as players try to climb their way into dan status.<br />
+<span id="more-4735"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, GGPDP: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan)<br />
+Series, Graded Go Problems for Dan Players (GGPDP)<br />
+Compiled by, Masaru Aoki and Hirokazu Sato<br />
+Translator, Richard Bozulich<br />
+Publisher, <a href="http://www.kiseido.com/">Kiseido</a><br />
+Published, &#8220;November 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-4-906574-61-2<br />
+Length, 232 pages<br />
+Problems, 300 problems<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Translator&#8217;s Preface</li>
+<li>Glossary of Go Terms Used in this Book</li>
+<li>300 Life and Death Problems (#1-300)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+As an enthusiast of the &#8220;Graded Go Problems for Beginners&#8221; series, I have to say that I was ecstatic when I heard about this series. After all, every kyu player dreams of making it to the big dan league and being able to solve &#8220;dan level&#8221; problems. And even though I got myself a copy of this book quite a while ago, this book seemed quite daunting to me for some time due to the fact that I just felt I wasn&#8217;t ready for &#8220;dan&#8221; problems. Anyhow, I&#8217;m glad I finally got around to reading it so that you can hear my thoughts on the book itself.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+Perhaps my favorite aspect about the entire &#8220;Graded Go Problems&#8221; series as a whole is the extremely clean format. For those who don&#8217;t know what I&#8217;m talking about, every page that contains the problems is divided into four clean and even rectangles. Secondly, the numbering, diagram, directions, and even hints are all in universal places so that once you get exposed to the format, you&#8217;ll never wonder where to look next. And last but not least, the solutions are never exposed on the same page (aka you can&#8217;t see the solution as you&#8217;re trying to solve the problem). And thankfully, Graded Go Problems for Dan Players continues that tradition.<br />
+One of the new things I noticed with this series is that they added an actual rank estimation for the problem difficulty. So a few examples of this might include: &#8220;Solve at a glance = 4-kyu, Solve within five minutes = 3-dan, etc.&#8221; While this is rather neat since you feel a sense of accomplishment if you&#8217;re able to solve it within the allotted time-frame, it&#8217;s important to realize that these rank estimations are a bit arbitrary. Just because you&#8217;re able to solve a few dan level problems at a glance does not necessarily mean you are &#8220;dan&#8221; level (whether it&#8217;s reading ability or playing ability). If you&#8217;re able to solve the whole book at a glance though, then it goes without saying you are way stronger than a dan player. xD<br />
+When it comes to the solutions, they have a set standard format for how solutions are displayed and approached. In terms of basic format, every problem gets three solution diagrams. This generally includes the correct variation, an alternate variation / continuation of the correct variation, and an incorrect variation. In addition, there is usually at least a sentence to two explaining each of the variations in order to help the reader understand what&#8217;s going on.<br />
+If there were to be any complaint about this series, it would probably be that the problems are not segmented into different techniques. However, I would remind the reader that the purpose of this series is to provide a collection of high-quality problems. As a result, the problems would be an assortment of different problems as opposed to a hierarchy of problems broken down by techniques. If you&#8217;re looking for problems categorized in such a fashion, you might benefit from checking out the Level Up Series along with Life and Death Problems 1 Basics by Robert Jasiek.<br />
+Overall, I think that this series is destined for the same greatness as the &#8220;Graded for Go Problems for Beginners&#8221; when it comes to high quality problems that are displayed in an easy to read format. Definitely a must-have for any player serious about practicing their reading and looking for ways to keep honing their ability. Highly recommended!<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Continues to provide the easy to read format you come to love from &#8220;Graded Go Problems for Beginners.&#8221;</li>
+<li>Attempts to provide accurate rank difficulty estimations for problems through the time it takes to solve it.</li>
+<li>Lots of high-quality problems that you can rely on without worrying about a mistake in the solution.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Exposure to a lot of new techniques or moves I would have never considered when solving life and death.</li>
+<li>Reassurance that my reading abilities have been improving.</li>
+<li>Realization that I still had a ways to go before I could consider myself having &#8220;dan-level&#8221; reading.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>You get a set of problems and then when you turn the page you get the respective solutions (so that they are not within the same reading area). Very easy to follow and read.</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>Nothing. I really think this book is perfect as it stands.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Absolutely. Very clear and concise.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Great problem set for players 5 kyu and stronger.</li>
+<li>Continues to uphold the quality and ease of reading you come to expect from the &#8220;Graded Go Problems&#8221; series.</li>
+<li>Highly recommended for anyone looking to take the next steps to raising their reading ability to &#8220;dan&#8221; level!</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players 5-kyu and stronger.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm#K15">$25</a> (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>GGPDP &#8211; Volume One: 300 Life-and-Death Problems (5-kyu to 3-dan)</li>
+<li>GGPDP &#8211; Volume Two: 300 Tesuji Problems (5-kyu to 3-dan)</li>
+<li>GGPDP &#8211; Volume Three: 300 Joseki Problems (1-dan to 3-dan)</li>
+<li>GGPDP &#8211; Volume Four: 300 Life-and-Death Problems (4-dan to 7-dan)</li>
+<li>GGPDP &#8211; Volume Five: 300 Tesuji Problems (4-dan to 7-dan)</li>
+<li>GGPDP &#8211; Volume Six: Joseki Problems (TBD)</li>
+<li>GGPDP &#8211; Volume Seven: 256 Opening and Middle Game Problems (1-dan to 7-dan)</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on March 2nd, 2014</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4735</post-id>	</item>
+		<item>
+		<title>Book Review: 1001 Life and Death Problems</title>
+		<link>/book-review-1001-life-and-death-problems/</link>
+		<pubDate>Sun, 19 May 2013 09:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=1553</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Mastering the Basics, Volume 2 &#8211; One Thousand and One Life-and-Death Problems Authors: Compiled and edited by Richard Bozulich Publisher: Kiseido Publication Date: February 2002 Page Length: 244 pages Number of Problems: 1001 problems (what else did you expect? =D) Synopsis New and refreshing approach to teaching life and death. Appropriate [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/04/mtb2cover.jpg"><img class="aligncenter size-full wp-image-2694" alt="mtb2cover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/04/mtb2cover.jpg?resize=300%2C450" width="300" height="450" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Mastering the Basics, Volume 2 &#8211; One Thousand and One Life-and-Death Problems</li>
+<li><strong>Authors: </strong>Compiled and edited by Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>February 2002</li>
+<li><strong>Page Length:</strong> 244 pages</li>
+<li><strong>Number of Problems</strong>: 1001 problems (what else did you expect? =D)</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>New and refreshing approach to teaching life and death.</li>
+<li>Appropriate for 12 kyu and stronger.</li>
+<li>Recommended for casual players.</li>
+</ul>
+<p><span id="more-1553"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 8 / 10</h4>
+<p>The directions for the problems don&#8217;t get any simpler. You have one of two directions: Black to kill or Black to live. This can be slightly confusing for those who wish for more specific directions whether life means seki or not; but this is more accurate to what players must do in their actual games. In addition, the explanation are on the shorter side in order to accommodate the large number of problems. Due to the lack of variations, the readability of the book is rather difficult since there will be times where you are unsure of why your answer is wrong. However, since players purchasing this book are aiming to master the basics and progress into intermediate and hard life and death problems, the format of the book is a great stepping stone for doing so.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>The content quality is primarily boosted by the way that the problems are categorized. You start with one move problems (to kill or live), and then work your way up to three move problems and then five move problems. As a result, each section is carefully designed to meet those requirements and allow players to get a much better grasp of life and death concepts before jumping to something more advanced. Very high marks for this categorization method.</p>
+<h4>Final Thoughts</h4>
+<p>This book is not for the faint-hearted. 1,001 problems is a lot more difficult than it seems and it can get tiring at times. However, I cannot stress enough how great this book is at giving players a really good structure for practicing and reinforcing basic life and death skills. It may not cover every life and death problem category that exists out there, but it focuses on the important ones that you will generally see at the beginner and intermediate level. In addition, it gives players great practice in increasing the number of moves they are able to see in their head. So if you&#8217;re looking to focus on life and death problems that provide a challenge that won&#8217;t bore you to death, this is the book for you.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>Some Important Terms and Concepts</li>
+<li>Part One &#8211; One-move problems &#8211; Black to live</li>
+<li>Part Two &#8211; One-move problems &#8211; Black to kill</li>
+<li>Part Three &#8211; Three-move problems &#8211; Black to live</li>
+<li>Part Four &#8211; Three-move problems &#8211; Black to kill</li>
+<li>Part Five- Five-move problems &#8211; Black to live</li>
+<li>Part Six- Five-move problems &#8211; Black to kill</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated May 14th, 2013 &#8211; 5 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1553</post-id>	</item>
+		<item>
+		<title>Book Review: Graded Go Problems for Beginners, Vol. 4</title>
+		<link>/book-review-graded-go-problems-for-beginners-vol-4/</link>
+		<pubDate>Wed, 26 Dec 2012 17:04:01 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[advanced]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[intermediate]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=1422</guid>
+		<description><![CDATA[Overall Rating: 4.5 / 5 Ponnuki Basic Information Title: Graded Go Problems for Beginners, Volume 4 Author: Kano Yoshinori Translator: Richard Bozulich Publisher: Kiseido Publication Date: April 1990 Page Length: 197 pages Number of Problems: 390 Synopsis This is where the go problems begin to get more complicated and advanced. Continues the general format from the previous volumes, but has a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter wp-image-1423" alt="graded-go-problems-for-beginners-volume-4" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-4.jpg?resize=198%2C280" width="198" height="280" data-recalc-dims="1" /></p>
+<h2 style="text-align: center;">Overall Rating: 4.5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Graded Go Problems for Beginners, Volume 4</li>
+<li><strong>Author: </strong>Kano Yoshinori</li>
+<li><strong>Translator:</strong> Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>April 1990</li>
+<li><strong>Page Length:</strong> 197 pages</li>
+<li><strong>Number of Problems</strong>: 390</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>This is where the go problems begin to get more complicated and advanced.</li>
+<li>Continues the general format from the previous volumes, but has a higher expectation of its readers.</li>
+<li>Appropriate for 10 kyu and stronger.</li>
+<li>Recommended for serious players and above.</li>
+</ul>
+<p><span id="more-1422"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 8 / 10</h4>
+<p>In this volume, we are officially in SDK (single digit kyu) land and the problems are definitely not easy to figure out. The problems are about as dense and difficult to understand as you might find in other tsumego books. Although this may seem like a negative aspect, this is actually great exposure for people who have been following this series since it builds you up to what you will find out there with other tsumego books.<br />
+For overall readability explanation, see the readability section in the <a title="Book Review: Graded Go Problems for Beginners Series" href="//book-review-graded-go-problems-for-beginners-series/">review on the entire series</a>.</p>
+<h4>Content Quality &#8211; 9 / 10</h4>
+<p>Similar to Volume 3, this volume is heavily focused on life and death and middle game tactics.  Definitely not one for the faint of heart.<br />
+For the first time, there is no rank recommendation on the cover; but if you can do all the problems in these book, you are most likely going to be 5 kyu or above.<br />
+For overall content quality explanation, see the content quality section in the <a title="Book Review: Graded Go Problems for Beginners Series" href="//book-review-graded-go-problems-for-beginners-series/">review on the entire series</a>.</p>
+<h4>Final Thoughts</h4>
+<p>Although I am a 6 kyu, I know that this volume is still quite difficult for me to solve correctly in a reasonable amount of time. I still make numerous errors and need the solutions in order to help guide me down the right path. As a result, you can know for sure that this book does a fantastic job filling in a gap for players in the SDK range.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>Glossary</li>
+<li>Problems
+<ol>
+<li>Advanced Problems: Level One</li>
+<li>Advanced Problems: Level Two</li>
+<li>Advanced Problems: Level Three &#8211; Life and Death Problems</li>
+<li>Advanced Problems: Level Four &#8211; Life and Death Problems</li>
+</ol>
+</li>
+<li>Answers</li>
+<li>National Go Association</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-3/?acc=e4da3b7fbbce2345d7772b0674a318d5">$20.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated December 24th, 2012 &#8211; 6 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1422</post-id>	</item>
+		<item>
+		<title>Book Review: Graded Go Problems for Beginners, Vol. 3</title>
+		<link>/book-review-graded-go-problems-for-beginners-vol-3/</link>
+		<pubDate>Wed, 26 Dec 2012 17:03:23 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[intermediate]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=1416</guid>
+		<description><![CDATA[Overall Rating: 4.5 / 5 Ponnuki Basic Information Title: Graded Go Problems for Beginners, Volume 3 Author: Kano Yoshinori Translator: Richard Bozulich Publisher: Kiseido Publishing Company Publication Date: March 1987 Page Length: 199 pages Number of Problems: 421 Synopsis This is where the go problems begin to get more complicated and advanced. Continues the general format from the previous volumes, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter  wp-image-1417" alt="graded-go-problems-for-beginners-volume-3" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-3.jpg?resize=197%2C280" width="197" height="280" data-recalc-dims="1" /></p>
+<h2 style="text-align: center;">Overall Rating: 4.5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Graded Go Problems for Beginners, Volume 3</li>
+<li><strong>Author: </strong>Kano Yoshinori</li>
+<li><strong>Translator:</strong> Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido Publishing Company</li>
+<li><strong>Publication Date: </strong>March 1987</li>
+<li><strong>Page Length:</strong> 199 pages</li>
+<li><strong>Number of Problems</strong>: 421</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>This is where the go problems begin to get more complicated and advanced.</li>
+<li>Continues the general format from the previous volumes, but has a higher expectation of its readers.</li>
+<li>Appropriate for 10 kyu and stronger.</li>
+<li>Recommended for serious players and above.</li>
+</ul>
+<p><span id="more-1416"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 8 / 10</h4>
+<p>From this point on, the problems enter an advanced level and leaves behind the simpler problems we became familiar with in Volume 1 and Volume 2. As a result, some of the solutions will be harder to understand and the variations may not necessarily cover the answer you came up with. This is to be expected however, seeing as how we are progressing towards the land of SDK&#8217;s (i.e., single digit kyus).<br />
+For overall readability explanation, see the readability section in the <a title="Book Review: Graded Go Problems for Beginners Series" href="//book-review-graded-go-problems-for-beginners-series/">review on the entire series</a>.</p>
+<h4>Content Quality &#8211; 9 / 10</h4>
+<p>This volume has a much greater emphasis on life and death and middle game tactics. While I was a little sad to see fewer subjects than the previous volumes, I recognize that the next level of growth for players lies in the middle game. The problems still are top notch and will be very valuable to those players who can understand the lessons they are trying to pass on.<br />
+While the cover states that the book is appropriate for 20 kyu to 15 kyu players, if you can do all the problems in these book, you are most likely going to be in the 12 kyu to 8 kyu range.<br />
+For overall content quality explanation, see the content quality section in the <a title="Book Review: Graded Go Problems for Beginners Series" href="//book-review-graded-go-problems-for-beginners-series/">review on the entire series</a>.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>Glossary</li>
+<li>Part One: Problems
+<ol>
+<li>Intermediate Problems: Level One
+<ol>
+<li>Section 1. Middle Game Problems</li>
+<li>Section 2. Opening Problems</li>
+<li>Section 3. Living Groups and Dead Groups</li>
+<li>Section 4. Endgame Problems</li>
+</ol>
+</li>
+<li>Intermediate Problems: Level Two
+<ol>
+<li>Section 1. Middle Game Problems</li>
+<li>Section 2. Opening Problems</li>
+<li>Section 3. Living Groups and Dead Groups</li>
+<li>Section 4. Endgame Problems</li>
+</ol>
+</li>
+<li>Intermediate Problems: Level Three &#8211; Life and Death Problems
+<ol>
+<li>Section 1. Life and Death</li>
+<li>Section 2. Ko</li>
+<li>Section 3. Seki</li>
+<li>Section 4. Capturing Races</li>
+</ol>
+</li>
+<li>Intermediate Problems: Level Four &#8211; Life and Death Problems</li>
+</ol>
+</li>
+<li>Part Two: Answers</li>
+<li>National Go Association</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-3/?acc=e4da3b7fbbce2345d7772b0674a318d5">$20.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated December 24th, 2012 &#8211; 6 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1416</post-id>	</item>
+		<item>
+		<title>Book Review: Graded Go Problems for Beginners, Vol. 2</title>
+		<link>/book-review-graded-go-problems-for-beginners-vol-2/</link>
+		<pubDate>Wed, 26 Dec 2012 17:02:21 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[beginner]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=1412</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Graded Go Problems for Beginners, Volume 2 Author: Kano Yoshinori Translator: Richard Bozulich Publisher: Kiseido Publishing Company Publication Date: September 1985 Page Length: 248 pages Number of Problems: 327 Synopsis Does a great job building on the first volume. Continues to live up to the series&#8217; reputation of great problems and easy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter  wp-image-1413" alt="graded-go-problems-for-beginners-volume-2" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-2.jpg?resize=197%2C280" width="197" height="280" data-recalc-dims="1" /></p>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Graded Go Problems for Beginners, Volume 2</li>
+<li><strong>Author: </strong>Kano Yoshinori</li>
+<li><strong>Translator:</strong> Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido Publishing Company</li>
+<li><strong>Publication Date: </strong>September 1985</li>
+<li><strong>Page Length:</strong> 248 pages</li>
+<li><strong>Number of Problems</strong>: 327</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>Does a great job building on the <a title="Book Review: Graded Go Problems for Beginners, Vol. 1" href="//book-review-graded-go-problems-for-beginners-vol-1/">first volume</a>.</li>
+<li>Continues to live up to the series&#8217; reputation of great problems and easy to understand solutions.</li>
+<li>Appropriate for 20 kyu and stronger.</li>
+<li>Recommended for casual players and above.</li>
+</ul>
+<p><span id="more-1412"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 10 / 10</h4>
+<p>The diagrams begin to get a little bit more complicated in this volume. While this may seem slightly daunting at first, this is excellent exposure to how things will look when you&#8217;re actually playing a game. In addition, the problems are still kept to a simplicity that will further ease the transition into bigger boards and more complicated positions.<br />
+For overall readability explanation, see the readability section in the <a title="Book Review: Graded Go Problems for Beginners Series" href="//book-review-graded-go-problems-for-beginners-series/">review on the entire series</a>.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>While the cover states that the book is appropriate for 25 kyu to 20 kyu players, if you can do all the problems in these book, you are most likely going to be in the 12 to 15 kyu range.<br />
+For overall content quality explanation, see the content quality section in the <a title="Book Review: Graded Go Problems for Beginners Series" href="//book-review-graded-go-problems-for-beginners-series/">review on the entire series</a>.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>Glossary</li>
+<li>Part One: Problems
+<ol>
+<li>Elementary Problems: Level One
+<ol>
+<li>Section 1. How to Capture Stones</li>
+<li>Section 2. Connecting and Separating Stones</li>
+<li>Section 3. Defending Your Positions</li>
+<li>Section 4. Ko</li>
+<li>Section 5. Capturing Races</li>
+<li>Section 6. Living Groups and Dead Groups</li>
+<li>Section 7. How to Play in the Opening</li>
+<li>Section 8. The End of the Game</li>
+</ol>
+</li>
+<li>Elementary Problems: Level Two
+<ol>
+<li>Section 1. How to Play in the Opening</li>
+<li>Section 2. How to Capture Stones and Related Problems</li>
+<li>Section 3. Defending Your Positions</li>
+<li>Section 4. Life and Death</li>
+<li>Section 5. Ko</li>
+<li>Section 6. Capturing Races</li>
+<li>Section 7. Endgame</li>
+</ol>
+</li>
+<li>Elementary Problems: Level Three
+<ol>
+<li>Section 1. How to Play in the Opening</li>
+<li>Section 2. How to Capture Stones</li>
+<li>Section 3. Connecting and Separating Stones</li>
+<li>Section 4. Defending Your Positions</li>
+<li>Section 5. Life and Death</li>
+<li>Section 6. Ko</li>
+<li>Section 7. Capturing Races</li>
+<li>Section 8. Endgame</li>
+</ol>
+</li>
+<li>Elementary Problems: Level Four &#8211; Life and Death Problems
+<ol>
+<li>Section 1. Making Life</li>
+<li>Section 2. Killing Groups</li>
+<li>Section 3. Seki</li>
+<li>Section 4. Ko</li>
+<li>Section 5. Capturing Races</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Part Two: Answers</li>
+<li>Appendix: Nakade and Bent Four in Corner</li>
+<li>Go Associations</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-2/?acc=e4da3b7fbbce2345d7772b0674a318d5">$20.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+<li>SmartGo Books [E-book] &#8211; <a title="SmartGo Books App Download" href="https://itunes.apple.com/app/smartgo-books/id428149193?mt=8">$5.99</a> (Apple users only)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated December 24th, 2012 &#8211; 6 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1412</post-id>	</item>
+		<item>
+		<title>Book Review: Graded Go Problems for Beginners, Vol. 1</title>
+		<link>/book-review-graded-go-problems-for-beginners-vol-1/</link>
+		<pubDate>Wed, 26 Dec 2012 17:01:03 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[beginner]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=1402</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Graded Go Problems for Beginners, Volume 1 Author: Kano Yoshinori Translator: Richard Bozulich Publisher: Kiseido Publication Date: February 1985 Page Length: 216 pages Number of Problems: 239 Synopsis This is the perfect book for beginners. A fantastically well rounded book with lots of different material. Appropriate for 30 kyu and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter  wp-image-1409" alt="graded-go-problems-for-beginners-volume-1" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2012/12/graded-go-problems-for-beginners-volume-1.jpg?resize=198%2C280" width="198" height="280" data-recalc-dims="1" /></p>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Graded Go Problems for Beginners, Volume 1</li>
+<li><strong>Author: </strong>Kano Yoshinori</li>
+<li><strong>Translator:</strong> Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>February 1985</li>
+<li><strong>Page Length:</strong> 216 pages</li>
+<li><strong>Number of Problems</strong>: 239</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>This is the perfect book for beginners.</li>
+<li>A fantastically well rounded book with lots of different material.</li>
+<li>Appropriate for 30 kyu and stronger.</li>
+<li>Recommended for any go player.</li>
+</ul>
+<p><span id="more-1402"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 10 / 10</h4>
+<p>One of my favorite aspects about this book is the fact that the diagrams are so large (in comparison to typical <a href="http://senseis.xmp.net/?Tsumego">tsumego</a> you might find). The use of smaller boards (e.g., 13&#215;13) and bigger pieces makes the problems very inviting and less intimidating.<br />
+For overall readability explanation, see the readability section in the <a title="Book Review: Graded Go Problems for Beginners Series" href="//book-review-graded-go-problems-for-beginners-series/">review on the entire series</a>.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>The problems in this volume are a remarkable collection of fundamental concepts that every go player should know (regardless of your approach to the game).<br />
+While the cover states that the book is appropriate for 30 kyu to 25 kyu players, if you can do all the problems in these book, you are most likely going to be in the 20 kyu range.<br />
+For overall content quality explanation, see the content quality section in the <a title="Book Review: Graded Go Problems for Beginners Series" href="//book-review-graded-go-problems-for-beginners-series/">review on the entire series</a>.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>How to Play Go</li>
+<li>Glossary</li>
+<li>Part One: Problems
+<ol>
+<li>Introductory Problems: Level One
+<ol>
+<li>Section 1. How to Capture Stones</li>
+<li>Section 2. How to Save Endangered Stones</li>
+<li>Section 3. Recognizing Atari</li>
+<li>Section 4. Connecting and Separating Stones</li>
+<li>Section 5. Ko</li>
+<li>Section 6. Ladders</li>
+<li>Section 7. Living Groups and Dead Groups</li>
+<li>Section 8. How to Play in the Opening</li>
+<li>Section 9. Endgame and Other Moves</li>
+</ol>
+</li>
+<li>Introductory Problems: Level Two
+<ol>
+<li>Section 1. How to Capture Stones</li>
+<li>Section 2. How to Save Endangered Stones</li>
+<li>Section 3. How to Give Atari</li>
+<li>Section 4. Ladders</li>
+<li>Section 5. Snapback and Related Moves</li>
+<li>Section 6. Connecting and Separating Stones</li>
+<li>Section 7. Living Groups and Dead Groups</li>
+<li>Section 8. Ko</li>
+<li>Section 9. How to Play in the Opening</li>
+<li>Endgame</li>
+</ol>
+</li>
+<li>Introductory Problems: Level Three &#8211; Life and Death Problems
+<ol>
+<li>Section 1. Making Life</li>
+<li>Section 2. How to Save Endangered Stones</li>
+<li>Section 3. How to Give Atari</li>
+<li>Section 4. Ladders</li>
+<li>Section 5. Snapback and Related Moves</li>
+<li>Section 6. Connecting and Separating Stones</li>
+</ol>
+</li>
+<li>Introductory Problems: Level Four
+<ol>
+<li>Section 1. Atari</li>
+<li>Section 2. Capturing Races</li>
+<li>Section 3. Nets</li>
+<li>Section 4. Snapback</li>
+<li>Section 5. Oiotoshi</li>
+<li>Section 6. Brilliant Moves and Bad Moves</li>
+<li>Section 7. Seki</li>
+<li>Section 8. Connecting and Separating Stones</li>
+<li>Section 9. Living Groups and Dead Groups</li>
+<li>Section 10. How to Play in the Opening</li>
+<li>Section 11. Endgame</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Part Two: Answers</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-1/?acc=e4da3b7fbbce2345d7772b0674a318d5">$20.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+<li>SmartGo Books [E-book] &#8211; <a title="SmartGo Books App Download" href="https://itunes.apple.com/app/smartgo-books/id428149193?mt=8">$5.99</a> (Apple users only)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated December 26th, 2012 &#8211; 6 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1402</post-id>	</item>
+		<item>
+		<title>Book Review: Graded Go Problems for Beginners Series</title>
+		<link>/book-review-graded-go-problems-for-beginners-series/</link>
+		<pubDate>Wed, 26 Dec 2012 17:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[classic]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=140</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Graded Go Problems for Beginners, Volume 1 &#8211; 4 Author: Kano Yoshinori Translator: Richard Bozulich Publisher: Kiseido Synopsis The best starter English tsumego books available on the market. This series is a classic for tsumego. It features an array of topics to help players reach the next level. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter  wp-image-1397" alt="graded go problems for beginners" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2010/08/graded-go-problems-for-beginners.jpg?resize=720%2C246" width="720" height="246" data-recalc-dims="1" /></p>
+<div style="text-align: left;">
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Graded Go Problems for Beginners, Volume 1 &#8211; 4</li>
+<li><strong>Author:</strong> Kano Yoshinori</li>
+<li><strong>Translator:</strong> Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>The best starter English <a href="http://senseis.xmp.net/?Tsumego">tsumego</a> books available on the market.</li>
+<li>This series is a classic for tsumego.</li>
+<li>It features an array of topics to help players reach the next level.</li>
+<li>Recommended for any player remotely interested in getting stronger.</li>
+</ul>
+<p><span id="more-140"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 10 / 10</h4>
+<p>So how does one give a rating on readability to a book primarily consisting of diagrams? Very simple: the solutions. Especially for those who haven&#8217;t traversed the vast world of tsumego, authors are not always the most capable of explaining the solution in an easy to understand fashion. Another aspect that I also consider are the quality of variations that are provided. More often than not, players who get the problem wrong will have a difficult time seeing why their solution doesn&#8217;t work. Selecting the variations and/or common mistakes that players make is critical to understanding the problem and getting stronger at reading.<br />
+This series serves as the model that I compare all other tsumego books to. The solutions are very clear and easy to understand 99% of the time. You&#8217;ll occasionally run into an oddball where you are stuck as to why your answer doesn&#8217;t work, but I assure you that the book is correct. I recommend getting a stronger player to help explain why it doesn&#8217;t work so you don&#8217;t get stuck on your solution.<br />
+In addition, while there are some who may critique the series for having the solutions in the back of the book (as opposed to right after the problem) and having hints for how the problems should be solved, I find that these two aspects are actually beneficial to the series for two particular reasons. First, one of the popular recommendations for solving tsumego is to solve it without ever looking at the solutions. As such, this format is suited for that type of studying. Secondly, while the hints to serve as a crutch to the readers, I think that they are help what make the series truly for beginners.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>The key to high quality tsumego is teaching players patterns that are widely applicable. While this might seem common sense, I have run into plenty of tsumego (even the beginner ones) that consist of scenarios that seem very odd. Since most people play go as a casual hobby, these obscure tsumego will only serve as a detriment to your efforts since you will most likely never run into them.<br />
+With that in mind, I am delighted to inform you that this series provides extremely high quality tsumego that will become valuable in your play.  You will be exposed to fundamental concepts without being inundated with over complicated sequences or dense diagrams. In addition, the wealth of topics that are packed into the book is phenomenal (see the table of contents in <a title="Book Review: Graded Go Problems for Beginners, Vol. 1" href="//book-review-graded-go-problems-for-beginners-vol-1/">Volume 1</a> for a glimpse). Yoshinori does a fantastic job providing the reader with small doses of each topic so that tsumego study never becomes dull.</p>
+<h4>Final Thoughts</h4>
+<p>This series is a classic for its fundamental go problems that every player will encounter on their way to the top. As I mentioned before, the quality of problems can vary greatly out there; but I assure you that the problems in this series are nothing but top notch. If you practice and complete the entire series, I guarantee that you will easily land within the realm of SDK&#8217;s before you know it. Definitely well worth your time and effort.<br />
+Finally, I must warn you NOT to buy these books from Amazon. They are almost always overpriced considering the fact that they&#8217;re usually used.<br />
+PS. Since you&#8217;re going to spend the money anyways, if your finances can handle it, I recommend purchasing (at least) the first two books since I have a feeling you&#8217;ll get through the first one pretty quickly. =)<br />
+PPS. For individual book reviews, see the links below.</p>
+<h3>Recommended Vendors</h3>
+<ol>
+<li><strong>Graded Go Problems for Beginners, Volume 1 [<a title="Book Review: Graded Go Problems for Beginners, Vol. 1" href="//book-review-graded-go-problems-for-beginners-vol-1/">Review</a>]</strong>
+<ol>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-1/?acc=e4da3b7fbbce2345d7772b0674a318d5">$20.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+<li>SmartGo Books [E-book] &#8211; <a title="SmartGo Books App Download" href="https://itunes.apple.com/app/smartgo-books/id428149193?mt=8">$4.99</a> (Apple users only)</li>
+</ol>
+</li>
+<li><strong>Graded Go Problems for Beginners, Volume 2 <strong>[<a title="Book Review: Graded Go Problems for Beginners, Vol. 2" href="//book-review-graded-go-problems-for-beginners-vol-2/">Review</a>]</strong></strong>
+<ol>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-2/?acc=e4da3b7fbbce2345d7772b0674a318d5">$20.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+<li>SmartGo Books [E-book] &#8211; <a title="SmartGo Books App Download" href="https://itunes.apple.com/app/smartgo-books/id428149193?mt=8">$4.99</a> (Apple users only)</li>
+</ol>
+</li>
+<li><strong>Graded Go Problems for Beginners, Volume 3 <strong>[<a title="Book Review: Graded Go Problems for Beginners, Vol. 3" href="//book-review-graded-go-problems-for-beginners-vol-3/">Review</a>]</strong></strong>
+<ol>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-3/?acc=e4da3b7fbbce2345d7772b0674a318d5">$20.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+</li>
+<li><strong>Graded Go Problems for Beginners, Volume 4 <strong>[<a title="Book Review: Graded Go Problems for Beginners, Vol. 4" href="//book-review-graded-go-problems-for-beginners-vol-4/">Review</a>]</strong></strong>
+<ol>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/graded-go-problems-for-beginners-volume-4/?acc=e4da3b7fbbce2345d7772b0674a318d5">$20.99</a> (S&amp;H not included)</li>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+</li>
+</ol>
+<p style="text-align: center;"><em>Last Updated December 24th, 2012 &#8211; 6 kyu</em></p>
+</div>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">140</post-id>	</item>
+		<item>
+		<title>Tsumego: Books vs. Software</title>
+		<link>/go-problems-books-vs-software/</link>
+		<pubDate>Wed, 31 Oct 2012 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[books vs. software]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=14</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #5 Although I&#8217;m normally a huge fan of technology and its ability to improve our lives, this is definitely one of those times where I warrant caution in its usage. Unlike a book, tsumego software allows you to try out moves that you think will work without actually reading it out. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><em>Weekly Go Wednesday, Issue #5</em></h2>
+<figure id="attachment_801" style="width: 371px" class="wp-caption aligncenter"><img class=" wp-image-801 " title="old-school-vs-new-school" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2012/10/old-school-vs-new-school.jpg?resize=371%2C328" alt="Cassette and iPod Talking" width="371" height="328" data-recalc-dims="1" /><figcaption class="wp-caption-text">Credit to JackTechh</figcaption></figure>
+Although I&#8217;m normally a huge fan of technology and its ability to improve our lives, this is definitely one of those times where I warrant caution in its usage.<br />
+<strong>Unlike a book, tsumego software allows you to try out moves that you think will work without actually reading it out.</strong> Let&#8217;s not forget, you are doing tsumego to improve your reading ability. If you&#8217;re not actually reading it out, how much improvement do you really expect to see? In addition, as if it wasn&#8217;t bad enough that you aren&#8217;t actually reading it out, you end up reinforcing a terrible habit on two levels:</p>
+<p style="padding-left: 30px;">#1. <em>Mental Reinforcement</em> &#8211; Your brain isn&#8217;t actually reading it out. Instead, it&#8217;s more of a &#8220;let&#8217;s play here and see how the computer responds.&#8221; So your brain is getting lazier since you know that the software will show you what&#8217;s wrong anyways. Thus, I would argue that it deteriorates your reading ability.</p>
+<p style="padding-left: 30px;">#2. <em>Physical Reinforcement</em> &#8211; Whether you realize it or not, each time you carelessly place a stone on the board, you are creating the muscle memory of the bad move. In other words, you are not only mentally saying, &#8220;Yes. I think this should work,&#8221; but your body  is also saying, &#8220;I concur with my brain and will act in conjunction with this idea.&#8221;</p>
+<p>There will be players who will then argue that it would be impossible to play go because everyone makes bad moves like this at one point or another. While that point may seem valid, the reason that it doesn&#8217;t apply to this scenario is that there is a crucial difference between making a bad move in an actual game and making a bad move in a tsumego problem:</p>
+<p style="padding-left: 30px;"><strong>There is little to no psychological attachment to solving tsumego incorrectly. It might be a little frustrating at times; but its impact on players is like a drop of water compared to the vast ocean that players feel when faced with the traumatic moment of realizing that their poor move cost them a group or the game.</strong></p>
+<p>As a result, players end up learning from their bad moves in their games; but generally fail to do so when making bad moves while solving tsumego.</p>
+<p style="text-align: center;"><strong>HOWEVER&#8230;.</strong></p>
+<p>This does not mean that tsumego software should be banned and never see daylight again. In fact, it would be a travesty if anyone were to take that away as my thesis for this post. Like anything else in life, it has to be used correctly for it to be beneficial to the user.<br />
+The following tips will help ensure that you are getting the most out of your tsumego software:</p>
+<ol>
+<li><strong>Read out every variation to the best of your ability before you place a single stone.</strong></li>
+<li><strong>If you end up choosing the wrong move&#8230;</strong>
+<ul>
+<li><strong>Figure out and understand <span style="text-decoration: underline;">why</span> it doesn&#8217;t work.</strong></li>
+<li>Reset the problem to the beginning.</li>
+<li>Read it out again without any stones on the board to reinforce the why it doesn&#8217;t work.</li>
+<li>Once you can see the entire sequence, play it through once more before moving on.</li>
+</ul>
+</li>
+<li><strong>Spend more time solving easy to intermediate problems.</strong></li>
+</ol>
+<p>Remember, being able to carry tsumego with us wherever we go these days is a luxury that we should all appreciate. Just remember that you use it properly and I assure you that you will thank yourself as your continue down the endless path to becoming one stone stronger.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">14</post-id>	</item>
+		<item>
+		<title>A Forced Break</title>
+		<link>/a-forced-break/</link>
+		<pubDate>Fri, 24 Sep 2010 03:21:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=100</guid>
+		<description><![CDATA[So like most people, my world is not solely my own and is constantly impacted by the people around me.  This has forced me to take a break from playing full games of Go online, but on the upside I&#8217;ve been trying to take what Justin advised me to do to heart. After reflecting on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So like most people, my world is not solely my own and is constantly impacted by the people around me.  This has forced me to take a break from playing full games of Go online, but on the upside I&#8217;ve been trying to take what Justin advised me to do to heart.<br />
+After reflecting on it for some time, I realized that most of my frustrations come from the fact that my visualization and ability to read ahead is undisciplined and ill-trained at the moment.  Like Justin said, no amount of theories will be able to correct for that.  Agreed.  I will be working hard to finish up any remaining books that I started so that there aren&#8217;t a bunch of half-read books on my bookshelf, but afterwards I&#8217;ll be sure to dive headfirst into all the problem books I own.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">100</post-id>	</item>
+	</channel>
+</rss>

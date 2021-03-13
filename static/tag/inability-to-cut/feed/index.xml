@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>inability to cut &#8211; BenGoZen</title>
+	<atom:link href="/tag/inability-to-cut/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>A Dull Blade</title>
+		<link>/a-dull-blade/</link>
+		<pubDate>Thu, 07 Mar 2013 22:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[a dull blade]]></category>
+		<category><![CDATA[blunt]]></category>
+		<category><![CDATA[clubbing my opponents]]></category>
+		<category><![CDATA[inability to cut]]></category>
+		<category><![CDATA[no edge]]></category>
+		<category><![CDATA[no skill]]></category>
+		<category><![CDATA[wild attacks]]></category>
+
+		<guid isPermaLink="false">//?p=2171</guid>
+		<description><![CDATA[In the past month, I&#8217;ve been wrestling with the inconsistency of my games. At times, I can give high SDK&#8217;s a run for their money. Then, to my utter surprise, I find myself getting beat by players around 6 kyu in the following games. So what gives? Well, frozensoul shed some light a few days [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In the past month, I&#8217;ve been wrestling with the inconsistency of my games. At times, I can give high SDK&#8217;s a run for their money. Then, to my utter surprise, I find myself getting beat by players around 6 kyu in the following games. So what gives?<br />
+Well, frozensoul shed some light a few days ago, it seems that in my pursuit of understanding a higher level understanding of go, I have seemed to missed a step in my growth. As a result, my go is in this weird limbo. When I play against players who are more skilled than I am, I am able to more or less mirror their skills and give them a good game. On the other hand, when playing against players around my current rank of 6k, I am unable to punish their bad moves. Inadvertently, these players end up getting away with more than they should have which allows them to beat me.<br />
+While it may seem harsh, frozensoul&#8217;s description of my go is accurate:</p>
+<blockquote><p>You are a blade with no edge.</p></blockquote>
+<p>Similar to preparing food in the kitchen, when you have a sharp blade, there is a certain delight as you cut and slice everything with utter precision and minimum effort. On the other hand, when you&#8217;re working with a dull blade, cutting anything becomes a lot of effort for a job not very well done. It is no different with go.<br />
+At the present moment, my go would probably be better compared to a club than a knife. In all honesty, a majority of my wins probably comes out of beating my opponents into submission. However, even a simple swordsman will be able parry my attacks and take me down in a one swift strike. And even if I occasionally manage to defeat a swordsman in combat, it is only because of a lucky swing that happened to strike my opponent in the head. =)<br />
+Although I have recently overcome the frustration that comes with losing, it seems the next obstacle is bearing its fangs at me. And this time, there will be no convention to shock me into awakening. Like a <a href="http://bleach.wikia.com/wiki/Shinigami">shinigami</a> searching for his <a href="http://bleach.wikia.com/wiki/Zanpakut%C5%8D">zanpakuto</a>, it seems that unless I discover and forge my own blade, I will be unable to take another step forward.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2171</post-id>	</item>
+	</channel>
+</rss>

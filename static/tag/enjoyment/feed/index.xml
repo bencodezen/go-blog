@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>enjoyment &#8211; BenGoZen</title>
+	<atom:link href="/tag/enjoyment/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Encountering My First Chess Advocate</title>
+		<link>/encountering-my-first-chess-advocate/</link>
+		<comments>/encountering-my-first-chess-advocate/#comments</comments>
+		<pubDate>Wed, 29 Apr 2015 01:19:04 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[chess vs go]]></category>
+		<category><![CDATA[enjoyment]]></category>
+
+		<guid isPermaLink="false">//?p=5984</guid>
+		<description><![CDATA[Today at work I was talking to my co-worker and was scoffed at when he found out I played go. &#8220;Who plays go?!&#8221; he exclaimed. I tried to then jump into a mini-speech on its complexity; but he shut me down pretty quickly by dismissing me and saying that chess was much more complex and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today at work I was talking to my co-worker and was scoffed at when he found out I played go.<br />
+&#8220;Who plays go?!&#8221; he exclaimed.<br />
+I tried to then jump into a mini-speech on its complexity; but he shut me down pretty quickly by dismissing me and saying that chess was much more complex and the only reason why go is as &#8220;mysterious&#8221; as it seems to be is because it essentially hasn&#8217;t had the same exposure here in the Western world. And given enough time, it would be clear that chess was clearly the harder game.<br />
+To be honest, I was rather baffled and shocked. I had encountered my fair share of chess vs go arguments, but this was the first time I&#8217;d encountered it in person (and with such vigor as well). Sadly I was too shaken by the encounter to really try and convince him otherwise. (To give some context, he is very intelligent and is extremely knowledgeable about a lot of things. So in other words, I wasn&#8217;t going to win him over with any sort of uplifting speech about go.)<br />
+As I sit here thinking about it, I do want to write about my personal take on the chess vs go debate and why I chose go; but that is for another time. For now, what I will say is that I think that trying to argue that one is superior over another is like saying one is better off learning one instrument over another. You can spend all day arguing over minutiae of how one instrument might give better coordination than another; but what really matters at the end of the day is as simple as which one gives you real joy. And if you have that, that is enough to make one thing better for you than another.<br />
+Just my two cents.</p>
+]]></content:encoded>
+			<wfw:commentRss>/encountering-my-first-chess-advocate/feed/</wfw:commentRss>
+		<slash:comments>38</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5984</post-id>	</item>
+	</channel>
+</rss>

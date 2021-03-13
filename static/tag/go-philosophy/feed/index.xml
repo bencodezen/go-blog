@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>go philosophy &#8211; BenGoZen</title>
+	<atom:link href="/tag/go-philosophy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Countdown: 1 Day</title>
+		<link>/countdown-1-day/</link>
+		<pubDate>Tue, 12 Oct 2010 19:51:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[go philosophy]]></category>
+		<category><![CDATA[zhang yunqi]]></category>
+
+		<guid isPermaLink="false">//?p=71</guid>
+		<description><![CDATA[So it looks like me trying to finish Basic Techniques of Go is going to be overly ambitious, but that&#8217;s okay. I think I&#8217;m in good shape to finish up the other two by tomorrow, and I&#8217;m happy with that result. I know that there are those who were skeptical of my one week hiatus [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So it looks like me trying to finish <span style="text-decoration: underline;">Basic Techniques of Go</span> is going to be overly ambitious, but that&#8217;s okay. I think I&#8217;m in good shape to finish up the other two by tomorrow, and I&#8217;m happy with that result. I know that there are those who were skeptical of my one week hiatus since the number one advice for improving (in general) is getting experience by playing games.<br />
+My reason for going against that advice is that Zhang Yunqi once said that go required &#8220;the tactic of the soldier, the exactness of the mathematician, the imagination of the artist, the inspiration of the poet, the calm of the philosopher, and the greatest of intelligence.&#8221; In other literature I&#8217;ve read, I&#8217;ve also heard that Go is 98% patience.<br />
+Over this week, I&#8217;ve spent a lot of time working on my &#8220;calm of the philosopher.&#8221; I know that it&#8217;s not a simple project that can be perfected in a short amount of time, but I think that I&#8217;ve gotten somewhere. In addition to the reading and training I&#8217;ve been doing, I&#8217;ve done a lot of introspection and meditation as well. I know people may think that this may seem a bit much for &#8220;a game,&#8221; but one of the most attractive points about Go is the fact that it is a game about self-improvement.<br />
+A person never truly stands still. We either move forward or move backward, like a raft trying to work its way upstream. I believe I can find the way to my own growth through this game, and I will use my utmost efforts in that pursuit.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">71</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>less games &#8211; BenGoZen</title>
+	<atom:link href="/tag/less-games/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 7</title>
+		<link>/friday-go-forward-week-7/</link>
+		<pubDate>Fri, 15 Mar 2013 13:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[less games]]></category>
+		<category><![CDATA[studious week]]></category>
+
+		<guid isPermaLink="false">//?p=2194</guid>
+		<description><![CDATA[Games KGS &#8211; 1 game ( 1 win : 0 loss ) Tsumego Essential Life &#38; Death (Vol. 2) &#8211; Complete Go Game &#8211; Life and Death (iPad App) &#8211; Practice Phase 2 (Class 3 &#8211; 5) Other Elementary Go Series, Volume 5 &#8211; Attack and Defense &#8211; Page 1 &#8211; 20 Dictionary of Basic Joseki: Volume [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Games</h2>
+<ul>
+<li>KGS &#8211; 1 game ( 1 win : 0 loss )</li>
+</ul>
+<h2>Tsumego</h2>
+<ul>
+<li><span style="text-decoration: underline;">Essential Life &amp; Death (Vol. 2)</span> &#8211; Complete</li>
+<li>Go Game &#8211; Life and Death (iPad App) &#8211; Practice Phase 2 (Class 3 &#8211; 5)</li>
+</ul>
+<h2>Other</h2>
+<ul>
+<li><span style="text-decoration: underline;">Elementary Go Series, Volume 5 &#8211; Attack and Defense</span> &#8211; Page 1 &#8211; 20</li>
+<li><span style="text-decoration: underline;">Dictionary of Basic Joseki: Volume 1</span> &#8211; Page 16 &#8211; 32</li>
+<li><span style="text-decoration: underline;">The Chinese Opening</span> &#8211; Pages 50 &#8211; 63</li>
+<li><span style="text-decoration: underline;">36 Stratagems Applied to Go</span> &#8211; Pages 1 &#8211; 9</li>
+</ul>
+<h2>Thoughts</h2>
+<p>Overall, it&#8217;s been a rather quiet week in terms of games. In the meanwhile though, I&#8217;ve had lots of little bits of free time that have allowed me to peruse various topics that I&#8217;ve had my eye on for some time. So in terms of learning new things, it&#8217;s been a rather enriching week. I still have a lot to sort through regarding lessons that I&#8217;ve had from frozensoul, zyoda, and Myung, but I&#8217;m hoping to get to them next week so I can really solidify what they&#8217;ve taught me.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2194</post-id>	</item>
+	</channel>
+</rss>

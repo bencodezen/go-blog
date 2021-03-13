@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: A Retrospective on 2014</title>
+	<atom:link href="/retrospective-2014/feed/" rel="self" type="application/rss+xml" />
+	<link>/retrospective-2014/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/retrospective-2014/#comment-2839</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Thu, 01 Jan 2015 22:22:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5958#comment-2839</guid>
+		<description><![CDATA[Happy New Year to you too!]]></description>
+		<content:encoded><![CDATA[<p>Happy New Year to you too!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Darrell Malick</title>
+		<link>/retrospective-2014/#comment-2838</link>
+		<dc:creator><![CDATA[Darrell Malick]]></dc:creator>
+		<pubDate>Thu, 01 Jan 2015 05:46:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5958#comment-2838</guid>
+		<description><![CDATA[Happy New Year Ben!]]></description>
+		<content:encoded><![CDATA[<p>Happy New Year Ben!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/retrospective-2014/#comment-2837</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2014 14:39:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5958#comment-2837</guid>
+		<description><![CDATA[You too!]]></description>
+		<content:encoded><![CDATA[<p>You too!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Moboy78</title>
+		<link>/retrospective-2014/#comment-2836</link>
+		<dc:creator><![CDATA[Moboy78]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2014 14:21:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5958#comment-2836</guid>
+		<description><![CDATA[Happy New Year!]]></description>
+		<content:encoded><![CDATA[<p>Happy New Year!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/retrospective-2014/#comment-2835</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2014 14:05:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5958#comment-2835</guid>
+		<description><![CDATA[Happy New Year to you too!]]></description>
+		<content:encoded><![CDATA[<p>Happy New Year to you too!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Sundaay</title>
+		<link>/retrospective-2014/#comment-2834</link>
+		<dc:creator><![CDATA[Sundaay]]></dc:creator>
+		<pubDate>Wed, 31 Dec 2014 13:58:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5958#comment-2834</guid>
+		<description><![CDATA[Happy New Year Ben :)]]></description>
+		<content:encoded><![CDATA[<p>Happy New Year Ben 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

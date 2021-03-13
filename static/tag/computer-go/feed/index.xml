@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>computer go &#8211; BenGoZen</title>
+	<atom:link href="/tag/computer-go/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Journal Log #5</title>
+		<link>/journal-log-5/</link>
+		<pubDate>Thu, 09 Sep 2010 03:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[computer go]]></category>
+		<category><![CDATA[lost to a computer]]></category>
+		<category><![CDATA[playing go]]></category>
+
+		<guid isPermaLink="false">//?p=117</guid>
+		<description><![CDATA[So I&#8217;ve logged quite a few games today. Three online, and one in person. The first game was with a 22 kyu to whom I lost by resignation. The game really turned around when I let him undo a move that would&#8217;ve killed an extremely large group, and from that I guess I really don&#8217;t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I&#8217;ve logged quite a few games today. Three online, and one in person.<br />
+The first game was with a 22 kyu to whom I lost by resignation. The game really turned around when I let him undo a move that would&#8217;ve killed an extremely large group, and from that I guess I really don&#8217;t think I like the whole idea of undoing a move. It&#8217;s one thing if you&#8217;re playing a teaching/friendly game with someone (especially when it&#8217;s in person). This is online and KGS with no teaching aspect though, and that should mean one thing: war.<br />
+Go is a intense philosophical games with one of its most unique aspects being that once you place a stone down it is written. Just like your life, you can only work forward and never backwards (unless one of us invents a time machine, but then we&#8217;ll have to discuss time-dimension theories).<br />
+The second game was with an estimated 21 kyu who resigned. I think it may have been a bit premature on his part, but I did manage to practically kill two of the largest groups, so I guess he must have felt hopeless. Although if you ask me, there was still two corners to establish and plenty of center territory left. I don&#8217;t blame him though, as a mere 20 kyu, the 19&#215;19 board can still seem overwhelming sometimes.<br />
+My final online game was against the LiberyBot 14 kyu who beet me by 17.5 moku. If I recall correctly, I misread one large group&#8217;s life and thus died. Thus resulting in my defeat.<br />
+I also played against my cousin tonight (13&#215;13), and lost after misreading one of the ladders. To sum it up, he had some friendly stones along the way, and diverted the course from what would have led to my own stones. sigh&#8230;<br />
+So after intense sessions of go today, I&#8217;m a bit frazzled as to how I will improve. I definitely need to improve my ability to read life and death&#8230; other than that&#8230; I dunno&#8230; I guess we&#8217;ll see won&#8217;t we.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">117</post-id>	</item>
+		<item>
+		<title>Journal Log #4</title>
+		<link>/journal-log-4/</link>
+		<pubDate>Tue, 07 Sep 2010 23:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[computer go]]></category>
+		<category><![CDATA[played go]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">//?p=121</guid>
+		<description><![CDATA[So I&#8217;m back online!  With two online games under my belt today, I&#8217;m feeling pretty good. I played against a human AkiraWeiqi (22 kyu).  It was a good battle.  We both made some careless errors, but man it is different playing against a handicap.  I&#8217;m so used to taking handicaps/even games that seeing stones on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I&#8217;m back online!  With two online games under my belt today, I&#8217;m feeling pretty good.</p>
+<ol>
+<li>I played against a human AkiraWeiqi (22 kyu).  It was a good battle.  We both made some careless errors, but man it is different playing against a handicap.  I&#8217;m so used to taking handicaps/even games that seeing stones on the board was like WHOA!  I won by a slight margin, but I&#8217;ll have to have someone review it to see if he might have been able to close the gap.</li>
+<li>Second game was against the LiberyBot (14 kyu), and that I thought I played relatively well.  I lost by 5.5 moku, but I think it was largely due to a huge reading error in one of my larger groups which then resulted in its death.  Sigh&#8230;. need more practice.</li>
+</ol>
+<p>Okay.  So&#8230; in terms of my study regimen&#8230;. here&#8217;s what we&#8217;ll be looking at.</p>
+<ul>
+<li>Life and Death Problem</li>
+<li>Reading about Go Strategy</li>
+<li>General Go Problems</li>
+<li>Play one serious game</li>
+<li>Replay at least part of a pro game</li>
+</ul>
+<p>Let&#8217;s see where that takes me.  Onwards!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">121</post-id>	</item>
+	</channel>
+</rss>

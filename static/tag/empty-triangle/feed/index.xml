@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>empty triangle &#8211; BenGoZen</title>
+	<atom:link href="/tag/empty-triangle/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Still DDK&#8230;</title>
+		<link>/still-ddk/</link>
+		<pubDate>Tue, 14 Aug 2012 03:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[baduk]]></category>
+		<category><![CDATA[empty triangle]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[kill every group syndrome]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=41</guid>
+		<description><![CDATA[So it seems that even though a lot of time has passed, my rank on KGS still seems to be the same as when I left. It&#8217;s not so much that I&#8217;m slightly concerned that time has not marinated my abilities or anything, but maybe I just need to give it more time. It seems [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_548" style="width: 300px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2012/08/0072.png"><img class="size-medium wp-image-548" title="0072" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/08/0072-300x260.png?resize=300%2C260" alt="" width="300" height="260" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to Empty Triangle</figcaption></figure>
+So it seems that even though a lot of time has passed, my rank on KGS still seems to be the same as when I left. It&#8217;s not so much that I&#8217;m slightly concerned that time has not marinated my abilities or anything, but maybe I just need to give it more time.<br />
+It seems that my playing lately has been extremely centered on fighting. Kill. Kill Kill. I feel as if the empty triangle devil is much stronger than the angel. Haha.<br />
+In order to see whether my hypothesis on my self-destructive tendencies in go hold true, I will be adhering to the following three principles:</p>
+<ol>
+<li>Unless I am playing someone I know or am challenged by someone, I will no longer go out to play random online ranked games for the sake of playing.</li>
+<li>I will now focus on my patience in the game by training through absolute reading for every single go problem I do.</li>
+<li>If I am playing a game, I will read at least 3 moves ahead and determine whether or not the board position is favorable to myself before simply jumping in on impulse.</li>
+</ol>
+<p>Let&#8217;s see how this goes&#8230;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">41</post-id>	</item>
+	</channel>
+</rss>

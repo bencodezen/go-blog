@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>compartmentalization &#8211; BenGoZen</title>
+	<atom:link href="/tag/compartmentalization/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Chaotic Fusion</title>
+		<link>/chaotic-fusion/</link>
+		<pubDate>Fri, 17 Sep 2010 14:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[compartmentalization]]></category>
+		<category><![CDATA[frustrated]]></category>
+		<category><![CDATA[no growth]]></category>
+		<category><![CDATA[whole board thinking]]></category>
+
+		<guid isPermaLink="false">//?p=108</guid>
+		<description><![CDATA[It&#8217;s funny sometimes, how everyone thinks that they can compartmentalize portions of their lives: work, school, family, relationship, friends, and hobbies. We reserve parts of ourselves to deal with the independent portions, yet we all have moments where one compartment overflows to another. This brings to question how realistic compartmentalizing everything is. The problems, the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s funny sometimes, how everyone thinks that they can compartmentalize portions of their lives: work, school, family, relationship, friends, and hobbies. We reserve parts of ourselves to deal with the independent portions, yet we all have moments where one compartment overflows to another. This brings to question how realistic compartmentalizing everything is.<br />
+The problems, the stress, and the conflicts we run into end up being nothing more than local battles. Fights destined to take place at the corner or sides of the board due to simple stone interactions. The commentaries that would come from each move exists in our world as well, &#8220;You did this wrong. How stupid could you be? Didn&#8217;t we discuss why you shouldn&#8217;t do this already? What were you thinking?&#8221;<br />
+Eventually we all hit this point I&#8217;m feeling right now, where attempts at fusing everything into one solid mindset comes to a halt. Nothing looks clear, and you&#8217;ve lost sight of everything. I&#8217;m frustrated with the progress of things and can&#8217;t shake the irritation I have. It&#8217;s at this point that I think it&#8217;s time to take a sabbatical and get away from it all. I don&#8217;t mean to run away or go on vacation, but to simply take a step back from it all. Although many of us have our various aspects of our lives, the one thing for certain is that we cannot ignore our own personal goals. There&#8217;s a time limit for each and every one of us, and it would be disappointing for us not to give our lives the meaning we desire it to.<br />
+I played a game of Go this morning. It was supposedly against an 18 kyu (there was a question mark), but I just couldn&#8217;t hold it together and resigned in the end. Everything seems to be clashing, and it&#8217;s probably time for me to take a step back from it all for now. After all, trying to compartmentalize our lives is anything but futile. Like the Go board, every play affects the whole board.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">108</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>playing games &#8211; BenGoZen</title>
+	<atom:link href="/tag/playing-games/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>One Game A Day</title>
+		<link>/one-game-day/</link>
+		<comments>/one-game-day/#comments</comments>
+		<pubDate>Tue, 10 Sep 2013 23:20:46 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[experience]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[playing games]]></category>
+		<category><![CDATA[universe]]></category>
+
+		<guid isPermaLink="false">//?p=3950</guid>
+		<description><![CDATA[As most of you are aware, I am pretty diligent and hard working when it comes to my studies. The vast quantity of information that I ingest is probably quite frightening for some. The only downside to this, however, is that being able to digest it is a completely different matter. In addition, you have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As most of you are aware, I am pretty diligent and hard working when it comes to my studies. The vast quantity of information that I ingest is probably quite frightening for some. The only downside to this, however, is that being able to digest it is a completely different matter. In addition, you have to realize that I am often more focused on finishing the books instead of truly mastering the topic at hand in order to fulfill my goal of having the most comprehensive book reviews for go. So at the end of the day, I have to really question how I&#8217;m really going to get stronger.<br />
+I recently finished <a title="Book Review: Commented Games by Lee Sedol: Volume 1" href="//book-review-commented-games-lee-sedol-volume-1/">Commented Games by Lee Sedol, Vol. 1</a>. And in one of his mini monologues about getting stronger, Lee Sedol commented that he believes the fastest way for any player to get stronger is to simply play games. Of course, he recommends reviewing them as well, but the idea lies in the fundamental premise that one learns fastest through experience. And as if that wasn&#8217;t enough to get me questioning my methods, I watched an episode of <em>Hikaru no Go</em> (Episode 25: Fear and Impatience) earlier where Waya makes a comment about how regardless of how talented a player is, it means nothing without playing stronger opponents.<br />
+Something tells me the universe is trying to tell me something&#8230; Haha&#8230; So as I&#8217;ve learned in life, it&#8217;s best to listen to the universe when it&#8217;s trying to nudge you along the right path. I will no longer worry about losing games due to lack of time or lack of energy. And from this day forth, I will always find time to play at least one game a day.</p>
+]]></content:encoded>
+			<wfw:commentRss>/one-game-day/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3950</post-id>	</item>
+	</channel>
+</rss>

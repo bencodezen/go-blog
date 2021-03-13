@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>goBum &#8211; BenGoZen</title>
+	<atom:link href="/tag/gobum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>The Divine Move Movie</title>
+		<link>/divine-move-movie/</link>
+		<comments>/divine-move-movie/#comments</comments>
+		<pubDate>Sun, 18 May 2014 15:31:37 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[goBum]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[kung fu]]></category>
+		<category><![CDATA[movie]]></category>
+		<category><![CDATA[the divine move]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">//?p=5331</guid>
+		<description><![CDATA[In case you&#8217;re not involved in the Go Twitter Community, a new movie involving go has been released!!!! There is go and it has kung fu!!! Ahhh!!!!!! I&#8217;ve embedded the trailer below. Stop whatever else you&#8217;re doing and check this out! I can&#8217;t wait to buy a copy of this. So psyched!!!! Credit to @goBum [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In case you&#8217;re not involved in the <a title="Go Twitter Online Community" href="https://twitter.com/bengozen/lists/go-weiqi-baduk">Go Twitter Community</a>, a new movie involving go has been released!!!! There is go and it has kung fu!!! Ahhh!!!!!!<br />
+I&#8217;ve embedded the trailer below. Stop whatever else you&#8217;re doing and check this out!<br />
+<iframe class='youtube-player' type='text/html' width='720' height='405' src='https://www.youtube.com/embed/BvYEhqqemrY?version=3&#038;rel=1&#038;fs=1&#038;autohide=2&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;wmode=transparent' allowfullscreen='true' style='border:0;'></iframe><br />
+I can&#8217;t wait to buy a copy of this. So psyched!!!!</p>
+<p style="text-align: center;">Credit to <a title="goBum Twitter" href="https://twitter.com/gobum">@goBum</a> for sharing this epic news!</p>
+]]></content:encoded>
+			<wfw:commentRss>/divine-move-movie/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5331</post-id>	</item>
+		<item>
+		<title>Monday Go Meditation: Game 26</title>
+		<link>/monday-go-meditation-game-26/</link>
+		<comments>/monday-go-meditation-game-26/#comments</comments>
+		<pubDate>Mon, 09 Sep 2013 09:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[4k]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[defeat]]></category>
+		<category><![CDATA[even]]></category>
+		<category><![CDATA[goBum]]></category>
+		<category><![CDATA[resignation]]></category>
+
+		<guid isPermaLink="false">//?p=3860</guid>
+		<description><![CDATA[Introduction For today&#8217;s go meditation, I will be reviewing a game I played recently with fellow go tweeter goBum! Though we have known each other for quite a while now, I&#8217;m surprised it&#8217;s taken us so long to finally play a game with one another. =D Nonetheless, I&#8217;m glad we were finally able to do [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>For today&#8217;s go meditation, I will be reviewing a game I played recently with fellow go tweeter goBum! Though we have known each other for quite a while now, I&#8217;m surprised it&#8217;s taken us so long to finally play a game with one another. =D Nonetheless, I&#8217;m glad we were finally able to do so and you can see the game below along with some insight that I received from a dan player who gave us a review afterwards. There are quite a few moments where I made abysmal moves that are shameful and vulgar, but it was a fun game and I definitely learned quite a bit from it. Many thanks to goBum for letting me use the kifu and I hope I can give you a better game next time!<a href="//wp-content/uploads/2013/08/2013.08.05-MGM-21.sgf"><br />
+</a><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/09\/2013.09.09-MGM-26.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/09/2013.09.09-MGM-26.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/09/2013.09.09-MGM-26.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;"><b> When an opponent&#8217;s group has become monstrously large, trying to kill it is often unreasonable (no matter how heavy it may seem).</b></p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-26/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3860</post-id>	</item>
+	</channel>
+</rss>

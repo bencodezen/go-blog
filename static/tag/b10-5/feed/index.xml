@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>b+10.5 &#8211; BenGoZen</title>
+	<atom:link href="/tag/b10-5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 63</title>
+		<link>/monday-go-meditation-game-63/</link>
+		<comments>/monday-go-meditation-game-63/#comments</comments>
+		<pubDate>Mon, 07 Jul 2014 11:15:09 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[3k]]></category>
+		<category><![CDATA[4k opponent]]></category>
+		<category><![CDATA[b+10.5]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[kifu]]></category>
+		<category><![CDATA[review]]></category>
+
+		<guid isPermaLink="false">//?p=5501</guid>
+		<description><![CDATA[Introduction For this week, I’ve decided to honor a request made by my friend Rob who asked that I review the game that was the cause for my post on being confused. Though I haven’t been commenting on games from YSD, I’ve decided to make an exception for this one. Just to note though, any [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 id="introduction" style="text-align: center;">Introduction</h2>
+<p>For this week, I’ve decided to honor a request made by my friend Rob who asked that I review the game that was the cause for my post on being confused. Though I haven’t been commenting on games from YSD, I’ve decided to make an exception for this one.<br />
+Just to note though, any specific insight that was taught by Inseong is withheld from the commentary in order to respect other member’s paid memberships. So while I will comment on what I understood on my own, any specific details will be omitted in this review.<br />
+Hope you enjoy this review!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/2014.07.06-MGM-63.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/2014.07.06-MGM-63.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/07/2014.07.06-MGM-63.sgf[/download]
+<h2 id="onepointlesson" style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">Even when you are just about to win the game, the slightest misstep could mean utter defeat if you are not careful.</p>
+<p><span id="more-5501"></span></p>
+<h2 id="gamesummary">Game Summary</h2>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Move 39</strong> &#8211; This move is the only one I’m “proud” of since it took full advantage of White’s mistake in this joseki.,<strong>Move 19 and 29</strong> &#8211; Both these moves were bad since I was unable to punish White for his mistake in the joseki.<br />
+2,Attack and Defense,<strong>Move 97</strong> &#8211; Recognizing that my group was in trouble and defending it was a rather proud moment since I might have normally left it alone.,<strong>Move 19 and 29</strong> &#8211; These moves are worth mentioning again since they were missed opportunities to attack White early on.<br />
+3,Shape,<strong>Move 65</strong> &#8211; Getting this shape point allowed me the chance to start gaining the upper hand in this game.,&#8221;<strong>Move 95</strong> &#8211; Though it looks like good shape here, I consider this a bad move since the shape gave me little value on the board as a whole.&#8221;<br />
+4,Strategy,<strong>Move 53</strong> &#8211; Trying to remove White’s base in order to attack White seems to be a key moment to why I was able to gain an advantage in the game., <strong>Move 93–95</strong> &#8211; Continuing to try and kill it in such a direct manner however was a mistake.<br />
+5,Overall Reading,<strong>Move 271</strong> &#8211; Being able to calmly choose the correct move instead of the automatic move I might have made normally was another proud moment.,<strong>Move 111</strong> &#8211; Connecting here out of fear still shows the immaturity of my reading.<br />
+6,Endgame,<strong>Move 143</strong> &#8211; Recognizing that I could start the endgame since I was ahead was something I was unable to do before.,<strong>Move 237</strong> &#8211; Defending directly here was a mistake that gave White three extra points.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-63/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5501</post-id>	</item>
+	</channel>
+</rss>

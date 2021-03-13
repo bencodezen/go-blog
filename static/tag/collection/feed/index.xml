@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>collection &#8211; BenGoZen</title>
+	<atom:link href="/tag/collection/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: Graded Go Problems for Dan Players &#8211; Vol. 1</title>
+		<link>/book-review-graded-go-problems-dan-players-vol-1/</link>
+		<pubDate>Sun, 02 Mar 2014 12:15:22 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[collection]]></category>
+		<category><![CDATA[dan]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[kiseido]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[reading]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=4735</guid>
+		<description><![CDATA[Graded Go Problems for Dan Players: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan) Description: This is the first volume of the continuing series to the popular &#8220;Graded Go Problems for Beginners.&#8221; This first book is focused on providing life-and-death techniques that are foundational to developing stronger reading abilities as players try to climb [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/ggpdpv1cover.jpg"><img class="aligncenter  wp-image-4736" alt="ggpdpv1cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/ggpdpv1cover.jpg?resize=288%2C373" width="288" height="373" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Graded Go Problems for Dan Players: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan)</h2>
+<p><strong>Description:</strong> This is the first volume of the continuing series to the popular &#8220;Graded Go Problems for Beginners.&#8221; This first book is focused on providing life-and-death techniques that are foundational to developing stronger reading abilities as players try to climb their way into dan status.<br />
+<span id="more-4735"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, GGPDP: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan)<br />
+Series, Graded Go Problems for Dan Players (GGPDP)<br />
+Compiled by, Masaru Aoki and Hirokazu Sato<br />
+Translator, Richard Bozulich<br />
+Publisher, <a href="http://www.kiseido.com/">Kiseido</a><br />
+Published, &#8220;November 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-4-906574-61-2<br />
+Length, 232 pages<br />
+Problems, 300 problems<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Translator&#8217;s Preface</li>
+<li>Glossary of Go Terms Used in this Book</li>
+<li>300 Life and Death Problems (#1-300)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+As an enthusiast of the &#8220;Graded Go Problems for Beginners&#8221; series, I have to say that I was ecstatic when I heard about this series. After all, every kyu player dreams of making it to the big dan league and being able to solve &#8220;dan level&#8221; problems. And even though I got myself a copy of this book quite a while ago, this book seemed quite daunting to me for some time due to the fact that I just felt I wasn&#8217;t ready for &#8220;dan&#8221; problems. Anyhow, I&#8217;m glad I finally got around to reading it so that you can hear my thoughts on the book itself.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+Perhaps my favorite aspect about the entire &#8220;Graded Go Problems&#8221; series as a whole is the extremely clean format. For those who don&#8217;t know what I&#8217;m talking about, every page that contains the problems is divided into four clean and even rectangles. Secondly, the numbering, diagram, directions, and even hints are all in universal places so that once you get exposed to the format, you&#8217;ll never wonder where to look next. And last but not least, the solutions are never exposed on the same page (aka you can&#8217;t see the solution as you&#8217;re trying to solve the problem). And thankfully, Graded Go Problems for Dan Players continues that tradition.<br />
+One of the new things I noticed with this series is that they added an actual rank estimation for the problem difficulty. So a few examples of this might include: &#8220;Solve at a glance = 4-kyu, Solve within five minutes = 3-dan, etc.&#8221; While this is rather neat since you feel a sense of accomplishment if you&#8217;re able to solve it within the allotted time-frame, it&#8217;s important to realize that these rank estimations are a bit arbitrary. Just because you&#8217;re able to solve a few dan level problems at a glance does not necessarily mean you are &#8220;dan&#8221; level (whether it&#8217;s reading ability or playing ability). If you&#8217;re able to solve the whole book at a glance though, then it goes without saying you are way stronger than a dan player. xD<br />
+When it comes to the solutions, they have a set standard format for how solutions are displayed and approached. In terms of basic format, every problem gets three solution diagrams. This generally includes the correct variation, an alternate variation / continuation of the correct variation, and an incorrect variation. In addition, there is usually at least a sentence to two explaining each of the variations in order to help the reader understand what&#8217;s going on.<br />
+If there were to be any complaint about this series, it would probably be that the problems are not segmented into different techniques. However, I would remind the reader that the purpose of this series is to provide a collection of high-quality problems. As a result, the problems would be an assortment of different problems as opposed to a hierarchy of problems broken down by techniques. If you&#8217;re looking for problems categorized in such a fashion, you might benefit from checking out the Level Up Series along with Life and Death Problems 1 Basics by Robert Jasiek.<br />
+Overall, I think that this series is destined for the same greatness as the &#8220;Graded for Go Problems for Beginners&#8221; when it comes to high quality problems that are displayed in an easy to read format. Definitely a must-have for any player serious about practicing their reading and looking for ways to keep honing their ability. Highly recommended!<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Continues to provide the easy to read format you come to love from &#8220;Graded Go Problems for Beginners.&#8221;</li>
+<li>Attempts to provide accurate rank difficulty estimations for problems through the time it takes to solve it.</li>
+<li>Lots of high-quality problems that you can rely on without worrying about a mistake in the solution.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Exposure to a lot of new techniques or moves I would have never considered when solving life and death.</li>
+<li>Reassurance that my reading abilities have been improving.</li>
+<li>Realization that I still had a ways to go before I could consider myself having &#8220;dan-level&#8221; reading.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>You get a set of problems and then when you turn the page you get the respective solutions (so that they are not within the same reading area). Very easy to follow and read.</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>Nothing. I really think this book is perfect as it stands.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Absolutely. Very clear and concise.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Great problem set for players 5 kyu and stronger.</li>
+<li>Continues to uphold the quality and ease of reading you come to expect from the &#8220;Graded Go Problems&#8221; series.</li>
+<li>Highly recommended for anyone looking to take the next steps to raising their reading ability to &#8220;dan&#8221; level!</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players 5-kyu and stronger.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm#K15">$25</a> (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>GGPDP &#8211; Volume One: 300 Life-and-Death Problems (5-kyu to 3-dan)</li>
+<li>GGPDP &#8211; Volume Two: 300 Tesuji Problems (5-kyu to 3-dan)</li>
+<li>GGPDP &#8211; Volume Three: 300 Joseki Problems (1-dan to 3-dan)</li>
+<li>GGPDP &#8211; Volume Four: 300 Life-and-Death Problems (4-dan to 7-dan)</li>
+<li>GGPDP &#8211; Volume Five: 300 Tesuji Problems (4-dan to 7-dan)</li>
+<li>GGPDP &#8211; Volume Six: Joseki Problems (TBD)</li>
+<li>GGPDP &#8211; Volume Seven: 256 Opening and Middle Game Problems (1-dan to 7-dan)</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on March 2nd, 2014</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4735</post-id>	</item>
+	</channel>
+</rss>

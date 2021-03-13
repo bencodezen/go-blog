@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>one stone stronger &#8211; BenGoZen</title>
+	<atom:link href="/tag/one-stone-stronger/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Getting Stronger at Go (Overview)</title>
+		<link>/getting-stronger-at-go-overview/</link>
+		<pubDate>Wed, 10 Oct 2012 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Guides]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[baduk]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[one stone stronger]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=23</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #3 Of all the go topics in the entire universe, this is by far the single most popular one. After all, getting one stone strong is the eternal pursuit of every go player. There are a plethora of articles out there on how to do so, but my goal is to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="text-align: center;">
+<h2><em>Weekly Go Wednesday, Issue #3</em></h2>
+<p style="text-align: left;">Of all the go topics in the entire universe, this is by far the single most popular one. After all, getting one stone strong is the eternal pursuit of every go player. There are a plethora of articles out there on how to do so, but my goal is to provide the fastest route for you to progress as a go player (to SDK at the bare minimum).</p>
+<p style="text-align: left;"><span id="more-23"></span></p>
+<h3 style="text-align: left;"><span style="text-decoration: underline;"><strong>Things to Do<br />
+</strong></span></h3>
+<ol>
+<li style="text-align: left;"><a title="How to Study Tsumego" href="//how-to-study-tsumego/">Properly study tsumego on a consistent basis.</a></li>
+<li style="text-align: left;">Have a stronger player review your games with you.</li>
+<li style="text-align: left;">Review every game you play (even if it&#8217;s just a basic overview and by yourself).</li>
+<li style="text-align: left;">Play even games with stronger players.</li>
+<li style="text-align: left;"><a title="Experimental Games" href="//experimental-games/">Play games where the purpose is to test out new concepts you&#8217;ve learned, as opposed to simply trying to win.</a></li>
+<li style="text-align: left;">Review games that stronger players have played.</li>
+<li style="text-align: left;">&#8220;Play lots of games.* Nothing can replace experience.&#8221; &#8211; X.C.</li>
+</ol>
+<p style="text-align: left;"><em>*With the caveat that you are learning from your games and not just blindly playing.</em></p>
+<h3 style="text-align: left;"><span style="text-decoration: underline;">Things <span style="color: #ff0000; text-decoration: underline;">NOT </span>To Do<br />
+</span></h3>
+<ol>
+<li style="text-align: left;">Memorize <a href="http://senseis.xmp.net/?Joseki">joseki</a>.</li>
+<li style="text-align: left;"><a title="Blitz Go: To Play or Not to Play?" href="//blitz-go-to-play-or-not-to-play/">Consistently play blitz go.</a></li>
+<li style="text-align: left;">Continue playing when you know you&#8217;re on <a href="http://en.wikipedia.org/wiki/Tilt_(poker)">tilt</a>.</li>
+<li style="text-align: left;">Taking the knowledge you obtain from books as absolute and final.</li>
+<li style="text-align: left;">Avoid playing handicap games.</li>
+<li style="text-align: left;">Memorize professional games.*</li>
+</ol>
+<p style="text-align: left;"><em>* Primarily geared towards DDK&#8217;s.</em></p>
+<p><strong>In the future, be sure to come back and visit this post for updates (such as more detailed articles and new advice)!</strong>
+</div>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">23</post-id>	</item>
+	</channel>
+</rss>

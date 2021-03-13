@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>new to kgs &#8211; BenGoZen</title>
+	<atom:link href="/tag/new-to-kgs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Journal Log #1</title>
+		<link>/journal-log-1/</link>
+		<pubDate>Thu, 02 Sep 2010 11:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[20k]]></category>
+		<category><![CDATA[goals]]></category>
+		<category><![CDATA[new to kgs]]></category>
+
+		<guid isPermaLink="false">//?p=128</guid>
+		<description><![CDATA[Sorry it took so long everyone, but I will now start adding my own anecdotes on my journey. As you all may have seen, I&#8217;ve been busy writing various reviews and reading as fast as I possibly can while still maintaining my life. The time has come&#8230; all the beginning quests have been completed&#8230; and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Sorry it took so long everyone, but I will now start adding my own anecdotes on my journey. As you all may have seen, I&#8217;ve been busy writing various reviews and reading as fast as I possibly can while still maintaining my life.<br />
+The time has come&#8230; all the beginning quests have been completed&#8230; and it is time to leave the home village where I have spent my beginnings. Let us overview my stats.<br />
+<span id="more-128"></span><br />
+I&#8217;m currently ranked at 20 kyu (according to KGS), which to me is not very strong at all. In a few days, it will have been a month. So I&#8217;m curious as to a more accurate measurement of my skills, but alas that will do me little good. In the past, I&#8217;ve made it a point to try and play on equal grounds with the Bots available on KGS. Yeah&#8230;. I think that was a bad decision.<br />
+Plenty of people think that playing a computer develops bad habits in a player. I couldn&#8217;t agree more. I will say however, that the quality of play does improve one you get pass the 20-30 kyu computers. The computers tend to make semi-automatic plays and won&#8217;t realize they&#8217;re trapped (e.g. ladders). Above 20 kyu the play improves but is still a bit robotic.<br />
+In terms of how my games have progressed, you are always more than welcome to browse the KGS Archives for Zenix &#8211; month of August. To sum it up, my very first 19&#215;19 game on KGS was a loss of 312.5 points to a player who did not have a rank. (For those who do not understand the magnitude of that loss, there are 361 points available assuming no stones are placed down.) My games continued down a lot of resignations and losses of gigantic proportions (e.g. +132.5 and +296.5). I would even lose to bots that were technically weaker than me.<br />
+Where am I now? It seems that with just a little under a month of Go under my belt, I&#8217;ve managed to compete on relatively even ground with LibertyBot [14k] (I win with about a 30-40 point margin) even though I make some egregious errors sometimes. So not too shabby&#8230; but I got a long way to go.<br />
+Where do I think I&#8217;m headed next? Assuming I can maintain all other aspects of my life pretty well, let&#8217;s shoot for the moon shall we?<br />
+<strong>September&#8217;s Goal: I&#8217;m going to rise to a strength of a single digit kyu within a month.</strong></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">128</post-id>	</item>
+	</channel>
+</rss>

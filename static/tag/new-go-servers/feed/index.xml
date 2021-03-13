@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>new go servers &#8211; BenGoZen</title>
+	<atom:link href="/tag/new-go-servers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Need Tygem/WBaduk/Non-KGS Partners</title>
+		<link>/need-tygemwbaduknon-kgs-partners/</link>
+		<pubDate>Thu, 20 Dec 2012 21:02:09 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[new go servers]]></category>
+
+		<guid isPermaLink="false">//?p=1451</guid>
+		<description><![CDATA[So I&#8217;ve finally decided to venture out of my KGS bubble. In lieu of my announcement about the new go9dan server, my buddy Justin pointed out that there are other go servers out there with similar features that are free and could potentially be just as awesome. Since I have been with KGS since my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I&#8217;ve finally decided to venture out of my KGS bubble. In lieu of my <a title="New Go Server — Go9Dan!!!" href="//new-go-server-go9dan/">announcement</a> about the new go9dan server, my buddy Justin pointed out that there are other go servers out there with similar features that are free and could potentially be just as awesome. Since I have been with KGS since my inception into go, I am of course skeptical of his claims. So help prove me wrong by helping me navigate these other go servers!<br />
+There are two servers in particular that I would like to find partners for: Tygem and WBaduk, but I&#8217;m open to other ones as well! Let me know ASAP!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1451</post-id>	</item>
+	</channel>
+</rss>

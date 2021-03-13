@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>not as much playing &#8211; BenGoZen</title>
+	<atom:link href="/tag/not-as-much-playing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 18</title>
+		<link>/friday-go-forward-week-18/</link>
+		<comments>/friday-go-forward-week-18/#comments</comments>
+		<pubDate>Fri, 07 Jun 2013 09:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[not as much playing]]></category>
+		<category><![CDATA[study mode]]></category>
+
+		<guid isPermaLink="false">//?p=2815</guid>
+		<description><![CDATA[Overview This week seems to have been dwindling down in terms of playing. Part of it is due to the fact that I know that I&#8217;ve been in more aggressive mood lately (which usually leads to me going on tilt), but I think the other part is that I am getting in a study groove [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Overview</h2>
+<p>This week seems to have been dwindling down in terms of playing. Part of it is due to the fact that I know that I&#8217;ve been in more aggressive mood lately (which usually leads to me going on tilt), but I think the other part is that I am getting in a study groove again. I&#8217;ve gotten an urge to try and read as many books as I can possibly can before needing to burning out from studying, by which of course then it&#8217;ll be time to play more games again. On top of that, I&#8217;m also trying to really create a robust <a title="Books" href="//reviews/books/">Book Review</a> section for this blog so that players can really get a sense of what they&#8217;re buying when selecting a book.</p>
+<h2>Games</h2>
+<ul>
+<li><span style="line-height: 13px;">KGS &#8211; 1 game (0 wins : 1 loss)</span></li>
+<li>DGS &#8211; 1 ongoing game</li>
+<li>Nova &#8211; 1 ongoing game</li>
+</ul>
+<h2>Training</h2>
+<ul>
+<li><span style="line-height: 13px;">Started the <em>Essential Life &amp; Death</em> series again.</span></li>
+<li>Finished the theory section and some problems in <em>Mastering the Basics: Ko.</em></li>
+<li>Finished my first reading of <em>Kage&#8217;s Secret Chronicles of Handicap Go.</em></li>
+<li>Started reading <em>The Chinese Opening</em> by Yuan Zhou.</li>
+</ul>
+<h2>Lessons Learned</h2>
+<ol>
+<li>If I can&#8217;t give 100% of my attention to a game of go, I should refrain from playing with strangers.</li>
+<li>I need to re-discipline my reading abilities so that I feel certain about what might happen instead of playing a move because it &#8220;looks like it&#8217;ll work.&#8221;</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-18/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2815</post-id>	</item>
+	</channel>
+</rss>

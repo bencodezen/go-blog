@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>update &#8211; BenGoZen</title>
+	<atom:link href="/tag/update/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 61</title>
+		<link>/monday-go-meditation-game-61/</link>
+		<comments>/monday-go-meditation-game-61/#comments</comments>
+		<pubDate>Mon, 23 Jun 2014 11:15:57 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[3k opponent]]></category>
+		<category><![CDATA[b+resign]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[kifu]]></category>
+		<category><![CDATA[reboot]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=5470</guid>
+		<description><![CDATA[Introduction This week marks the reboot of the Monday Go Meditation (MGM) series! In the spirit of continuous improvement, I felt it was time to give this series an upgrade in order to continue striving for the perfect weekly column for my game reviews. Here are some enhancements that I have made: All MGM&#8217;s will now [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Introduction</strong></h2>
+<p>This week marks the reboot of the Monday Go Meditation (MGM) series! In the spirit of continuous improvement, I felt it was time to give this series an upgrade in order to continue striving for the perfect weekly column for my game reviews. Here are some enhancements that I have made:</p>
+<ol>
+<li><strong>All MGM&#8217;s will now include the game summary table. </strong>After doing the <a title="Thursday Go Tygem: Game 07" href="//thursday-go-tygem-game-07/">Thursday Go Tygem</a> series for a bit, it seemed that the table was a popular aspect of it since it allowed me to provide a broad overview of the game in the event you don&#8217;t have time to go through the entire game. As a result, I felt it would be a great addition to MGM.</li>
+<li>A<strong>ll games featured here will be 2 weeks old at the most.</strong> One thing I noticed is that the games being posted were starting to be a few weeks if not a month old, which is not good since it does not reflect my current progress as a player. Though this makes it a little harder for me since I can&#8217;t prepare as many game reviews in advance, I am confident this change will make this weekly column much more viable.</li>
+<li><strong>The commentary will also be taking on a more &#8220;stream of consciousness&#8221; type narrative</strong> in order to provide more context in terms of how I was feeling throughout the game and the emotions and thoughts I wrestled with. As a result, the game reviews will not be heavily focused on explaining things in depth or showing numerous variations since that is more of a teaching-oriented type review (which I do plan on featuring here in the future, but don&#8217;t feel it&#8217;s appropriate for MGM).</li>
+</ol>
+<p>So in light of all that, this week&#8217;s game features an even game against a 3k that I played last week before going on my losing streak. Haha. It&#8217;s a great game that illustrates how emotions can really cloud your judgment when it comes to the actual board position and how you&#8217;re really doing.<br />
+As always, it would be greatly appreciated if you could let me know what you think about these new changes. Hope you enjoy the review!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.23-MGM-61.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.23-MGM-61.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.23-MGM-61.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">Using emotions to judge whether you are ahead or behind is typically a recipe for poor decision making.</p>
+<p style="text-align: center;"><span id="more-5470"></span></p>
+<h2 style="text-align: center;"><strong>Game Summary</strong></h2>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening, <strong>Move 24:</strong> This move really gave me a nice advantage in the opening. See game commentary for a more in-depth explanations., <strong>Move 19:</strong> I’m not sure that I handled Black’s response here correctly. Perhaps the tenuki was a mistake.<br />
+2,Attack and Defense, <strong>Move 50:</strong> This diagonal jump was a new move I tried that seemed to do a great job keeping pressure on Black., <strong>Move 58:</strong> This move was too defensive and failed to keep pressure on Black.<br />
+3,Shape, Nothing worth mentioning., <strong>Move 64:</strong> Not connecting and letting Black push through to connect his groups together was a travesty.~~<strong>Move 52:</strong> The hane was bad and left too many cutting points for me to worry about later.<br />
+4,Strategy, <strong>Move 44:</strong> Leaving the cutting point to play continue my expansion of the top seemed to work out well overall., <strong>Move 86-88:</strong> The push and cut was a risky play since Black had a number of forcing moves to counter the strategy.<br />
+5,Overall Reading, Nothing to brag about since most sequences I read out usually had one fatal flaw that was luckily overlooked by my opponent., <strong>Move 76-85:</strong> This sequence was shameful since it was a result of wishful thinking and only made things worse.<br />
+6,Endgame, <strong>Move 120:</strong> Ignoring Black’s move to start my own endgame sequence was a proud moment for me.,<strong> Move 104:</strong> This jump may not be as big as I thought. Perhaps blocking at M2 would have been better.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-61/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5470</post-id>	</item>
+		<item>
+		<title>Friday Go Forward: Week 67</title>
+		<link>/friday-go-forward-week-67/</link>
+		<comments>/friday-go-forward-week-67/#comments</comments>
+		<pubDate>Fri, 20 Jun 2014 11:15:41 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[progress]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[weekly]]></category>
+
+		<guid isPermaLink="false">//?p=5453</guid>
+		<description><![CDATA[Overview Once again I&#8217;ve decided to trim down on my training regimen in order to up the quality of training. This means more time spent on each topic as well as increasing repetition in order to further solidify what I&#8217;m learning. In other words, I&#8217;m no longer simply looking to find out what the correct [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Overview</h2>
+<p>Once again I&#8217;ve decided to trim down on my training regimen in order to up the quality of training. This means more time spent on each topic as well as increasing repetition in order to further solidify what I&#8217;m learning. In other words, I&#8217;m no longer simply looking to find out what the correct answer is; but to instead really try to immerse myself in it so the reading ability becomes more ingrained in me.<br />
+In terms of gameplay, it has been a rather abysmal week. I got into a weird mood and ended up losing 5 games in a row. It was pretty awful considering my go deteriorated to the point where my final game was a resignation against a 4k. Playing on tilt is just not a pretty sight for me at all. Haha. But on the upside, I did manage to recollect myself enough to manage a win for my <a title="Yunguseng Dojang Official Site" href="http://www.yunguseng.com/">Yunguseng Dojang</a> match. So hooray for that!<br />
+And as <a title="Taking a Second Look at the Blog" href="//taking-second-look-blog/">mentioned earlier this week</a>, there are some changes coming up on the blog that should hopefully improve the reading experience and value that this blog has. So I&#8217;ve been working on that as well and trying to iron out some of the changes I&#8217;m trying to make. Fingers crossed it goes smoothly!</p>
+<h2>Training Regimen</h2>
+<ul>
+<li>Play 3 games a week.</li>
+<li>Complete 1 section of <a title="Book Review: Jump Level Up 1" href="//book-review-jump-level-1/">Jump Level Up 1</a> per day.</li>
+<li>Work on <em>Get Strong at Life and Death</em>.</li>
+<li>Work on <a title="Book Review: Get Strong at Tesuji" href="//book-review-get-strong-tesuji/">Get Strong at Tesuji</a>.</li>
+</ul>
+<h2>Games</h2>
+<ul>
+<li><a title="IGS PandaNet Official Site" href="http://www.pandanet-igs.com/">Pandanet-IGS</a> &#8211; 1 game</li>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  9 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 6 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  6 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li><a title="Book Review: Jump Level Up 1" href="//book-review-jump-level-1/">Jump Level Up 1</a> by Baduktopia</li>
+<li><em>Get Strong at Life and Death</em> by Richard Bozulich</li>
+<li><a title="Book Review: Get Strong at Tesuji" href="//book-review-get-strong-tesuji/">Get Strong at Tesuji</a> by Richard Bozulich</li>
+</ul>
+<h2>Lessons Learned</h2>
+<ul>
+<li>Playing on tilt has consequences&#8230; like dropping two stones in rank on KGS. Hahaha.</li>
+<li>Take all your opponents seriously regardless of their rank. I&#8217;ve posted about this multiple times, but it&#8217;s come to bite me in the butt again.</li>
+<li>There is a huge difference between winning a game and crushing your opponent. Taking one attitude versus another has a profound impact on your approach to the game mentally, but more on this later.</li>
+<li>This might sound utterly basic, but I seriously need to use my brain more when I play. I miss the most common variations in my blitz reading. I read one variation and think it&#8217;s good and fail to consider other obvious alternatives. Oy vey.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-67/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5453</post-id>	</item>
+		<item>
+		<title>Taking a Second Look at the Blog</title>
+		<link>/taking-second-look-blog/</link>
+		<comments>/taking-second-look-blog/#comments</comments>
+		<pubDate>Wed, 18 Jun 2014 21:00:44 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[new]]></category>
+		<category><![CDATA[revising]]></category>
+		<category><![CDATA[strategy]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">//?p=5462</guid>
+		<description><![CDATA[Lately I&#8217;ve been reconsidering what direction the blog has been heading in. Although it&#8217;s been great starting a new series and having content flow consistently, lately the blog has felt more like a newspaper or e-magazine of sorts instead of a personal journal. For example, the game reviews that are being published are now usually like [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Lately I&#8217;ve been reconsidering what direction the blog has been heading in. Although it&#8217;s been great starting a new series and having content flow consistently, lately the blog has felt more like a newspaper or e-magazine of sorts instead of a personal journal. For example, the game reviews that are being published are now usually like a month behind where I am now, which can be confusing for you as a reader and also throws my blog into a weird clashing timeline.<br />
+As a result, I&#8217;ve been thinking a lot about what I can do to fix that, and I&#8217;ve come up with the following items in order to better optimize my time and produce content that better fits my vision for the blog:<br />
+Starting next week&#8230;</p>
+<ol>
+<li><strong>Thursday Go Tygem will now be discontinued</strong> in order to pave way for #2 and #3.</li>
+<li><strong>Monday Go Meditation is going to undergo a reboot</strong> with an updated format that takes some elements of Thursday Go Tygem and should improve the overall quality and value of the weekly column. In addition, I will be clearing out the queue in Monday Go Meditation in order to make way for current games and realign the blog with the games I&#8217;m currently playing as opposed to games I played weeks or even months ago.</li>
+<li><strong>There will be a new post every weekday (i.e. Mon-Fri)</strong>. This might seem extreme and be a point of concern for some, but I&#8217;ve reached a new level of comfort with my blogging that should make this very viable. I&#8217;m hoping that this should help the blog start to return to its origins of being a chronicle of my journey (in real-time).</li>
+</ol>
+<p>In addition, you&#8217;ll start noticing little changes around the blog like new tagging or categories appear as I restructure the content in order to make it more user friendly, but those shouldn&#8217;t impact your reading experience on the blog much.<br />
+Starting in July&#8230;</p>
+<ol>
+<li><strong>I&#8217;m going to update the format and change the schedule of Friday Go Forward </strong>&#8211; Although some don&#8217;t realize it, Friday Go Forward currently captures my progress from the last Friday afternoon/evening to the next Thursday evening since it gets published every Friday morning. In order to better capture my weekly progress, I will be changing it to Saturday so it fully captures that week. In addition, everyone&#8217;s feedback  was really helpful on figuring out next steps, so be on the lookout in the future for an improved format!</li>
+</ol>
+<p>Whew. Been meaning to unload that from my brain for some time. I&#8217;m hoping that you&#8217;ll like these new changes; but as always, please be sure to leave feedback in case I&#8217;m missing something or you see something I can do to improve what you&#8217;re seeing here on the blog. See you around!</p>
+]]></content:encoded>
+			<wfw:commentRss>/taking-second-look-blog/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5462</post-id>	</item>
+		<item>
+		<title>Friday Go Forward: Week 66</title>
+		<link>/friday-go-forward-week-66/</link>
+		<comments>/friday-go-forward-week-66/#comments</comments>
+		<pubDate>Fri, 13 Jun 2014 11:15:06 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[progress]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[weekly]]></category>
+
+		<guid isPermaLink="false">//?p=5429</guid>
+		<description><![CDATA[Overview The theme of this week has been: Ben needs to improve his reading abilities. Haha. Many thanks to all those who commented on my WGW post and helped me refocus my time and energy on the correct area of weakness. I even had the pleasure of hanging out with local go player Justin (AGA [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Overview</h2>
+<p>The theme of this week has been: <strong>Ben needs to improve his reading abilities</strong>. Haha. Many thanks to all those who commented on my <a title="Returning to the Fundamentals" href="//returning-fundamentals/">WGW post</a> and helped me refocus my time and energy on the correct area of weakness. I even had the pleasure of hanging out with local go player Justin (AGA 7d) who helped to straighten me out a bit. It was a fun time of playing and going over some variations on joseki that I should be familiar with. It certainly showed me that there is still much more I can do to improve, which is always motivating.<br />
+Finally, as I continue trying to improve this blog, I have to keep in mind the time and energy required for each post along with whether or not that material I&#8217;m writing is even relevant anymore. After all, all of this is meant for your reading enjoyment (and a small percentage for chronicling my own journey)! As a result, over the next few weeks, I&#8217;ll be asking for feedback on what you see on this blog to help optimize everything.<br />
+To start, I wanted to do a quick poll on your thoughts on this weekly series: Friday Go Forward. So if you don&#8217;t mind, please leave a comment below to let me know if you think this series is worth keeping around and/or anything I could do to improve it (i.e., specific things you&#8217;d like to see me talk about in my Overview section since I&#8217;m sometimes unsure of what to write in here)<strong>.</strong> And if you think it&#8217;s good the way it is, it would be good to hear that as well. Thanks!</p>
+<h2>Training Regimen</h2>
+<ul>
+<li>Play 3 games a week.</li>
+<li>Complete 1 section of <a title="Book Review: Jump Level Up 1" href="//book-review-jump-level-1/">Jump Level Up 1</a> per day.</li>
+<li>Work on life and death.</li>
+<li>Work on tesuji.</li>
+<li>Replay 1 game of Go Seigen (Time Permitting)</li>
+</ul>
+<h2>Games</h2>
+<ul>
+<li><a title="TygemGo Official Site" href="http://www.tygemgo.com/">Tygem</a> &#8211; 0 games</li>
+<li><a title="IGS PandaNet Official Site" href="http://www.pandanet-igs.com/">Pandanet-IGS</a> &#8211; 1 games</li>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  3 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 6 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  6 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li><a title="Book Review: Jump Level Up 1" href="//book-review-jump-level-1/">Jump Level Up 1</a> by Baduktopia</li>
+<li><a title="All About Life and Death Sensei's Library Page" href="http://senseis.xmp.net/?AllAboutLifeAndDeath">All About Life and Death &#8211; Volume 1</a> by Cho Chikun</li>
+<li><a title="Book Review: Get Strong at Tesuji" href="//book-review-get-strong-tesuji/">Get Strong at Tesuji</a> by Richard Bozulich</li>
+<li><em>Get Strong at Life and Death</em> by Richard Bozulich</li>
+</ul>
+<h2>Lessons Learned</h2>
+<ul>
+<li>One must not underestimate the power of &#8220;ordinary moves.&#8221;</li>
+<li>My idea of being &#8220;creative&#8221; on the board is the equivalent of stupidity. Haha. And though it sounds hurtful on paper, it was actually a very helpful comment.</li>
+<li>I really need to work on my reading abilities if I want to take my game to the next level.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-66/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5429</post-id>	</item>
+		<item>
+		<title>Friday Go Forward: Week 65</title>
+		<link>/friday-go-forward-week-65/</link>
+		<comments>/friday-go-forward-week-65/#comments</comments>
+		<pubDate>Fri, 06 Jun 2014 11:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[progress]]></category>
+		<category><![CDATA[report]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[weekly]]></category>
+
+		<guid isPermaLink="false">//?p=5374</guid>
+		<description><![CDATA[Overview During the past few weeks, I ended up skewing my training to playing games and sacrificing study in order to re-acclimate myself to playing games again. As a result, my weaknesses became very clear as I would lose game after game after game. After discovering my Master Wu, my training has once again gone under another [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_5439" style="width: 550px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/06/honinbo-shusaku-550x212.jpg"><img class="size-full wp-image-5439" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/06/honinbo-shusaku-550x212.jpg?resize=550%2C212" alt="Credit to Google Doodle" width="550" height="212" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a title="Honinbo Shusaku Google Doodle" href="http://www.google.com/doodles/honinbo-shusakus-185th-birthday">Google Doodle</a></figcaption></figure>
+<h2 style="text-align: left;">Overview</h2>
+<p>During the past few weeks, I ended up skewing my training to playing games and sacrificing study in order to re-acclimate myself to playing games again. As a result, my weaknesses became very clear as I would lose game after game after game.<br />
+After <a title="Discovering My “Master Wu”" href="//discovering-master-wu/">discovering my Master Wu</a>, my training has once again gone under another stage of growth as I really begin to immerse myself in practicing &#8220;deep learning&#8221; as is discussed in <a href="http://www.amazon.com/The-Talent-Code-Greatness-Grown/dp/055380684X">The Talent Code</a>.  And though it&#8217;s too early to tell if it&#8217;s working, I feel like the wheels of progress are beginning to turn. Fingers crossed that I&#8217;m not wrong. Haha.</p>
+<h2>Training Regimen</h2>
+<ul>
+<li>Play 3 games a week.</li>
+<li>Complete 1 section of Level Up Review 2 per day.</li>
+<li>Study 10 life and death patterns/problems.</li>
+<li>(Time Permitting) &#8211; Replay 1 game of Go Seigen.</li>
+</ul>
+<h2>Games</h2>
+<ul>
+<li><a title="TygemGo Official Site" href="http://www.tygemgo.com/">Tygem</a> &#8211; 1 game</li>
+<li><a title="IGS PandaNet Official Site" href="http://www.pandanet-igs.com/">Pandanet-IGS</a> &#8211; 1 game</li>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  1 game</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 6 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  7 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li><a title="Book Review: Level Up Review 2" href="//book-review-level-up-review-2/">Level Up Review 2</a> by Baduktopia</li>
+<li><a title="Shape Up! Sensei's Library Page" href="http://senseis.xmp.net/?ShapeUp">Shape Up!</a> by Charles Matthews</li>
+<li><a title="All About Life and Death Sensei's Library Page" href="http://senseis.xmp.net/?AllAboutLifeAndDeath">All About Life and Death &#8211; Volume 1</a> by Cho Chikun</li>
+<li><a href="http://www.amazon.com/dp/7500917260/?tag=mclambjavier999-20">The Com­plete Game Records of Go Seigen &#8211; Volume 1</a></li>
+</ul>
+<h2>Videos</h2>
+<ul>
+<li><a href="http://ayd.yunguseng.com/videos/index.php?id=1219">Analyze the most often played patterns: Star point chapter</a></li>
+</ul>
+<h2>Lessons Learned</h2>
+<ul>
+<li>Though difficult to grasp, learning how to make proper trades throughout your game is one of the key milestones to being a strong player. This is particularly evident in the way Go Seigen plays (and yes admittedly difficult to do).</li>
+<li>As I replay more and more of Go Seigen&#8217;s kifu, I&#8217;ve realized how constricted my go has become. It is missing the freedom that is so glaringly exists in Go Seigen&#8217;s games.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-65/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5374</post-id>	</item>
+		<item>
+		<title>Friday Go Forward: Week 9</title>
+		<link>/friday-go-forward-week-9/</link>
+		<pubDate>Fri, 29 Mar 2013 13:00:23 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[light studying]]></category>
+		<category><![CDATA[only played a little]]></category>
+		<category><![CDATA[sgkt]]></category>
+		<category><![CDATA[update]]></category>
+		<category><![CDATA[web design]]></category>
+
+		<guid isPermaLink="false">//?p=2276</guid>
+		<description><![CDATA[Games KGS &#8211; 2 games ( 1 win : 1 loss ) DGS &#8211; 6 ongoing games Tsumego Go Game &#8211; Life and Death (iPad App) &#8211; Practice Phase 2 ( Class 11 &#8211; 17 ) Other Five Hundred and One Opening Problems &#8211; Page 1 &#8211; 54 Thoughts It&#8217;s been a rather light week [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Games</h2>
+<ul>
+<li>KGS &#8211; 2 games ( 1 win : 1 loss )</li>
+<li>DGS &#8211; 6 ongoing games</li>
+</ul>
+<h2>Tsumego</h2>
+<ul>
+<li>Go Game &#8211; Life and Death (iPad App) &#8211; Practice Phase 2 ( Class 11 &#8211; 17 )</li>
+</ul>
+<h2>Other</h2>
+<ul>
+<li><span style="text-decoration: underline;">Five Hundred and One Opening Problems</span> &#8211; Page 1 &#8211; 54</li>
+</ul>
+<h2>Thoughts</h2>
+<p>It&#8217;s been a rather light week in terms of playing and studying, but hopefully the Study Group Kyu website will be up and running soon! In addition, starting tomorrow I will be releasing updates and revisions on previous equipment reviews and integrating new reviews as time goes on! So it was still a productive go week even though I didn&#8217;t get to play as much as I would&#8217;ve liked. Here&#8217;s to hoping my schedule will stabilize next week so I can play more ranked games!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2276</post-id>	</item>
+		<item>
+		<title>Daily Overview</title>
+		<link>/daily-overview/</link>
+		<pubDate>Thu, 07 Oct 2010 20:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[update]]></category>
+
+		<guid isPermaLink="false">//?p=77</guid>
+		<description><![CDATA[So for those keeping track, I&#8217;m sorry that I skipped over a Daily Overview. Ever since that game of infinite cutting points and unprecedented misreads, I haven&#8217;t played a game since. Now this doesn&#8217;t mean that I&#8217;m like taking a sabbatical from the game or anything. I guess I want to see where my one-week [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So for those keeping track, I&#8217;m sorry that I skipped over a Daily Overview. Ever since that game of infinite cutting points and unprecedented misreads, I haven&#8217;t played a game since. Now this doesn&#8217;t mean that I&#8217;m like taking a sabbatical from the game or anything. I guess I want to see where my one-week training will take me. I&#8217;ll be returning to KGS next Wednesday.<br />
+In terms of what I&#8217;ve been doing since then, I&#8217;ve mostly been focusing on problem. A little bit of theory here and there, but we&#8217;ll see where the training goes. This will be the last overview until next week. Until then, I&#8217;ll be posting up more content on for the blog. See you all in a week!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">77</post-id>	</item>
+	</channel>
+</rss>

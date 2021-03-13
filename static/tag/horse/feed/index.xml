@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>horse &#8211; BenGoZen</title>
+	<atom:link href="/tag/horse/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 48</title>
+		<link>/friday-go-forward-week-48/</link>
+		<comments>/friday-go-forward-week-48/#comments</comments>
+		<pubDate>Fri, 31 Jan 2014 13:49:15 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[charge]]></category>
+		<category><![CDATA[happy chinese new year]]></category>
+		<category><![CDATA[horse]]></category>
+
+		<guid isPermaLink="false">//?p=4509</guid>
+		<description><![CDATA[Friday Go Forward: Week 48 Overview Happy Chinese New Year everyone! It&#8217;s the Year of the Horse and with that I think the theme for this new (lunar) year will be charging forward full speed! I&#8217;ve been a little quieter this week than I would have liked, but I&#8217;ve started on some new ventures that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 48</h2>
+<p style="text-align: center;"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/01/30294-Vector-Horse-2014-Chinse-logo.jpg"><img class="aligncenter  wp-image-4566" alt="30294-Vector-Horse-2014-Chinse-logo" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/01/30294-Vector-Horse-2014-Chinse-logo.jpg?resize=470%2C375" width="470" height="375" data-recalc-dims="1" /></a></p>
+<h2>Overview</h2>
+<p>Happy Chinese New Year everyone! It&#8217;s the Year of the Horse and with that I think the theme for this new (lunar) year will be charging forward full speed!<br />
+I&#8217;ve been a little quieter this week than I would have liked, but I&#8217;ve started on some new ventures that I think will greatly enhance my life and I&#8217;ll be sure to report on them once I feel I&#8217;ve settled down and gotten in a good rhythm with it. But meanwhile, I&#8217;ve been working hard on figuring out how to do game reviews effectively without consuming a lot of time. It seems as if I&#8217;m constantly trying to catch up on creating game reviews no matter how hard I try. I think the plan is to try and review the games immediately after in order to speed up the process.<br />
+Second, I have been much more active on KGS that I have been in the past. In particular, I have actually started playing longer games again (i.e., 30 minutes main time each person). Many thanks goes out to my friend <a href="http://www.nateeagle.com/">Nate</a> for helping me get back on track. I will write a post on his advice to me later, so be looking out for that later.<br />
+The other focus of mine has been to get the rest of my reviews finished within the next week or so. I still have a couple of product and book reviews to finish and they&#8217;ve been hanging over my head. So hopefully I&#8217;ll be able to get those done ASAP so I can alleviate that weight off my back.<br />
+Finally, you&#8217;ll probably notice that I but the training regimen in half. This is due to the fact that I was actually having a hard time simply doing 10 a day. It&#8217;s not so much that I &#8220;couldn&#8217;t,&#8221; but more along the lines of I was unable to be consistent since the 10 problems felt like a lot more when you also have like 30 other things that need your attention that day. So I&#8217;m dropping it down to 5 to see if that can get me to a perfectly consistent level.</p>
+<h2>Training Regimen</h2>
+<ul>
+<li><strong>Step #1:</strong> Do 5 go problems a day. (Estimated time: 5-10 minutes)</li>
+</ul>
+<h2>Games</h2>
+<ul>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  2 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 1 ongoing game</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  7 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li>Worked on <i>Graded Go Problems for Dan Players &#8211; Volume One: 300 Life-and-Death Problems</i>.</li>
+<li>Worked on <em>Life and Death Problems 1 &#8211; Basics</em> by Robert Jasiek.</li>
+<li>Worked on <em>Fighting Fundamentals</em> by Robert Jasiek.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-48/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4509</post-id>	</item>
+	</channel>
+</rss>

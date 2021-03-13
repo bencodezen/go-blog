@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>rematch &#8211; BenGoZen</title>
+	<atom:link href="/tag/rematch/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Rematch 2!</title>
+		<link>/rematch-2/</link>
+		<pubDate>Tue, 19 Oct 2010 14:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[new opening]]></category>
+		<category><![CDATA[rematch]]></category>
+
+		<guid isPermaLink="false">//?p=62</guid>
+		<description><![CDATA[This will be my only game for today. It was played pretty poorly in my opinion. That&#8217;s what I get for playing first thing in the morning I guess. The fun part is that I got to play an opponent that I had played before on my zenix account. At the time, he was 16k [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>This will be my only game for today. It was played pretty poorly in my opinion. That&#8217;s what I get for playing first thing in the morning I guess. The fun part is that I got to play an opponent that I had played before on my zenix account. At the time, he was 16k and I was 19k, and I managed to win by 30 points! Needless to say, I was excited at the prospect of being able to play with him again on equal grounds!<br />
+<span id="more-62"></span><br />
+This game was interesting because it&#8217;s the first time my opponent chose the opposing corners for the opening. Granted, I&#8217;m not strong enough to really understand the implications of such a game, but it certainly surprised me. Compared to last time though, not such a big win. My opponent made some careless errors, and I happened to read out a couple things better than him that allowed me to win the game. Otherwise though, I really think I played awfully.<br />
+Check out the game record below and let me know your thoughts!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.19-Rematch-2.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.19-Rematch-2.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">62</post-id>	</item>
+		<item>
+		<title>Rematch!</title>
+		<link>/rematch/</link>
+		<pubDate>Tue, 19 Oct 2010 01:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[14k]]></category>
+		<category><![CDATA[rematch]]></category>
+		<category><![CDATA[victory]]></category>
+
+		<guid isPermaLink="false">//?p=63</guid>
+		<description><![CDATA[One of the fun things about getting to play go on the internet is the fact that you have a lot of opponents to play with. While that is great in a lot of aspects, I used to always get the itch to rematch with opponents so that I could see if I got any [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>One of the fun things about getting to play go on the internet is the fact that you have a lot of opponents to play with. While that is great in a lot of aspects, I used to always get the itch to rematch with opponents so that I could see if I got any better. Call it a grudge if you will, but for me it&#8217;s usually more of a curiosity than anything else.<br />
+Lo and behold, I was granted the opportunity to play against an opponent that I had previously lost to before. When I last played this guy, I lost practically every single fight that I got into. So in hindsight, I think I just wanted to reclaim some of my honor and dignity. =)<br />
+<span id="more-63"></span><br />
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.18-Rematch.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.18-Rematch.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+As you can see in the game record, I managed to make it out alive with a ~30 point win! Woot woot! Elated feeling for the day: check! Can&#8217;t let this get to my head too much though, got to keep getting stronger!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">63</post-id>	</item>
+	</channel>
+</rss>

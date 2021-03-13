@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>cross fuseki &#8211; BenGoZen</title>
+	<atom:link href="/tag/cross-fuseki/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 45</title>
+		<link>/monday-go-meditation-game-45/</link>
+		<comments>/monday-go-meditation-game-45/#comments</comments>
+		<pubDate>Mon, 03 Mar 2014 12:15:07 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[cross fuseki]]></category>
+		<category><![CDATA[even]]></category>
+		<category><![CDATA[victory]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=4671</guid>
+		<description><![CDATA[Introduction For this week&#8217;s meditation, I chose a game out of a kadoban (i.e., continuous series of games with the same opponent) that has grown to quite a hefty rivalry. Haha. Overall I think I&#8217;m doing okay, but the one thing I will say is that we&#8217;ve had a number of games where my moyo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>For this week&#8217;s meditation, I chose a game out of a kadoban (i.e., continuous series of games with the same opponent) that has grown to quite a hefty rivalry. Haha. Overall I think I&#8217;m doing okay, but the one thing I will say is that we&#8217;ve had a number of games where my moyo gets out of control and ended up deciding a game. So with that background, enjoy!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/03\/2014.03.03-MGM-45.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/03/2014.03.03-MGM-45.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/03/2014.03.03-MGM-45.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">Seemingly innocent moves like saving one stone could have bigger implications if you&#8217;re careless.</p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-45/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4671</post-id>	</item>
+		<item>
+		<title>Monday Go Meditation: Game 40</title>
+		<link>/monday-go-meditation-game-40/</link>
+		<comments>/monday-go-meditation-game-40/#comments</comments>
+		<pubDate>Mon, 27 Jan 2014 11:15:25 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[cross fuseki]]></category>
+		<category><![CDATA[victory]]></category>
+		<category><![CDATA[weird]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=4506</guid>
+		<description><![CDATA[Introduction First and foremost, I will start by stating this game was played on OGS recently.  Two reasons for that: (1) I don&#8217;t want you to think that this is an old game. (2) Although my rank says 7k, the ranks in OGS are completely weird and is really a poor indicator of your true [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>First and foremost, I will start by stating this game was played on <a href="http://online-go.com/user/view/549/BenGoZen">OGS</a> recently.  Two reasons for that: (1) I don&#8217;t want you to think that this is an old game. (2) Although my rank says 7k, the ranks in OGS are completely weird and is really a poor indicator of your true skill level. So in other words, my opponent could be way stronger than 7k. That being said, this game is a weird one where my opponent played a lot of odd moves. Overplays if you ask me, but I&#8217;ll let you be the judge of that. Enjoy!<a href="//wp-content/uploads/2014/01/2014.01.27-MGM-40.sgf"><br />
+</a><br />
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/01\/2014.01.27-MGM-40.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/01/2014.01.27-MGM-40.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/01/2014.01.27-MGM-40.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">When you encounter a weird playing style, play calm and do not get drawn in by your opponent&#8217;s wild antics.</p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-40/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4506</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>active &#8211; BenGoZen</title>
+	<atom:link href="/tag/active/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 20</title>
+		<link>/monday-go-meditation-game-20/</link>
+		<comments>/monday-go-meditation-game-20/#comments</comments>
+		<pubDate>Mon, 29 Jul 2013 09:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[active]]></category>
+		<category><![CDATA[frozensoul]]></category>
+		<category><![CDATA[moyo]]></category>
+		<category><![CDATA[passive]]></category>
+		<category><![CDATA[slow but effective]]></category>
+		<category><![CDATA[teaching game]]></category>
+
+		<guid isPermaLink="false">//?p=3536</guid>
+		<description><![CDATA[Introduction For today&#8217;s go meditation, I am showing the game where I became more aware of the impact of moves on a whole board scale in regards to &#8220;slow&#8221; moves along with how differentiating between active and passive moyos caused a shift in how I now valued certain moves. It is a teaching game that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>For today&#8217;s go meditation, I am showing the game where I became more aware of the impact of moves on a whole board scale in regards to &#8220;slow&#8221; moves along with how differentiating between active and passive moyos caused a shift in how I now valued certain moves. It is a teaching game that is a bit short, but hopefully it helps to illustrate what went on in my mind during that game.<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/07\/2013.07.29-MGM-20.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/07/2013.07.29-MGM-20.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/07/2013.07.29-MGM-20.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;"><b>The value of a move should always be considered in a global context.</b></p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-20/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3536</post-id>	</item>
+	</channel>
+</rss>

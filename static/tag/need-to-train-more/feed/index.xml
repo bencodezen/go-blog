@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>need to train more &#8211; BenGoZen</title>
+	<atom:link href="/tag/need-to-train-more/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Need More Study</title>
+		<link>/need-more-study/</link>
+		<pubDate>Tue, 21 Sep 2010 03:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[in person go]]></category>
+		<category><![CDATA[need to train more]]></category>
+
+		<guid isPermaLink="false">//?p=104</guid>
+		<description><![CDATA[So yesterday wasn&#8217;t as eventful as I&#8217;d like, I got to play Keith in a full on handicap game and that was fun&#8230;. but then I had to leave early so no more Go that night&#8230; I also forgot to bring my Kifu book from YMImports so bummer that. Today was interesting though.  I got [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So yesterday wasn&#8217;t as eventful as I&#8217;d like, I got to play Keith in a full on handicap game and that was fun&#8230;. but then I had to leave early so no more Go that night&#8230; I also forgot to bring my Kifu book from YMImports so bummer that.<br />
+Today was interesting though.  I got to play one timed game (regular and speed) with Todd.  Definitely have a long way to go&#8230; And then I got to play two more games that were quite challenging.  I made some careless errors and reads that cost me the game, but I think I&#8217;ve learned a lot from it.  I&#8217;m still too unfamiliar with what to do and how to read things&#8230; so more studying to do.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">104</post-id>	</item>
+	</channel>
+</rss>

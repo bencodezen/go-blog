@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>crummy &#8211; BenGoZen</title>
+	<atom:link href="/tag/crummy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Another Notch of Defeat</title>
+		<link>/another-notch-defeat/</link>
+		<comments>/another-notch-defeat/#comments</comments>
+		<pubDate>Tue, 13 May 2014 15:50:23 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[crummy]]></category>
+		<category><![CDATA[dojang]]></category>
+		<category><![CDATA[yunguseng]]></category>
+
+		<guid isPermaLink="false">//?p=5309</guid>
+		<description><![CDATA[I just finished my second round of Yunguseng Dojang. As the title of the post states explicitly, it was another sound defeat to be added to my battle staff of go. On one hand, I want to make myself feel better by telling myself that I played well. On the other hand though, I also was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I just finished my second round of Yunguseng Dojang. As the title of the post states explicitly, it was another sound defeat to be added to my battle staff of go.<br />
+On one hand, I want to make myself feel better by telling myself that I played well. On the other hand though, I also was playing completely out of my style this game as well.<br />
+I don&#8217;t know why it is, but lately I&#8217;ve been trying really hard to use the territorial style as White. And then on top of that, I&#8217;ve been hell bent on making the game as complicated as possible from the start. So that ends up putting me in experimental territory that I&#8217;m completely unfamiliar with.<br />
+Do I wish I would have managed to win my second round? Yeah. Feeling a bit crummy at the moment. Hopefully the review will shed some light on my mistakes. Ah well. Off to bed I go.</p>
+]]></content:encoded>
+			<wfw:commentRss>/another-notch-defeat/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5309</post-id>	</item>
+	</channel>
+</rss>

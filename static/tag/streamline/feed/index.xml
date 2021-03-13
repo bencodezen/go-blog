@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>streamline &#8211; BenGoZen</title>
+	<atom:link href="/tag/streamline/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 55</title>
+		<link>/friday-go-forward-week-55/</link>
+		<comments>/friday-go-forward-week-55/#comments</comments>
+		<pubDate>Fri, 28 Mar 2014 11:15:03 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[festival]]></category>
+		<category><![CDATA[not overthinking]]></category>
+		<category><![CDATA[progress]]></category>
+		<category><![CDATA[sakura]]></category>
+		<category><![CDATA[streamline]]></category>
+
+		<guid isPermaLink="false">//?p=4819</guid>
+		<description><![CDATA[Friday Go Forward: Week 55 Overview Ever since getting back from Hong Kong, this week has been consumed with getting back on track with life and not to mention getting readjusted from a 12 hour jet lag. (Yes it was quite painful to switch back and forth.) However, in the process of picking things back [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 55</h2>
+<h2>Overview</h2>
+<p>Ever since getting back from Hong Kong, this week has been consumed with getting back on track with life and not to mention getting readjusted from a 12 hour jet lag. (Yes it was quite painful to switch back and forth.) However, in the process of picking things back up, I have had the opportunity to start fine tuning a number of my daily processes in order to maximize my output with minimal input. For example, I&#8217;ve actually managed to start becoming more efficient and accustomed to doing a set of go problems every day now. In fact, if I go most of the day without doing any problems, I usually find myself itching to grab my phone and practice some before bed.<br />
+In addition, I&#8217;ve had a bit of a self-revelation in regards to my destructive habit of <a title="WGW 35: Stop Overthinking" href="//wgw-35-stop-overthinking/">overthinking</a> things. Since that post, I have really been trying to streamline my mental processes so that I am not hindered by any self-doubt or overly cumbersome obstacles that I create for myself. And even though it&#8217;s only been a couple of days since that post, I feel that it has had a rather large impact on my life.<br />
+Anyhow, I also wanted to take the opportunity to mention an event going on in DC on April 12th, 2014 &#8211; 10:30am to 6:00pm &#8211; <a title="Sakura Matsuri Street Festival DC Site" href="http://www.sakuramatsuri.org/">54th Annual Sakura Matsuri Japanese Street Festival</a>. I had the pleasure of volunteering to teach go there last year, but failed to ever get around to writing about it. Long story short though, I had a great time and it was a fantastic experience. So if you&#8217;re in the DC area and have some time to come out for it, I&#8217;d highly recommend it and you will probably find me teaching go at the go kiosk. Hope to see you there!</p>
+<h2>Training Regimen</h2>
+<ul>
+<li><b>Reading Ability &#8211; </b>Work on the tasks below until whichever comes first.*
+<ul>
+<li>Work on go problems for 30 minutes.</li>
+<li>Work on 300 go problems.</li>
+</ul>
+</li>
+</ul>
+<p>*<em>This is a way to split the difference between task based versus time based training. If you work faster than normal, and can get through 300 (or whichever number you decide on) problems. Kudos to you. But in the event you&#8217;re having trouble and need more time to work on the problems, just keep at it until 30 minutes is up (or whatever time you think it best for you).</em></p>
+<h2>Games</h2>
+<ul>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  1 game</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 3 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  5 ongoing games | 1 completed games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li>Worked on <em>Life and Death Problems 1 &#8211; Basics</em> by Robert Jasiek.</li>
+<li>Worked on <em>1001 Life and Death Problems</em> from Kiseido.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-55/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4819</post-id>	</item>
+	</channel>
+</rss>

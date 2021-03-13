@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>blog update &#8211; BenGoZen</title>
+	<atom:link href="/tag/blog-update/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>New Book Review Landing Page!</title>
+		<link>/new-book-review-landing-page/</link>
+		<comments>/new-book-review-landing-page/#comments</comments>
+		<pubDate>Tue, 04 Jun 2013 21:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[blog update]]></category>
+		<category><![CDATA[book review]]></category>
+		<category><![CDATA[new design]]></category>
+
+		<guid isPermaLink="false">//?p=2884</guid>
+		<description><![CDATA[I am excited to announce that a new Book Review landing page has been launched and can now be found in the top menu. In addition, for those who have been checking out the book reviews, you will probably notice that the format has been changed as well for the more recent reviews. After looking [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I am excited to announce that a new <a title="Books" href="//reviews/books/">Book Review</a> landing page has been launched and can now be found in the top menu. In addition, for those who have been checking out the book reviews, you will probably notice that the format has been changed as well for the more recent reviews.<br />
+After looking over the old reviews, I realized that a lot of my attempts to be more descriptive regarding aspects like &#8220;Content Quality&#8221; or &#8220;Readability&#8221; did not always deliver the correct message I wanted and could cause some confusion. So, in order to ensure that you are getting the most out of my reviews, I thought it would be more helpful if I simply gave the following:</p>
+<ol>
+<li><span style="line-height: 13px;"><strong>What I Expected</strong> &#8211; As the category suggests, these are some of my thoughts and hopes prior to reading the book.</span></li>
+<li><strong>What You Can Expect</strong> &#8211; After reading the book, I aim to highlight important areas that I think people would want to know before buying the book.</li>
+<li><strong>My Thoughts as a X Kyu/Dan</strong> &#8211; This section is for those who have time for a little more in depth analysis as I ramble and/or elaborate about other aspects that I think will be helpful at the time of my current rank. The reason for putting my rank down is that when I inevitably reread the book again (since I never absorb everything the first time around), I thought people would be interested to see if my perspective has changed at all.</li>
+</ol>
+<p>Now of course, I can only do so much anticipating in regards to what readers find helpful. So, if you have any ideas or requests for things you would like to see in my reviews that would help you make a better decision, please comment below or <a title="Contact" href="//contact/">contact</a> me so that I can help make the reviews even better!<br />
+<em>UPDATE: There&#8217;s a small change to the third category since I thought people would find it helpful to see my thoughts on the books as I grow in strength instead of deleting what I previously thought at a weaker rank. And in addition, all the book reviews will eventually match the format listed above.</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/new-book-review-landing-page/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2884</post-id>	</item>
+	</channel>
+</rss>

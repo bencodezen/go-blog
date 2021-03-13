@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>flaws &#8211; BenGoZen</title>
+	<atom:link href="/tag/flaws/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Stopping While You&#039;re Ahead</title>
+		<link>/stopping-while-youre-ahead/</link>
+		<pubDate>Wed, 30 Jan 2013 23:30:42 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[flaws]]></category>
+		<category><![CDATA[mistakes]]></category>
+
+		<guid isPermaLink="false">//?p=1781</guid>
+		<description><![CDATA[I&#8217;ve been on a losing streak these last couple of days. I could blame it on any number of things, but I know that one of my immediate problems is not knowing when to stop while I&#8217;m ahead. In my quest to maintain zen state throughout the entire game, it seems that the red eyed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been on a losing streak these last couple of days. I could blame it on any number of things, but I know that one of my immediate problems is not knowing when to stop while I&#8217;m ahead.<br />
+In my quest to maintain zen state throughout the entire game, it seems that the red eyed goblin still creeps up as the game goes on. My killing instinct is subdued to the point where I&#8217;m generally attacking without a thought of killing, but then it starts to move towards the end of the game and then I realize that capturing an entire group is possible. All of a sudden, the hunt is on and next thing I know I&#8217;m clicking the resign button since one of my groups dies in the battle.<br />
+It seems I am still unable to step back and just ask myself, &#8220;What is the estimated score? Should I continue being so aggressive? Is it time to wrap up the game?&#8221; It&#8217;s something that dan players are telling me time and time again, but I keep getting caught up in the moment and being too focused on determining tactical strategies instead of figuring out if my global strategy needs to change.<br />
+I do feel an urge to go play another game so I can (in my mind) beat my opponent and feel better about myself, but it is not as strong as it normally is. Hopefully this is a sign of growth on my part. I am happy with the game that I played (for the most part). I just wish I didn&#8217;t give it away due to being careless due to my blood lust. To keep myself from falling back into a reckless go state though, I will play it safe and just stop for now.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1781</post-id>	</item>
+	</channel>
+</rss>

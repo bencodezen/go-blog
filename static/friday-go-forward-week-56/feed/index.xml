@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Friday Go Forward: Week 56</title>
+	<atom:link href="/friday-go-forward-week-56/feed/" rel="self" type="application/rss+xml" />
+	<link>/friday-go-forward-week-56/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/friday-go-forward-week-56/#comment-1757</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2014 11:46:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4845#comment-1757</guid>
+		<description><![CDATA[You should! I&#039;m sure that you would learn a lot! I&#039;m really excited about it and will be sure to write all about it!]]></description>
+		<content:encoded><![CDATA[<p>You should! I&#8217;m sure that you would learn a lot! I&#8217;m really excited about it and will be sure to write all about it!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Eyecatcher</title>
+		<link>/friday-go-forward-week-56/#comment-1756</link>
+		<dc:creator><![CDATA[Eyecatcher]]></dc:creator>
+		<pubDate>Mon, 07 Apr 2014 20:42:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4845#comment-1756</guid>
+		<description><![CDATA[I`m thinking about joining the dojang as well... but as spectator, don`t have the time for the league at the moment... looking forward to read about your experinces there!]]></description>
+		<content:encoded><![CDATA[<p>I`m thinking about joining the dojang as well&#8230; but as spectator, don`t have the time for the league at the moment&#8230; looking forward to read about your experinces there!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

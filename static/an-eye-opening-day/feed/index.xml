@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: An Eye Opening Day&#8230;</title>
+	<atom:link href="/an-eye-opening-day/feed/" rel="self" type="application/rss+xml" />
+	<link>/an-eye-opening-day/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Eyecatcher</title>
+		<link>/an-eye-opening-day/#comment-791</link>
+		<dc:creator><![CDATA[Eyecatcher]]></dc:creator>
+		<pubDate>Mon, 27 May 2013 00:17:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2760#comment-791</guid>
+		<description><![CDATA[Nice, thank you! Looking forward to it :-) ]]></description>
+		<content:encoded><![CDATA[<p>Nice, thank you! Looking forward to it 🙂 </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/an-eye-opening-day/#comment-790</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Sun, 26 May 2013 23:21:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2760#comment-790</guid>
+		<description><![CDATA[I will be sure to do so soon! It won&#039;t be easy to describe, but I&#039;ll be sure to do my best!]]></description>
+		<content:encoded><![CDATA[<p>I will be sure to do so soon! It won&#8217;t be easy to describe, but I&#8217;ll be sure to do my best!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Eyecatcher</title>
+		<link>/an-eye-opening-day/#comment-789</link>
+		<dc:creator><![CDATA[Eyecatcher]]></dc:creator>
+		<pubDate>Sun, 26 May 2013 17:55:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2760#comment-789</guid>
+		<description><![CDATA[Tell us more about this (new) perspective! I`m very interested to hear what kind of lesson this was...]]></description>
+		<content:encoded><![CDATA[<p>Tell us more about this (new) perspective! I`m very interested to hear what kind of lesson this was&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

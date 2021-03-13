@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>entertaining &#8211; BenGoZen</title>
+	<atom:link href="/tag/entertaining/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>How to Keep Studying Interesting</title>
+		<link>/how-to-keep-studying-interesting/</link>
+		<pubDate>Wed, 24 Apr 2013 09:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[bored]]></category>
+		<category><![CDATA[consistency]]></category>
+		<category><![CDATA[entertaining]]></category>
+		<category><![CDATA[exploring]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[studying]]></category>
+		<category><![CDATA[topics of interest]]></category>
+
+		<guid isPermaLink="false">//?p=2548</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #25 Whether you like it or not, studying is one of the most important aspects of getting stronger at go. While some players are able to simply learn everything through playing and reviewing, this is often reliant on stronger players or even simple luck of figuring out what is wrong with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #25</h2>
+<figure id="attachment_2631" style="width: 300px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/04/wgw25.jpg"><img class="size-full wp-image-2631" alt="Credit to Gagful" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/04/wgw25.jpg?resize=300%2C252" width="300" height="252" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://www.gagful.com/uploads/2012_9/1347619043_studying_gag.jpg">Gagful</a></figcaption></figure>
+Whether you like it or not, studying is one of the most important aspects of getting stronger at go. While some players are able to simply learn everything through playing and reviewing, this is often reliant on stronger players or even simple luck of figuring out what is wrong with your moves or thinking process. As a result, there is no telling how fast you will improve.<br />
+Unfortunately, this is one of the most dreaded aspects of trying getting stronger for most players. After all, it reminds us of our school days where homework and projects were a drag and no one ever wanted to do them. So, as the last installment of Weekly Go Wednesday (at least for the time being), I thought it would be best to leave you with my thoughts on how you can keep your study of go interesting so that you can continue to climb the ranks.<br />
+<span id="more-2548"></span><br />
+In order to help make studying more interesting, we must start by giving ourselves the right mindset when thinking about studying. Although the image jokes about how studying ends with the word &#8220;dying,&#8221; one should not view studying as a dreaded chore; but instead as <strong>an opportunity to explore topics of interest</strong>. By doing so, one no longer thinks of the cumbersome tasks that lie ahead; but will instead look forward to each studying session.<br />
+Once you have the right mindset, here are some tips that I use to help keep myself motivated to consistently study go:<br />
+<strong>1. Only study things that are of interest to <em>you</em>.</strong> As much as everyone goes on about how important life and death is, if that subject bores you to tears, don&#8217;t do it. Study whatever else makes <em>you</em> happy and makes the game enjoyable. That might be attacking, joseki, tesuji, fuseki, endgame, whatever. Although it might seem like you are neglecting other areas, I have found that those other areas eventually become topics of interest as you gain a greater understanding of the game.<br />
+<strong>2. Follow a couple of professional players that you are fans of. </strong>It&#8217;s much more fun studying professional games when you are rooting for your favorite player or trying to understand why your pro played the way he did. In addition, the emotional attachment you have to your favorite player winning or losing will make the things you learn stick that much more in your brain. And if you don&#8217;t know which professionals to follow, two easy names that I would recommend starting with are <a href="http://en.wikipedia.org/wiki/Gu_Li">Gu Li</a> and <a href="http://en.wikipedia.org/wiki/Lee_Sedol">Lee Sedol</a>.<br />
+<strong>3. Keep your study sessions short.</strong> If the study sessions are too long, it can cause you to study more infrequently and procrastinate study sessions since you&#8217;ll always have the excuse, &#8220;I don&#8217;t have enough time.&#8221; It&#8217;s better to cut your studying in chunks in order to allow more material to be dispersed over time which inadvertently marinates in your brain and has more time to be absorbed into your actual play.<br />
+Best of luck in your studies and pursuit of the next stone. Till next time!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2548</post-id>	</item>
+	</channel>
+</rss>

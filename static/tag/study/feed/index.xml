@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>study &#8211; BenGoZen</title>
+	<atom:link href="/tag/study/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 21</title>
+		<link>/friday-go-forward-week-21/</link>
+		<pubDate>Fri, 28 Jun 2013 09:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[lots of books]]></category>
+		<category><![CDATA[study]]></category>
+
+		<guid isPermaLink="false">//?p=3048</guid>
+		<description><![CDATA[Friday Go Forward: Week 21 Overview If it isn&#8217;t apparent, my studying sessions have gotten pretty crazy. I know that it would be better for me to focus on one book at a time, but my attention span just can&#8217;t handle too much of one topic. As much as I&#8217;d love to fully absorb everything [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 21</h2>
+<h2>Overview</h2>
+<p>If it isn&#8217;t apparent, my studying sessions have gotten pretty crazy. I know that it would be better for me to focus on one book at a time, but my attention span just can&#8217;t handle too much of one topic. As much as I&#8217;d love to fully absorb everything I&#8217;m reading, my goal is to absorb as much as possible with the least amount of time and effort. Therefore, if I am getting bored and not really paying attention anymore, I move on to another topic.<br />
+I know it&#8217;s not the most thorough method, but I have a lot of books that I&#8217;d love to read and different explanations to be exposed to. Once I&#8217;ve reviewed every book that I own, you can be sure that I will be returning to the ones that I want to really gain a mastery over. So for now, I&#8217;m okay with being a jack of all trades and master of none. xD</p>
+<h2>Games</h2>
+<ul>
+<li><span style="line-height: 13px;">KGS &#8211; 0 games (0 wins : 0 losses)</span></li>
+<li>DGS &#8211; 3 ongoing games</li>
+<li>Nova &#8211; 3 ongoing games</li>
+</ul>
+<h2>Education &amp; Training</h2>
+<ul>
+<li><span style="line-height: 13px;">Finished <em>Essential Life &amp; Death,</em><em> Vol. 2</em>.</span></li>
+<li>Finished <em>The Direction of Play</em>.</li>
+<li>Finished <i>Elementary Go Series &#8211; Tesuji.</i></li>
+<li>Worked on <em>Attacking and Defending Moyos</em>.</li>
+<li>Worked on <em>Modern Master Games, Vol. 1</em>.</li>
+<li>Started working on <i>Elementary Go Series, Vol 4 &#8211; Life and Death.</i></li>
+<li>Started working on <i>Elementary Go Series, Vol 5 &#8211; Attack and Defense</i>.</li>
+<li>Started working on <i>Whole Board Thinking of Joseki, Vol. 1</i>.</li>
+<li>Started working on <em>Essential Life &amp; Death, Vol. 3.</em></li>
+</ul>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">3048</post-id>	</item>
+	</channel>
+</rss>

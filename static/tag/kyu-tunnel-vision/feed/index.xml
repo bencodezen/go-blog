@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>kyu tunnel vision &#8211; BenGoZen</title>
+	<atom:link href="/tag/kyu-tunnel-vision/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>No Turning Back</title>
+		<link>/no-turning-back/</link>
+		<comments>/no-turning-back/#comments</comments>
+		<pubDate>Tue, 28 May 2013 21:00:24 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[kyu tunnel vision]]></category>
+		<category><![CDATA[new perspective]]></category>
+		<category><![CDATA[whole board thinking]]></category>
+
+		<guid isPermaLink="false">//?p=2791</guid>
+		<description><![CDATA[In the past, the go board was fragmented in my mind. Depending on the tide of the battle or how certain frameworks were developing, my brain would divide the board into various areas of focus. As a result, I very quickly lost sight of the bigger picture and had a difficult time figuring out what [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In the past, the go board was fragmented in my mind. Depending on the tide of the battle or how certain frameworks were developing, my brain would divide the board into various areas of focus. As a result, I very quickly lost sight of the bigger picture and had a difficult time figuring out what to do next or executing any particular strategy well. In fact, the only time I believe I was able to strategically dominate my opponent is when they jumped head first into a framework I was familiar in utilizing (e.g., the Chinese opening).<br />
+To say that I&#8217;ve never experienced the zen of seeing the whole board at once would be untrue, but it wasn&#8217;t until my most recent lesson with frozensoul that I had a shocking awakening that would cause my world to dramatically shift. Games no longer seem like isolated battles that gradually add up to a greater theme. Instead, every move now seems to contribute to the entire picture.<br />
+For those who are wondering, this mindset of true &#8220;whole board thinking&#8221; is rather taxing for me. It is far from being instinctively engraved in my brain. I still fall victim to kyu tunnel vision from time to time; but deep down, I can already tell that I have crossed into a new world where there is no turning back.</p>
+]]></content:encoded>
+			<wfw:commentRss>/no-turning-back/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2791</post-id>	</item>
+	</channel>
+</rss>

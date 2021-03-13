@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>tripleko &#8211; BenGoZen</title>
+	<atom:link href="/tag/tripleko/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Short and Simple</title>
+		<link>/short-and-simple/</link>
+		<pubDate>Wed, 10 Nov 2010 04:31:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[baduk]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[kifu]]></category>
+		<category><![CDATA[tripleko]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=48</guid>
+		<description><![CDATA[So today was pretty eventful. I am actually flooded in terms of material I want to write about, but my brain is nearly decomposed due to a lack of sleep and an overload of Go. So this post will be short and sweet. #1. Hail to fellow Go player chrollo and his new blog &#8211; TripleKo! [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So today was pretty eventful. I am actually flooded in terms of material I want to write about, but my brain is nearly decomposed due to a lack of sleep and an overload of Go. So this post will be short and sweet.</p>
+<p style="padding-left: 30px;">#1. Hail to fellow Go player chrollo and his new <a href="http://tripleko.blogspot.com/" target="_blank">blog</a> &#8211; <a href="http://tripleko.blogspot.com/" target="_blank">TripleKo</a>! Go check it out. Love the name!</p>
+<p style="padding-left: 30px;">#2. Since it&#8217;ll be awhile till I am able to properly update the resources for Go players, Go players need to totally check out GoChild. I think it&#8217;s significantly better than Goproblems.com but more on that later.</p>
+<p style="padding-left: 30px;">#3. I have been very fortunate to have had my games being reviewed over the past few days. It&#8217;s been a ton of information, but I will do all I can to absorb it and eventually distill it to my readers.</p>
+<p><span id="more-48"></span><br />
+Meanwhile, here is a game I think that a lot of you will enjoy. This was from the ASR League so it was a free game, even, 6.5 pts komi. The matchup is me (11k) vs. my buddy chrollo (2d). I was black. To preface the game, chrollo played extremely aggressively. This was one hell of a game chrollo. Thanks again for an awesome game.<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/11\/2010.11.09-Short-and-Simple.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/11/2010.11.09-Short-and-Simple.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">48</post-id>	</item>
+	</channel>
+</rss>

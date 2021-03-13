@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>watching dan games &#8211; BenGoZen</title>
+	<atom:link href="/tag/watching-dan-games/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Watching Dan Games</title>
+		<link>/watching-dan-games/</link>
+		<pubDate>Tue, 04 Dec 2012 17:30:08 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[observing games]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[watching dan games]]></category>
+
+		<guid isPermaLink="false">//?p=1242</guid>
+		<description><![CDATA[So I currently have the pleasure and exciting opportunity to be participating in an all week training for Adobe CQ5.5, but that means that there is very little time for playing go. =( In order to satiate my go craving for the day, I&#8217;ve actually started watching dan level games and trying to predict where [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2012/12/CQ5-logo.png"><img class="aligncenter size-full wp-image-1243" title="Adobe CQ Logo" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2012/12/CQ5-logo.png?resize=172%2C189" alt="" width="172" height="189" data-recalc-dims="1" /></a></p>
+<p>So I currently have the pleasure and exciting opportunity to be participating in an all week training for Adobe CQ5.5, but that means that there is very little time for playing go. =(<br />
+In order to satiate my go craving for the day, I&#8217;ve actually started watching dan level games and trying to predict where I would go and understanding why they play the way they do. Granted, I know that I do not have the reading ability that they possess and thus will not be able to understand things entirely; but I think that it has been a fun exercise for me to improve my ability to analyze the whole board position when I have more time to play.<br />
+Meanwhile, a big shout out to my friend Scotist who had a fantastic winning streak yesterday! Great job man!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1242</post-id>	</item>
+	</channel>
+</rss>

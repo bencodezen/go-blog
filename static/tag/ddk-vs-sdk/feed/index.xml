@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>ddk vs sdk &#8211; BenGoZen</title>
+	<atom:link href="/tag/ddk-vs-sdk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Failed Games #1 + Other Thoughts on SDKs</title>
+		<link>/failed-games-1-other-thoughts-on-sdks/</link>
+		<pubDate>Thu, 04 Nov 2010 14:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[baduk]]></category>
+		<category><![CDATA[ddk vs sdk]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[kifu]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=51</guid>
+		<description><![CDATA[So I was thinking it over, and at first I wasn&#8217;t going to put up some of my recent games due to the fact that they are utterly miserable. But, I think it&#8217;ll actually be good for those who are at the DDK range and feeling frustrated with their own games when they are obliterated. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: left;">
+So I was thinking it over, and at first I wasn&#8217;t going to put up some of my recent games due to the fact that they are utterly miserable. But, I think it&#8217;ll actually be good for those who are at the DDK range and feeling frustrated with their own games when they are obliterated. Here is a game I played against someone who was also 12k, and I think this is like one of VERY few games where I lost to someone lower than 10k while I was 12k. I thought I was doing well, but clearly I did not.<br />
+<span id="more-51"></span><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/11\/2010.11.04-Failed-Games.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/11/2010.11.04-Failed-Games.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+Also, I had the pleasure of talking to Jaddie (one of the 10k opponents who destroyed me). We went over one of his games and I was fascinated to see some sequences that frankly would not have occurred to me. To the stronger players, yes I realize I&#8217;m only 12k. But still, it was cool. Jaddie also brings up the idea that DDK&#8217;s cannot see the whole board as well as SDK&#8217;s do. I definitely think he has a valid point there. Another point that I think that separates SDK&#8217;s and DDK&#8217;s is simple reading ability. Sigh&#8230; more on this when I figure it out.<br />
+Oh, and in addition, apparently he doesn&#8217;t do any Go studying. &gt;.&lt; He said most of his experience comes from playing games. Man&#8230; maybe I&#8217;m just super untalented. It&#8217;s almost been three months and I&#8217;ve studied and I&#8217;m only at 12k on KGS&#8230; sigh. Oh well&#8230; no sense worrying about it. Let&#8217;s see where my strength and hard work take me. After all, they say the sky is the limit, yet why are there footprints on the moon?
+</div>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">51</post-id>	</item>
+		<item>
+		<title>DDK vs. SDK</title>
+		<link>/ddk-vs-sdk/</link>
+		<pubDate>Sat, 30 Oct 2010 13:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[ddk]]></category>
+		<category><![CDATA[ddk vs sdk]]></category>
+		<category><![CDATA[sdk]]></category>
+
+		<guid isPermaLink="false">//?p=53</guid>
+		<description><![CDATA[Here&#8217;s a game that I wanted to put in my article on Bad vs. Wrong Decisions. Although this was a game against a 14k (I was 13k at the time), I gave it my all and I must say it was quite a match. (I&#8217;m white)So this is something I&#8217;ve definitely noticed. For some reason, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: left;">
+Here&#8217;s a game that I wanted to put in my article on <a title="Bad vs. Wrong Decisions" href="//bad-vs-wrong-decisions/" target="_blank">Bad vs. Wrong Decisions</a>. Although this was a game against a 14k (I was 13k at the time), I gave it my all and I must say it was quite a match. (I&#8217;m white)So this is something I&#8217;ve definitely noticed. For some reason, there seems to exist this seemingly large gap between those who are SDK and those who are DDK. Now I know you&#8217;re probably like, imagine the gap between SDK and amateur dan, and then the gap between amateur dan and professionals! Trust me, I was quite aware of the barriers awaiting me when I began learning this game. It&#8217;s definitely interesting though, the way SDK&#8217;s play vs. DDK&#8217;s. At this point, if I&#8217;m matched up to a DDK, I think I&#8217;m in pretty solid shape. On the other hand&#8230; it doesn&#8217;t seem like I&#8217;m quite ready to take on an SDK yet (even game that is). I played an SDK last night in person, and lost by ~13 points even though I had a 3 stone handicap&#8230; bleh&#8230;. When I figure out where that gap is though, I&#8217;ll be sure to let you know.<br />
+<span id="more-53"></span><br />
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.30-DDK-vs-SDK.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.30-DDK-vs-SDK.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+</div>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">53</post-id>	</item>
+	</channel>
+</rss>

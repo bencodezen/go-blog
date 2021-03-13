@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>can&#8217;t attack properly &#8211; BenGoZen</title>
+	<atom:link href="/tag/cant-attack-properly/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 27</title>
+		<link>/friday-go-forward-week-27/</link>
+		<comments>/friday-go-forward-week-27/#comments</comments>
+		<pubDate>Fri, 09 Aug 2013 09:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[can't attack properly]]></category>
+		<category><![CDATA[lots of books]]></category>
+		<category><![CDATA[studying a lot]]></category>
+		<category><![CDATA[weakness]]></category>
+
+		<guid isPermaLink="false">//?p=3705</guid>
+		<description><![CDATA[Friday Go Forward: Week 27 Overview Though this week cannot even begin to live up to 1% of the awesomeness that is happening on at US Go Congress, I will have to say that it has been a rather productive week. I&#8217;ve started really diving into some new books in an effort to really further [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 27</h2>
+<h2>Overview</h2>
+<p>Though this week cannot even begin to live up to 1% of the awesomeness that is happening on at US Go Congress, I will have to say that it has been a rather productive week. I&#8217;ve started really diving into some new books in an effort to really further my understanding of my failure as a player: the inability to attack properly. If you&#8217;re wondering why I make it sound so dramatic, it&#8217;s because I always considered myself more of a fighter / power type of player, and what kind of fighter or power player am I if I can&#8217;t even attack properly? Haha. =D But I think I&#8217;m making good headway on that, so hopefully I won&#8217;t have to write about this weakness of mine for much longer. Till next week!</p>
+<h2>Games</h2>
+<ul>
+<li>KGS &#8211; 5 games</li>
+<li>DGS &#8211; 3 ongoing games</li>
+<li>Nova &#8211; 2 ongoing games</li>
+</ul>
+<h2>Education &amp; Training</h2>
+<ul>
+<li>Started and finished <em>The Workshop Lectures Volume 2.</em></li>
+<li>Started and finished <em>The Workshop Lectures Volume 3.</em></li>
+<li><em></em>Finished <em>Get Strong at the Opening</em>.</li>
+<li>Worked on <i>Jump Level Up 1.</i></li>
+<li>Worked on <em>Joseki Jeongseok Compass</em>.</li>
+<li>Worked on <em>Takao&#8217;s Astute Use of Brute Force</em>.</li>
+<li>Worked on <i>Fight Like a Pro</i>.</li>
+<li>Started working on <i>Get Strong at Joseki 1.</i></li>
+<li>Started working on <em>The Workshop Lectures Volume 4.</em></li>
+<li>Started working on <em>The ABC&#8217;s of Attack and Defense</em>.</li>
+<li>Started working on <em>Breakthrough Attacking Power.</em></li>
+</ul>
+<h2>Lesson Learned</h2>
+<ol>
+<li>Whether you win or lose, the important thing is to find something you can learn from the game.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-27/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3705</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Book Review: Get Strong at the Opening</title>
+	<atom:link href="/book-review-get-strong-at-the-opening/feed/" rel="self" type="application/rss+xml" />
+	<link>/book-review-get-strong-at-the-opening/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Book Review: Get Strong at Invading &#124; BenGoZen</title>
+		<link>/book-review-get-strong-at-the-opening/#comment-1044</link>
+		<dc:creator><![CDATA[Book Review: Get Strong at Invading &#124; BenGoZen]]></dc:creator>
+		<pubDate>Tue, 24 Sep 2013 13:58:43 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3769#comment-1044</guid>
+		<description><![CDATA[[&#8230;] Get Strong at the Opening [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Get Strong at the Opening [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Book Review: Get Strong at Joseki 1 &#124; BenGoZen</title>
+		<link>/book-review-get-strong-at-the-opening/#comment-1043</link>
+		<dc:creator><![CDATA[Book Review: Get Strong at Joseki 1 &#124; BenGoZen]]></dc:creator>
+		<pubDate>Sun, 25 Aug 2013 09:01:55 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3769#comment-1043</guid>
+		<description><![CDATA[[&#8230;] Get Strong at the Opening [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Get Strong at the Opening [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

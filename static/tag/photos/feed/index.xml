@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>photos &#8211; BenGoZen</title>
+	<atom:link href="/tag/photos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Buried in Photos&#8230;</title>
+		<link>/buried-photos/</link>
+		<pubDate>Thu, 03 Apr 2014 22:58:59 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<category><![CDATA[overloaded]]></category>
+		<category><![CDATA[photography]]></category>
+		<category><![CDATA[photos]]></category>
+
+		<guid isPermaLink="false">//?p=4853</guid>
+		<description><![CDATA[I know that it&#8217;s been over a week since I came back from Hong Kong, so first off, I apologize that I haven&#8217;t been able to post about Hong Kong yet. When I got back, I thought that I would be able to just grab my photos and quickly organize them in an hour or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I know that it&#8217;s been over a week since I came back from Hong Kong, so first off, I apologize that I haven&#8217;t been able to post about Hong Kong yet.<br />
+When I got back, I thought that I would be able to just grab my photos and quickly organize them in an hour or so. And then after I did that, I would be able to start working on my posts. After all, it&#8217;s only about a week&#8217;s worth of pictures right?<br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/03/47766415.jpg"><img class="aligncenter size-full wp-image-4854" alt="47766415" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/03/47766415.jpg?resize=400%2C400" width="400" height="400" data-recalc-dims="1" /></a><br />
+Yeah&#8230; Let&#8217;s just say I completely forgot and therefore underestimated the amount of effort it takes to properly organize your photos (and that doesn&#8217;t even count editing, cropping, resizing, etc.). There were the duplicates, the variations on a shot that I had to choose through, and then renaming them properly so I can easily track what is what&#8230;<br />
+So while I thought I would be able to knock it out quickly so I could get started on drafting my Hong Kong trip posts, it&#8217;ll probably be at least another week before I&#8217;m able to get them up and online. Because in the end, I&#8217;m not trying to just throw up posts for the sake of posting. I&#8217;m really trying to capture the experience as best I can in order to give you the most enjoyable reading experience possible, so I hope you can bear with me a bit longer.<br />
+On a separate but related note, I am also starting to feel the twinge of anxiety as I&#8217;m starting to fall slightly my weekly posts. As I&#8217;ve been trying to improve the quality of the game reviews, they&#8217;ve also started to take a considerable amount of time. But don&#8217;t worry, I&#8217;m working hard to make sure that I don&#8217;t fall behind. Back to work I go!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4853</post-id>	</item>
+	</channel>
+</rss>

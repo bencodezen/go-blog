@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>heavy stones &#8211; BenGoZen</title>
+	<atom:link href="/tag/heavy-stones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: The Basics of Go Strategy</title>
+		<link>/book-review-the-basics-of-go-strategy/</link>
+		<comments>/book-review-the-basics-of-go-strategy/#comments</comments>
+		<pubDate>Sun, 02 Jun 2013 09:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[aji]]></category>
+		<category><![CDATA[forcing moves]]></category>
+		<category><![CDATA[go strategy]]></category>
+		<category><![CDATA[heavy stones]]></category>
+		<category><![CDATA[junk stones]]></category>
+		<category><![CDATA[key stones]]></category>
+		<category><![CDATA[light stones]]></category>
+		<category><![CDATA[proving moves]]></category>
+		<category><![CDATA[sabaki]]></category>
+		<category><![CDATA[thickness]]></category>
+
+		<guid isPermaLink="false">//?p=2712</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Mastering the Basics, Volume 5 &#8211; The Basics of Go Strategy Author: Richard Bozulich Publisher: Kiseido Publication Date: January 2007 Page Length: 216 pages Number of Problems: 101 Synopsis Fantastic overview to concepts that many beginners should be exposed to early on in their study of go. This is a hybrid [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/mtbs5cover.jpg"><img class="aligncenter size-full wp-image-2780" alt="mtbs5cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/mtbs5cover.jpg?resize=300%2C429" width="300" height="429" data-recalc-dims="1" /></a></h2>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Mastering the Basics, Volume 5 &#8211; The Basics of Go Strategy</li>
+<li><strong>Author: </strong>Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>January 2007</li>
+<li><strong>Page Length:</strong> 216 pages</li>
+<li><strong>Number of Problems</strong>: 101</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>Fantastic overview to concepts that many beginners should be exposed to early on in their study of go.</li>
+<li>This is a hybrid book that consists of theory along with actual problems.</li>
+<li>Content is appropriate for 18 kyu and stronger.</li>
+<li>Problems are appropriate for 9k and above.</li>
+<li>Highly recommended for serious players.</li>
+</ul>
+<p><span id="more-2712"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 9 / 10</h4>
+<p>The first half of the book focuses on explaining the various concepts: forcing moves, aji, heavy vs. light stones, etc. As someone who has read his fair share of go books and have had stronger players help to explain these concepts before, Bozulich has done a fantastic job on explaining the concepts and doing his best to illustrate them through examples or other games. Granted, sometimes the explanations may feel like they are going over your head; but that is most likely due to the fact that these concepts are rather deep and cannot be grasped as simply as say the snapback tesuji.<br />
+For the solution to the problems in the second half of the book, the explanations were quite concise and generally easy to understand in regards to what principle they are aiming for you to grasp when solving them. There were a few occasions where I felt a little bewildered by the explanations, but they were quite easy to read and understand for the most part.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>Whether it&#8217;s due to the fact that I&#8217;ve yet to see another book come close to explaining these concepts as well as this book does or something else, I really do believe that the book deserves perfect marks for providing go players with a great reference for these ideas and theories. Each chapter does a fantastic job explaining the basic idea behind each concepts, potential responses that you might expect from the opponent and possible continuations to each scenario. Although there were times I definitely wanted a bit more explanation as to why a certain cut did not work, the quantity of solid content and explanations supercedes any of these minor questions.</p>
+<h4>Final Thoughts</h4>
+<p>In my entire search for books that are capable of explaining some of the most critical concepts in go (such as heavy stones, junk stones, etc.), it saddens me that it&#8217;s taken so long to finally discover this book. For those who are interested in any of the topics found in the table of contents, this is a great book that will help to shed some light and more each time you read it. Very highly recommended!</p>
+<h4>Table of Content</h4>
+<ol>
+<li>Author&#8217;s Note</li>
+<li>Preface</li>
+<li>Some Important Terms and Concepts</li>
+<li>Chapter One: Aji</li>
+<li>Chapter Two: Forcing Moves</li>
+<li>Chapter Three: Probing Moves</li>
+<li>Chapter Four: Attacking Heavy Stones</li>
+<li>Chapter Five: Light Stones and Sabaki</li>
+<li>Chapter Six: Junk Stones</li>
+<li>Chapter Seven: Key Stones</li>
+<li>Chapter Eight: Thickness</li>
+<li>101 Problems</li>
+<li>Answers to the Problems</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated May 26th, 2013 &#8211; 5 kyu</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-the-basics-of-go-strategy/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2712</post-id>	</item>
+	</channel>
+</rss>

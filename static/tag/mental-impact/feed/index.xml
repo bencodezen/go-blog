@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>mental impact &#8211; BenGoZen</title>
+	<atom:link href="/tag/mental-impact/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Your Rank is Dead to Me</title>
+		<link>/your-rank-is-dead-to-me/</link>
+		<pubDate>Wed, 17 Apr 2013 09:00:14 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[mental impact]]></category>
+		<category><![CDATA[opponent's rank]]></category>
+		<category><![CDATA[rank]]></category>
+
+		<guid isPermaLink="false">//?p=1645</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #24 In every player&#8217;s journey, there comes a point in every player&#8217;s growth where their opponent&#8217;s rank begins to impact how they approach each game. To clarify, I&#8217;m not simply referring to overplays in handicap games as opposed to calm and balanced moves in even games. Like many of my other thoughts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #24</h2>
+<figure id="attachment_2564" style="width: 300px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/04/wgw24.png"><img class="size-full wp-image-2564" alt="Tombstone Credit to WPClipart" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/04/wgw24.png?resize=300%2C376" width="300" height="376" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Tombstone Credit to <a href="http://www.wpclipart.com/holiday/halloween/graveyard/epitaphs/blank/Tombstone_rounded_blank.png.html">WPClipart</a></figcaption></figure>
+In every player&#8217;s journey, there comes a point in every player&#8217;s growth where their opponent&#8217;s rank begins to impact how they approach each game. To clarify, I&#8217;m not simply referring to overplays in handicap games as opposed to calm and balanced moves in even games. Like many of my other thoughts on players&#8217; growth in go, today&#8217;s topic deals with the impact their opponent&#8217;s rank has on them.<br />
+<span id="more-1645"></span><br />
+Let&#8217;s start by simplifying the types of categories into three simple categories.</p>
+<ol>
+<li>Games against stronger opponents.</li>
+<li>Games against weaker opponents.</li>
+<li>Games against opponents of equal strength.</li>
+</ol>
+<p>Everyone has different reactions and mentalities towards each type of game. For the sake of simplifying our analysis though, the two we are particularly interested in is people&#8217;s mindset against stronger and weaker opponents.<br />
+When playing against stronger players, most players feel a need to be defensive and be extra cautious. This is rather natural since it is assumed that the stronger player should be able to see things that the weaker opponent cannot. However, one often forgets that a myriad of skills contribute to each player&#8217;s rank. While each player&#8217;s reading ability determines a minimum baseline for their rank (i.e., it is impossible for a 10 kyu to read at a 30 kyu level), other concepts like global strategy and positional judgment make a big difference as well. As a result, it is sad when players end up playing defensively against an imaginary tesuji that only existed in their minds because their opponent&#8217;s rank was higher.<br />
+On the flip side, whether it is handicapped or even games, playing against weaker players often brings about a desire to prove one&#8217;s superiority in terms of rank and skill. While we often forget that the handicap system was established in order to allow players of different strengths to play an equally competitive game for both sides, the fact that the opponent&#8217;s rank is lower causes players to (either subconsciously or consciously) look down at their opponent. This is a particularly fatal mindset since it causes overconfidence and cockiness that is will often lead to their own demise. In addition, as much as go is a competitive sport, looking down at an opponent is in bad taste.<br />
+Now granted, there are always exceptions to the rule, and there are times where playing against stronger players can even bring about a better playing style. However, because there are already so many variables that contribute to how strong a player is, <strong>it is in your best interest to start ignoring your opponent&#8217;s rank when playing a game</strong>. Once the appropriate settings (e.g., handicap stones) have been set, <strong>the goal is simply about finding the best move and exploiting your opponent&#8217;s inefficient / overplay moves</strong>. If you maintain this simple goal, it will be irrelevant whether you are playing a stronger player or weaker player, because you can be sure that you will be playing every move to the best of your ability instead of based on your opponent abilities.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1645</post-id>	</item>
+	</channel>
+</rss>

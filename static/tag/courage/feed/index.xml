@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>courage &#8211; BenGoZen</title>
+	<atom:link href="/tag/courage/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Stop Being a Worry Wart</title>
+		<link>/stop-worry-wart/</link>
+		<comments>/stop-worry-wart/#comments</comments>
+		<pubDate>Tue, 08 Oct 2013 23:52:46 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[confidence]]></category>
+		<category><![CDATA[courage]]></category>
+		<category><![CDATA[faith in one's strength]]></category>
+		<category><![CDATA[fall and get back up]]></category>
+		<category><![CDATA[imaginary]]></category>
+		<category><![CDATA[worry]]></category>
+
+		<guid isPermaLink="false">//?p=4125</guid>
+		<description><![CDATA[A couple of nights ago, frozensoul mentioned something to me that really struck me. My mind is my greatest opponent. Yup. You read that right. Instead of being trounced by opponents better than me or making dumb mistakes, I often end up out-reading myself. What do I mean by this? I&#8217;m talking about being fearful [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A couple of nights ago, frozensoul mentioned something to me that really struck me.</p>
+<blockquote><p>My mind is my greatest opponent.</p></blockquote>
+<p>Yup. You read that right. Instead of being trounced by opponents better than me or making dumb mistakes, I often end up out-reading myself.<br />
+What do I mean by this? I&#8217;m talking about being fearful of potential aji in X area and adding unnecessary moves &#8220;just in case.&#8221; Now this might sound reasonable, but let&#8217;s think about this one moment. If you are adding a move to an area that doesn&#8217;t require it, are you not essentially passing your turn?<br />
+To further illustrate my point, take the following problem:<br />
+<figure id="attachment_4139" style="width: 190px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/deadgroup.png"><img class=" wp-image-4139 " alt="Black to play." src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/deadgroup.png?resize=190%2C189" width="190" height="189" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Black to play.</figcaption></figure>
+Is there anyone out there who would suggest that Black capture the White stones &#8220;just to in case?&#8221; Absolutely not. Because any player above 12 kyu would know that it would be completely absurd to do anything but tenuki.<br />
+&#8220;But wait Ben! Not all positions are as clear cut as the problem you presented! What happens if you&#8217;re wrong and then you lose because you think you can tenuki when in fact you really can&#8217;t?!&#8221;<br />
+Well, to that I have only one question: <strong>Are you trying to get stronger or simply keep winning against opponents of the same strength?</strong><br />
+Yes. It would suck if you tenuki when you actually needed a move and then lost a game; but guess what, that is part of growing and learning so that we can get stronger. We make mistakes. We fall. We get back up. We learn. We grow. We get stronger. And the cycle goes on and on&#8230;<br />
+So the next time you feel like you&#8217;re in a questionable position, do your best with the reading ability you have and then have faith in your moves. You will make quite a few mistakes along the road, but I assure you that it will be a heck of a lot better than defending against imaginary aji.</p>
+]]></content:encoded>
+			<wfw:commentRss>/stop-worry-wart/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4125</post-id>	</item>
+	</channel>
+</rss>

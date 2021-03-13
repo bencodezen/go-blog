@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>3 stones &#8211; BenGoZen</title>
+	<atom:link href="/tag/3-stones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 18</title>
+		<link>/monday-go-meditation-game-18/</link>
+		<pubDate>Mon, 15 Jul 2013 09:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[3 stones]]></category>
+		<category><![CDATA[handicap]]></category>
+		<category><![CDATA[resignation]]></category>
+		<category><![CDATA[victory]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=3237</guid>
+		<description><![CDATA[Introduction And we&#8217;re back to handicap games! In my kadoban with my friend Paul, it seems we are at a stalemate with 3 stones. Today&#8217;s game is one where you will see how difficult it is to truly silence an opponent&#8217;s stones in addition to how speed of development at the opening can poise White [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>And we&#8217;re back to handicap games! In my kadoban with my friend Paul, it seems we are at a stalemate with 3 stones. Today&#8217;s game is one where you will see how difficult it is to truly silence an opponent&#8217;s stones in addition to how speed of development at the opening can poise White to even out the battlefield.<br />
+
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/07/2013.07.15-MGM-18.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;"><b>Unless the stones are removed from the board, it is very difficult to truly silence your opponent&#8217;s stones.</b></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">3237</post-id>	</item>
+		<item>
+		<title>Monday Go Meditation: Game 15</title>
+		<link>/monday-go-meditation-game-15/</link>
+		<comments>/monday-go-meditation-game-15/#comments</comments>
+		<pubDate>Mon, 24 Jun 2013 09:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[3 stones]]></category>
+		<category><![CDATA[defeat]]></category>
+		<category><![CDATA[handicap]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=2962</guid>
+		<description><![CDATA[Introduction For this week, I&#8217;m happy to announce the premiere of my first official three stone handicap game (since turning a new leaf over with handicap games). At this point, my study of handicap games have come to a halt due to a necessity to revamp my training schedule, but hopefully you will still find [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>For this week, I&#8217;m happy to announce the premiere of my first official three stone handicap game (since turning a new leaf over with handicap games). At this point, my study of handicap games have come to a halt due to a necessity to revamp my training schedule, but hopefully you will still find this game review helpful in your next 3 stones handicap game!<a href="//wp-content/uploads/2013/06/2013.06.24-MGM-15.sgf"><br />
+</a><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/06\/2013.06.24-MGM-15.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/06/2013.06.24-MGM-15.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/06/2013.06.24-MGM-15.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;"><b>Failure to account for what is truly a big point on the board often makes the difference between victory and defeat.</b></p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-15/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2962</post-id>	</item>
+		<item>
+		<title>Monday Go Meditation: Game 12</title>
+		<link>/monday-go-meditation-game-12/</link>
+		<comments>/monday-go-meditation-game-12/#comments</comments>
+		<pubDate>Mon, 27 May 2013 09:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[3 stones]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[handicap]]></category>
+		<category><![CDATA[victory]]></category>
+
+		<guid isPermaLink="false">//?p=2738</guid>
+		<description><![CDATA[Introduction With all my talk about handicap games last week, I only thought it be appropriate to feature a 3 stone game against my friend Tilwen. Hope you enjoy! [download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/05/2013.05.27-MGM-12.sgf[/download] One Point Lesson Maintaining a calm awareness of the whole board will prevent you from becoming overextending yourself and costing you the game.]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>With all my talk about handicap games last week, I only thought it be appropriate to feature a 3 stone game against my friend Tilwen. Hope you enjoy!<br />
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/05\/2013.05.27-MGM-12.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/05/2013.05.27-MGM-12.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/05/2013.05.27-MGM-12.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;"><strong>Maintaining a calm awareness of the whole board will prevent you from becoming overextending yourself and costing you the game.</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-12/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2738</post-id>	</item>
+		<item>
+		<title>NOVA Pumpkin Classic Tournament 2012 &#8211; Round 1</title>
+		<link>/nova-pumpkin-classic-tournament-2012-round-1/</link>
+		<pubDate>Mon, 05 Nov 2012 14:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[3 stones]]></category>
+		<category><![CDATA[8k]]></category>
+		<category><![CDATA[handicap go]]></category>
+		<category><![CDATA[nova]]></category>
+		<category><![CDATA[pumpkin classic]]></category>
+		<category><![CDATA[tournament]]></category>
+		<category><![CDATA[victory]]></category>
+
+		<guid isPermaLink="false">//?p=916</guid>
+		<description><![CDATA[Introduction &#8212; Round 1 &#8212; Round 2 &#8212; Round 3 &#8212; Round 4 &#8212; Conclusion My opponent made his first move: upper left star. I stared at the board as I recalled memories of playing with my friend Nate: the various approaches I tried before, the numerous times he gave me advice as to how he tries to play as white, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="NOVA Pumpkin Classic Tournament 2012 — Introduction" href="//nova-pumpkin-class-2012-intro/">Introduction</a> &#8212; <span style="text-decoration: underline;"><strong>Round 1</strong></span> &#8212; <a title="NOVA Pumpkin Classic Tournament 2012 — Round 2" href="//nova-pumpkin-classic-tournament-2012-round-2/">Round 2</a> &#8212; <a title="NOVA Pumpkin Classic Tournament 2012 — Round 3" href="//nova-pumpkin-classic-tournament-2012-round-3/">Round 3</a> &#8212; <a title="NOVA Pumpkin Classic Tournament 2012 — Round 4" href="//nova-pumpkin-classic-tournament-2012-round-4/">Round 4</a> &#8212; <a title="NOVA Pumpkin Classic Tournament 2012 — Conclusion" href="//nova-pumpkin-classic-tournament-2012-conclusion/">Conclusion</a></p>
+<p style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2012/11/3-stones.png"><img class="aligncenter size-medium wp-image-991" title="3 Stones Handicap " src="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/11/3-stones-300x298.png?resize=300%2C298" alt="3 Stones Handicap by Eidogo" width="300" height="298" data-recalc-dims="1" /></a></p>
+<p>My opponent made his first move: upper left star.<br />
+I stared at the board as I recalled memories of playing with my friend Nate: the various approaches I tried before, the numerous times he gave me advice as to how he tries to play as white, and how I should try to play as black. I wasn&#8217;t sure what was in store for me, because this was not going to be a fun casual Monday night game. This was a game that neither of us wanted to lose. After all, I&#8217;m sure that neither of us wanted to start the tournament off with a loss. Nonetheless, only one of us would come out a victor&#8230;<br />
+<span id="more-916"></span><br />
+
+<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2012\/11\/2012.11.02-NOVA-PC-Round-1.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2012/11/2012.11.02-NOVA-PC-Round-1.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2012/11/2012.11.02-NOVA-PC-Round-1.sgf[/download]
+<p>As we were cleaning up the stones, I felt dazed as I was still in disbelief that I had managed to pull of a win, and a narrow one at that. Before I could even really collect my thoughts together however, I heard that the next pairings had been posted. I walked over and scanned the list &#8211; Ben [8k] vs. Black [12k]. At first I was relieved since I wouldn&#8217;t be playing an SDK, but then it hit me: <em><strong>I have to give him 4 stones</strong></em>.</p>
+<p style="text-align: center;"><a title="NOVA Pumpkin Classic Tournament 2012 — Introduction" href="//nova-pumpkin-class-2012-intro/">Introduction</a> &#8212; <strong>Round 1</strong> &#8212; <a title="NOVA Pumpkin Classic Tournament 2012 — Round 2" href="//nova-pumpkin-classic-tournament-2012-round-2/">Round 2</a> &#8212; <a title="NOVA Pumpkin Classic Tournament 2012 — Round 3" href="//nova-pumpkin-classic-tournament-2012-round-3/">Round 3</a> &#8212; <a title="NOVA Pumpkin Classic Tournament 2012 — Round 4" href="//nova-pumpkin-classic-tournament-2012-round-4/">Round 4</a> &#8212; <a title="NOVA Pumpkin Classic Tournament 2012 — Conclusion" href="//nova-pumpkin-classic-tournament-2012-conclusion/">Conclusion</a></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">916</post-id>	</item>
+		<item>
+		<title>I&#039;m Back!</title>
+		<link>/im-back/</link>
+		<pubDate>Wed, 13 Oct 2010 15:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[15k]]></category>
+		<category><![CDATA[3 stones]]></category>
+		<category><![CDATA[handicap go]]></category>
+		<category><![CDATA[victory]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=70</guid>
+		<description><![CDATA[I&#8217;m back and excited to be back.  So I played my first game on KGS this morning.  I have to say it&#8217;s quite an ugly game. I despise a number of my moves and misreads. So just keep that in mind when you look at it. In terms of why I&#8217;m posting it, it&#8217;s to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m back and excited to be back.  So I played my first game on KGS this morning.  I have to say it&#8217;s quite an ugly game. I despise a number of my moves and misreads. So just keep that in mind when you look at it. In terms of why I&#8217;m posting it, it&#8217;s to just serve as a reminder to myself and others how different application of principles in your play is different than practicing.  One thing is for sure though, I did not let myself lose my composure when I made those mistakes. And since that was one of my main goals, I&#8217;m glad I could play well enough to come out with a half point komi win.  =D<br />
+<span id="more-70"></span><br />
+
+<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.13-Im-Back.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.13-Im-Back.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">70</post-id>	</item>
+		<item>
+		<title>Game of the Day: Slaughtered</title>
+		<link>/game-of-the-day-slaughtered/</link>
+		<pubDate>Wed, 06 Oct 2010 16:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[15k]]></category>
+		<category><![CDATA[3 stones]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[defeat]]></category>
+		<category><![CDATA[handicap go]]></category>
+
+		<guid isPermaLink="false">//?p=79</guid>
+		<description><![CDATA[So I think I&#8217;ll start summarizing my games with one word synopsis to describe the what I believe to be the ultimate aura and ambiance of the game. Today&#8217;s choice of word: slaughtered. In other words, like a lamb being led to the slaughter, I let a 12 kyu draw me into fighting situations where [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I think I&#8217;ll start summarizing my games with one word synopsis to describe the what I believe to be the ultimate aura and ambiance of the game. Today&#8217;s choice of word: slaughtered. In other words, like a lamb being led to the slaughter, I let a 12 kyu draw me into fighting situations where my (already poor) reading ability ruined any chance I had of beating him in the game. Let me run a few off my hand&#8230;. misreading capturing races, missing shortage of liberties, blatantly trying to save a group that was in atari which missed my reading. I do think I should have won. My strategy was far more solid overall, but I got drawn back into focusing on the fighting. There&#8217;s a little guy in my head right now yelling, &#8220;TERRITORY YOU IDIOT! THIS IS NOT FIRST CAPTURE!&#8221; Sigh&#8230; Enjoy the following horrific game that I am so ashamed to call my own.<br />
+<span id="more-79"></span><br />
+
+<div id='glift_display5' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display5","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.06-Game-of-the-Day-Slaughtered.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.06-Game-of-the-Day-Slaughtered.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+So as of this moment, I am just appalled at myself. In the blogs I&#8217;ve been reading about studying Go in China, I&#8217;ve noticed that almost there is a unanimous comment in terms of the strength of the children there. They all do one thing extremely well: fighting. Most of the bloggers comment of how they get outread in almost every situation. If I&#8217;m to even speak a word of going to study with them, I&#8217;m going to have to make sure that I at least outread my opponents here in the DDK world&#8230; (not to mention the SDK world as well). Thus, I&#8217;m switching up my regimen.<br />
+Utter&#8230; brutal&#8230; training on my reading ability. KGS&#8230; I&#8217;ll see you when I return from my training.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">79</post-id>	</item>
+	</channel>
+</rss>

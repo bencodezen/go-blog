@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>reasonable &#8211; BenGoZen</title>
+	<atom:link href="/tag/reasonable/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 25</title>
+		<link>/friday-go-forward-week-25/</link>
+		<comments>/friday-go-forward-week-25/#comments</comments>
+		<pubDate>Fri, 26 Jul 2013 09:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[calm]]></category>
+		<category><![CDATA[reasonable]]></category>
+
+		<guid isPermaLink="false">//?p=3558</guid>
+		<description><![CDATA[Friday Go Forward: Week 25 Overview Having nearly burned out after my last couple weeks of intensive study, I&#8217;ve scaled back on the study and refocused all of my energy on the Level Up Series. I have plans to slowly scale up to a more balanced regimen, but for now this seems to be working [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 25</h2>
+<h2>Overview</h2>
+<p>Having nearly burned out after my last couple weeks of intensive study, I&#8217;ve scaled back on the study and refocused all of my energy on the Level Up Series. I have plans to slowly scale up to a more balanced regimen, but for now this seems to be working for me. Overall though, this week has been pretty calm. Nothing too crazy. The most memorable part was being able to attend the monthly go workshop. Otherwise though, just moving forward one step at a time&#8230;</p>
+<h2>Games</h2>
+<ul>
+<li>KGS &#8211; 1 game</li>
+<li>DGS &#8211; 3 ongoing games</li>
+<li>Nova &#8211; 3 ongoing games</li>
+</ul>
+<h2>Education &amp; Training</h2>
+<ul>
+<li><em></em>Started and finished <em>Level Up 7</em>.<em><br />
+</em></li>
+<li>Started and finished <em>Level Up 8</em>.</li>
+<li>Started and finished <i>Level Up 9.</i></li>
+<li>Started working on <em>Level Up 10</em>.</li>
+<li>Working on <em>Mastering the Basics, Vol. 8 &#8211; Fight Like a Pro</em>.</li>
+<li>Started reading <em>Lessons in the Fundamentals of Go </em>again.</li>
+</ul>
+<h2>Lesson Learned</h2>
+<ol>
+<li>Focus on each game by trying to make the best move on a whole board scale.</li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-25/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3558</post-id>	</item>
+	</channel>
+</rss>

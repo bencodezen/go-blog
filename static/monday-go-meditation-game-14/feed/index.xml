@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Monday Go Meditation: Game 14</title>
+	<atom:link href="/monday-go-meditation-game-14/feed/" rel="self" type="application/rss+xml" />
+	<link>/monday-go-meditation-game-14/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/monday-go-meditation-game-14/#comment-812</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Mon, 17 Jun 2013 17:08:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2839#comment-812</guid>
+		<description><![CDATA[You definitely should! And when you do, be sure to let me know! I would be happy to play a game against you! =D]]></description>
+		<content:encoded><![CDATA[<p>You definitely should! And when you do, be sure to let me know! I would be happy to play a game against you! =D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Scott</title>
+		<link>/monday-go-meditation-game-14/#comment-811</link>
+		<dc:creator><![CDATA[Scott]]></dc:creator>
+		<pubDate>Mon, 17 Jun 2013 17:02:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2839#comment-811</guid>
+		<description><![CDATA[Very interesting game. I think I might need to get back into playing go some time soon.]]></description>
+		<content:encoded><![CDATA[<p>Very interesting game. I think I might need to get back into playing go some time soon.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

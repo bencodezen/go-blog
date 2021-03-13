@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>new resolution &#8211; BenGoZen</title>
+	<atom:link href="/tag/new-resolution/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>A Calm Plateau</title>
+		<link>/a-calm-plateau/</link>
+		<comments>/a-calm-plateau/#comments</comments>
+		<pubDate>Mon, 20 May 2013 21:00:14 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[calculated play]]></category>
+		<category><![CDATA[calm]]></category>
+		<category><![CDATA[new resolution]]></category>
+		<category><![CDATA[rank plateau]]></category>
+
+		<guid isPermaLink="false">//?p=2744</guid>
+		<description><![CDATA[Over the last few days, something that has been bothering me is the fact that my rank graph has completely plateaued. While I know that I can match stronger opponents in even games sometimes, it was bothering me that I did not have the rank to show for it. After some thought though, I have realized [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the last few days, something that has been bothering me is the fact that my rank graph has completely plateaued. While I know that I can match stronger opponents in even games sometimes, it was bothering me that I did not have the rank to show for it.<br />
+After some thought though, I have realized that my anxiety at letting KGS define my strength is rather stupid. First of all, I just don&#8217;t have enough time to play the ranked games required to possibly show whatever improvements that I may have gained. On top of that, it&#8217;s not as if KGS&#8217; ranking equation is the best in the world. So with that in mind, what am I worried about?<br />
+In addition, I&#8217;ve also come to terms that my style has always been more of a wild fighting style. It&#8217;s not that I was never interested in the calculated wins where the win margin was 10 points or less; but my style always led to games that would be decided by 30 points or more. In fact, I think I continued playing that way in order to avoid actually counting since the advantage would be so clear there would be no need to count.<br />
+And so, regardless of the fact that I may be a KGS 5k for some time, I have decided to play all of my opponents with my weakest style from now on: calm and calculated. (Don&#8217;t get me wrong. If the opponent offers an opportunity for me to strike, I will unleash a tornado of fury upon them.) I will lose a lot, but I have a feeling that this is my biggest obstacle before I leave the world of kyus.<br />
+Watch out shodans. I&#8217;ll be knocking at your door before you know it.</p>
+]]></content:encoded>
+			<wfw:commentRss>/a-calm-plateau/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2744</post-id>	</item>
+	</channel>
+</rss>

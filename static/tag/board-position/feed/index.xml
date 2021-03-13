@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>board position &#8211; BenGoZen</title>
+	<atom:link href="/tag/board-position/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>WGW 29: Why I Never Counted</title>
+		<link>/wgw29-never-counted/</link>
+		<comments>/wgw29-never-counted/#comments</comments>
+		<pubDate>Wed, 27 Nov 2013 11:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[board position]]></category>
+		<category><![CDATA[counting]]></category>
+		<category><![CDATA[estimating]]></category>
+		<category><![CDATA[evaluation]]></category>
+
+		<guid isPermaLink="false">//?p=4360</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #29 As I&#8217;ve been working through my own issues or burnout and sense of confusion, I realized that a large cause of it is due to the fact that I have consistently avoided counting and making board position evaluations during my games for the entire time I&#8217;ve been playing. It&#8217;s finally [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #29</h2>
+<p>As I&#8217;ve been working through my own issues or burnout and sense of confusion, I realized that a large cause of it is due to the fact that I have consistently avoided counting and making board position evaluations during my games for the entire time I&#8217;ve been playing. It&#8217;s finally caught up to me, so I thought I would write about this in hopes that it will help you avoid this in the future as well.<br />
+Here are my top excuses for why I didn&#8217;t want (or think I needed) to count:<br />
+<strong>1. &#8220;I am supposed to find the best move anyways and constantly strive to maximize my return, so counting or estimating territory is not needed if I&#8217;m simply outplaying my opponent.&#8221;</strong><br />
+While there may be some merit to this type of thinking, it is flawed as a whole. If you&#8217;re constantly trying to maximize each move without considering how it impacts the board as a whole, how can your move be considered &#8220;maximally efficient&#8221; when it does not work in the whole board context?<br />
+<strong>2. &#8220;I don&#8217;t have time to estimate territory. I&#8217;m busy finding the best move.&#8221;</strong><br />
+Just like in the first excuse, you can&#8217;t find the best move if you&#8217;re not aware of what it is you need to do to win. In addition, you have to keep in mind that go is more than winning local battles or establishing strong positions in a local context. Go is about how your positions work together <em>as a whole. </em>And whether you like it or not, estimating territory or judging the board position is key to forming the winning strategy.<br />
+<strong>3. &#8220;It is better to just find out the score at the end. After all, it&#8217;s more exciting and suspenseful when it&#8217;s a surprise right?</strong><br />
+I&#8217;m sure everyone has had that experience of feeling like the game is close when in actuality you have like a 20-30 point lead. It&#8217;s a pretty good feeling right? After all, you actually ended up having a big lead instead of it being a close game! However, I&#8217;m sure there are just as many (if not more) occasions where the complete reverse happens. You thought you were putting up a good fight and it turns out you were losing since move 140. It&#8217;s a complete bummer isn&#8217;t it?<br />
+So if what I&#8217;m saying is making any sense at all, and you&#8217;re wondering how you can start incorporating counting into your games, here are a couple of ideas:</p>
+<ul>
+<li><strong>Play longer games.</strong> After all, you&#8217;re going to need time to get used to judging the board position at first. It might take some getting used to and may take longer than you might like, but with practice you should get faster over time. And before you know it, it won&#8217;t take much effort or time to figure out what&#8217;s going on on the board.</li>
+<li><strong>Practice estimating positions with an experienced counter.</strong> In other words, it&#8217;s not enough to simply estimate positions with a stronger player. After all, my counting skills might be worse than someone who is 8 kyu. So find someone who is strong at counting and get them to help you out. (For those who have no idea where to start, my sensei frozensoul on KGS excels in this area and can be a great help.)</li>
+<li><strong>Remember that you&#8217;re &#8220;guesstimating&#8221; and not calculating.</strong> Especially when just starting out, it&#8217;s really important to remember that our ability to count will be off by a decent amount at first. In addition, you don&#8217;t need to be accurate down to the last point. If you can even get a relatively accurate read on who&#8217;s ahead or behind and where the largest areas are coming from, that will be an excellent start. After that, it&#8217;s all about refining your technique till you&#8217;re a counting master. =)</li>
+</ul>
+<p>If you have any advice or ideas, be sure to leave a comment below. Hope this helps!</p>
+]]></content:encoded>
+			<wfw:commentRss>/wgw29-never-counted/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4360</post-id>	</item>
+	</channel>
+</rss>

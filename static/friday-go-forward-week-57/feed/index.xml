@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Friday Go Forward: Week 57</title>
+	<atom:link href="/friday-go-forward-week-57/feed/" rel="self" type="application/rss+xml" />
+	<link>/friday-go-forward-week-57/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/friday-go-forward-week-57/#comment-1799</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Sun, 20 Apr 2014 16:05:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4882#comment-1799</guid>
+		<description><![CDATA[I&#039;m glad that you are finding the lectures to be great as well. I still have so many to watch though. Haha.]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;m glad that you are finding the lectures to be great as well. I still have so many to watch though. Haha.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Eyecatcher</title>
+		<link>/friday-go-forward-week-57/#comment-1798</link>
+		<dc:creator><![CDATA[Eyecatcher]]></dc:creator>
+		<pubDate>Sun, 20 Apr 2014 07:04:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4882#comment-1798</guid>
+		<description><![CDATA[Yes, the Y.Dojang lessons are really great. And
+i&#039;m sure the time spent on the review is worth it! Fpr the word wide go world in the webs and for your self ;-)]]></description>
+		<content:encoded><![CDATA[<p>Yes, the Y.Dojang lessons are really great. And<br />
+i&#8217;m sure the time spent on the review is worth it! Fpr the word wide go world in the webs and for your self 😉</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

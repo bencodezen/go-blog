@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>lizardfish &#8211; BenGoZen</title>
+	<atom:link href="/tag/lizardfish/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 54</title>
+		<link>/friday-go-forward-week-54/</link>
+		<comments>/friday-go-forward-week-54/#comments</comments>
+		<pubDate>Fri, 14 Mar 2014 11:15:10 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[go notes]]></category>
+		<category><![CDATA[hong kong]]></category>
+		<category><![CDATA[lizardfish]]></category>
+		<category><![CDATA[steady]]></category>
+
+		<guid isPermaLink="false">//?p=4777</guid>
+		<description><![CDATA[Friday Go Forward: Week 54 Overview This week marks the start of my race towards the dan wall that all kyu players are striving to overcome. I&#8217;ve tried playing more recently, and I&#8217;ve completely ramped up my training regimen. In the past, I&#8217;ve tried alternating between time-based training versus task-based training and kept finding something [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 54</h2>
+<h2>Overview</h2>
+<p>This week marks the start of my race towards the dan wall that all kyu players are striving to overcome. I&#8217;ve tried playing more recently, and I&#8217;ve completely ramped up my training regimen. In the past, I&#8217;ve tried alternating between time-based training versus task-based training and kept finding something lacking about each. As a result, I&#8217;ve decided to do a fusion this time around to really get the ball rolling. I&#8217;m really hoping that it will gain some traction this time.<br />
+Secondly, I wanted to give a shoutout to a fellow go player Lizardfish (aka Eulerstotle for those who knew him before) who started a new go site called <a title="Lizardfish's Go Notes" href="https://sites.google.com/site/lizardfishgonotes/">Lizardfish&#8217;s GO Notes</a>. He approaches the notion of explaining go topics through PDF&#8217;s as opposed to SGF&#8217;s (which can be quite confusing if designed poorly). Be sure to check it out! Definitely looking forward to seeing more of his work.<br />
+Finally, in case you missed it, I am going to be <a title="Preparing for My Hong Kong Trip" href="//preparing-hong-kong-trip/">heading out to Hong Kong</a> this week and will be pretty MIA for the next week. However, I am happy to announce that none of the weekly articles (i.e., Monday Go Meditation) will be taking a hiatus. I&#8217;m not sure what my internet connection will be like, but I&#8217;ll be sure to try and update as best as I can. So if I don&#8217;t get a chance to get online next week, I&#8217;ll see you all after I get back!</p>
+<h2>Training Regimen</h2>
+<ul>
+<li><b>Reading Ability &#8211; </b>Work on the tasks below until whichever comes first.*
+<ul>
+<li>Work on go problems for 30 minutes.</li>
+<li>Work on 200 go problems.</li>
+</ul>
+</li>
+</ul>
+<p>*<em>This is a way to split the difference between task based versus time based training. If you work faster than normal, and can get through 200 (or whichever number you decide on) problems. Kudos to you. But in the event you&#8217;re having trouble and need more time to work on the problems, just keep at it until 30 minutes is up (or whatever time you think it best for you).</em></p>
+<h2>Games</h2>
+<ul>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  2 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 3 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  6 ongoing games | 1 completed games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li>Worked on <em>Life and Death Problems 1 &#8211; Basics</em> by Robert Jasiek.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-54/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4777</post-id>	</item>
+	</channel>
+</rss>

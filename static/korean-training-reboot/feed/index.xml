@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Korean Training Reboot!</title>
+	<atom:link href="/korean-training-reboot/feed/" rel="self" type="application/rss+xml" />
+	<link>/korean-training-reboot/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Level Up! Series - Off to a Good Start &#124; BenGoZen</title>
+		<link>/korean-training-reboot/#comment-860</link>
+		<dc:creator><![CDATA[Level Up! Series - Off to a Good Start &#124; BenGoZen]]></dc:creator>
+		<pubDate>Tue, 02 Jul 2013 21:01:58 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3196#comment-860</guid>
+		<description><![CDATA[[...] only Day 2 of my Korean Train­ing Reboot and I’m happy to report that I am really enjoy­ing this series. Although I could [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] only Day 2 of my Korean Train­ing Reboot and I’m happy to report that I am really enjoy­ing this series. Although I could [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>studying too much &#8211; BenGoZen</title>
+	<atom:link href="/tag/studying-too-much/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Experience on the Battlefield</title>
+		<link>/experience-on-the-battlefield/</link>
+		<comments>/experience-on-the-battlefield/#comments</comments>
+		<pubDate>Wed, 21 May 2014 11:15:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[battlefield]]></category>
+		<category><![CDATA[experience]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[more]]></category>
+		<category><![CDATA[playing]]></category>
+		<category><![CDATA[studying too much]]></category>
+
+		<guid isPermaLink="false">//?p=10</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #41 As many of you are aware, I have been known to prioritize studying and have had no qualms sacrificing playing games in order to do so. My rationale at the time was quite simple: Because I felt like I was always on a time crunch, reading books, studying problems, or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #41</h2>
+<figure id="attachment_5339" style="width: 494px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2012/10/Keybladesandwarriors.jpg"><img class=" wp-image-5339" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2012/10/Keybladesandwarriors.jpg?resize=494%2C371" alt="Credit to Kingdom Hearts 3 Trailer" width="494" height="371" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Screenshot from <a href="https://www.youtube.com/watch?v=Q5j8lQ9_9Cc">Kingdom Hearts 2 Secret Ending</a></figcaption></figure>
+As many of you are aware, I have been known to prioritize studying and have had no qualms sacrificing playing games in order to do so. My rationale at the time was quite simple: Because I felt like I was always on a time crunch, reading books, studying problems, or even watching videos seemed to be better suited to my lifestyle. 15 minutes here&#8230; 5 minutes there&#8230; That way I could keep &#8220;improving&#8221; without the huge time commitment. Right?<br />
+Well, maybe only half right. While I might have picked up a thing or two along the way, my experience at the <a title="1st Washington Open Baduk Championship — Part I" href="//1st-washington-open-baduk-championship-part/">1st Washington Baduk Open Championship</a> was rather traumatic. After getting my butt kicked twice in a row after the first round and deep introspection, I realized I needed to play more. So in light of that realization, I thought it only appropriate to write about the importance of experience on the battlefield.<br />
+<span id="more-10"></span><br />
+The reason I spent so long focusing on studying instead of playing was for the following reasons:</p>
+<ol>
+<li><strong>&#8220;I will only play long games.&#8221;</strong> &#8211; I forget when I came to this conclusion, but I thought that any game less than 30 minutes main time would be &#8220;too short&#8221; for me. Therefore&#8230;</li>
+<li><strong>&#8220;Don&#8217;t have enough time.&#8221;</strong> &#8211; Since 30 min main time games took about 1.5 hours to 2 hours, I felt that I never had that block of time to play.</li>
+<li><strong>&#8220;I can study anywhere.&#8221;</strong> &#8211; I&#8217;ve never been a huge fan of playing on my mobile phone, so playing games wasn&#8217;t as convenient as studying books / problems.</li>
+</ol>
+<p>I mean, sure, I played a few games here and there; but I didn&#8217;t play consistently and definitely did not play as seriously as I might have if I played ranked games. So to no one&#8217;s surprise, my stamina at the tournament was just awful.<br />
+After talking with Myung and learning that most Korean players actually play with 10 minute main time, it made me realize that my mandate of only playing &#8220;long games&#8221; was ridiculous and would only stunt my growth. And since I&#8217;ve made the change to play with shorter time settings, it&#8217;s made a huge difference for me.<br />
+Whether you like it or not, your skills are only as good as they are on the battlefield. It&#8217;s irrelevant if you can solve dan level problems on your cell phone if you keep making basic mistakes in your actual games.<br />
+No amount of book reading or problem solving can replace the invaluable experience of playing actual games, so get out there and play! Brace yourself for the biting wind of intense and competitive play as you charge into the fray to temper your blade. Charge!!!</p>
+]]></content:encoded>
+			<wfw:commentRss>/experience-on-the-battlefield/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">10</post-id>	</item>
+	</channel>
+</rss>

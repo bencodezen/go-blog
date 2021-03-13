@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>w+resign &#8211; BenGoZen</title>
+	<atom:link href="/tag/wresign/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Stumbling Through the Dark</title>
+		<link>/stumbling-dark/</link>
+		<comments>/stumbling-dark/#comments</comments>
+		<pubDate>Thu, 26 Jun 2014 03:24:04 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[1k opponent]]></category>
+		<category><![CDATA[2 stone handicap]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[frustrated]]></category>
+		<category><![CDATA[w+resign]]></category>
+
+		<guid isPermaLink="false">//?p=5484</guid>
+		<description><![CDATA[Today I added another notch to my losses. It was a 2 stone handicap game against a 1k and I completely goofed at the end. No reason I shouldn&#8217;t have won, but I just couldn&#8217;t see it through. [download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.25-Stumbling-Through-the-Dark.sgf[/download] And the funny thing is that this trend seems to be consistent with other things [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today I added another notch to my losses. It was a 2 stone handicap game against a 1k and I completely goofed at the end. No reason I shouldn&#8217;t have won, but I just couldn&#8217;t see it through.<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.25-Stumbling-Through-the-Dark.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.25-Stumbling-Through-the-Dark.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.25-Stumbling-Through-the-Dark.sgf[/download]
+<p>And the funny thing is that this trend seems to be consistent with other things I tried to switch my attention to momentarily (like League of Legends). Part of me wonders whether I&#8217;ve acquired some sort of &#8220;losing&#8221; mindset; but on second though, it&#8217;s rather unlikely since I know that starting off any game being like &#8220;I&#8217;m going to lose anyways&#8221; is a recipe for disaster.<br />
+As this is the first day in my quest to return back to my origins, I shouldn&#8217;t be surprised that things are not much different than yesterday. There&#8217;s a big mix of frustration, loss, and clarity all at the time. And to be honest, it feels as if stumbling through the dark blindly reaching for anything I can hold on to to feel like I&#8217;m making progress. I have no idea if it&#8217;s going to get me where I want to go, but it certainly seems to beat standing still.<br />
+On the bright side, I&#8217;m glad I&#8217;m not gambling any time soon.</p>
+]]></content:encoded>
+			<wfw:commentRss>/stumbling-dark/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5484</post-id>	</item>
+		<item>
+		<title>Losing Sight of My Go</title>
+		<link>/losing-sight-go/</link>
+		<comments>/losing-sight-go/#comments</comments>
+		<pubDate>Tue, 24 Jun 2014 23:05:27 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[2k opponent]]></category>
+		<category><![CDATA[anti-zen]]></category>
+		<category><![CDATA[attached to winning]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[long game]]></category>
+		<category><![CDATA[selfish]]></category>
+		<category><![CDATA[shameful]]></category>
+		<category><![CDATA[undo]]></category>
+		<category><![CDATA[w+resign]]></category>
+		<category><![CDATA[zen]]></category>
+
+		<guid isPermaLink="false">//?p=5480</guid>
+		<description><![CDATA[Today I played a game against a 2k as Black (with 45 min main time settings). It&#8217;s been a long time since I&#8217;ve played a game with such long time settings where the opponent actually used up most of his/her time. In fact, it was a little nerve wracking because the quality of the moves [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today I played a game against a 2k as Black (with 45 min main time settings). It&#8217;s been a long time since I&#8217;ve played a game with such long time settings where the opponent actually used up most of his/her time. In fact, it was a little nerve wracking because the quality of the moves were quite different. Far less impulsive ones and much more proper moves that were given a lot of thought. I felt I had decent control of the game for the most part, but started losing control of it towards the later half of the middle game. Around this time, my opponent misclicks.<br />
+At first I was thrilled to see the mistake, but then the undo request instantly popped up and I was confronted with the conflicting decision as to wheter I should give him the undo or not. Long story short, he was supposed to gain about 8 points in sente, but misclicked and put his own stones in atari so that I could capture them instead, save my stones, and gain a few points myself.<br />
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.24-Losing-Sight-of-My-Go.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.24-Losing-Sight-of-My-Go.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.24-Losing-Sight-of-My-Go.sgf[/download]
+<p>For 95% of spectators out there, the answer is crystal clear: it was an obvious misclick. In that moment however, though I&#8217;m ashamed to say it, I wanted to win so badly that I tried to brush off his undo and play on. I tried to resolve my cognitive dissonance by telling myself that it was his fault that he misclicked. Not my problem. Within a few moves however, I woke to my senses and realized how pitiful I was being. So I resigned in order to try and pick up what little self-respect I had left.<br />
+The reason I&#8217;m writing about this is because I realized I have become too caught up in winning. Even though my name was created with the idea that I had found zen in go, I think that it has become so far from the truth (especially as of late). With each game recently, any sense of calmness or zen has been consistently disturbed by the notion of winning or losing. And with each game, I am concerned that I am losing sight of my go.<br />
+This ends now. I don&#8217;t care if I have to drop ten stones to get back to it, but I&#8217;m going to put the pieces that started this blog back together: Ben + Go + Zen.</p>
+]]></content:encoded>
+			<wfw:commentRss>/losing-sight-go/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5480</post-id>	</item>
+		<item>
+		<title>Thursday Go Tygem: Game 07</title>
+		<link>/thursday-go-tygem-game-07/</link>
+		<comments>/thursday-go-tygem-game-07/#comments</comments>
+		<pubDate>Thu, 19 Jun 2014 11:15:45 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[opponent 1d]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[tygem]]></category>
+		<category><![CDATA[w+resign]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=5423</guid>
+		<description><![CDATA[Introduction After my third game in Yunguseng Dojang, I became a lot more comfortable playing White. Maybe it&#8217;s because I&#8217;ve started to really appreciate having komi. Either way, I&#8217;m glad to have broken away from my fear of playing White. This game was the first one I played after being dispelled of that anxiety of playing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>After my third game in Yunguseng Dojang, I became a lot more comfortable playing White. Maybe it&#8217;s because I&#8217;ve started to really appreciate having komi. Either way, I&#8217;m glad to have broken away from my fear of playing White.<br />
+This game was the first one I played after being dispelled of that anxiety of playing White. And believe it or not, it was actually a rather calm game where no dramatic battles of life and death occurred. See for yourself below!<br />
+
+<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.19-TGT-07.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.19-TGT-07.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.19-TGT-07.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Move 30</strong> &#8211; Using the knight’s move to gain sente from the 3-3 invasion was a big reason why I could get an advantage this game., Surprisingly I cannot find any fault with my opening. Please let me know if you spot something I missed!<br />
+2,Middle Game,&#8221;Overall it was quite peaceful and neither played created any big weak groups, but I managed to take more territory overall.&#8221;, N/A<br />
+3,Fighting,&#8221;To my surprise, there wasn’t much fighting in this game.”, N/A<br />
+4,Endgame,<strong>Move 164-175</strong> &#8211; I was proud to find this sequence that reduced a lot of Black’s points in sente., Hard to find any big flaws in my endgame. It seemed I was stronger than my opponent in this area.<br />
+5,Overall Reading,<strong>Move 100</strong> &#8211; Finding this preparatory move for the resulting sequence was a big step forward for me.,Move 52 &#8211; I completely missed the double atari when I played here. Shame on me.<br />
+6,Strategy,<strong>Move 78</strong> &#8211; Realizing that it would be difficult to continue severely attacking the Black group and simply cashing in on territory is a move I used to find it impossible to do.,&#8221;<strong>Move 52</strong> &#8211; Even if we assume this move works, there wasn’t much strategic value here since White did not have great potential in the center nor a weak group to attack.&#8221;<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-07/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5423</post-id>	</item>
+		<item>
+		<title>Thursday Go Tygem: Game 05</title>
+		<link>/thursday-go-tygem-game-05/</link>
+		<comments>/thursday-go-tygem-game-05/#comments</comments>
+		<pubDate>Thu, 05 Jun 2014 11:15:49 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[2d opponent]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[tygem]]></category>
+		<category><![CDATA[w+resign]]></category>
+		<category><![CDATA[win]]></category>
+
+		<guid isPermaLink="false">//?p=5345</guid>
+		<description><![CDATA[Introduction Before this game, I had been getting white in most of my even games and had trouble playing properly. Games were often very rushed and I could hardly play a good game as White. However, after listening to Inseong talk about his views on playing White, I gave it a lot of thought and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>Before this game, I had been getting white in most of my even games and had trouble playing properly. Games were often very rushed and I could hardly play a good game as White. However, after listening to Inseong talk about his views on playing White, I gave it a lot of thought and tried to get in a similar mindset.<br />
+This game is the first game that I felt successful when playing White. Not only was my game not rushed and ill-conceived, but I felt like I was able to maintain control for most of the game. Hopefully you&#8217;ll agree! Enjoy the game.<br />
+
+<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.05-TGT-05.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.05-TGT-05.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.05-TGT-05.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Move 20</strong> &#8211; I liked this extension in regards to the whole board since it seems like a proactive move., <strong>Move 9</strong> &#8211; I am unfamiliar with this position. Need to learn more about it in the future.<br />
+2,Middle Game, <strong>Move 44</strong> &#8211; The cap started a sequence that allowed me to take the initiative in the middle game.,<strong>Move 104</strong> &#8211; Bad move that could have cost me the game.<br />
+3,Fighting, <strong>Move 112</strong> &#8211; Ignoring Black to play here showed good fighting spirit., Can&#8217;t say that any of the fighting was bad for me this game. Correct me if I&#8217;m wrong though!<br />
+4,Endgame, Not Applicable, Not Applicable<br />
+5,Overall Reading, &#8220;<strong>Move 106</strong> &#8211; Though the reading is relatively simple, I was happy that I could read it out instantly with no doubt in my mind.&#8221;,<strong>Move 104</strong> &#8211; Worth mentioning twice. This was an overplay. I am lucky Black let me off the hook and made life instead.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-05/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5345</post-id>	</item>
+	</channel>
+</rss>

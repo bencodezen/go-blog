@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>new books &#8211; BenGoZen</title>
+	<atom:link href="/tag/new-books/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Influx</title>
+		<link>/book-influx/</link>
+		<comments>/book-influx/#comments</comments>
+		<pubDate>Wed, 26 Jun 2013 02:44:48 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[jump up]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[level up]]></category>
+		<category><![CDATA[new books]]></category>
+		<category><![CDATA[purchases]]></category>
+
+		<guid isPermaLink="false">//?p=3126</guid>
+		<description><![CDATA[If you&#8217;re wondering whether or not that&#8217;s my personal collection of Level Up/Jump Up books, it&#8217;s not. It&#8217;s just a sneak peak of the shipment that will be coming in the near future. xD That&#8217;s right&#8230; As if I didn&#8217;t have enough books to work on already, the chance to study Korean school texts firsthand [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/06/levelcollection.jpg"><img class="aligncenter  wp-image-3129" alt="levelcollection" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/06/levelcollection.jpg?resize=210%2C279" width="210" height="279" data-recalc-dims="1" /></a></p>
+<p>If you&#8217;re wondering whether or not that&#8217;s my personal collection of Level Up/Jump Up books, it&#8217;s not. It&#8217;s just a sneak peak of the shipment that will be coming in the near future. xD<br />
+That&#8217;s right&#8230; As if I didn&#8217;t have enough books to work on already, the chance to study Korean school texts firsthand was too much to resist. So you will be seeing firsthand as I work my way through the entire series what I think of the books and whether or not you should give it a shot.<br />
+Although this purchase would probably qualify enough for the blog post&#8217;s title, there was a go classified ad for books on sale and I ended up picking up a couple out of print books along with another Korean series called <em>Train Like a Pro</em>. (I know&#8230; what is wrong with me&#8230;)<br />
+My credit card might be slightly melted, but I hope it&#8217;ll forgive me because the rest of the year is looking awesome!</p>
+]]></content:encoded>
+			<wfw:commentRss>/book-influx/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3126</post-id>	</item>
+	</channel>
+</rss>

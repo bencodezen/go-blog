@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Books &#8211; BenGoZen</title>
+	<atom:link href="/category/reviews/books/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: The Road Map to Shodan, Volume 2</title>
+		<link>/book-review-road-map-shodan-volume-2/</link>
+		<comments>/book-review-road-map-shodan-volume-2/#comments</comments>
+		<pubDate>Sun, 19 Oct 2014 17:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[kiseido]]></category>
+		<category><![CDATA[middle game]]></category>
+		<category><![CDATA[opening]]></category>
+		<category><![CDATA[principles]]></category>
+		<category><![CDATA[richard bozulich]]></category>
+		<category><![CDATA[rob van zeijst]]></category>
+		<category><![CDATA[sabaki]]></category>
+
+		<guid isPermaLink="false">//?p=5887</guid>
+		<description><![CDATA[The Basic Principles of the Opening and the Middle Game Description: “In this book, 20 basic principles are presented. Each principle is accompanied by numerous examples and each section is followed by problems in which the application of these principles is required to solve them. The intuition of the novice player who studies the principles, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/10/roadmaptoshodanv2cover.jpg"><img class="aligncenter  wp-image-5888" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/10/roadmaptoshodanv2cover.jpg?resize=296%2C395" alt="roadmaptoshodanv2cover" width="296" height="395" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">The Basic Principles of the Opening and the Middle Game</h2>
+<p><strong>Description:</strong> “In this book, 20 basic principles are presented. Each principle is accompanied by numerous examples and each section is followed by problems in which the application of these principles is required to solve them. The intuition of the novice player who studies the principles, examples, and problems presented in this book will quickly rise to the level of an expert go player.”<br />
+<span id="more-5887"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, The Basic Principles of the Opening and the Middle Game<br />
+Series/Volume, The Road Map to Shodan (Vol. 2)<br />
+Author, Rob van Zeijst and Richard Bozulich<br />
+Publisher, Kiseido (LINK)<br />
+Published, “September 2014“<br />
+Language, English<br />
+ISBN, 978-4-906574-83-4<br />
+Length, 146 pages<br />
+Problems, 45 problems<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>Preface</li>
+<li>A Brief Glossary of Go Terms and Concepts</li>
+<li>Section I: Extensions and Efficiency
+<ol>
+<li>Principle 1A</li>
+<li>Principle 1B</li>
+<li>Principle 1C</li>
+<li>Principle 2</li>
+<li>Principle 3</li>
+<li>Problems 1 to 8</li>
+<li>Answers to Problems 1 to 8</li>
+</ol>
+</li>
+<li>Section II: Confinement, Linkage, and Separation
+<ol>
+<li>Principle 4A</li>
+<li>Principle 4B</li>
+<li>Principle 5</li>
+<li>Problems 9 to 14</li>
+<li>Answers to Problems 9 to 14</li>
+</ol>
+</li>
+<li>Section III: Weak Stones and Weak Positions
+<ol>
+<li>Principle 6A</li>
+<li>Principle 6B</li>
+<li>Principle 7A</li>
+<li>Principle 7B</li>
+<li>Principle 8</li>
+<li>Problems 15 to 22</li>
+<li>Answer to Problems 15 to 22</li>
+</ol>
+</li>
+<li>Section IV: Handling Moyos &amp; Escaping
+<ol>
+<li>Principle 9A</li>
+<li>Principle 9B</li>
+<li>Principle 10</li>
+<li>Problems 23 to 28</li>
+<li>Answers to Problems 23 to 28</li>
+</ol>
+</li>
+<li>Section V: Handling Thickness
+<ol>
+<li>Principle 11</li>
+<li>Principle 12</li>
+<li>Principle 13</li>
+<li>Principle 14</li>
+<li>Problems 29 to 32</li>
+<li>Answers to Problems 29 to 32</li>
+</ol>
+</li>
+<li>Section VI: The Third and Fourth Lines in the Opening &amp; Defending Against a 3-3 Invasion
+<ol>
+<li>Principle 15</li>
+<li>Principle 16</li>
+<li>Principle 17</li>
+<li>Principle 18</li>
+<li>Problems 33 to 38</li>
+<li>Answer to Problems 33 to 38</li>
+</ol>
+</li>
+<li>Section VII: Turning a Moyo into Territory
+<ol>
+<li>Principle 19</li>
+<li>Problems 39 to 40</li>
+<li>Answers to Problems 39 to 40</li>
+</ol>
+</li>
+<li>Section VIII: How to Make Sabaki
+<ol>
+<li>Principle 20</li>
+<li>Problems 41 to 45</li>
+<li>Answers to Problems 41 to 45</li>
+</ol>
+</li>
+</ol>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<h3>Introduction</h3>
+<p><em>The Basic Principles of the Opening and the Middle Game</em>, by Rob can Zeijst and Richard Bozulich, is the second volume to Kiseido’s new series: The Road Map to Shodan. Though the title might lead some astray, this book is not intended to be a definitive guide to all principles in regards to the opening and middle game. Instead, it would be more accurate to view the purpose of this book as a broad survey of common principles that beginner and intermediate players forget during their own games. And while some might write this book off as a simple marketing ploy, this book is truly a fantastic collection of principles that cover a wide range of material in an easy to understand manner.</p>
+<h3>Summary of Content</h3>
+<p>When first presented with the title, I must admit that I was initially skeptical of what it could contain. After all, I had already read 20 Principles of the Opening, Get Strong at the Opening, 501 Opening Problems, etc. To my delight, the content of the book exceeded my expectations. Just look at the topics covered: (1) Extensions and Efficiency, (2) Confinement, Linkage, and Separation, (3) Weak Stones and Weak Positions, (4) Handling Moyos &amp; Escaping, (5) Handling Thickness, (6) The Third and Fourth Lines in the Opening, (7) Defending Against a 3-3 Invasion, (8) Turning a Moyo into Territory, and (9) How to Make Sabaki.<br />
+While the topics do not receive a comprehensive explanation of each topic, the book does a great job providing a survey of the topic with the key points highlighted. After all, don’t forget that this series is meant to be a guide for those who are kyu players looking to gain strength. So the most effective method for helping players do that is to provide the most common mistakes that players make and how to fix them. More advanced techniques and principles would naturally be reserved for other books.<br />
+Unlike most of the other books I have read, this book does an excellent job of keeping things as simple as possible. For example, instead of inundating the reader with numerous of examples taken from professional games, the examples consist of straight-forward examples that are easy to follow. In addition, each principle is given a good mixture of examples and explanation. As a result, novice and/or more casual players would not be overwhelmed and can digest the material much more easily.</p>
+<h3>Intended Audience</h3>
+<p>The strength of players who would benefit most from this book would be around 10k and stronger.<br />
+While there are other books out there that contain similar information in various forms, this book is best suited for players who approach the study of go with a more casual approach.<br />
+In other words, the material is written in such a way that it is quite easy to get through and absorb without multiple intense readings. That’s not to say that you can read it once and be done with it, but it is not so dense that you would have to reread a paragraph multiple times just to understand its basic meaning (let alone trying to apply it in your own games). In addition, the diagrams are short enough that it is not necessary to have a board in order to comprehend the flow of the stones (though it is certainly recommended if you have it in front of you).</p>
+<h3>Layout</h3>
+<p>The content is laid out in a way that is analogous to a textbook. First you have a section explaining the principles that you should learn along with a few examples to illustrate their point. The explanations are then followed up with a few problems for you to reinforce what you have just learned. And to ensure that you don’t accidentally glance at the solutions while trying to solve the problems, they are kept in a separate section after the problems are presented.</p>
+<h3>Analysis and Evaluation</h3>
+<p>The key to understanding the brilliance of this book lies in its accessibility to players of all kinds. Even when I consider players like myself who have read numerous books and take the game quite seriously, there is something to be appreciated about the simplicity to which this book approaches the topic. And though my understanding of this topic most likely has already encroached on dan territory, I still felt that the book provided a great reinforcement of things I knew and helped fill some areas that I didn’t realize were missing.<br />
+In terms of shortcomings, there is only one aspect that I would have liked to have seen: more practice problems. While there are a handful of problems to review each section, there was more than one occasion where I would have liked just a few more problems. To be clear though, this is not to say that the problems in the book do not cover the topics presented. It’s just I would have liked a few more than what is in the book.</p>
+<h3>Conclusion</h3>
+<p>While there will be players who may scoff at this book, Kiseido has done a great job of finally providing a stepping stone that beginner and intermediate players can actually benefit from. So if you have any interest in the topics mentioned above and think you could benefit from the style of teaching being used, then I highly recommend that you get a copy of this book pronto!<br />
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ul>
+<li><a title="Kiseido Go Shop" href="http://kiseido.com/go_books.htm">Kiseido</a> &#8211; $21 (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>Volume 1: Handicap-Go Strategy and the Sanrensei Opening (Making the Transition from Handicap to Even Games)</li>
+<li><strong>Volume 2: The Basic Principles of the Opening and the Middle Game</strong></li>
+<li>Volume 3: The Basic LIfe and Death Positions</li>
+<li>Volume 4: A Survey of the Basic Tesujis</li>
+<li>Volume 5: All About the Endgame</li>
+<li>Volume 6: Sabaki: The Art of Settling Groups and Making Good Shape</li>
+<li>Volume 7: Attacking Weak Groups</li>
+<li>Volume 8: The Chinese and Mini-Chinese Openings</li>
+<li>Volume 9: The Kobayashi Opening</li>
+<li>Volume 10: Tasuki Openings</li>
+<li>Volume 11: Parallel Openigs</li>
+<li>Volume 12: The Shusaku Opening</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on October 19th, 2014</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-road-map-shodan-volume-2/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5887</post-id>	</item>
+		<item>
+		<title>Book Review: Graded Go Problems for Dan Players &#8211; Vol. 1</title>
+		<link>/book-review-graded-go-problems-dan-players-vol-1/</link>
+		<pubDate>Sun, 02 Mar 2014 12:15:22 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[collection]]></category>
+		<category><![CDATA[dan]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[kiseido]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[reading]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=4735</guid>
+		<description><![CDATA[Graded Go Problems for Dan Players: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan) Description: This is the first volume of the continuing series to the popular &#8220;Graded Go Problems for Beginners.&#8221; This first book is focused on providing life-and-death techniques that are foundational to developing stronger reading abilities as players try to climb [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/ggpdpv1cover.jpg"><img class="aligncenter  wp-image-4736" alt="ggpdpv1cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/ggpdpv1cover.jpg?resize=288%2C373" width="288" height="373" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Graded Go Problems for Dan Players: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan)</h2>
+<p><strong>Description:</strong> This is the first volume of the continuing series to the popular &#8220;Graded Go Problems for Beginners.&#8221; This first book is focused on providing life-and-death techniques that are foundational to developing stronger reading abilities as players try to climb their way into dan status.<br />
+<span id="more-4735"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, GGPDP: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan)<br />
+Series, Graded Go Problems for Dan Players (GGPDP)<br />
+Compiled by, Masaru Aoki and Hirokazu Sato<br />
+Translator, Richard Bozulich<br />
+Publisher, <a href="http://www.kiseido.com/">Kiseido</a><br />
+Published, &#8220;November 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-4-906574-61-2<br />
+Length, 232 pages<br />
+Problems, 300 problems<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Translator&#8217;s Preface</li>
+<li>Glossary of Go Terms Used in this Book</li>
+<li>300 Life and Death Problems (#1-300)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+As an enthusiast of the &#8220;Graded Go Problems for Beginners&#8221; series, I have to say that I was ecstatic when I heard about this series. After all, every kyu player dreams of making it to the big dan league and being able to solve &#8220;dan level&#8221; problems. And even though I got myself a copy of this book quite a while ago, this book seemed quite daunting to me for some time due to the fact that I just felt I wasn&#8217;t ready for &#8220;dan&#8221; problems. Anyhow, I&#8217;m glad I finally got around to reading it so that you can hear my thoughts on the book itself.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+Perhaps my favorite aspect about the entire &#8220;Graded Go Problems&#8221; series as a whole is the extremely clean format. For those who don&#8217;t know what I&#8217;m talking about, every page that contains the problems is divided into four clean and even rectangles. Secondly, the numbering, diagram, directions, and even hints are all in universal places so that once you get exposed to the format, you&#8217;ll never wonder where to look next. And last but not least, the solutions are never exposed on the same page (aka you can&#8217;t see the solution as you&#8217;re trying to solve the problem). And thankfully, Graded Go Problems for Dan Players continues that tradition.<br />
+One of the new things I noticed with this series is that they added an actual rank estimation for the problem difficulty. So a few examples of this might include: &#8220;Solve at a glance = 4-kyu, Solve within five minutes = 3-dan, etc.&#8221; While this is rather neat since you feel a sense of accomplishment if you&#8217;re able to solve it within the allotted time-frame, it&#8217;s important to realize that these rank estimations are a bit arbitrary. Just because you&#8217;re able to solve a few dan level problems at a glance does not necessarily mean you are &#8220;dan&#8221; level (whether it&#8217;s reading ability or playing ability). If you&#8217;re able to solve the whole book at a glance though, then it goes without saying you are way stronger than a dan player. xD<br />
+When it comes to the solutions, they have a set standard format for how solutions are displayed and approached. In terms of basic format, every problem gets three solution diagrams. This generally includes the correct variation, an alternate variation / continuation of the correct variation, and an incorrect variation. In addition, there is usually at least a sentence to two explaining each of the variations in order to help the reader understand what&#8217;s going on.<br />
+If there were to be any complaint about this series, it would probably be that the problems are not segmented into different techniques. However, I would remind the reader that the purpose of this series is to provide a collection of high-quality problems. As a result, the problems would be an assortment of different problems as opposed to a hierarchy of problems broken down by techniques. If you&#8217;re looking for problems categorized in such a fashion, you might benefit from checking out the Level Up Series along with Life and Death Problems 1 Basics by Robert Jasiek.<br />
+Overall, I think that this series is destined for the same greatness as the &#8220;Graded for Go Problems for Beginners&#8221; when it comes to high quality problems that are displayed in an easy to read format. Definitely a must-have for any player serious about practicing their reading and looking for ways to keep honing their ability. Highly recommended!<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Continues to provide the easy to read format you come to love from &#8220;Graded Go Problems for Beginners.&#8221;</li>
+<li>Attempts to provide accurate rank difficulty estimations for problems through the time it takes to solve it.</li>
+<li>Lots of high-quality problems that you can rely on without worrying about a mistake in the solution.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Exposure to a lot of new techniques or moves I would have never considered when solving life and death.</li>
+<li>Reassurance that my reading abilities have been improving.</li>
+<li>Realization that I still had a ways to go before I could consider myself having &#8220;dan-level&#8221; reading.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>You get a set of problems and then when you turn the page you get the respective solutions (so that they are not within the same reading area). Very easy to follow and read.</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>Nothing. I really think this book is perfect as it stands.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Absolutely. Very clear and concise.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Great problem set for players 5 kyu and stronger.</li>
+<li>Continues to uphold the quality and ease of reading you come to expect from the &#8220;Graded Go Problems&#8221; series.</li>
+<li>Highly recommended for anyone looking to take the next steps to raising their reading ability to &#8220;dan&#8221; level!</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players 5-kyu and stronger.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm#K15">$25</a> (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>GGPDP &#8211; Volume One: 300 Life-and-Death Problems (5-kyu to 3-dan)</li>
+<li>GGPDP &#8211; Volume Two: 300 Tesuji Problems (5-kyu to 3-dan)</li>
+<li>GGPDP &#8211; Volume Three: 300 Joseki Problems (1-dan to 3-dan)</li>
+<li>GGPDP &#8211; Volume Four: 300 Life-and-Death Problems (4-dan to 7-dan)</li>
+<li>GGPDP &#8211; Volume Five: 300 Tesuji Problems (4-dan to 7-dan)</li>
+<li>GGPDP &#8211; Volume Six: Joseki Problems (TBD)</li>
+<li>GGPDP &#8211; Volume Seven: 256 Opening and Middle Game Problems (1-dan to 7-dan)</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on March 2nd, 2014</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4735</post-id>	</item>
+		<item>
+		<title>Book Review &#8211; Fighting Fundamentals</title>
+		<link>/book-review-fighting-fundamentals/</link>
+		<comments>/book-review-fighting-fundamentals/#comments</comments>
+		<pubDate>Thu, 20 Feb 2014 14:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[fighting]]></category>
+		<category><![CDATA[fundamental]]></category>
+		<category><![CDATA[jasiek]]></category>
+		<category><![CDATA[textbook]]></category>
+
+		<guid isPermaLink="false">//?p=4665</guid>
+		<description><![CDATA[Fighting Fundamentals Description: When it comes to fighting, many players are often confused with the principles behind fighting. In this book, Jasiek tries to answer all the essential questions about fighting. This book covers a wide array of material that is more suited for the very studious players. [expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;] [table] Title, Fighting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/Fighting_Fundamentals_Cover.png"><img class="aligncenter  wp-image-4676" alt="Fighting_Fundamentals_Cover" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/Fighting_Fundamentals_Cover.png?resize=284%2C402" width="284" height="402" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Fighting Fundamentals</h2>
+<p><strong>Description:</strong> When it comes to fighting, many players are often confused with the principles behind fighting. In this book, Jasiek tries to answer all the essential questions about fighting. This book covers a wide array of material that is more suited for the very studious players.<br />
+<span id="more-4665"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Fighting Fundamentals<br />
+Author, Robert Jasiek<br />
+Publisher, Robert Jasiek<br />
+Published, &#8220;May 27th, 2013&#8243;<br />
+Language, English<br />
+Length, 256 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Chapter 1 &#8211; Introduction</li>
+<li>Chapter 2 &#8211; Basics
+<ul>
+<li>The Most Basic Terms and Ideas</li>
+<li>Important and Valuable</li>
+<li>Life and Death</li>
+<li>Stability</li>
+<li>Thickness and Influence</li>
+<li>Aji</li>
+</ul>
+</li>
+<li>Chapter 3 &#8211; Types of Fights
+<ul>
+<li>Problems</li>
+<li>Mutual Settling Fight</li>
+<li>Reduction</li>
+<li>Mutual Reduction Fight</li>
+<li>Invasion</li>
+<li>Attack on One Group</li>
+<li>Splitting Attack</li>
+<li>Multiple Groups Fight</li>
+<li>Mutual Running Fight</li>
+<li>Cutting Fight</li>
+<li>Leaning Attack</li>
+<li>Exchange</li>
+<li>Capturing Race</li>
+<li>Complex Fight</li>
+<li>Answers</li>
+</ul>
+</li>
+<li>Chapter 4 &#8211; Primary Aims
+<ul>
+<li>Problems</li>
+<li>Defended Life</li>
+<li>Capture versus Sacrifice and Exchange</li>
+<li>Threatened versus Prevented Capture of a Group</li>
+<li>Threatened versus Prevented Capture of Part of a Group</li>
+<li>Threatened versus Defended Stability</li>
+<li>Offering a Strategic Choice</li>
+</ul>
+</li>
+<li>Chapter 5 &#8211; Secondary Aims
+<ul>
+<li>Territory
+<ul>
+<li>Making Territory</li>
+<li>Shifting the Territory Balance</li>
+<li>Strengthening One&#8217;s Own Territory</li>
+<li>Preventing Opposing Territory</li>
+</ul>
+</li>
+<li>Influence
+<ul>
+<li>Making Influence</li>
+<li>Strengthening One&#8217;s Own Influence</li>
+<li>Preventing or Restricting Opposing Influence</li>
+</ul>
+</li>
+<li>Aji
+<ul>
+<li>Exploiting Aji</li>
+<li>Creating Aji</li>
+<li>Eliminating Aji</li>
+</ul>
+</li>
+<li>Playing Elsewhere</li>
+<li>Answer</li>
+</ul>
+</li>
+<li>Chapter 6 &#8211; Fighting Techniques and Moves
+<ul>
+<li>Problems</li>
+<li>Reading</li>
+<li>interruption</li>
+<li>Attacking Life
+<ul>
+<li>Capturing</li>
+<li>Cut</li>
+<li>Blocking Directions</li>
+<li>Attacking Eyespace</li>
+<li>Maintaining Connection and Life</li>
+<li>Flexibility</li>
+<li>Severity</li>
+</ul>
+</li>
+<li>Defending Life
+<ul>
+<li>Simplicity</li>
+<li>Maintaining Connection</li>
+<li>Connection to Another Group</li>
+<li>Improving Eyespace</li>
+<li>Running</li>
+<li>Capturing</li>
+<li>Options</li>
+<li>Contact Plays</li>
+<li>Flexibility</li>
+<li>Efficiency</li>
+</ul>
+</li>
+<li>Forcing
+<ul>
+<li>The Attacker&#8217;s Forcing</li>
+<li>The Defender&#8217;s Forcing</li>
+<li>Combining Attack and Defense</li>
+<li>Resistance</li>
+</ul>
+</li>
+<li>Timing</li>
+<li>Sacrifice</li>
+<li>Answers</li>
+</ul>
+</li>
+<li>Chapter 7 &#8211; Strategy
+<ul>
+<li>Problems</li>
+<li>About What and Where to Fight</li>
+<li>General Fighting Strategy</li>
+<li>Reduction and Invasion</li>
+<li>Answers</li>
+</ul>
+</li>
+<li>Chapter 8 &#8211; Index</li>
+</ul>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+Like many other players, when I first saw the title of this book, I wanted to get my hands on it as soon as I possibly could. However, while the idea of having all of the &#8220;fighting fundamentals&#8221; covered in a single book sounds enticing and attractive, there is way more than meets the eye.<br />
+In order to understand my review on the book and how it relates to you, it is critical to first emphasize the following: fighting is a complicated topic. And when I say complicated, I mean it is probably by far the most complex and intricate of all the topics in go. Other things in go like joseki and fuseki can be explained rather simply with relative ease. Fighting, however, is a far more difficult animal to tackle. As a result, the thing I want you to realize from the get go is that fighting in go does not fit into easy principles like &#8220;approach from the wider side&#8221; the way you want it to.<br />
+Secondly, I want to clearly state that my learning style is perhaps different than the average go player. If I were to use the analogy of a bird learning how to fly, I would have to say that there are a number of people out there who would learn flying methodically. In other words, they might learn to flap their wings first, and then maybe learn about air currents and how they impact flight patterns, etc. However, I am more of the jump out of the nest and learn to fly on the way down kind of person. I prefer experience and practical application over deep theories that require significant time of study.<br />
+With that said, Jasiek has done a great job in producing the first English go book to really try and approach this monstrosity of a topic. As you can see from the table of contents, there are so many different aspects of fighting that Jasiek covers. And to be honest, I wouldn&#8217;t be surprised if there were a lot more that could be written on. However, as far as my personal experience goes, I have to say that working through the book felt a lot like the time I took organic chemistry in college.<br />
+What do I mean by that? Well, at the very fundamental level, I accepted and understood the basic logic behind what was being taught. There were rules and general principles that applied to why things worked the way they did. Before I knew it though, I was drowning in a sea of different theories, terms and intricacies that overwhelmed my brain and it didn&#8217;t take long before I started losing interest. &#8220;If you attack here, you must keep in mind of X; but also realize that Y might impact Z in a way that implicates the life of X and Y.&#8221; *dizzy*<br />
+The thing to realize is this: fighting is complicated. And while Jasiek has done a great job trying to organize it into different sections and try to break everything down into principles, it doesn&#8217;t change the fact that fighting is a multi-faceted skill that will not improve simply because you read a book. There are so many aspects that go into it: your reading ability, your positional judgment ability, your life and death, etc. So unless those are up to par, fighting will still seem like a chaotic whirlwind that you won&#8217;t be able to make much sense of.<br />
+At the end of the day, while I personally had a difficult time absorbing the material in the book, this book is truly a milestone for Western go literature in its effort to pioneer a way for us to learn about fighting. And to be honest, I think that I might just be a weird outlier who doesn&#8217;t have the diligence or tenacity to absorb the material. So if even a small part of you believes that you have the personality and learning style suited to benefiting from this book, then I would disregard my experience of the book and recommend you get it whenever possible.<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>There are lots of examples throughout the book.</li>
+<li>Utilizes typographic elements like bullet points and bold to emphasize its points.</li>
+<li>A very thorough breakdown of topics that fit together well logistically.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Realization that I am a far cry from being able to truly grasp and apply the material in the book.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>Textbook. Concepts are introduced and are accompanied by numerous examples along with a few practice problems at the end of each section as well.</li>
+</ul>
+<p><strong>What aspects can be improved on?</strong></p>
+<ul>
+<li>I am only commenting on this from a weak amateur perspective, but the information was very difficult to process as a whole for myself. And to be fair, I recognize that this book is an important step to creating a more &#8220;user-friendly&#8221; version of teaching fighting principles, but overall I had a harder time working through and learning with this book due to my learning style.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>There is so much information in this book that it is not easy to gloss through at all. It definitely reads more like an academic textbook that requires slow and deliberate reading. Almost as if you were taking a course and you were trying to memorize all the different theories and how they fit together.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>A great first milestone for Western literature on the topic of fighting.</li>
+<li>Suited for players who are very studious and enjoy learning through an intricate textbook.</li>
+<li>Not recommended for players looking to get a light overview of fighting.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players interested in a methodical and textbook approach to the study of fighting.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ul>
+<li>Robert Jasiek (Printed) &#8211; <a href="http://home.snafu.de/jasiek/PositionalJudgement.html">EUR 26.50 (shipping and handling not included)</a></li>
+<li>Robert Jasiek (e-Book) &#8211; <a href="http://home.snafu.de/jasiek/PositionalJudgement.html">EUR 13.25</a></li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on February 20th, 2014</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-fighting-fundamentals/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4665</post-id>	</item>
+		<item>
+		<title>Book Review: Positional Judgement 1 &#8211; Territory</title>
+		<link>/book-review-positional-judgement-1-territory/</link>
+		<comments>/book-review-positional-judgement-1-territory/#comments</comments>
+		<pubDate>Fri, 03 Jan 2014 03:25:22 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[estimating]]></category>
+		<category><![CDATA[jasiek]]></category>
+		<category><![CDATA[positional judgment]]></category>
+		<category><![CDATA[score]]></category>
+
+		<guid isPermaLink="false">//?p=4429</guid>
+		<description><![CDATA[Positional Judgement 1: Territory Description: Ever wonder how players manage to estimate territory? And with terrifying accuracy? Well look no farther, with the first volume of Jasiek&#8217;s Positional Judgment, you can get an inside look at the inner workings of how players make these accurate estimations. It&#8217;s filled with numerous examples for you to practice, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/01/PositionalJudgement_1_Cover_small.png"><img class="aligncenter  wp-image-4430" alt="PositionalJudgement_1_Cover_small" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/01/PositionalJudgement_1_Cover_small.png?resize=317%2C450" width="317" height="450" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Positional Judgement 1: Territory</h2>
+<p><strong>Description:</strong> Ever wonder how players manage to estimate territory? And with terrifying accuracy? Well look no farther, with the first volume of Jasiek&#8217;s Positional Judgment, you can get an inside look at the inner workings of how players make these accurate estimations. It&#8217;s filled with numerous examples for you to practice, but be wary, this is definitely not for the light hearted! On the other hand, rest assured that you will be significantly stronger at positional judgment than most players out there if you can master the material in here.<br />
+<span id="more-4429"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Positional Judgement 1: Territory<br />
+Author, Robert Jasiek<br />
+Publisher, Robert Jasiek<br />
+Published, &#8220;January 12, 2013&#8243;<br />
+Language, English<br />
+Length, 272 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Chapter 1 &#8211; Introduction
+<ul>
+<li>General</li>
+<li>Overview</li>
+<li>Terms</li>
+<li>Acknowledgements and Technical Remarks</li>
+</ul>
+</li>
+<li>Groups</li>
+<li>Regions</li>
+<li>Territory
+<ul>
+<li>Current Territory</li>
+<li>Nature of Reduction Sequences</li>
+<li>Remaining Boundary Defense Moves</li>
+<li>Remaining Gote Endgames</li>
+<li>Remaining Basic Endgame Kos</li>
+<li>Privileges</li>
+<li>Stability</li>
+<li>Peaceful Reduction</li>
+<li>Quiescence</li>
+<li>Territory Count</li>
+<li>Fighting Positions</li>
+<li>Moyos</li>
+<li>Prisoners</li>
+<li>Middle Game Kos</li>
+<li>Updating Counts</li>
+<li>Convenient Counting</li>
+<li>Area Count</li>
+</ul>
+</li>
+<li>Strategy</li>
+<li>Index</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+I&#8217;ve been told countless times that I need to be better of positional Judgment. Before this book, the only other book on this topic (in English) was Positional Judgment by Cho Chikun. So when I got the opportunity to review the book, I jumped at the opportunity since I still don&#8217;t feel terribly confident about my abilities to make position judgments.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+When I first started reading this book, the first thing I noticed is that the layout of the book is very clean. Examples of this include shorter paragraphs, proper spacing between paragraphs, proper usage of bullet points and numbered lists, using bold appropriately, etc. And though this might seem like completely irrelevant, but I personally believe that poor book layouts make it difficult for the reader to read and learn the material properly. And since go literature is still maturing, it was great to see Jasiek&#8217;s books taking a step forward in the right direction.<br />
+The second thing that I couldn&#8217;t help but notice is the countless examples that Jasiek uses in this book. This is a welcome change to books that consist of lots of texts and explanation for a few diagrams because weaker amateur players like myself benefit more from increased exposure as opposed to one extremely detailed and high level analysis. And though I would have liked to have seen more examples that utilized smaller boards to acclimate the reader to the material, the examples are great and will provide plenty of material for the studious reader.<br />
+Now of course, there is the question of how the content is. I have two words for it: extremely thorough. I&#8217;m talking textbook thorough. I mean if you just look at the table of contents above, you&#8217;ll notice how Jasiek breaks up positional judgment into different categories. In addition, there are even mathematical arguments for things like why basic endgame kos are worth 1/3 point. This is great because you can always be sure that Jasiek will back up his statements with evidence and proof. And though this might be a little overwhelming for players like me who are nervous about positional judgment, this gives the reader the opportunity to come back later and gain a more in-depth understanding of calculating territory if desired.<br />
+In addition, I would have to say that Jasiek does a good job mixing in some theory and new terms on the topic of positional judgment. For example, one of the innovative concepts that I found rather simple and profound is that positional judgment relies on peaceful reductions from the outside as opposed to complicated fighting variations. And in terms of new terminology, Jasiek introduces the term &#8220;quiescence&#8221; to try and further explain concepts within positional judgment.<br />
+As a general overview of the book, I would have to say it is incredibly comprehensive and thorough on the topic of positional judgment. It is incredibly in-depth and detailed in regards to its explanations of specific topics and can be rather advanced if the reader is looking for a broad overview of positional judgment. So while any person who reads and fully masters the content in this book would become VERY good at positional judgment, it can be a bit scary for players looking to casually learn about the topic.<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Effectively utilizes page layout and text elements to deliver his message.</li>
+<li>It is extremely detailed and uses a methodical and precise approach to show how Jasiek calculates territory.</li>
+<li>There are so many examples! Examples galore!</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Introduction to new terms and ideas regarding positional judgment.</li>
+<li>Better understanding of how strong players arrive at their positional judgments.</li>
+<li>More confidence in my ability to count, while knowing I have a long way to go.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>Textbook. Concepts are introduced and are accompanied by numerous examples along with a few practice problems at the end of each section as well.</li>
+</ul>
+<p><strong>What aspects can be improved on?</strong></p>
+<ul>
+<li>There were momentary lapses when I thought the grammatical structure/syntax was a little off, but this might be due to the fact that I come from &#8220;American English.&#8221;</li>
+<li>Perhaps this is a chronic issue I have, but I would have liked to have seen more introductory level problems to acclimate players who are not accustomed to judging 19&#215;19 board positions.</li>
+<li>This may be personal taste, but I would have preferred to see the game information for all the diagrams be placed in a Reference section instead since it makes the problem a bit cluttered and hard to find the pertinent information to the reader (i.e., Black to play).</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>This book contains a wealth of information and is probably appropriately seen as a textbook. As a result, don&#8217;t expect it to flow like a conversation or a casual lecture from Kageyama and such. It takes time to read and digest. In fact, I will need to go through this book multiple times before I can say I feel I know the material well.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>An incredible step forward for the English go literature community on positional judgment.</li>
+<li>The most methodical and detailed book on positional judgment that I&#8217;ve read thus far.</li>
+<li>Totally worth every penny if you&#8217;re interested in gaining an in-depth understanding of how positional judgment works.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players interested in an in-depth and thorough study of positional judgment.</li>
+<li>Anyone interested in a textbook on the inner workings of positional judgment that is filled with numerous examples.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ul>
+<li>Robert Jasiek (Printed) &#8211; <a href="http://home.snafu.de/jasiek/PositionalJudgement.html">EUR 26.50 (shipping and handling not included)</a></li>
+<li>Robert Jasiek (e-Book) &#8211; <a href="http://home.snafu.de/jasiek/PositionalJudgement.html">EUR 13.25</a></li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on January 2nd, 2014</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-positional-judgement-1-territory/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4429</post-id>	</item>
+		<item>
+		<title>Book Review: The Fighting Styles of Kato Masao and Seo Bong Soo</title>
+		<link>/book-review-fighting-styles-kato-masao-seo-bong-soo/</link>
+		<comments>/book-review-fighting-styles-kato-masao-seo-bong-soo/#comments</comments>
+		<pubDate>Sat, 16 Nov 2013 13:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[attacking]]></category>
+		<category><![CDATA[defense]]></category>
+		<category><![CDATA[fighting]]></category>
+		<category><![CDATA[fighting style]]></category>
+		<category><![CDATA[kato masao]]></category>
+		<category><![CDATA[killer]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[seo bong soo]]></category>
+
+		<guid isPermaLink="false">//?p=4301</guid>
+		<description><![CDATA[Master Play: The Fighting Styles of Kato Masao &#38; Seo Bong Soo Description: In this X volume of the Master Play series, Yuan Zhou does a magnificent job taking amateur players through what is actually considered &#8220;fighting style&#8221; in the professional world of go. Due to the chaotic nature that go can take in crazy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/11/MasterPlay-fighting.jpg"><img class="aligncenter size-full wp-image-4302" alt="MasterPlay fighting" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/11/MasterPlay-fighting.jpg?resize=288%2C419" width="288" height="419" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Master Play: The Fighting Styles of Kato Masao &amp; Seo Bong Soo</h2>
+<p><strong>Description:</strong> In this X volume of the Master Play series, Yuan Zhou does a magnificent job taking amateur players through what is actually considered &#8220;fighting style&#8221; in the professional world of go. Due to the chaotic nature that go can take in crazy cross-cuts and blown out battles, it is no surprise that many kyu players might consider themselves &#8220;fighters,&#8221; but once you read this book, it might open to your eyes as to what fighting really means.<br />
+<span id="more-4301"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, The Fighting Styles of Kato Masao &amp; Seo Bong Soo<br />
+Series, Master Play Series<br />
+Author, Yuan Zhou<br />
+Publisher, Slate &amp; Shell<br />
+Published, &#8220;2009&#8221;<br />
+Language, English<br />
+ISBN, 1-932001-45-X<br />
+Length, 484 (iPhone) Pages (Smartbook Version)<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Introduction</li>
+<li>A Brief Biography of Kato Masao</li>
+<li>Kato&#8217;s Big Breakthrough</li>
+<li>Kato at Full Strength</li>
+<li>A Brief Biography of Seo Bong Soo</li>
+<li>Seo Becomes a World Champion</li>
+<li>Seo Stops Another Top Japanese Pro</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+Like many kyu players out there, I always considered myself to have a &#8220;fighting style.&#8221; After all, my games consisted primarily of big battles and trying to kill things. If that&#8217;s not fighting, what is right? Well I wanted to find out for myself whether I could see my go in famous professional players actually known for their fighting. So as I&#8217;m in a bit of a haze in my journey at the moment, it wasn&#8217;t long before I found myself purchasing this book to try and shed some light on my own style.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+Similar to the previous volumes I read (Master Play: The Style of Lee Changho and The Style of Go Seigen), Yuan Zhou began each section with a brief introduction to the player&#8217;s background. Being as I am still quite unfamiliar with the professional go scene, it was very entertaining while very informative. Without the introductions, I imagine that the game review would not have been nearly as enjoyable.<br />
+In this volume, Zhou reviews two monumental games from each players&#8217; career. With each one, the diagrams are usually quite short and the accompanying explanations really helped me to follow the games without much issue. It definitely feels like the explanations were written with kyu amateur players in mind.<br />
+It was just utterly astounding seeing how these infamous &#8220;fighters&#8221; actually played.<br />
+Yet again, Yuan Zhou does not fail to amaze me with how he is able to explain what is going on in the board.<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Focused on a topic of great interest to me: fighting.</li>
+<li>Did a great job showing what &#8220;fighting&#8221; looks like at the professional level.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Realization that &#8220;fighting style&#8221; is actually different from what I thought.</li>
+<li>Better understanding of what fighting is.</li>
+<li>Greater appreciation for Kato Masao and Seo Bong Soo.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>Standard game review structure: Game Sequence &#8211;&gt; Explanation &#8211;&gt; Variations &#8211;&gt; Explanations &#8211;&gt; Repeat.</li>
+</ul>
+<p><strong>What aspect(s) can be improved on?</strong></p>
+<ul>
+<li>No complaints here.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. The diagrams are short and the accompanying explanations are easy to understand.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Games and explanations are not overbearing and relatively easy to follow.</li>
+<li>Really helped to start shedding light on what &#8220;fighting style&#8221; really is.</li>
+<li>Highly recommended for anyone interested in seeing professional level &#8220;fighting style.&#8221;</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Kyu players interested in seeing great examples for actual &#8220;fighting style.&#8221;</li>
+<li>Players who are fans of either Kato Masao and Seo Bong Soo and would love to learn more about them.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Slate &amp; Shell &#8211; <a title="Slate and Shell Book" href="http://www.slateandshell.com/SSYZ008.html">$17.50</a> USD</li>
+<li>SmartGo Books &#8211; <a title="SmartGo Books" href="http://gobooks.com/books.html">$6.99</a> USD (e-Book)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: Master Play — The Style of Lee Changho" href="//book-review-master-play-style-lee-changho/">Master Play: The Style of Lee Changho</a></li>
+<li><a title="Book Review: Master Play — The Style of Go Seigen" href="//book-review-master-play-style-go-seigen/">Master Play: The Style of Go Seigen</a></li>
+<li>Master Play: The Style of Takemiya</li>
+<li>Master Play: The Fighting Styles of Kato Masao &amp; Seo Bong Soo</li>
+<li>Master Play: The Territorial Styles of Kitani Minoru &amp; Cho Chikun</li>
+<li>Master Play: the Playing Style of Seven Top Pros</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on November 16th, 2013.</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-fighting-styles-kato-masao-seo-bong-soo/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4301</post-id>	</item>
+		<item>
+		<title>Book Review: Basic Techniques of Go</title>
+		<link>/book-review-basic-techniques-go/</link>
+		<comments>/book-review-basic-techniques-go/#comments</comments>
+		<pubDate>Sun, 03 Nov 2013 23:35:07 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[endgame]]></category>
+		<category><![CDATA[handicap go]]></category>
+		<category><![CDATA[opening]]></category>
+		<category><![CDATA[tesuji]]></category>
+
+		<guid isPermaLink="false">//?p=4253</guid>
+		<description><![CDATA[Basic Techniques of Go Description: This book can be considered a broad coverage of the following: opening principles, lots of handicap go advice, brief survey of tesujis, and a brief survey of endgame. The material is quite dense and contrary to what many descriptions say about this book, I vehemently disagree with the recommending this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/basictechniquesofgocover.jpg"><img class="aligncenter  wp-image-4254" alt="basictechniquesofgocover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/basictechniquesofgocover.jpg?resize=288%2C407" width="288" height="407" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Basic Techniques of Go</h2>
+<p><strong>Description:</strong> This book can be considered a broad coverage of the following: opening principles, lots of handicap go advice, brief survey of tesujis, and a brief survey of endgame. The material is quite dense and contrary to what many descriptions say about this book, I vehemently disagree with the recommending this book for beginners. It is suited for intermediate to advanced players. Beginners steer clear of this book!<br />
+<span id="more-4253"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Basic Techniques of Go<br />
+Author, Haruyama Isamu 9P and Nagahara Yoshiaki 6P<br />
+Edited by, Richard Bozulich<br />
+Publisher, Kiseido<br />
+Published, &#8220;First Printing, Feb. 1969 | Tenth Printing, Nov. 2002&#8243;<br />
+Language, English<br />
+ISBN, 4-906574-02-5<br />
+Length, 172 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Preface to the Third Edition</li>
+<li>Technial Terms</li>
+<li>Chapter One
+<ul>
+<li>Principles of Even-Game Openings
+<ul>
+<li>Opening Moves</li>
+<li>Corner Enclosures</li>
+<li>Approach Moves</li>
+<li>Proper Timing of Enclosures, Approach Moves, and Extensions</li>
+</ul>
+</li>
+<li>How to Play Handicap Go</li>
+</ul>
+</li>
+<li>Chapter Two
+<ul>
+<li>The Nine-Stone Handicap and the Attach-and-Extend Joseki</li>
+</ul>
+</li>
+<li>Chapter Three
+<ul>
+<li>Six Stone Handicap Opening Strategy
+<ul>
+<li>White&#8217;s Capping Strategy</li>
+<li>Invading the Sides</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Chapter Four
+<ul>
+<li>Four-Stone Handicap and the One-Space Jump Joseki</li>
+<li>The One-Space Jump in Four-Stone Handicap Openings
+<ul>
+<li>The Pincer</li>
+<li>Double Approach Moves</li>
+<li>Double Pincer</li>
+<li>The Attachment</li>
+<li>Capping</li>
+<li>The Invasion</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Chapter Five
+<ul>
+<li>A Survey of Tesuji
+<ul>
+<li>Tesuji Problems</li>
+<li>Answer to the Tesuji Problems</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Chapter Six
+<ul>
+<li>The Endgame
+<ul>
+<li>Counting the Size of a Territory</li>
+<li>Sente Endgame</li>
+<li>Coutning the Size of an Endgame Play</li>
+<li>Endgame Tesujis</li>
+<li>Endgame Problems</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Appendix</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+I bought this book way back when I started go. I felt like I was completely lost when I first tried to read it, so here I am a couple years later trying to read it once more. What I was expecting when I bought it was a book on a broad coverage of techniques one would find with go. Now that I am much stronger and more experienced, I am still hoping for a survey of techniques along with clarification on their usage.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+When I first opened this book, I was a little surprised to be greeted by a chapter on opening theory. After all, this is a book on technique is it not? I recognize that selecting the correct opening move is a &#8220;technique&#8221; in a sense, but in my mind I was thinking more along the lines of haengma (i.e., the movement of the stones) or something else.<br />
+With that aside though, the first chapter does cover quite a bit regarding the opening. While this is good in one sense, I still found it to be a bit dense and cannot imagine any beginner trying to work through this and achieve much success.<br />
+And the next thing I know, the book is going full blown into handicap go coverage. All I could think when I kept reading was, &#8220;EH?!&#8221; I understand that these handicap go principles and techniques being described might seem &#8220;basic,&#8221; but even as a single digit kyu, even I was raising my eyebrows as I was trying to figure out what was going on. The diagrams were often rather complicated and required multiple readings just to get a sense of what was going on. After you work through a rather substantial amount of handicap go material, you finally get to the tesuji section.<br />
+Here, I finally got a sense of what I was hoping for. A broad survey of different techniques used in different situations. With each tesuji, there is a brief explanation along with an example and an obvious variation or two that players might question. So while some of the material in here was a bit advanced and hard to grasp based on simple reading, this felt more like the book I was looking for when purchasing this book. And for those wondering about the problems, they are overall intermediate level and not very beginner friendly.<br />
+For the last chapter, the reader is introduced to the importance of endgame. And while I would consider myself to at least be moderately versed when it comes to endgame, this was a rather tough section for me to work through. I can only imagine what it would be like for someone who had little to no exposure on endgame. Definitely not an easy chapter at all.<br />
+Overall, I would divide the book into the following categories: 10% Opening Principles, 40% Handicap Go, 30% Tesuji, and 20% Endgame. And as such, I find that it is not quite aptly named as &#8220;Basic Techniques of Go&#8221; since there was far more handicap go than I think is appropriate for beginners. And not to mention, what about life and death? That deserves attention in here as well if it is going to be titled &#8220;Basic Techniques of Go.&#8221;<br />
+In regards to its overall difficulty, it really does feel as if the reader needs to already have a decent grasp of the material in order to truly understand and digest the contents of this book. To be clear though, I am by no means saying that the content in this book is bad. Quite the contrary in fact, there is a lot of information considering how short the book is. It&#8217;s just that its rather dense for beginner/intermediate players.<br />
+So if you fall into the category of beginner/intermediate players looking to get stronger, I do not recommend this book for you. Instead, I recommend checking out the Mastering the Basics series from Kiseido as a better alternative.<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>There is a lot of information on handicap go.</li>
+<li>They did do a pretty nice job surveying some common tesuji.</li>
+<li>There were problems to accompany the tesuji and endgame section.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Due to the dense material, I can&#8217;t say I really gained anything from this first reading.</li>
+</ul>
+<p><strong>What aspect(s) can be improved on?</strong></p>
+<ul>
+<li>In all honesty, I don&#8217;t feel that it would be very fair for me to criticize the book at the moment since I feel that its content is generally out of reach for me. The one thing I will say is that the title is a little misleading to the unsuspecting player. Otherwise, I will save my comments for when I am able to better comprehend the book.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>As a mid to high single digit kyu, I felt that it was rather difficult to read due to the level of discussion that occurred in the book. However, if one could easily follow the level of content in this book, the English is rather straightforward and should be pretty easy to work through.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Content is essentially 10% opening principles, 40% handicap go, 30% tesuji, and 20% endgame.</li>
+<li>Better suited to players already familiar with the content in the book. In other words, NOT for beginners.</li>
+<li>If you&#8217;re a beginner/intermediate player looking to get stronger, check out the Mastering Basics series instead.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Intermediate/advanced players looking for additional material to study.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm">$18</a> (shipping and handling not included)</li>
+<li>SmartGo Books &#8211; <a href="http://gobooks.com/">$8.99</a> (iOS Devices Only)</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on November 3rd, 2013</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-basic-techniques-go/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4253</post-id>	</item>
+		<item>
+		<title>Book Review: Otake&#039;s Secret of Strategy</title>
+		<link>/book-review-otakes-secret-strategy/</link>
+		<pubDate>Sat, 02 Nov 2013 17:02:49 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[hideo otake]]></category>
+		<category><![CDATA[hinoki press]]></category>
+		<category><![CDATA[otake 9p]]></category>
+		<category><![CDATA[strategy]]></category>
+
+		<guid isPermaLink="false">//?p=4250</guid>
+		<description><![CDATA[Otake&#8217;s Secrets of Strategy Description: In the third volume of The Heart of Go Series, Hideo Otake 9P illustrates 10 fundamental strategic principles. Afterwards, there is a set of problems to apply what you learned. This is the followed up by a set of amateur game reviews and professional game reviews. [expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;] [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/10/heartofgov3cover.jpg"><img class="aligncenter  wp-image-4251" alt="heartofgov3cover" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/10/heartofgov3cover.jpg?resize=251%2C400" width="251" height="400" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Otake&#8217;s Secrets of Strategy</h2>
+<p><strong>Description:</strong> In the third volume of The Heart of Go Series, Hideo Otake 9P illustrates 10 fundamental strategic principles. Afterwards, there is a set of problems to apply what you learned. This is the followed up by a set of amateur game reviews and professional game reviews.<br />
+<span id="more-4250"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Otake&#8217;s Secrets of Strategy<br />
+Series, Heart of Go Discovery Series<br />
+Author, Hideo Otake 9P<br />
+Translators, Robert J. Terry<br />
+Publisher, Hinoki Press<br />
+Published, &#8220;December 2007&#8243;<br />
+Language, English<br />
+ISBN, 978-0-9788874-4-5<br />
+Length, 254 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Forward</li>
+<li>Ten Conditions of Go Knowledge
+<ul>
+<li>Otake Strategy #1 &#8211; The Attacking Force Must Be Properly Deployed</li>
+<li>Otake Strategy #2 &#8211; Avoid Engaging Strong Enemy Forces in Battle</li>
+<li>Otake Strategy #3 &#8211; Understanding the Opponent and Oneself, If a Fight Occurs, There is No Contest</li>
+<li>Otake Strategy #4 &#8211; Attack at the Place Where It is Easiest to Attack</li>
+<li>Otake Strategy #5 &#8211; Fighting Does Not Arise for Fixed Shape</li>
+<li>Otake Strategy #6 &#8211; Controlling the High Ground is Fundamental to Victory</li>
+<li>Otake Strategy #7 &#8211; When Attacking, Think About How to Withdraw</li>
+<li>Otake Strategy #8 &#8211; While Keeping the Left in Check, Move on the Right</li>
+<li>Otake Strategy #9 &#8211; Make Use of Every Resource Available</li>
+<li>Otake Strategy #10 &#8211; Creative Application of Principles is Important</li>
+</ul>
+</li>
+<li>Chapter 1 &#8211; Practical Application of Strategy: Problem Collection
+<ul>
+<li>33 Model Positions</li>
+</ul>
+</li>
+<li>Chapter 2 &#8211; Amateur Game Guidance
+<ul>
+<li>Game 1 &#8211; A Game of Huge Reversal (5D vs. 5D)</li>
+<li>Game 2 &#8211; A Game with a Clash of strength (5D vs. 5D)</li>
+<li>Game 3 &#8211; A Professional Teaching Game (Professional vs. 4D)</li>
+</ul>
+</li>
+<li>Chapter 3 &#8211; Appreciating Famous Professional Games
+<ul>
+<li>Game 1 &#8211; The Start of the Otake-Rin Rivalry (Otake Hideo vs. Rin Kaiho)</li>
+<li>Game 2 &#8211; A Masterpiece of Positional Judgment (Otake Hideo vs. Kobayashi Koichi)</li>
+<li>Game 3 &#8211; A Masterpiece of Sacrifice and Attacking (Honinbo Dosaku vs. Yasui Chitetsu)</li>
+</ul>
+</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+After reading the first two volumes of this series, I have to say that I was feeling pretty apprehensive about this next one. The only glimmer of hope I saw was that Otake Hideo 9P would be discussing amateur games. I did not have very high hopes though. After all, a professionals secrets of strategy is something I thought would definitely go way over my head.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+When I opened up to the first section, &#8220;Ten Conditions of Go Knowledge&#8221; (aka Ten Strategies for Go), I was incredibly relieved to actually see summarized concepts of what Otake 9P considered to be ten strategies that players should keep in mind. The explanations were a little complicated, but I felt hope as I was able to maneuver my way through them and not be completely lost since it was also relatively brief as well. This section was definitely a bit advanced, but I see no reason why a SDK (i.e., single digit kyu) would not be able to understand it with some effort.<br />
+Upon opening the first chapter, &#8220;Practical Applications of Strategy: Problem Collection,&#8221; I was afraid that I would find myself in the same boat as the last volume. To my greatest relief however, not only would I find this section to be one of my favorites; but I could actually understand what Otake 9P was trying to illusrate a good number of times and actually got the correct answers a handful of times! Woot! What a relief after being dragged through the mud in the last volume.<br />
+In the second chapter, &#8220;Amateur Game Guidance,&#8221; I couldn&#8217;t help but be thrilled at the fact that we would be going over amateur games. Now granted, the players tended to be in the high dan rankings, but the fact that they were amateurs seemed to put my mind more at ease. The figures and explanations are moderately advanced, but I see no reason why any mid to high single digit kyu player wouldn&#8217;t be able to follow with relative ease. In fact, I believe low single digit kyus might also be able to follow with some effort.<br />
+In the final chapter, &#8220;Appreciating Famous Professional Games,&#8221; Otake 9P continues the general review style you become accustomed to in the second chapter; but I have to say that the explanations seemed to be a bit more advanced. To be clear though, I wasn&#8217;t completely lost by any stretch of the means. It&#8217;s just that it required more effort than I would have liked. =)<br />
+Overall, I am glad that I did not give up on this series and really appreciate what Otake 9P did with this book. However, I would stress the fact that I still consider this book to be in the intermediate to advanced category. It&#8217;s recommended if you&#8217;re intending on intensely studying the game as if it were a course in school; but otherwise, it&#8217;s not what I would consider light study material for the casual player.<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>A lot easier to comprehend compared to the Volume 2.</li>
+<li>Has problems that are not overly advanced and are quite helpful.</li>
+<li>Seems like it was actually written for kyu players to actually understand.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>A better sense of some of Otake 9P&#8217;s strategic principles.</li>
+<li>Greater appreciation for being able to keep whole board perspective.</li>
+<li>Increased confidence in that my abilities are improving.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>The problems are presented and are then followed by the solution and variations with accompanying explanations. Unlike Volume 2, the correct solution was very easy to identify which made for a much more pleasant experience.</li>
+<li>The game commentaries are structured like most normal books: diagrams accompanied by their explanations.</li>
+</ul>
+<p><strong>What aspects can be improved on?</strong></p>
+<ul>
+<li>Honestly, for what the book was intended to do, nothing really comes to mind.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Mostly. There are a number of occasions where the phrasing or choice of words seems rather odd and can throw off the reader, but overall the translation is comprehensible (though it definitely does not read as easily as say Kageyama&#8217;s books).</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>An enjoyable read for those looking to learn about some strategic principles in go.</li>
+<li>Contains a nice set of problems that kyu players (around mid SDK) can solve).</li>
+<li>Decently heavy and dense study material that is not suited for casual players just looking for a light read.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Recommended for mid to high single digit kyus and stronger players looking for an intermediate-advanced book on strategic concepts.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/otakes-secrets-of-strategy/?acc=e4da3b7fbbce2345d7772b0674a318d5">$22.99</a> (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: Perceiving the Direction of Play" href="//book-review-perceiving-direction-play/">Heart of Go Series &#8211; Volume 1: Perceiving the Direction of Play</a></li>
+<li><a title="Book Review: Scent of Victory" href="//book-review-scent-victory/">Heart of Go Series &#8211; Volume 2: Catching Scent of Victory</a></li>
+<li>Heart of Go Series &#8211; Volume 3: Otake&#8217;s Secrets of Strategy</li>
+<li>Heart of Go Series &#8211; Volume 4: Changing One&#8217;s Conceptions: Awaji&#8217;s Aphorisms</li>
+<li>Heart of Go Series &#8211; Volume 5: The Way of Creating a Thick and Strong Game</li>
+<li>Heart of Go Series &#8211; Volume 6: Zone Press Park</li>
+<li>Heart of Go Series &#8211; Volume 7: Breakthrough Attacking Power Yamashita Style</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on November 2nd, 2013.</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4250</post-id>	</item>
+		<item>
+		<title>Book Review: Jump Level Up 4</title>
+		<link>/book-review-jump-level-4/</link>
+		<pubDate>Mon, 21 Oct 2013 01:54:12 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[educational]]></category>
+		<category><![CDATA[jump level up]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">//?p=4196</guid>
+		<description><![CDATA[Jump Level Up 4 Description: Jump Level Up 4 is the fourth volume of the intermediate counterpart of the Level Up! Series that serves as a workbook in private go schools in Korea. Though designed for children, the content and practice provided is invaluable for adults and children alike. [expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;] [table] Title, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/jumplevelup4cover.jpg"><img class="aligncenter size-full wp-image-4198" alt="jumplevelup4cover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/jumplevelup4cover.jpg?resize=300%2C438" width="300" height="438" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Jump Level Up 4</h2>
+<p><strong>Description:</strong> <em>Jump Level Up 4</em> is the fourth volume of the intermediate counterpart of the Level Up! Series that serves as a workbook in private go schools in Korea. Though designed for children, the content and practice provided is invaluable for adults and children alike.<br />
+<span id="more-4196"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Jump Level Up 4<br />
+Series, Jump Level Up<br />
+Author, Lee Jae-Hwan<br />
+Translators, Lee Seong-Geun &amp; Daniela Trinks<br />
+Supervisor, Yoo Chang-Hyuk (9P)<br />
+Publisher, <a href="http://www.baduktopia.com/">Baduktopia</a><br />
+Published, &#8220;May 25th 2012&#8243;<br />
+Language, English<br />
+ISBN, 978-89-90965-90-5<br />
+Length, 167 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Glossary</li>
+<li>Baduk in a Sauna</li>
+<li>Baduk Terms in Four Languages</li>
+<li>Liberties of Eye Spaces &#8211; Answer or Play Elsewhere?</li>
+<li>Connections and Cuts</li>
+<li>Life &amp; Death: Using Weak Points and Vital Points</li>
+<li>Escape from Nets &amp; Challenge with a Ko</li>
+<li>Spin Around Ladder &amp; Loose Ladder</li>
+<li>Star Point Joseki 11</li>
+<li>Opening Sample 1</li>
+<li>Next Move</li>
+<li>Knight&#8217;s Net and Bamboo Joint Vital Point</li>
+<li>Life &amp; Death: Weak Points, Mutual Life, 3 Stones</li>
+<li>Life &amp; Death and Capturing Races (Review)</li>
+<li>Opening Sample 2</li>
+<li>Haengma 1: Cut on the Opposite Side &amp; Capture the Cutting Stone</li>
+<li>Baduk Around the World</li>
+<li>Tesuji for Increasing and Reducing Liberties</li>
+<li>1-2 Vital Point &amp; Direction of Tiger&#8217;s Mouth</li>
+<li>Haengma 2: Double Hane and Stretch After Crosscut</li>
+<li>Opening Sample 3</li>
+<li>Nose Attachment &amp; Stone Pagoda Squeeze</li>
+<li>Spinning Around to Make a False Eye</li>
+<li>Opening Sample 4</li>
+<li>Life &amp; Death: Loose Connection, Twisted Four, Symmetry</li>
+<li>Star Point Joseki 12</li>
+<li>Opening Sample 5</li>
+<li>Endgame Tesuji</li>
+<li>How to Answer</li>
+<li>Level Tests</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+As a mid to high SDK (i.e., single digit kyu) player, I was expecting to see the same quality of content from previous volumes. In addition, I was hoping that I would be able to solve most problems with relative ease while finding some problems challenging.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+Once again, Lee Jae-Hwan has managed to sweep me off my feet when it comes to providing incredible content that really got my brain working. There were countless sections in here that I always knew about but really appreciated getting a chance to truly practice. Examples include: Identifying Seki, The Loose Connection, The Stone Pagoda, Hane Twice to Gain a Liberty, etc.<br />
+Overall, I felt that the problems definitely started to increase in difficulty. While some problems are still very easy to solve and have very obvious solutions, there were numerous times where I had to really start looking at variations before concluding what my answer was going to be. I really appreciated this gradual increase in difficulty.<br />
+Finally, some of you will notice that my &#8220;Things to Improve&#8221; section has become more of an Errata section (i.e., errors that I found). Although I still love the book and the series as a whole, there were a few more errors than I would have liked to have seen and some sections that weren&#8217;t as clear as they could have been (i.e., Cut On the Opposite Side).<br />
+Nonetheless, this is still a wonderful addition to the series, and I&#8217;m looking forward to the next one!<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>A very nice emphasis on evaluating seki positions.</li>
+<li>Has the reader practice &#8220;fake nets.&#8221;</li>
+<li>Does not hesitate to bring back basics like reading the ladder.</li>
+<li>Really trains a lot of skills players often overlook like identifying vital points, hane twice to gain a liberty, and loose ladders.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>More comfortable with my ability to recognize seki positions.</li>
+<li>Increased familiarity with various nets and reading out whether they work or not.</li>
+<li>Increased confidence in reading out variations of basic life and death sequences.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>The book is primarily structured as follows:
+<ul>
+<li>(1) A one page explanation of the topic that you are about to practice. Example: When behind in liberties. They not only show the sequence for the proper technique, but also include common mistakes and brief explanations as to why they are mistakes.</li>
+<li>(2) A set of very easy to understand and follow practice problems to ensure you understand what you are learning.</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>Page 65 (#11) &#8211; Not a great example of bamboo vital point.</li>
+<li>Page 66 (#5) &#8211; Answer is not the actual weakpoint. The 4-1 point is the weak point.</li>
+<li>Page 69 (#4) &#8211; No solution available. Answer is the 4-1 point.</li>
+<li>Page 94 Solutions &#8211; Label misprint. Skipped #10.</li>
+<li>Page 122 (#12), Page 123 (#18), and Page 128 (#18) are identical problems.</li>
+<li>Page 127 (#12) &#8211; In the wrong section. Different problem than expected. A save black problem in a kill white section.</li>
+<li>Page 128 (#18) &#8211; In the wrong section. A kill white problem in a Save black section.</li>
+<li>Page 143 (#22) &#8211; Again. Seems out of place. Problem&#8217;s solution is to maximize Black&#8217;s profit and not reduce White&#8217;s.</li>
+<li>Page 148 (#3 Solution) &#8211; Wrong diagram. The answer should be the solid connection at 4-2 point. The tiger&#8217;s mouth at 4-1 works as well but leaves a ko threat of an atari at 3-2 and is therefore inferior to the solid connection.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. Other than a few odd grammatical structures, it doesn&#8217;t get much more simple or straightforward than this.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Continues to live up to the quality of content you come to expect from this series.</li>
+<li>Completely worth your time and money!</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.</li>
+<li>People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Yellow Mountain Imports &#8211; <a title="Yellow Mountain Imports Purchase Link" href="http://www.ymimports.com/p-2055-jump-level-up-4-6-4-kyu.aspx">$13.00</a> USD (shipping and handling not included)</li>
+<li>Baduktopia &#8211; E-mail them at info@baduktopia.com for more information.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: Jump Level Up 1" href="//book-review-jump-level-1/">Jump Level Up 1</a></li>
+<li><a title="Book Review: Jump Level Up 2" href="//book-review-jump-level-2/">Jump Level Up 2</a></li>
+<li><a title="Book Review: Jump Level Up 3" href="//book-review-jump-level-3/">Jump Level Up 3</a></li>
+<li>Jump Level Up 4</li>
+<li>Jump Level Up 5</li>
+<li>Jump Level Up Answer Book</li>
+<li>Level Up Series</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on October 20th, 2013</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4196</post-id>	</item>
+		<item>
+		<title>Book Review: Scent of Victory</title>
+		<link>/book-review-scent-victory/</link>
+		<comments>/book-review-scent-victory/#comments</comments>
+		<pubDate>Sat, 19 Oct 2013 16:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[heart of go series]]></category>
+		<category><![CDATA[o rissei]]></category>
+		<category><![CDATA[pro style]]></category>
+		<category><![CDATA[scent of victory]]></category>
+
+		<guid isPermaLink="false">//?p=4183</guid>
+		<description><![CDATA[Catching Scent of Victory Description: In the second volume of The Heart of Go Series, O Rissei 9P discusses twenty of his own games and various strategies that he devised during them. Though it is intended to serve as a guide for developing your intuition in the game, it is a very advanced book that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/heartofgov2cover.jpg"><img class="aligncenter  wp-image-4184" alt="heartofgov2cover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/heartofgov2cover.jpg?resize=223%2C350" width="223" height="350" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Catching Scent of Victory</h2>
+<p><strong>Description:</strong> In the second volume of The Heart of Go Series, O Rissei 9P discusses twenty of his own games and various strategies that he devised during them. Though it is intended to serve as a guide for developing your intuition in the game, it is a very advanced book that is beyond the scope of what kyu players will be able to comprehend. It should be seen as a collection of game commentary from O Rissei 9P with advanced analysis and content.<br />
+<span id="more-4183"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Catching Scent of Victory<br />
+Series, Heart of Go Discovery Series<br />
+Author, O Rissei 9P<br />
+Translators, Robert J. Terry<br />
+Publisher, Hinoki Press<br />
+Published, &#8220;October 2007&#8243;<br />
+Language, English<br />
+ISBN, 978-0-9788874-3-8<br />
+Length, 270 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Chapter 1 － Rissei Style Strategy in the Opening
+<ul>
+<li>Strategy 1 &#8211; A Knight&#8217;s Move Enclosure Aimed at a Star Point</li>
+<li>Strategy 2 &#8211; A Shoulder Hit Against a Knight&#8217;s Move Corner Enclosure</li>
+<li>Strategy 3 &#8211; Simply Attaching and Drawing Back from a 3-4 Point</li>
+<li>Strategy 4 &#8211; A Resourceful Attachment Against the Side</li>
+<li>Strategy 5 &#8211; A Single Two Space High Attack On the Corner to Force (1)</li>
+<li>Strategy 6 &#8211; A Single Two Space High Attack On the Corner to Force (2)</li>
+<li>Strategy 7 &#8211; Playing Elsewhere in Response to a One Space Pincer</li>
+<li>Strategy 8 &#8211; A Favorite Attach and Draw Back from a One Space Pincer</li>
+<li>Strategy 9 &#8211; A One Space Jump After a Opne Space High Corner Attack</li>
+<li>Strategy 10 &#8211; Extending in Response to an Inside Attachment Against a Large Knight&#8217;s Move Enclosure</li>
+<li>Strategy 11 &#8211; Priority to Sliding Rather Than Making a Corner Enclosure</li>
+<li>Strategy 12 &#8211; Protecting the Corner During a Fencing-In Joseki</li>
+<li>Strategy 13 &#8211; Racing Ahead for Profit in a Favorite Joseki</li>
+<li>Strategy 14 &#8211; An Inside Attachment After a Two Space High Corner Attack</li>
+<li>Strategy 15 &#8211; Awareness of an Unfavorable Ladder</li>
+<li>Strategy 16 &#8211; Building Outward Influence Versus a Chinese Style Opening</li>
+</ul>
+</li>
+<li>Chapter 2 &#8211; Starting One&#8217;s Sensors to Take Advantage of a Good Opportunity
+<ul>
+<li>Game 1 &#8211; Entering the Tiger&#8217;s Lair</li>
+<li>Game 2 &#8211; Dripping Cold Sweat</li>
+<li>Game 3 &#8211; A Single Horseman Fighting Courageously</li>
+<li>Game 4 &#8211; A Lightning Strike</li>
+<li>Game 5 &#8211; Resolutely Sacrificing Stones</li>
+<li>Game 6 &#8211; Missing Chances, Then Grinding Out the Win</li>
+<li>Game 7 &#8211; Favorable Wind, Full Speed Ahead</li>
+<li>Game 8 &#8211; A Game Where Recklessness Succeeds</li>
+<li>Game 9 &#8211; A Good Turn of Fortune</li>
+<li>Game 10 &#8211; Hope and Despair by Turns</li>
+</ul>
+</li>
+<li>Chapter 3 &#8211; Sharpening One&#8217;s Sense of Smell for Victory
+<ul>
+<li>Game 1 &#8211; An Upset Win With One Stroke</li>
+<li>Game 2 &#8211; A Game of Alert Incursion</li>
+<li>Game 3 &#8211; Thoroughly Winning From Start to Finish</li>
+<li>Game 4 &#8211; Indomitable Perseverance</li>
+<li>Game 5 &#8211; A Game to Recapture the Oza Title</li>
+<li>Game 6 &#8211; A Game to Capture the Kisei Best of Seven Title</li>
+</ul>
+</li>
+<li>Chapter 4 &#8211; O Rissei Go Record</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+Based on the title of the book and reading a bit about it, I expected to get some advice from O Rissei on how to &#8220;catch the scent of victory.&#8221; Didn&#8217;t have too high expectations, but was hoping to get a tidbit or two out of it.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+To preface this review, I want to be emphasize the fact that <strong>I am a weak SDK kyu player at the time I read this book.</strong> Please keep that in mind when reading the following review.<br />
+The first chapter discusses sixteen different strategies that O Rissei used in his own games. And although I&#8217;m sure that what he is writing about is interesting and useful for professionals or strong dan players, I felt like I was reading gibberish the entire time. Not only was the advice difficult for me to comprehend, but there were numerous times where I was not even sure which move was the highlight of the chapter.<br />
+In the next chapter, Rissei then goes on to talk about the games that were featured in the first chapter in a bit more detail. And let me emphasize &#8220;a bit,&#8221; because it&#8217;s more like he glosses over some high level points and then moves on. To be clear though, he focuses on key moves and/or highlights in the game; but once again most of this was gibberish to me.<br />
+In the final chapter, Rissei does a more traditional whole game commentary on six of his games. Though it is in more detail and easier to follow, the diagrams were rather long (for someone of my ability) and the analysis remained incomprehensible to me.<br />
+Although I am sure that stronger players might find a lot of value in this book, I absolutely DO NOT recommend this book for kyu players in way, shape, or form. This book is incredibly advanced and does not contain an ounce of guidance that any kyu player would be able to easily comprehend. Don&#8217;t forget, this is not a book that focuses on topics like shape or fuseki; but is instead a book on a professional player&#8217;s thoughts on his own game and style. So there is very little to gain in regards to tactics or strategy for our level.<br />
+When I am stronger, I will be sure to revisit this book to update this review; but until then, stay away from this book if you&#8217;re a kyu player.<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Couldn&#8217;t enjoy it due to how advanced it was.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Reminder of how deep go can really get.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>The book follows the overall format of diagrams and explanations. There are no real traditional problems for the reader to solve and thus can be seen as more of a book of game commentary.</li>
+</ul>
+<p><strong>What aspects can be improved on?</strong></p>
+<ul>
+<li>Due to my inability to comprehend anything, I have no suggestions at this time.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>For kyu players, this book is the most difficult book I&#8217;ve read to date.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Extremely dense and difficult to learn from for kyu players.</li>
+<li>If you&#8217;re a kyu player, don&#8217;t buy it or spend time on it.</li>
+<li>Seriously. There are better books to spend your time on.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Strong players who enjoy deep professional level commentary.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/catching-scent-of-victory/?acc=e4da3b7fbbce2345d7772b0674a318d5">$22.99</a> (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: Perceiving the Direction of Play" href="//book-review-perceiving-direction-play/">Heart of Go Series &#8211; Volume 1: Perceiving the Direction of Play</a></li>
+<li>Heart of Go Series &#8211; Volume 2: Catching Scent of Victory</li>
+<li>Heart of Go Series &#8211; Volume 3: Otake&#8217;s Secrets of Strategy</li>
+<li>Heart of Go Series &#8211; Volume 4: Changing One&#8217;s Conceptions: Awaji&#8217;s Aphorisms</li>
+<li>Heart of Go Series &#8211; Volume 5: The Way of Creating a Thick and Strong Game</li>
+<li>Heart of Go Series &#8211; Volume 6: Zone Press Park</li>
+<li>Heart of Go Series &#8211; Volume 7: Breakthrough Attacking Power Yamashita Style</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on MONTH DATE, YEAR.</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-scent-victory/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4183</post-id>	</item>
+		<item>
+		<title>Book Review: Perceiving the Direction of Play</title>
+		<link>/book-review-perceiving-direction-play/</link>
+		<comments>/book-review-perceiving-direction-play/#comments</comments>
+		<pubDate>Sun, 13 Oct 2013 11:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[direction of play]]></category>
+		<category><![CDATA[heart of go series]]></category>
+		<category><![CDATA[kobayashi]]></category>
+		<category><![CDATA[whole board thinking]]></category>
+
+		<guid isPermaLink="false">//?p=4144</guid>
+		<description><![CDATA[Perceiving the Direction of Play Description: In the first volume of The Heart of Go Series, Kobayashi Satoru 9P focuses on an important concept many players are unfamiliar with: the direction of play. As a critical component in any game, Satoru familiarizes the reader with direction of play though positions of his own games to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/heartofgov1cover.jpg"><img class="aligncenter size-full wp-image-4145" alt="heartofgov1cover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/10/heartofgov1cover.jpg?resize=248%2C400" width="248" height="400" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Perceiving the Direction of Play</h2>
+<p><strong>Description:</strong> In the first volume of The Heart of Go Series, Kobayashi Satoru 9P focuses on an important concept many players are unfamiliar with: the direction of play. As a critical component in any game, Satoru familiarizes the reader with direction of play though positions of his own games to illustrate direction of play in regards to fuseki, joseki, and fighting. This is an advanced book that should be read after one already has a basic understanding of direction of play.<br />
+<span id="more-4144"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Perceiving the Direction of Play<br />
+Series, Heart of Go Discovery Series<br />
+Author, Kobayashi Satoru 9P<br />
+Translators, Robert Terry<br />
+Publisher, Hinoki Press<br />
+Published, &#8220;June 2007&#8243;<br />
+Language, English<br />
+ISBN, 978-0-9788874-2-1<br />
+Length, 225 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Chapter 1 － Thinking About The Direction of Play of the Stones
+<ul>
+<li>The Future Potential of Moves</li>
+<li>Towards a Wide Place</li>
+<li>The Direction of Joseki</li>
+<li>The Direction in the Fuseki (the Opening)</li>
+<li>The Direction of Fighting</li>
+<li>Before Fuseki Theory Was Developed</li>
+<li>Game 1 &#8211; Sansa-Rigen (Black)</li>
+<li>Game 2 &#8211; Sansa-Rigen (Black)</li>
+<li>Game 3 &#8211; Sansa-Rigen (Black)</li>
+</ul>
+</li>
+<li>Chapter 2 &#8211; The Direction of Joseki
+<ul>
+<li>Problem 1 &#8211; Which Empty Corner?</li>
+<li>Problem 2 &#8211; Giving Up on a Territorial Framework</li>
+<li>Problem 3 &#8211; A Corner Enclosure from a Star Point</li>
+<li>Problem 4 &#8211; The Placement of an Attack on a Corner</li>
+<li>Problem 5 &#8211; A Big Point or an Urgent Point</li>
+<li>Problem 6 &#8211; Whole Board Balance</li>
+<li>Problem 7 &#8211; Holding a Territorial Frameowrk in Check</li>
+<li>Problem 8 &#8211; Dodging the Beck and Call</li>
+<li>Problem 9 &#8211; A Lull in Joseki</li>
+<li>Problem 10 &#8211; The Direction of an Attachment</li>
+<li>Problem 11 &#8211; Within the Opponent&#8217;s Sphere</li>
+<li>Problem 12 &#8211; The Motivation to Play a Variation</li>
+<li>Problem 13 &#8211; Being Only Fearful</li>
+<li>Problem 14 &#8211; Counterattacking Against the Beck and Call</li>
+<li>Problem 15 &#8211; After Joseki</li>
+</ul>
+</li>
+<li>Chapter 3 &#8211; The Direction of Fuseki (the Opening)
+<ul>
+<li>Problem 1 &#8211; Where Territorial Frameworks Meet</li>
+<li>Problem 2 &#8211; A Fight for the Initiative</li>
+<li>Problem 3 &#8211; Opposing Territorial Frameworks</li>
+<li>Problem 4 &#8211; A One-Sided Territorial Framework</li>
+<li>Problem 5 &#8211; Three Big Points</li>
+<li>Problem 6 &#8211; Unfocused Direction</li>
+<li>Problem 7 &#8211; Territorial Frameworks Above and Below</li>
+<li>Problem 8 &#8211; A Reinforcement for the Future</li>
+<li>Problem 9 &#8211; Making Effective Use of Thickness</li>
+<li>Problem 10 &#8211; Judging Strength and Weakness</li>
+<li>Problem 11 &#8211; Direction and Place</li>
+<li>Problem 12 &#8211; Depending on the Strength and Weakness of Stones</li>
+<li>Problem 13 &#8211; Consciousness of Thickness</li>
+<li>Problem 14 &#8211; The Number of Stones</li>
+<li>Problem 15 &#8211; The Balance of Territory</li>
+</ul>
+</li>
+<li>Chapter 4 &#8211; The Direction of Fighting
+<ul>
+<li>Problem 1 &#8211; Which Side to Reinforce</li>
+<li>Problem 2 &#8211; The Attack and Defense of Forcing Moves</li>
+<li>Problem 3 &#8211; Territory of a Fight?</li>
+<li>Problem 4 &#8211; Dodging the Beck and Call</li>
+<li>Problem 5 &#8211; Attack or Defense?</li>
+<li>Problem 6 &#8211; A Single Stone&#8217;s Course of Action</li>
+<li>Problem 7 &#8211; Forcing Moves and Counterattacks</li>
+<li>Problem 8 &#8211; A Momentary Opportunity</li>
+<li>Problem 9 &#8211; The Course to Lay Out for an Attack</li>
+<li>Problem 10 &#8211; Reinforcing for an Attack</li>
+<li>Problem 11 &#8211; Before Defending</li>
+<li>Problem 12 &#8211; The Move Order for Counterattacking</li>
+<li>Problem 13 &#8211; Fuseki Moves or Fighting Moves</li>
+<li>Problem 14 &#8211; Neutralizing or Laying Waste</li>
+<li>Problem 15 &#8211; The Relationship Between Two Sides</li>
+</ul>
+</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+I got this book long ago, but I purchased this book because I felt that I was very lost when it came to choosing the direction of play. So while my ability to determine the direction of play has improved since then, I still feel rather skittish about my abilities to determine the correct direction of play and hope that this book will provide some guidance for me.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+When I first started reading this book, I felt a little uneasy as I was hit with commentary that just felt way over my head. Fortunately though, that didn&#8217;t last too long. Once the commentary was finished, there were mini-sections that summarized Kobayashi Satoru 9P&#8217;s advice on the direction of joseki, fuseki, fighting, and so forth. Though not helpful for weaker players, they seem to be great reinforcement to players who already have a grasp on this topic.<br />
+Fortunately, I could breathe a sigh of relief since the remainder of the book focused on utilizing a problem format. Being presented with a problem and then having its various options analyzed at least gave me a chance to comprehend something. Though by the time I finished the book, I can only say that I only made a small improvement in my overall ability with direction of play.<br />
+As much as I would love to rain the book with accolades, I found the overall experience of the book to be laborious and not user-friendly. To start, it is not always clear which diagram is the correct answer to the problem. I know this sounds ridiculous, but there were numerous times where I read a diagram thinking it was the correct answer when it was not. The labelling was not consistent and it made for a confusing learning experience.<br />
+In addition, the translation of the book is what I would label as &#8220;understandable if you work at it.&#8221; In other words, there are times when you have to pause and try to rearrange words or replace grammatical structures in hopes of trying to understand what is being said. Example: &#8220;White 1 leaves rights and interests on the right side&#8230;&#8221; Huh? In addition, the overall tone of the book is very matter of fact. This is great if you already have a strong foundation of go, but completely bewildering if you a weaker player trying to understand what is going on. Some might say that this is the nature of translated work, but I think that&#8217;s just a load of BS.<br />
+So bottom line, I <em>do not</em> recommend this book for kyu players. Whole board thinking and direction of play is difficult as it is for kyu players, so it would a travesty if I let kyu players try and tackle this book only to be discouraged and have little to show for it at the end. It might be useful to dan players; but again, I cannot emphasize enough that the overall experience has a lot of room for improvement. You have been warned.<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>The primary content of the book utilizes a problem format.</li>
+<li>The problems are from real games which adds to its practicality.</li>
+<li>Satoru always includes a diagram to show how the problem arose from game play.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>A minor confident boost in direction of play.</li>
+<li>A slightly better understanding of how to determine the direction of play.</li>
+<li>Realization of just how little I know about direction of play.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>The first chapter consists of high level professional game commentary that I had a hard time following.</li>
+<li>The rest of the content is structured as follows:
+<ul>
+<li>Diagram with directions on what you&#8217;re looking for.</li>
+<li>A diagram that shows the course of the game and how the problem came about.</li>
+<li>Usually about two to four variations and why they are wrong.</li>
+<li>And somewhere in that mix is the correct answer.</li>
+<li>A diagram or two with how the actual game proceeded afterwards.</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspects can be improved on?</strong></p>
+<ul>
+<li>My biggest complaint is that the correct answer is not always obvious. Sometimes it&#8217;s very clear since the diagram is labelled &#8220;The Correct Direction,&#8221; but there are numerous times where you have to sort out what&#8217;s right and what&#8217;s wrong. In fact, there were a couple times I thought the diagram I was reading was the correct answer when it was not actually so.</li>
+<li>The translation is very terse. I recognize that there is are difficulties when it comes to translating since you want to keep as much of the language as authentic as possible, but it made it difficult to read or understand at times.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>No. Even though I&#8217;m a huge go enthusiast and English is my first language, I still found it rather laborious to work through this book. And to be clear, it&#8217;s not so much that the translation is difficult as a whole; but there are enough discreprancies here and there that it interferes with the overall experience of reading the book.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Appropriate for players who already have an understanding of direction of play.</li>
+<li>Translation makes the overall experience of the book more difficult which reduces the value of the book to kyu players.</li>
+<li>Recommended for dan players.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players who already have an understanding of direction of play.</li>
+<li>Dan players who are not too concerned with explanations since the moves more or less speak for themselves.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>GoGameGuru &#8211; <a href="http://shop.gogameguru.com/perceiving-the-direction-of-play/?acc=e4da3b7fbbce2345d7772b0674a318d5">$22.99</a> (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>Heart of Go Series &#8211; Volume 1: Perceiving the Direction of Play</li>
+<li>Heart of Go Series &#8211; Volume 2: Catching Scent of Victory</li>
+<li>Heart of Go Series &#8211; Volume 3: Otake&#8217;s Secrets of Strategy</li>
+<li>Heart of Go Series &#8211; Volume 4: Changing One&#8217;s Conceptions: Awaji&#8217;s Aphorisms</li>
+<li>Heart of Go Series &#8211; Volume 5: The Way of Creating a Thick and Strong Game</li>
+<li>Heart of Go Series &#8211; Volume 6: Zone Press Park</li>
+<li>Heart of Go Series &#8211; Volume 7: Breakthrough Attacking Power Yamashita Style</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on October 13th, 2013</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-perceiving-direction-play/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4144</post-id>	</item>
+	</channel>
+</rss>

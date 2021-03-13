@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>not worth your time &#8211; BenGoZen</title>
+	<atom:link href="/tag/not-worth-your-time/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: 501 Tesuji Problems</title>
+		<link>/book-review-501-tesuji-problems/</link>
+		<comments>/book-review-501-tesuji-problems/#comments</comments>
+		<pubDate>Sun, 26 May 2013 09:00:10 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[mastering the basics series]]></category>
+		<category><![CDATA[not worth your time]]></category>
+		<category><![CDATA[tesuji]]></category>
+
+		<guid isPermaLink="false">//?p=2702</guid>
+		<description><![CDATA[Overall Rating: 6 / 10 Ponnuki Basic Information Title: Mastering the Basics, Volume 4 &#8211; Five Hundred and One TesujiProblems Author: Compiled and Written by Richard Bozulich Publisher: Kiseido Publication Date: October 2005 Page Length: 292 pages Number of Problems: 501 Synopsis My least favorite of the entire series so far. Lacked the explanations that makes the series so [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/mtb4cover.jpg"><img class="aligncenter size-full wp-image-2703" alt="mtb4cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/mtb4cover.jpg?resize=300%2C436" width="300" height="436" data-recalc-dims="1" /></a></h2>
+<h2 style="text-align: center;">Overall Rating: 6 / 10 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Mastering the Basics, Volume 4 &#8211; Five Hundred and One TesujiProblems</li>
+<li><strong>Author: </strong>Compiled and Written by Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>October 2005</li>
+<li><strong>Page Length:</strong> 292 pages</li>
+<li><strong>Number of Problems</strong>: 501</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>My least favorite of the entire series so far.</li>
+<li>Lacked the explanations that makes the series so great.</li>
+<li>Appropriate for 5 kyu and stronger.</li>
+</ul>
+<p><span id="more-2702"></span></p>
+<h3>What I Expected</h3>
+<ul>
+<li>A section explaining various tesujis along with a few easy problems in each section to get your brain moving.</li>
+<li>A problem section that consisted of an assortment of the tesujis from the first portion of the book.</li>
+</ul>
+<h3>What You Can Expect</h3>
+<ul>
+<li><span style="line-height: 13px;">Problems along with their usual solutions, but that is all.</span></li>
+</ul>
+<h3>My Thoughts as a 5 Kyu</h3>
+<p>When I first reviewed this book, I will admit that my initial findings were rather negative since I was really disappointed in the fact that it did not follow the same structure that the other books in the series had. As a result, you will have to forgive me for knocking it down a few pegs.<br />
+The book delivers on the promise that you will practice a lot of problems in hopes of training your brain to find tesujis without being told what to do. While I understand the merits in this approach, I still firmly believe that the book would be far more effective if it kept to the format of the Mastering the Basics series.<br />
+So if you&#8217;re looking for a book that gives explanations and guidance on tesujis, this is definitely not the book for you. On the other hand, if you want a book of pure tesuji problems, then you&#8217;ve come to the right place.</p>
+<h4>Table of Content</h4>
+<ol>
+<li>Preface</li>
+<li>A Glossary of Tesujis Used in this Book</li>
+<li>Some Important Terms and Concepts</li>
+<li>501 Tesuji Problems</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+<li>SmartGo Books (eBook) &#8211; <a href="http://www.smartgo.com/booksbycategory.htm">$8.99</a> (Apple users only)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated June 28th, 2013</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-501-tesuji-problems/feed/</wfw:commentRss>
+		<slash:comments>60</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2702</post-id>	</item>
+	</channel>
+</rss>

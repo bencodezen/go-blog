@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>reckless go &#8211; BenGoZen</title>
+	<atom:link href="/tag/reckless-go/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Green Eyed Go</title>
+		<link>/green-eyed-go/</link>
+		<pubDate>Tue, 08 Jan 2013 04:51:07 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[attacking]]></category>
+		<category><![CDATA[greed]]></category>
+		<category><![CDATA[reckless go]]></category>
+
+		<guid isPermaLink="false">//?p=1621</guid>
+		<description><![CDATA[Today has been quite an interesting day. In all the games I played today, there seemed to be one consistent theme: When the opponent gives me an opportunity to attack, I am in attack mode the rest of the game. This is rather reminiscent of my DDK (double digit kyu) days when I would engage [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today has been quite an interesting day. In all the games I played today, there seemed to be one consistent theme: When the opponent gives me an opportunity to attack, I am in attack mode the rest of the game.<br />
+This is rather reminiscent of my DDK (double digit kyu) days when I would engage in these local battles that just bled onto the rest of the board. The main difference now though is that I am actually aware of the effects my moves have on my other groups and how the progression will affect my territory. Unfortunately, my attacks always fell short by a bit and I&#8217;d end up losing by a rather wide margin.<br />
+That being said, there were a number of times where I realized I was probably ahead and should&#8217;ve played more solid moves and let my opponent live. The rational course of action would be to just win the game without any hiccups, but it seems the green eyed go monster has been haunting me all day. Hopefully for my next set of games, I will be able to maintain a calmer demeanor in my go.<br />
+Finally, before I close out tonight&#8217;s post, I wanted to give a shout out to Frederic! It was great to meet you and be able to play with you today! Looking forward to playing you more often in the future!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1621</post-id>	</item>
+	</channel>
+</rss>

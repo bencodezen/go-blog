@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>paranoid go &#8211; BenGoZen</title>
+	<atom:link href="/tag/paranoid-go/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Paranoid Go</title>
+		<link>/paranoid-go/</link>
+		<pubDate>Tue, 23 Apr 2013 21:00:07 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[haphazard]]></category>
+		<category><![CDATA[lack of focus]]></category>
+		<category><![CDATA[obstacle]]></category>
+		<category><![CDATA[paranoid go]]></category>
+		<category><![CDATA[zen]]></category>
+
+		<guid isPermaLink="false">//?p=2640</guid>
+		<description><![CDATA[As you know, I have been in a rather &#8220;meh&#8221; mood when it comes to playing go. It&#8217;s not so much that I&#8217;ve lost interest in the game, but I found my play style becoming very scattered and ugly. It wasn&#8217;t until recently that frozensoul helped to shed light on the issue and told me [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As you know, I have been in a rather &#8220;meh&#8221; mood when it comes to playing go. It&#8217;s not so much that I&#8217;ve lost interest in the game, but I found my play style becoming very scattered and ugly. It wasn&#8217;t until recently that frozensoul helped to shed light on the issue and told me that I have entered a &#8220;paranoid go&#8221; phase. My moves are played haphazardly and often lack a sense of focus and purpose. Although I once wrote of this roadblock as being a &#8220;mood&#8221; issue, it seems that it may actually be a rather large obstacle that I must overcome.<br />
+In order to mediate this, I have taken a big step back from playing and have re-incorporated studying professional games into my routine. The aim of doing this is to try and unlock my paranoia of letting my opponents have any ideal opening or framework which often caused me to overextend myself which then resulted in my resignation.<br />
+At this point in my journey, my abilities seem to fluctuate rather violently depending on my opponent and their play style. This is unacceptable for me, since I despise the idea that the player I am becoming is one that is blatantly weak to certain styles and then overpowering against others. My go should shine on its own regardless of who my opponent is. And to clarify, this does not mean I think I will win all of my games; but instead, I want all of my games to be interesting and something I can be proud to show to anyone.<br />
+So while I am currently lost out in the sea paranoid go, when I find my way back onto the path of zen go: opponents beware. =)</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2640</post-id>	</item>
+	</channel>
+</rss>

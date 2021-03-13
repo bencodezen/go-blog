@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>interview &#8211; BenGoZen</title>
+	<atom:link href="/tag/interview/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>I&#039;m on TV!! Sort Of&#8230;</title>
+		<link>/im-on-tv-sort-of/</link>
+		<pubDate>Sat, 30 Mar 2013 02:35:37 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[joanne missingham]]></category>
+
+		<guid isPermaLink="false">//?p=2410</guid>
+		<description><![CDATA[For those of you who read my series of posts on the North American Go Convention, you might recall that on Day 2, there was a crew doing a special interview with Joanne Missingham. Guess who made the cut? I guess my play was so incredible they decided to feature me! Hahaha. Just kidding! Anyhow, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For those of you who read my series of posts on the <a title="North American Go Convention!!!" href="//north-american-go-convention/">North American Go Convention</a>, you might recall that on <a title="North American Go Convention — Day 2" href="//north-american-go-convention-day-2/">Day 2</a>, there was a crew doing a special interview with Joanne Missingham. Guess who made the cut? I guess my play was so incredible they decided to feature me! Hahaha. Just kidding! Anyhow, I can&#8217;t seem to download the video from Facebook. So here is the link to the video and some screenshots below:</p>
+<p style="text-align: center;"><a href="https://www.facebook.com/video/embed?video_id=523594844357220">Joanne Missingham Interview</a></p>
+<figure id="attachment_2485" style="width: 300px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/03/interview1.png"><img class="size-full wp-image-2485" alt="interview1" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/03/interview1.png?resize=300%2C170" width="300" height="170" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">1:30</figcaption></figure>
+<figure id="attachment_2486" style="width: 300px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/03/interview2.png"><img class="size-full wp-image-2486" alt="interview2" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/03/interview2.png?resize=300%2C170" width="300" height="170" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">7:00</figcaption></figure>
+<p style="text-align: center;">
+<figure id="attachment_2487" style="width: 300px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/03/interview3.png"><img class="size-full wp-image-2487" alt="interview3" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/03/interview3.png?resize=300%2C170" width="300" height="170" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">8:10</figcaption></figure>
+<p style="text-align: center;">
+<p style="text-align: center;">Fun times. xD</p>
+<p>*Thanks to DeepSnow for seeing the scene at 8:10. I have no idea how I missed it.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2410</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://bengozen.com/wp-content/uploads/2014/01/Kaz%E2%80%99s-Online-Go-School.pdf">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://bengozen.com/wp-content/uploads/2014/01/Kaz%E2%80%99s-Online-Go-School.pdf";
+		</script>
+
+		<p>You are being redirected to <a href="http://bengozen.com/wp-content/uploads/2014/01/Kaz%E2%80%99s-Online-Go-School.pdf">http://bengozen.com/wp-content/uploads/2014/01/Kaz%E2%80%99s-Online-Go-School.pdf</a></p>
+	</body>
+</html>

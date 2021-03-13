@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>kato &#8211; BenGoZen</title>
+	<atom:link href="/tag/kato/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: The Chinese Opening (Kato)</title>
+		<link>/book-review-the-chinese-opening-kato/</link>
+		<pubDate>Wed, 05 Jun 2013 21:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[chinese]]></category>
+		<category><![CDATA[fuseki]]></category>
+		<category><![CDATA[kato]]></category>
+		<category><![CDATA[opening]]></category>
+
+		<guid isPermaLink="false">//?p=2799</guid>
+		<description><![CDATA[Overall Rating: 9 / 10 Ponnuki Basic Information Title: The Chinese Opening: The Sure-Win Strategy Author: Masao Kato (translated by Steve Lloyd) Publisher: Kiseido Publication Date: May 1989 Page Length: 145 pages Synopsis An in-depth explanation of the Chinese fuseki. Covers a lot of various scenarios that players might encounter when trying to play the Chinese fuseki. Appropriate for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/06/chineseopeningkatocover.jpg"><img class="aligncenter size-full wp-image-2817" alt="chineseopeningkatocover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/06/chineseopeningkatocover.jpg?resize=300%2C413" width="300" height="413" data-recalc-dims="1" /></a></h2>
+<h2 style="text-align: center;">Overall Rating: 9 / 10 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> The Chinese Opening: The Sure-Win Strategy</li>
+<li><strong>Author: </strong>Masao Kato (translated by Steve Lloyd)</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>May 1989</li>
+<li><strong><strong>Page Length:</strong> </strong>145 pages</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>An in-depth explanation of the Chinese fuseki.</li>
+<li>Covers a lot of various scenarios that players might encounter when trying to play the Chinese fuseki.</li>
+<li>Appropriate for 8 kyu and stronger.</li>
+<li>Recommended for serious players.</li>
+</ul>
+<p><span id="more-2799"></span></p>
+<h3>What I Expected</h3>
+<ul>
+<li><span style="line-height: 13px;">A thorough explanation of the purpose and goal behind the Chinese opening.</span></li>
+<li>Explanation of what happens when someone tries to interrupt the Chinese opening.</li>
+<li>Examples of how the Chinese fuseki is used in different situations.</li>
+</ul>
+<h3>What You Can Expect</h3>
+<ul>
+<li><span style="line-height: 13px;">Everything I mentioned above plus&#8230;</span></li>
+<li>Much more detailed explanation behind the purpose of individual aspects of the Chinese opening (e.g., How to respond when your opponent approaches the star point stone as opposed to the 3-4 stone of the Chinese opening).</li>
+<li>How to handle building and destroying the large frameworks that can often result from peaceful games with the Chinese opening.</li>
+</ul>
+<h3>My Thoughts as a 5 Kyu</h3>
+<p>As the first book I read on the Chinese opening, I was very pleased with the scope and breadth that Kato covers with this book. Although it seems rather short, Kato does a fantastic job starting from the very basics of the Chinese opening to small details that are very case specific. In addition, Kato covers a number of variations for each scenarios that helps to answer a lot of questions people might have as to why one result is better than another.<br />
+While this book can read like a textbook and is difficult to fully absorb after only a single reading, I think it is a fantastic reference and would recommend it to any players who are serious about <em>studying</em> the Chinese fuseki.</p>
+<h3>Table of Content</h3>
+<ol>
+<li>About the Author</li>
+<li>Foreward</li>
+<li>Glossary</li>
+<li>Chapter 1: The Concept of the Chinese Fuseki</li>
+<li>Chapter 2: The Star Point Stone</li>
+<li>Chapter 3: The 3-4 Point Stone</li>
+<li>Chapter 4: Large Scale Frameworks &#8211; Building and Destroying</li>
+<li>Chapter 5: The Two Space High Pincer</li>
+<li>Chapter 6: The Chinese Fuseki in Action: Examples from the Author&#8217;s Games</li>
+</ol>
+<h3>Recommended Vendors:</h3>
+<ol>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$18.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated June 5th, 2013</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2799</post-id>	</item>
+	</channel>
+</rss>

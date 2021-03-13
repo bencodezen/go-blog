@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>look both directions before you play &#8211; BenGoZen</title>
+	<atom:link href="/tag/look-both-directions-before-you-play/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Slightly Winded</title>
+		<link>/slightly-winded/</link>
+		<pubDate>Mon, 04 Feb 2013 22:30:13 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[lesson learned]]></category>
+		<category><![CDATA[look both directions before you play]]></category>
+
+		<guid isPermaLink="false">//?p=1818</guid>
+		<description><![CDATA[Man&#8230;. it&#8217;s only day four of February&#8217;s training regimen and I can already feel the weight of it bearing down on me. On top of that, I&#8217;m playing even more even games with players 5+ stones stronger than me and getting crushed left and right. Not feeling bad about myself or anything, but definitely slightly [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Man&#8230;. it&#8217;s only day four of February&#8217;s training regimen and I can already feel the weight of it bearing down on me. On top of that, I&#8217;m playing even more even games with players 5+ stones stronger than me and getting crushed left and right. Not feeling bad about myself or anything, but definitely slightly winded. The good thing is that I think I&#8217;m starting to become more immune to losing, but we&#8217;ll have to wait and see if that&#8217;s true. =D<br />
+As I continue to try and analyze the gaps in my ability, I&#8217;ve found that watching other people&#8217;s games has been helpful in reinforcing my understanding of the game. While I find myself wanting to yell at the screen when people choose a variation that is in favor of their opponent, the experience is quite humorous as a whole and helps me to see the gaps in other players&#8217; knowledge; which in turn helps to fill mine.<br />
+Nonetheless, it seems I&#8217;m a track to straight losses in ASR; but hopefully I can rack up enough points to stay in the class. Here&#8217;s to hoping!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1818</post-id>	</item>
+	</channel>
+</rss>

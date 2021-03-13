@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>ko &#8211; BenGoZen</title>
+	<atom:link href="/tag/ko/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: All About Ko</title>
+		<link>/book-review-all-about-ko/</link>
+		<pubDate>Sun, 09 Jun 2013 09:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[ko]]></category>
+		<category><![CDATA[reference]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=2796</guid>
+		<description><![CDATA[Overall Rating: 8 / 10 Ponnuki Basic Information Title: Mastering the Basics, Volume 6: All About Ko Author: Rob can Zeijst and Richard Bozulich Publisher: Kiseido Publication Date: September 2007 Number of Problems: 121 Problems Page Length: 250 pages Synopsis A solid book that serves as a great reference on ko while providing problems and example games. Appropriate for [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/mtbsv6cover.jpg"><img class="aligncenter size-full wp-image-2828" alt="mtbsv6cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/mtbsv6cover.jpg?resize=300%2C422" width="300" height="422" data-recalc-dims="1" /></a></h2>
+<h2 style="text-align: center;">Overall Rating: 8 / 10 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Mastering the Basics, Volume 6: All About Ko</li>
+<li><strong>Author: </strong>Rob can Zeijst and Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>September 2007</li>
+<li><strong>Number of Problems:</strong> 121 Problems</li>
+<li><strong>Page Length:</strong> 250 pages</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>A solid book that serves as a great reference on ko while providing problems and example games.</li>
+<li>Appropriate for 1 dan and stronger.</li>
+<li>Recommended for serious players who <strong><em>really</em> </strong>want to study ko.</li>
+</ul>
+<p><span id="more-2796"></span></p>
+<h3>What I Expected</h3>
+<ul>
+<li>A thorough explanation of ko and introduction of new ideas I never thought of with ko.</li>
+<li>Explanations on determining the value of ko.</li>
+<li>Problems to illustrate the different aspects of ko.</li>
+</ul>
+<h3>What You Can Expect</h3>
+<ul>
+<li><span style="line-height: 13px;">A good introduction to a lot of different concepts involved with ko battles.</span></li>
+<li>Best explanation for determining the value of ko that I&#8217;ve seen thus far.</li>
+<li>Problems and example games that help to illustrate the different concepts introduced in the first half.</li>
+</ul>
+<h3>My Thoughts as a 5 Kyu</h3>
+<p>To begin, I&#8217;d like to clarify that I was not able to fully study and absorb all the material in this book. There are an array of reasons for this, but the primary one being that I have very little motivation to actually learn all the details about ko since I feel that I still have a wide gap in the rest of my go knowledge that mastery of ko would not be very rewarding at this point in time.<br />
+For those who have looked at the Table of Contents, it is very clear that that Zeijst and Bozulich both took great care to make sure just about every aspect of ko was covered. Granted, while some of the sections are rather short (e.g., a few pages), the explanation are concise and clear enough that the brevity of the section will not hamper your learning ability.<br />
+Finally, this is the first book I&#8217;m recommending for dan players and above. There is a really big reason for this: mastering ko battles is <em>utterly useles</em>s for kyu players unless they already have a solid understanding of everything else already (e.g., positional judgment, attacking and defending properly, direction of play, etc.). And based on what I&#8217;ve heard from stronger players, kyu players would be dan level if they already had a solid grasp of the other fundamentals of the game.<br />
+If you really want to get this book however, I would recommend simply reading the explanations on the various aspects of ko; but don&#8217;t spend an exorbitant amount of time on the problems.</p>
+<h3>Table of Content</h3>
+<ol>
+<li>Preface</li>
+<li>Some Important Terms and Concepts</li>
+<li>A Glossary of Japanese Terms Related to Ko</li>
+<li>The Two Ko Rules</li>
+<li>Chapter One: Ko in Action</li>
+<li>Chapter Two: The Value of a Ko</li>
+<li>Chapter Three: The Value of a Ko Threat</li>
+<li>Chapter Four: There is No Ko in the Opening</li>
+<li>Chapter Five: Adjacent Ko Threats</li>
+<li>Chapter Six: Be the First to Take the Ko</li>
+<li>Chapter Seven: Flower-Viewing Kos</li>
+<li>Chapter Eight: Maximizing the Number of Ko Threats</li>
+<li>Chapter Nine: Ko Threats that Lose Points</li>
+<li>Chapter Ten: Invalid Ko Threats</li>
+<li>Chapter Eleven: Creating Ko Threats</li>
+<li>Chapter Twelve: Using Ko to Make Sabaki</li>
+<li>Chapter Thirteen: Double and Triple Kos</li>
+<li>Chapter Fourteen: Approach-Move Kos</li>
+<li>Chapter Fifteen: Two-and Three-Stage Kos</li>
+<li>Chapter Sixteen: The Ten-Thousand Year Ko</li>
+<li>Chapter Seventeen: Bent Four in the Corner</li>
+<li>Chapter Eighteen: Super Kos</li>
+<li>Chapter Nineteen: The Carpenter&#8217;s Square</li>
+<li>Chapter Twenty: Problems and Example GAmes</li>
+<li>Appendix: Further Reading</li>
+</ol>
+<h3>Recommended Vendors:</h3>
+<ol>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$25.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated June 9th, 2013</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2796</post-id>	</item>
+	</channel>
+</rss>

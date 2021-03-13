@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>building blocks &#8211; BenGoZen</title>
+	<atom:link href="/tag/building-blocks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Returning to the Fundamentals</title>
+		<link>/returning-fundamentals/</link>
+		<comments>/returning-fundamentals/#comments</comments>
+		<pubDate>Wed, 11 Jun 2014 11:15:59 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[building blocks]]></category>
+		<category><![CDATA[directionless]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[kageyama]]></category>
+		<category><![CDATA[lessons in the fundamentals of go]]></category>
+
+		<guid isPermaLink="false">//?p=5442</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #44 Up until a month or so ago, my go had become quite rigid. In fact, it could be compared to an ice sculpture where the curves and angles have all been predefined. And though it is admirable in one aspect, it also represents a sense of rigidity and does not [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #44</h2>
+<figure id="attachment_5444" style="width: 488px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/06/wgw44.jpg"><img class="size-full wp-image-5444" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/06/wgw44.jpg?resize=488%2C299" alt="Credit to TheChangeBlog" width="488" height="299" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a title="Source for featured image" href="http://www.thechangeblog.com/success-in-life/">TheChangeBlog</a></figcaption></figure>
+Up until a month or so ago, my go had become quite rigid. In fact, it could be compared to an ice sculpture where the curves and angles have all been predefined. And though it is admirable in one aspect, it also represents a sense of rigidity and does not have much room for growth. And since my goal was to build something way better, it was only natural that it was time to set it on fire and let it melt away. And now that I am left with this pool of water, while the prospect of building a grand ice sculpture sounds great, it&#8217;s been rather difficult figuring out where to begin.<br />
+For those who don&#8217;t use <a title="BenGoZen's Twitter" href="http://www.twitter.com/bengozen">Twitter</a>, I recently tweeted about picking up <a title="Book Review: Lessons in the Fundamentals of Go" href="//book-review-lessons-in-the-fundamentals-of-go/"><em>Lessons in the Fundamentals of Go</em></a> by Kageyama 7P again. You might wonder why I&#8217;m doing this. After all, I&#8217;ve read this book at least four or five times at this point. However, I&#8217;ve noticed that my progress in go has reached a vulnerable stage. It&#8217;s not stagnant, yet it is not necessarily progressing either in the traditional sense of climbing ranks. Instead of complaining and being frustrated however, I&#8217;ve decided that this is as good a time as any to return to the fundamentals.<br />
+<span id="more-5442"></span><br />
+I am currently at a place where my go feels directionless, so I have been trying to establish some new foundations through standard training exercises: life and death problems, studying the <a title="Book Review: Jump Level Up 1" href="//book-review-jump-level-1/">Jump Level Up</a> series, replaying Go Seigen&#8217;s games, and playing games as well. While all those activities will surely benefit me somehow in the future, my go felt as shapeless as ever. And since I don&#8217;t have a true teacher and mentor (in terms of taking private lessons), I was rather lost in terms of what to do next.<br />
+As I was perusing my bookshelf and picking up book after book (i.e., The Basics of Go Strategy, Positional Judgment, etc.), the bright yellow binding caught my eye and I breathed a sigh of relief as it hit me. <strong>Just go back to the fundamentals.</strong><br />
+It&#8217;s true that having a teacher would make my life a lot easier. After all, he/she would know me so well that devising a customized training program would be a piece of cake. However, for the numerous players out there who either haven&#8217;t found a teacher or it is too expensive, I wrote this post to remind you that there is still hope out there for people like us.<br />
+While gaining a stone becomes harder as you climb the ladder, remember that it only becomes truly difficult as you climb into the higher ranks of dan. Until then, remember that a lot of our weaknesses can be found in our lack of the fundamentals. And if there is anyone who can give you a swift kick in the butt to remind you of that, it is Kageyama.<br />
+So if you&#8217;re serious about getting stronger at go, make sure you have a copy of <em><a title="Book Review: Lessons in the Fundamentals of Go" href="//book-review-lessons-in-the-fundamentals-of-go/">Lessons in the Fundamentals of Go</a> </em>in your collection of go books. It will be your beacon of light as you try and make your way into the dan levels and above.</p>
+]]></content:encoded>
+			<wfw:commentRss>/returning-fundamentals/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5442</post-id>	</item>
+	</channel>
+</rss>

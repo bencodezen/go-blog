@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>5.5 &#8211; BenGoZen</title>
+	<atom:link href="/tag/5-5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>October 2013 Bonus Review &#8211; Game 5</title>
+		<link>/october-2013-bonus-review-game-5/</link>
+		<pubDate>Wed, 30 Oct 2013 10:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[5.5]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[loss]]></category>
+		<category><![CDATA[tygem]]></category>
+
+		<guid isPermaLink="false">//?p=4225</guid>
+		<description><![CDATA[For your final October Bonus Game Review, you will have the opportunity to witness another one of my Tygem games against a 3d! In all honesty, I was quite surprised at some of the moves I made when I was reviewing it again. Some were quite innovative, while some were quite idiotic. Haha. Hopefully this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For your final October Bonus Game Review, you will have the opportunity to witness another one of my Tygem games against a 3d! In all honesty, I was quite surprised at some of the moves I made when I was reviewing it again. Some were quite innovative, while some were quite idiotic. Haha. Hopefully this game will be full of fun and surprises for you as you prepare for your own Halloween celebrations. I hope you have enjoyed this bonus series and hope you have a great Halloween tomorrow!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/10\/2013.10.30-October-2013-Bonus-Review-Game-5.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/10/2013.10.30-October-2013-Bonus-Review-Game-5.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/10/2013.10.30-October-2013-Bonus-Review-Game-5.sgf[/download]
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4225</post-id>	</item>
+	</channel>
+</rss>

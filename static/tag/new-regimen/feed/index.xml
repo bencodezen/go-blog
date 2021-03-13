@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>new regimen &#8211; BenGoZen</title>
+	<atom:link href="/tag/new-regimen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>First Time Playing Rengo!</title>
+		<link>/first-time-playing-rengo/</link>
+		<pubDate>Fri, 01 Feb 2013 00:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[new experiences]]></category>
+		<category><![CDATA[new regimen]]></category>
+		<category><![CDATA[new study]]></category>
+		<category><![CDATA[rengo]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=1784</guid>
+		<description><![CDATA[Last night I had the opportunity to play my first game of rengo ever! For those wondering what rengo is, it is pair go! You essentially alternate turns with your teammates. Obviously, the trickiest part is trying to make sure your strategy is not conflicting with your opponents. As I look back on it, it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Last night I had the opportunity to play my first game of rengo ever! For those wondering what rengo is, it is pair go! You essentially alternate turns with your teammates. Obviously, the trickiest part is trying to make sure your strategy is not conflicting with your opponents.<br />
+As I look back on it, it was a lot of fun. It&#8217;s very interesting to see the game through so many different perspectives. Thinking as a collective mind and trying to understand the minds of your opponents makes the game on a much more global level than local fights. At least that&#8217;s how I felt when I played. (^.^) For the game record, see the end of the post.<br />
+Definitely something I would recommend players to experience (if they can find a partner that they feel comfortable with). It is a lot of fun and definitely helps you avoid being one track minded about things.<br />
+On another note, tomorrow will be the official start of my Korean Style Study. For those curious as to what I&#8217;m planning on doing, here&#8217;s the outline:<br />
+<span id="more-1784"></span></p>
+<ol>
+<li><span style="line-height: 13px;"><a href="http://senseis.xmp.net/?ShapeUp"><span style="text-decoration: underline;">Shape Up!</span></a> by Charles Matthews and Kim Seong-June</span></li>
+<li><a href="http://senseis.xmp.net/?LevelUpEssentialLifeAndDeath">Essential Life and Death: Volumes 1-4</a></li>
+<li><a href="http://gogameguru.com/commented-games-by-lee-sedol/">Commented Games by Lee Sedol &#8211; Volume 1</a></li>
+<li>Play 1 game on Tygem for day.</li>
+</ol>
+<p>It&#8217;s really aggressive, but I plan on doing my best and accomplishing all of this in one month!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/01\/2013.01.31-First-Time-Playing-Rengo.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/01/2013.01.31-First-Time-Playing-Rengo.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/01/2013.01.31-First-Time-Playing-Rengo.sgf[/download]
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1784</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Friday Go Forward: Week 53</title>
+	<atom:link href="/friday-go-forward-week-53/feed/" rel="self" type="application/rss+xml" />
+	<link>/friday-go-forward-week-53/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: RisingStar</title>
+		<link>/friday-go-forward-week-53/#comment-1654</link>
+		<dc:creator><![CDATA[RisingStar]]></dc:creator>
+		<pubDate>Tue, 11 Mar 2014 17:38:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4729#comment-1654</guid>
+		<description><![CDATA[Thanks a lot for the encouragement Ben :)]]></description>
+		<content:encoded><![CDATA[<p>Thanks a lot for the encouragement Ben 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/friday-go-forward-week-53/#comment-1653</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2014 19:53:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4729#comment-1653</guid>
+		<description><![CDATA[Good luck to you as well! Looking forward to seeing you on the SDK side of the wall in the near future! You definitely have the potential so don&#039;t give up!]]></description>
+		<content:encoded><![CDATA[<p>Good luck to you as well! Looking forward to seeing you on the SDK side of the wall in the near future! You definitely have the potential so don&#8217;t give up!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: RisingStar</title>
+		<link>/friday-go-forward-week-53/#comment-1652</link>
+		<dc:creator><![CDATA[RisingStar]]></dc:creator>
+		<pubDate>Fri, 07 Mar 2014 19:26:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4729#comment-1652</guid>
+		<description><![CDATA[Sounds great Ben! While you&#039;re climbing over the dan wall, though, I&#039;ll be climbing the SDK one. Good luck :)]]></description>
+		<content:encoded><![CDATA[<p>Sounds great Ben! While you&#8217;re climbing over the dan wall, though, I&#8217;ll be climbing the SDK one. Good luck 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

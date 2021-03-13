@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>follow up move &#8211; BenGoZen</title>
+	<atom:link href="/tag/follow-up-move/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>The Follow-Up Move</title>
+		<link>/the-follow-up-move/</link>
+		<pubDate>Wed, 09 Jan 2013 14:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[follow up move]]></category>
+		<category><![CDATA[getting stronger]]></category>
+
+		<guid isPermaLink="false">//?p=1537</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #12 Like the flow of water down a waterfall, every player&#8217;s goal is to have their territory pervade into as much of the go board in the most efficient way possible. As kyu players, we often attempt to do this with moves that either look or &#8220;feel&#8221; right. We are compelled [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center"><em>Weekly Go Wednesday, Issue #12</em></h2>
+<p><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12.jpg"><img class="aligncenter size-full wp-image-1614" alt="Blue Waterfall" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12.jpg?resize=300%2C225" width="300" height="225" data-recalc-dims="1" /></a><br />
+Like the flow of water down a waterfall, every player&#8217;s goal is to have their territory pervade into as much of the go board in the most efficient way possible. As kyu players, we often attempt to do this with moves that either look or &#8220;feel&#8221; right. We are compelled to play these moves for a variety of reasons (i.e., we saw a professional do it, we heard some proverb that we follow without regard to the situation, etc.), yet we often find ourselves grumbling and frustrated when our work is laid to waste or even killed off.<br />
+While part of the issue with our plays lies in our lack of understanding behind the purposes of each move, I have often found that we are also just as guilty for an important and often overlooked piece in our in our play: the follow-up move.<br />
+<span id="more-1537"></span><br />
+Take the following diagram below as a simple example:<br />
+<figure id="attachment_1617" style="width: 150px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12-dia1.png"><img class="size-full wp-image-1617" alt="wgw12-dia1" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12-dia1.png?resize=150%2C180" width="150" height="180" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Black to play.</figcaption></figure>
+<p style="text-align: left">Assuming that no other stones are on the board, then the answer is simple.</p>
+<figure style="width: 150px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12-dia2.png"><img alt="wgw12-dia2" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12-dia2.png?resize=150%2C180" width="150" height="180" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Black A threatens snapback at B.</figcaption></figure>
+While this is a straightforward example involving capturing stones, the same principle should be applied to practically every move you make on the board. If you don&#8217;t have a follow up move in mind that you think your opponent would regret having you play, then you&#8217;ll end up giving free moves to your opponent. I know that it may be difficult at first to see where severe follow up moves are in more abstract situations like attacking, but I assure you that continued practice in doing this will only serve to your benefit in the long run.<br />
+This lack of discipline is one of the big reasons that holds kyu players back from continued growth. Failure to consider a follow-up move may work for awhile in the lower kyu ranks, but I have found that this quickly becomes an obstacle as one enters the realm of SDK&#8217;s (single digit kyus). It is something that does not receive a lot of attention since it is more of a mental habit that is easily overshadowed by poor reading or strategic misconceptions. Therefore, it is critical that you do all that you can to incorporate this thought into every move you play. By doing so, you will certainly find a new type of enjoyment with your games.<br />
+So the next time you find yourself attacking or trying to establishing a strategic position, remember to ask yourself:</p>
+<blockquote><p>If my opponent ignores my move, do I have a severe follow up to punish the tenuki?</p></blockquote>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1537</post-id>	</item>
+	</channel>
+</rss>

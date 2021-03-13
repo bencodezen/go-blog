@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>improvement &#8211; BenGoZen</title>
+	<atom:link href="/tag/improvement/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Maintaining a Higher Quality of Learning</title>
+		<link>/maintaining-higher-quality-learning/</link>
+		<comments>/maintaining-higher-quality-learning/#comments</comments>
+		<pubDate>Thu, 26 Sep 2013 01:51:12 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[change]]></category>
+		<category><![CDATA[improvement]]></category>
+		<category><![CDATA[playing]]></category>
+		<category><![CDATA[reviews]]></category>
+		<category><![CDATA[revision]]></category>
+
+		<guid isPermaLink="false">//?p=4047</guid>
+		<description><![CDATA[So my resolution to play one game a day has ultimately fallen through. As time went on, my games began deteriorating in quality and each game began to feel more like a chore that I needed to hurry and finish instead of a learning experience. After feeling like this for a few days, I decided [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_4048" style="width: 400px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/09/quality-assurance.jpg"><img class="size-full wp-image-4048" alt="Credit to MediaWhiz" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/09/quality-assurance.jpg?resize=400%2C293" width="400" height="293" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://www.mediawhiz.com/trust-quality-score-for-quality-results-2">MediaWhiz</a></figcaption></figure>
+So my resolution to play one game a day has ultimately fallen through. As time went on, my games began deteriorating in quality and each game began to feel more like a chore that I needed to hurry and finish instead of a learning experience. After feeling like this for a few days, I decided to that I needed to re-examine what I was doing before I started developing bad habits. Instead of just stopping the idea as a whole however, I decided to revise it to the following: <strong>Play 1 game of go / thoroughly review one of your previous games per day.</strong><br />
+As an active blogger, I face some challenges when it comes to things like generating content. One of the pieces of content that people seem to like are the game reviews. However, I found that trying to find time to play one game a day every day was making it difficult for me to find time to review my games. In addition, even though it doesn&#8217;t normally take too long for some people to review their games, I have been trying to make my reviews much more thorough and explain each move as I go. So as you might guess, it takes me a lot longer to review games than one might normally take.<br />
+By doing this, I hope to not only reinforce my own understanding of the game; but to also make the reviews more useful to readers of various levels. In addition, by allowing myself the option to choose between playing and reviewing, I am hoping I will be able to maintain a higher quality of learning for myself while generating content for the blog. And for someone with a crazy schedule like me, being able to save that kind of time will do wonders for the other aspects of my life. With that said, hopefully my revised discipline inspires some of you to possibly take a similar route with your study as well. =)</p>
+]]></content:encoded>
+			<wfw:commentRss>/maintaining-higher-quality-learning/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4047</post-id>	</item>
+	</channel>
+</rss>

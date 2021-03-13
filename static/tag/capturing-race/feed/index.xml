@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>capturing race &#8211; BenGoZen</title>
+	<atom:link href="/tag/capturing-race/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 58</title>
+		<link>/monday-go-meditation-game-58/</link>
+		<comments>/monday-go-meditation-game-58/#comments</comments>
+		<pubDate>Mon, 02 Jun 2014 11:15:20 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[april challenge]]></category>
+		<category><![CDATA[calm]]></category>
+		<category><![CDATA[capturing race]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[game]]></category>
+		<category><![CDATA[kifu]]></category>
+		<category><![CDATA[maaike]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[semeai]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=5316</guid>
+		<description><![CDATA[Introduction With this week, we continue on with Game #2 of Maaike&#8217;s April Challenge! Even though the game ended up culminating into a rather large capturing race, I felt that my decisions leading up to it were calm as a whole. Instead of trying to turn it into a capturing race from the beginning, there [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>With this week, we continue on with Game #2 of Maaike&#8217;s <a title="Maaike's April Challenge" href="http://www.thegochallenge.blogspot.com.au/2014/04/april-challenge.html">April Challenge</a>! Even though the game ended up culminating into a rather large capturing race, I felt that my decisions leading up to it were calm as a whole. Instead of trying to turn it into a capturing race from the beginning, there were a number of times when I would offer the possibility of a peaceful resolution. So in that regard, I believe that I was successful in playing a calm game. Hopefully you&#8217;ll think so too!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.02-MGM-58.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.02-MGM-58.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.02-MGM-58.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">When all hopes seems lost, one must consider all moves before giving up, even the empty triangle.</p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-58/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5316</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>weekend hiatus &#8211; BenGoZen</title>
+	<atom:link href="/tag/weekend-hiatus/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Weekend Hiatus Again&#8230;.</title>
+		<link>/weekend-hiatus-again/</link>
+		<pubDate>Tue, 28 Sep 2010 12:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[growth]]></category>
+		<category><![CDATA[need patience]]></category>
+		<category><![CDATA[weekend hiatus]]></category>
+
+		<guid isPermaLink="false">//?p=98</guid>
+		<description><![CDATA[Bleh. I&#8217;ve failed so far as to keeping regular blog posts once I go up to Baltimore on the weekends&#8230;. I&#8217;ll need to fix that. But regardless, I played quite a bit with Todd over the past couple days&#8230; and I have to say it&#8217;s been frustrating yet enlightening. I know I&#8217;ve said this multiple [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_852" style="width: 300px" class="wp-caption aligncenter"><img class="size-full wp-image-852" title="Dirty Dozen Impatience" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2010/09/dirty-dozen-impatience-300x294.jpg?resize=300%2C294" alt="" width="300" height="294" data-recalc-dims="1" /><figcaption class="wp-caption-text">Credit to Sunny and Fit</figcaption></figure>
+Bleh. I&#8217;ve failed so far as to keeping regular blog posts once I go up to Baltimore on the weekends&#8230;. I&#8217;ll need to fix that. But regardless, I played quite a bit with Todd over the past couple days&#8230; and I have to say it&#8217;s been frustrating yet enlightening. I know I&#8217;ve said this multiple times in the past&#8230; but I&#8217;d say that the implications of the line that &#8220;Go is 98% patience&#8221; is &#8220;Read ahead you idiot.&#8221;<br />
+I&#8217;m not the first nor will I be the last to say that I believe that Go really does reveal a lot about a person&#8217;s character. What I&#8217;ve realized&#8230; is that I&#8217;m not as patient as I thought I was. I like to get things done quickly and to use talent and intuition to hope for the best result. The only problem is that this mindset doesn&#8217;t translate well in Go and in the bigger picture&#8230; life.<br />
+Second epiphany is that my asinine &#8220;wanna-be pro&#8221; self keeps trying to create all these clever trick plays (e.g. shortage of liberty situations or awesome snapbacks). What does that mean for a player still in the DDK who plays an opponent of shodan strength? Complete and utter failure. As Todd so kindly reminded me, &#8220;Go is not about killing stones&#8230;.&#8221; I must&#8217;ve heard and read this about a hundred times since I&#8217;ve started, yet still it still has not sunk into my brain&#8230;. sigh.<br />
+So what do I take away from all of this? Two things:</p>
+<ol>
+<li>Train my patience as a person so that it will not only impact my ability as a Go player, but the rest of my life as well.</li>
+<li>Focus on the fundamentals of Go. Stay away from trying to do anything crazy until the basic are set and stone in my style of play.</li>
+</ol>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">98</post-id>	</item>
+	</channel>
+</rss>

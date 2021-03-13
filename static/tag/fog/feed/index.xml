@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>fog &#8211; BenGoZen</title>
+	<atom:link href="/tag/fog/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>In a Weird Limbo with My Go</title>
+		<link>/in-a-weird-limbo-with-my-go/</link>
+		<comments>/in-a-weird-limbo-with-my-go/#comments</comments>
+		<pubDate>Wed, 16 Oct 2013 00:55:24 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[confused]]></category>
+		<category><![CDATA[directionless]]></category>
+		<category><![CDATA[fog]]></category>
+		<category><![CDATA[haze]]></category>
+
+		<guid isPermaLink="false">//?p=4170</guid>
+		<description><![CDATA[Over the past weekend, I decided to ramp up my activity on Nova.gs for a few reasons: I want to support the developers by helping improve their user base and become a part of the founding community. I was not playing enough games (in real time) and needed some outlet for me to practice applying [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the past weekend, I decided to ramp up my activity on Nova.gs for a few reasons:</p>
+<ol>
+<li>I want to support the developers by helping improve their user base and become a part of the founding community.</li>
+<li>I was not playing enough games (in real time) and needed some outlet for me to practice applying things I am learning while trying new things out. By doing so, I&#8217;m hoping that my in real time games will become stronger.</li>
+<li>As much as correspondence games are harder for me to play since I feel like my thoughts are constantly disjointed, I figured it would help me with practicing constant whole board thinking and positional judgment before each move.</li>
+</ol>
+<p>In terms of my overall emotions though, I&#8217;m in this weird limbo with go. Normally when people are conflicted on their journey, most might describe it as being at a fork in the road. Recently for me however, I feel as if I&#8217;m standing in a forest while surrounded by a dense fog. There is this sense of stumbling one step at a time without quite knowing where I&#8217;m headed. I&#8217;m trying a lot of different things, but I&#8217;m feeling rather lost in terms of what is holding me back.<br />
+To be clear though, this emotion is different from feeling burned out. I still enjoy all the time I spend on go, but I&#8217;m starting to wonder whether any of it is helping me get stronger. But no matter, I just have to have faith in my training regimen and move forward with what I enjoy. As long as I do that, I believe that I&#8217;ll be able to make more sense of this when I finally emerge from this haze.</p>
+]]></content:encoded>
+			<wfw:commentRss>/in-a-weird-limbo-with-my-go/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4170</post-id>	</item>
+	</channel>
+</rss>

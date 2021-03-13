@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>weak groups &#8211; BenGoZen</title>
+	<atom:link href="/tag/weak-groups/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: The Workshop Lectures Volume 3</title>
+		<link>/book-review-the-workshop-lectures-volume-3/</link>
+		<pubDate>Thu, 22 Aug 2013 09:00:25 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[forcing moves]]></category>
+		<category><![CDATA[opening]]></category>
+		<category><![CDATA[weak groups]]></category>
+		<category><![CDATA[workshop]]></category>
+		<category><![CDATA[yilun yang]]></category>
+
+		<guid isPermaLink="false">//?p=3777</guid>
+		<description><![CDATA[The Workshop Lectures (Volume 3) Description: The Workshop Lectures Volume 3 is part a series of lectures given by Yilun Yang (7P) at workshops in Maryland and Pennsylvania. The topics covered include: &#8220;Playing the Opening,&#8221; &#8220;Developments Around the 4-4 Point,&#8221; &#8220;Punishing Weak Groups Directly,&#8221; &#8220;Using Forcing Moves,&#8221; and &#8220;Handling Weak Stones.&#8221; [expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;] [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/08/workshopLecturesv3.jpg"><img class="aligncenter size-full wp-image-3778" alt="The Workshop Lectures Volume 3 Cover" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/08/workshopLecturesv3.jpg?resize=286%2C418" width="286" height="418" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">The Workshop Lectures (Volume 3)</h2>
+<p><strong>Description:</strong> The Workshop Lectures Volume 3 is part a series of lectures given by Yilun Yang (7P) at workshops in Maryland and Pennsylvania. The topics covered include: &#8220;Playing the Opening,&#8221; &#8220;Developments Around the 4-4 Point,&#8221; &#8220;Punishing Weak Groups Directly,&#8221; &#8220;Using Forcing Moves,&#8221; and &#8220;Handling Weak Stones.&#8221;<br />
+<span id="more-3777"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, The Workshop Lectures (Volume 3)<br />
+Series, The Workshop Lectures<br />
+Author, Yilun Yang (7P)<br />
+Publisher, Slate &amp; Shell<br />
+Published, &#8220;2007&#8221;<br />
+Language, English<br />
+ISBN, 1-932001-34-4<br />
+Length, 76 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>Playing the Opening</li>
+<li>Developments Around the 4-4 Point</li>
+<li>Punishing Weak Groups Directly</li>
+<li>Using Forcing Moves</li>
+<li>Handling Weak Stones</li>
+</ol>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>My Abilities</strong></p>
+<ul>
+<li>A mid-high SDK (single digit kyu) who has read his fair share of books and has a decent foundation of most areas in go.</li>
+</ul>
+<p><strong>My Perspective</strong></p>
+<ul>
+<li>Since these are written to be more of a &#8220;workshop&#8221; format, I was looking forward to a new style of writing along with a refreshing perspective on some common questions that most players might have.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>As usual, Yang continues to breakdown topics into simple explanations that I could easily understand.</li>
+<li>The topics are extremely relevant to the average player since a majority of go literature assumes that the reader is already familiar and well versed in these basic concepts.</li>
+<li>Yang usually has a checklist of questions for each section to remind the reader of the important things to remember.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>A much better understanding of how to evaluate whether a group is weak or not.</li>
+<li>Better grasp on what forcing moves are. Though applying it is still rather hazy for me.</li>
+</ul>
+<p><strong>What style of teaching does the book use?</strong></p>
+<ul>
+<li>Workshop Format
+<ul>
+<li>Topics of broken down into its simplest format and represents more of an outline than a thorough textbook.</li>
+</ul>
+</li>
+<li>Primary Learning Mechanism:
+<ul>
+<li>Explanations with accompanying diagrams</li>
+</ul>
+</li>
+<li>Other Learning Mechanisms:
+<ul>
+<li>Practice problems</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>Though the examples can be helpful, I found that they slightly overwhelming after some time since I am still having issues actually understanding the concept solidly. A good example of this is whether or not a forcing move is good or bad. I have a general idea, but that&#8217;s all. So before I get into the weeds of how to use it, it would have been better to have more basic practice questions.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. The explanations are concise and the accompanying diagrams are often no more than a few moves long.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Breaks down topics into really easy to understand explanations.</li>
+<li>Has a lot of valuable content for such a short book!</li>
+<li>Worth every penny you spend on it!</li>
+</ol>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+In this volume, I found that the sections on the opening were a little harder to grasp. This is probably due to the fact that the nature of the opening is rather vast and thus trying to condense it down into a few pages is rather difficult. The forcing move section was also a little bit tough for me to really grab hold of as well. I imagine this is due to the fact that the whole concept of &#8220;timing&#8221; in go is not so easily summed up in a few pages. On the other hand though, I was very impressed by the sections regarding weak groups. And in my opinion, those two sections make the entire book worth purchasing.<br />
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players who are 10 kyu or stronger.</li>
+<li>Players who want guidelines on how to handle the topics covered in the book.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Slate and Shell &#8211; <a href="http://www.slateandshell.com/SSYY009.html">$18.00</a> USD (shipping and handling not included)</li>
+<li>SmartGo Books &#8211; <a href="http://www.smartgo.com/books.htm">$5.99</a> USD (e-Book for iPhone, iPad &amp; iPod Touch Only)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: The Workshop Lectures Volume 1" href="//book-review-the-workshop-lectures-volume-1/">The Workshop Lectures &#8211; Volume 1</a></li>
+<li><a title="Book Review: The Workshop Lectures Volume 2" href="//book-review-the-workshop-lectures-volume-2/">The Workshop Lectures &#8211; Volume 2</a></li>
+<li>The Workshop Lectures &#8211; Volume 3</li>
+<li><a title="Book Review: The Workshop Lectures Volume 4" href="//book-review-the-workshop-lectures-volume-4/">The Workshop Lectures &#8211; Volume 4</a></li>
+<li><a title="Book Review: The Workshop Lectures Volume 5" href="//book-review-the-workshop-lectures-volume-5/">The Workshop Lectures &#8211; Volume 5</a></li>
+<li><a title="Book Review: The Workshop Lectures Volume 6" href="//book-review-workshop-lectures-volume-6/">The Workshop Lectures &#8211; Volume 6</a></li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on August 22nd, 2013</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">3777</post-id>	</item>
+	</channel>
+</rss>

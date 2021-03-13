@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>brain &#8211; BenGoZen</title>
+	<atom:link href="/tag/brain/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Not Dead But Deep Fried</title>
+		<link>/not-dead-but-deep-fried/</link>
+		<pubDate>Tue, 19 Feb 2013 02:55:53 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[brain]]></category>
+		<category><![CDATA[exhausted]]></category>
+		<category><![CDATA[fried]]></category>
+		<category><![CDATA[tired]]></category>
+
+		<guid isPermaLink="false">//?p=1940</guid>
+		<description><![CDATA[No worries. I&#8217;m not dead. I apologize for not being able to update on a daily basis for the NAGC. After Friday, there was just no way I could keep up with writing and the convention at the same time. On the upside though, there will definitely be posts coming in the near future with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No worries. I&#8217;m not dead. I apologize for not being able to update on a daily basis for the <a title="North American Go Convention — Day 1" href="//north-american-go-convention-day-1/">NAGC</a>. After Friday, there was just no way I could keep up with writing and the convention at the same time. On the upside though, there will definitely be posts coming in the near future with game reviews and all. So there should be some good content heading your way.<br />
+On another note, my brain is rather fried at the moment. So I will probably be taking the rest of the month to take time to gather my thoughts and restructure some things around to reflect some of the insight I&#8217;ve received this past weekend. So for the rest of February, Weekly Go Wednesday will be on a temporary break. Meanwhile, I can assure you that I will be working hard to design a new system for blog content and how I can improve my study of go in order to help you gain a better understanding of my mistakes and lessons learned. Nothing to fear though, I will still be writing frequently and keeping you all posted on my progress. =)</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1940</post-id>	</item>
+		<item>
+		<title>Playing Go Makes Your Brain Grow!</title>
+		<link>/playing-go-makes-your-brain-grow/</link>
+		<pubDate>Tue, 07 Sep 2010 12:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[baduk]]></category>
+		<category><![CDATA[brain]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[science]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=122</guid>
+		<description><![CDATA[So I just read an interesting article from the AGA concerning how &#8220;serious studies of go causes actual physical changes in the brain.&#8221; Although this doesn&#8217;t come as much of a surprise for most serious go players, I think it&#8217;s great that we now have more significant data that will be useful in our proponent [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="clear: both; text-align: left;">
+So I just read an interesting article from the AGA concerning how &#8220;serious studies of go causes actual physical changes in the brain.&#8221; Although this doesn&#8217;t come as much of a surprise for most serious go players, I think it&#8217;s great that we now have more significant data that will be useful in our proponent of the game.<br />
+As any relatively serious go player might expect, they found that &#8220;larger regions of white matter&#8230; that are related to attentional control, working memory, executive regulation, and problem solving&#8221; were found in what they termed as &#8220;long-termed trained players.&#8221;<br />
+This will be interesting to see more research studies done on what go can do for us mentally.<br />
+Original Article: <a href="http://www.usgo.org/news/2010/09/new-study-finds-playing-go-makes-brains-grow/" target="_blank">http://www.usgo.org/news/2010/09/new-study-finds-playing-go-makes-brains-grow/</a>
+</div>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">122</post-id>	</item>
+	</channel>
+</rss>

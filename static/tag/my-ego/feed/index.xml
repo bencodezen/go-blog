@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>my ego &#8211; BenGoZen</title>
+	<atom:link href="/tag/my-ego/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Not a Sandbagger</title>
+		<link>/not-a-sandbagger/</link>
+		<pubDate>Thu, 10 Jan 2013 05:30:56 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[defeat]]></category>
+		<category><![CDATA[my ego]]></category>
+		<category><![CDATA[ranked games]]></category>
+		<category><![CDATA[tilt]]></category>
+
+		<guid isPermaLink="false">//?p=1637</guid>
+		<description><![CDATA[Originally, as you all well know, I had intended on just continuing abstaining from ranked games, but it seems that the time has come for me to return to ranked games. What spurred this sudden change of ideas? Well, I was talking to Tilwen today, and he said the following, &#8220;You&#8217;ll have to earn your [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Originally, as you all well know, I had intended on just continuing abstaining from ranked games, but it seems that the time has come for me to return to ranked games. What spurred this sudden change of ideas?<br />
+Well, I was talking to Tilwen today, and he said the following, &#8220;You&#8217;ll have to earn your true rank soon so that you can no longer just say that you won games because you are lucky that stronger players are underestimating you since you have a 6k next to your name.&#8221;<br />
+As I sat there struck by his comment, other players&#8217; comments about my true rank began to flood into my head.<br />
+&#8220;Oh man&#8230; are people starting to see me as a sandbagger?!&#8221;</p>
+<p style="text-align: center;"><strong>(o.O)</strong></p>
+<p style="text-align: left;">For those who don&#8217;t know what sandbagging is, it&#8217;s purposely lowering your rank so that you can easily win. Definitely not my definition of enjoyment.</p>
+<p>Starting off my return to ranked games has been rough though: four straight losses. It was so unbelievably frustrating at the time because I had just spent the last month playing against stronger players and actually managing to win in even games. So to lose consecutively to players that are supposedly around my &#8220;fake 6k&#8221; rank has been rather depressing. Although why I&#8217;m losing is not a mystery to me, it is due to one thing and one thing only: my ego.<br />
+More on this later&#8230;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1637</post-id>	</item>
+	</channel>
+</rss>

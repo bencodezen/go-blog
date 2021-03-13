@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>game 1 &#8211; BenGoZen</title>
+	<atom:link href="/tag/game-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>WGW 31: Gu Li vs Lee Sedol &#8211; Jubango Game 1 Amateur Review</title>
+		<link>/wgw-31-gu-li-vs-lee-sedol-jubango-game-1-amateur-review/</link>
+		<comments>/wgw-31-gu-li-vs-lee-sedol-jubango-game-1-amateur-review/#comments</comments>
+		<pubDate>Wed, 12 Feb 2014 12:15:53 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[amateur review]]></category>
+		<category><![CDATA[battle]]></category>
+		<category><![CDATA[epic]]></category>
+		<category><![CDATA[game 1]]></category>
+		<category><![CDATA[gu li]]></category>
+		<category><![CDATA[jubango]]></category>
+		<category><![CDATA[kiai]]></category>
+		<category><![CDATA[lee sedol]]></category>
+
+		<guid isPermaLink="false">//?p=4647</guid>
+		<description><![CDATA[Weekly Go Wednesday: Issue #31 For those who didn&#8217;t know, Gu Li and Lee Sedol had their first epic match of their ten match series jubango. And though many of you might have watched the game or checked out the game record later on, I wouldn&#8217;t be surprised if a number of weaker players like [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday: Issue #31</h2>
+<figure id="attachment_4650" style="width: 392px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/Lee-Sedol-jubango-game-1.jpg"><img class=" wp-image-4650 " alt="Credit to GoGameGuru" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/Lee-Sedol-jubango-game-1.jpg?resize=392%2C263" width="392" height="263" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://gogameguru.com/lee-sedol-gets-flying-start-gu-li-vs-lee-sedol-jubango/">GoGameGuru</a></figcaption></figure>
+For those who didn&#8217;t know, Gu Li and Lee Sedol had their first epic match of their <a title="Gu Li and Lee Sedol Jubango" href="//gu-li-lee-sedol-jubango/">ten match series jubango</a>. And though many of you might have watched the game or checked out the game record later on, I wouldn&#8217;t be surprised if a number of weaker players like myself were left in bewilderment most of the time. After all, even though it was really exciting, it&#8217;s hard to learn from a game where so much is going on at once!<br />
+So I came up with the idea to team up with my sensei, frozensoul, and do a review together in order to provide a step-by-step review of every move in the game. Now granted, I&#8217;m sure that many strong dan players might refute some of my comments or argue that there is so much more to what I reviewed, but my goal is simply this: <strong>To provide a game record that would allow kyu players to easily follow the game and understand some of the most significant moments of the game.</strong> As a result, it should be no surprise that complicated variations and advanced theoretical discussions are intentionally avoided and left to other people who are much more qualified to speak to those things than I am (i.e., <a title="World Go Online Review of Jubango Game 1" href="http://www.kiseido.com/printss/guliten1.html">World Go Online</a> and <a title="GoGameGuru Review of Jubango Game 1" href="http://gogameguru.com/go-commentary-lee-sedol-vs-gu-li-jubango-game-1/">GoGameGuru</a>). The following is the result of our efforts:<br />
+<span id="more-4647"></span><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/02\/Lee-Sedol-vs-Gu-Li-J1-AmateurReview.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/02/Lee-Sedol-vs-Gu-Li-J1-AmateurReview.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/02/Lee-Sedol-vs-Gu-Li-J1-AmateurReview.sgf[/download]
+<p style="text-align: left;">Finally, I would love to do this for every game in the jubango series. However, it took a LOT of time and effort in order to do so. As a result, I am hoping to get feedback from everyone on whether or not you think the review was helpful / was it worth it in order to help me decide whether to continue doing this or not. And as usual, if you like what I have done but have ideas for making it even better, please be sure to mention that in the comments below (or <a title="Contact" href="//contact/">email me</a> if you&#8217;re feeling shy =D). Looking forward to reading all of your comments!</p>
+]]></content:encoded>
+			<wfw:commentRss>/wgw-31-gu-li-vs-lee-sedol-jubango-game-1-amateur-review/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4647</post-id>	</item>
+	</channel>
+</rss>

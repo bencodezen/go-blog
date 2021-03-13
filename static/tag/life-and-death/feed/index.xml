@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>life and death &#8211; BenGoZen</title>
+	<atom:link href="/tag/life-and-death/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 53</title>
+		<link>/monday-go-meditation-game-53/</link>
+		<comments>/monday-go-meditation-game-53/#comments</comments>
+		<pubDate>Mon, 28 Apr 2014 11:15:56 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[3k]]></category>
+		<category><![CDATA[ladder]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[resignation]]></category>
+		<category><![CDATA[victory]]></category>
+		<category><![CDATA[white]]></category>
+		<category><![CDATA[zak]]></category>
+
+		<guid isPermaLink="false">//?p=4964</guid>
+		<description><![CDATA[Introduction For this week&#8217;s meditation, we really get to see a very popular joseki choice (i.e., small knight dive after one space low approach to the star point) get demolished (globally). Though it is certainly still an option in certain fuseki, it has fallen out of favor with me and I don&#8217;t really see it as [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>For this week&#8217;s meditation, we really get to see a very popular joseki choice (i.e., small knight dive after one space low approach to the star point) get demolished (globally). Though it is certainly still an option in certain fuseki, it has fallen out of favor with me and I don&#8217;t really see it as a viable move anymore in today&#8217;s metagame because it gives your opponent the opportunity to choose what&#8217;s best for him: (1) Take corner? (2) Take side? (3) Tenuki. Not a pleasant feeling at all&#8230;<br />
+Aside from that though, this is a game that is full of fighting spirit from both sides with a constant push and pull to gain the initiative. And because this game is shorter than the typical game I normally feature, I would recommend that you take more time to solve the problems in the kifu. There are two in particular: (1) a ladder and (2) life and death. Hope you enjoy the review!<br />
+Thanks to Zak for letting me use our game and helping out with figuring out some of the key variations. Looking forward to our next one!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/04\/2014.04.28-MGM-53.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/04/2014.04.28-MGM-53.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/04/2014.04.28-MGM-53.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">Having anything more than one weak group at a time will make for a difficult game.</p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-53/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4964</post-id>	</item>
+		<item>
+		<title>Friday Go Forward: Week 59</title>
+		<link>/friday-go-forward-week-59/</link>
+		<comments>/friday-go-forward-week-59/#comments</comments>
+		<pubDate>Fri, 25 Apr 2014 11:15:52 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[new blog]]></category>
+		<category><![CDATA[risingstar]]></category>
+		<category><![CDATA[tesuji]]></category>
+		<category><![CDATA[tournament]]></category>
+		<category><![CDATA[washington open]]></category>
+
+		<guid isPermaLink="false">//?p=5041</guid>
+		<description><![CDATA[Overview After trying to go through my training regimen from last week, I realized I was getting bored of practicing the same problems over and over again. And while my intentions were good (since my goal was to make all the problems instinctive), interest and motivation trumps that so I&#8217;ve moved on to more interesting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Overview</h2>
+<p>After trying to go through my training regimen from last week, I realized I was getting bored of practicing the same problems over and over again. And while my intentions were good (since my goal was to make all the problems instinctive), interest and motivation trumps that so I&#8217;ve moved on to more interesting topics to change it up for now. And especially after giving thought to the notion that <a title="WGW37: Tesuji More Useful Than Tsumego?" href="//wgw37-tesuji-more-useful-than-tsumego/">tesuji is more important than life and death</a>, I really wanted to start studying tesuji once again.<br />
+On another note, in case anyone missed it, the <a title="Nova Go Club Tournaments Website" href="http://www.novagoclub.org/tournaments">Washington Open</a> is happening this weekend. Yours truly will be attending and competing/participating in whatever I can do. So you can definitely look forward to a series of posts on the event. I&#8217;m a little nervous because I haven&#8217;t really been playing as much as I should have, but I&#8217;ll have to brush that aside and just go to have as much fun as I can. If I can play really interesting games, then I will consider this event to be a success. See you all next week!<br />
+PS. In case you didn&#8217;t know, fellow go player Risingstar just started his own <a title="RisingStar's Blog" href="http://gosimplycomplex.blogspot.com/">blog</a>, so be sure to check it out and support him as we try and bolster go&#8217;s presence online!</p>
+<h2>Training Regimen</h2>
+<ul>
+<li><b>Life and Death Problems </b>
+<ul>
+<li>Book: Jump Level Up 5</li>
+<li>Frequency: Daily</li>
+<li>Task: 10 minutes working through problems</li>
+</ul>
+</li>
+<li><strong><span style="line-height: 1.5em;">Tesuji Problems</span></strong>
+<ul>
+<li><span style="line-height: 1.5em;"> Book: Graded Go Problems for Dan Players (Vol. 2) &#8211; 300 Tesuji Problems</span></li>
+<li>Frequency: Daily</li>
+<li>Task: 10 minutes working through problems</li>
+</ul>
+</li>
+</ul>
+<h2>Games</h2>
+<ul>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  3 games</li>
+<li><a title="Pandanet-IGS Official Site" href="http://pandanet-igs.com/communities/pandanet">IGS</a> &#8211; 2 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 5 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  2 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li>Jump Level Up 5</li>
+<li>Graded Go Problems for Dan Players (Vol. 2) &#8211; 300 Tesuji Problems</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-59/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5041</post-id>	</item>
+		<item>
+		<title>Book Review: Graded Go Problems for Dan Players &#8211; Vol. 1</title>
+		<link>/book-review-graded-go-problems-dan-players-vol-1/</link>
+		<pubDate>Sun, 02 Mar 2014 12:15:22 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[collection]]></category>
+		<category><![CDATA[dan]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[kiseido]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[reading]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=4735</guid>
+		<description><![CDATA[Graded Go Problems for Dan Players: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan) Description: This is the first volume of the continuing series to the popular &#8220;Graded Go Problems for Beginners.&#8221; This first book is focused on providing life-and-death techniques that are foundational to developing stronger reading abilities as players try to climb [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/ggpdpv1cover.jpg"><img class="aligncenter  wp-image-4736" alt="ggpdpv1cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/ggpdpv1cover.jpg?resize=288%2C373" width="288" height="373" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Graded Go Problems for Dan Players: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan)</h2>
+<p><strong>Description:</strong> This is the first volume of the continuing series to the popular &#8220;Graded Go Problems for Beginners.&#8221; This first book is focused on providing life-and-death techniques that are foundational to developing stronger reading abilities as players try to climb their way into dan status.<br />
+<span id="more-4735"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, GGPDP: Volume One &#8211; 300 Life-and-Death Problems (5-kyu to 3-dan)<br />
+Series, Graded Go Problems for Dan Players (GGPDP)<br />
+Compiled by, Masaru Aoki and Hirokazu Sato<br />
+Translator, Richard Bozulich<br />
+Publisher, <a href="http://www.kiseido.com/">Kiseido</a><br />
+Published, &#8220;November 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-4-906574-61-2<br />
+Length, 232 pages<br />
+Problems, 300 problems<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Translator&#8217;s Preface</li>
+<li>Glossary of Go Terms Used in this Book</li>
+<li>300 Life and Death Problems (#1-300)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+As an enthusiast of the &#8220;Graded Go Problems for Beginners&#8221; series, I have to say that I was ecstatic when I heard about this series. After all, every kyu player dreams of making it to the big dan league and being able to solve &#8220;dan level&#8221; problems. And even though I got myself a copy of this book quite a while ago, this book seemed quite daunting to me for some time due to the fact that I just felt I wasn&#8217;t ready for &#8220;dan&#8221; problems. Anyhow, I&#8217;m glad I finally got around to reading it so that you can hear my thoughts on the book itself.<br />
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+Perhaps my favorite aspect about the entire &#8220;Graded Go Problems&#8221; series as a whole is the extremely clean format. For those who don&#8217;t know what I&#8217;m talking about, every page that contains the problems is divided into four clean and even rectangles. Secondly, the numbering, diagram, directions, and even hints are all in universal places so that once you get exposed to the format, you&#8217;ll never wonder where to look next. And last but not least, the solutions are never exposed on the same page (aka you can&#8217;t see the solution as you&#8217;re trying to solve the problem). And thankfully, Graded Go Problems for Dan Players continues that tradition.<br />
+One of the new things I noticed with this series is that they added an actual rank estimation for the problem difficulty. So a few examples of this might include: &#8220;Solve at a glance = 4-kyu, Solve within five minutes = 3-dan, etc.&#8221; While this is rather neat since you feel a sense of accomplishment if you&#8217;re able to solve it within the allotted time-frame, it&#8217;s important to realize that these rank estimations are a bit arbitrary. Just because you&#8217;re able to solve a few dan level problems at a glance does not necessarily mean you are &#8220;dan&#8221; level (whether it&#8217;s reading ability or playing ability). If you&#8217;re able to solve the whole book at a glance though, then it goes without saying you are way stronger than a dan player. xD<br />
+When it comes to the solutions, they have a set standard format for how solutions are displayed and approached. In terms of basic format, every problem gets three solution diagrams. This generally includes the correct variation, an alternate variation / continuation of the correct variation, and an incorrect variation. In addition, there is usually at least a sentence to two explaining each of the variations in order to help the reader understand what&#8217;s going on.<br />
+If there were to be any complaint about this series, it would probably be that the problems are not segmented into different techniques. However, I would remind the reader that the purpose of this series is to provide a collection of high-quality problems. As a result, the problems would be an assortment of different problems as opposed to a hierarchy of problems broken down by techniques. If you&#8217;re looking for problems categorized in such a fashion, you might benefit from checking out the Level Up Series along with Life and Death Problems 1 Basics by Robert Jasiek.<br />
+Overall, I think that this series is destined for the same greatness as the &#8220;Graded for Go Problems for Beginners&#8221; when it comes to high quality problems that are displayed in an easy to read format. Definitely a must-have for any player serious about practicing their reading and looking for ways to keep honing their ability. Highly recommended!<br />
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Continues to provide the easy to read format you come to love from &#8220;Graded Go Problems for Beginners.&#8221;</li>
+<li>Attempts to provide accurate rank difficulty estimations for problems through the time it takes to solve it.</li>
+<li>Lots of high-quality problems that you can rely on without worrying about a mistake in the solution.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Exposure to a lot of new techniques or moves I would have never considered when solving life and death.</li>
+<li>Reassurance that my reading abilities have been improving.</li>
+<li>Realization that I still had a ways to go before I could consider myself having &#8220;dan-level&#8221; reading.</li>
+</ul>
+<p><strong>What is the format of the book?</strong></p>
+<ul>
+<li>You get a set of problems and then when you turn the page you get the respective solutions (so that they are not within the same reading area). Very easy to follow and read.</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>Nothing. I really think this book is perfect as it stands.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Absolutely. Very clear and concise.</li>
+</ul>
+<p><strong>Bottom Line</strong></p>
+<ol>
+<li>Great problem set for players 5 kyu and stronger.</li>
+<li>Continues to uphold the quality and ease of reading you come to expect from the &#8220;Graded Go Problems&#8221; series.</li>
+<li>Highly recommended for anyone looking to take the next steps to raising their reading ability to &#8220;dan&#8221; level!</li>
+</ol>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players 5-kyu and stronger.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Kiseido &#8211; <a href="http://kiseido.com/go_books.htm#K15">$25</a> (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>GGPDP &#8211; Volume One: 300 Life-and-Death Problems (5-kyu to 3-dan)</li>
+<li>GGPDP &#8211; Volume Two: 300 Tesuji Problems (5-kyu to 3-dan)</li>
+<li>GGPDP &#8211; Volume Three: 300 Joseki Problems (1-dan to 3-dan)</li>
+<li>GGPDP &#8211; Volume Four: 300 Life-and-Death Problems (4-dan to 7-dan)</li>
+<li>GGPDP &#8211; Volume Five: 300 Tesuji Problems (4-dan to 7-dan)</li>
+<li>GGPDP &#8211; Volume Six: Joseki Problems (TBD)</li>
+<li>GGPDP &#8211; Volume Seven: 256 Opening and Middle Game Problems (1-dan to 7-dan)</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on March 2nd, 2014</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4735</post-id>	</item>
+		<item>
+		<title>Book Review: Level Up 9</title>
+		<link>/book-review-level-up-9/</link>
+		<comments>/book-review-level-up-9/#comments</comments>
+		<pubDate>Sat, 27 Jul 2013 09:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[capturing]]></category>
+		<category><![CDATA[educational]]></category>
+		<category><![CDATA[joseki]]></category>
+		<category><![CDATA[key stones]]></category>
+		<category><![CDATA[korean style]]></category>
+		<category><![CDATA[level up]]></category>
+		<category><![CDATA[life and death]]></category>
+
+		<guid isPermaLink="false">//?p=3660</guid>
+		<description><![CDATA[Level Up 9 Description: Level Up 9 is part of the Level Up! Series that serves as a workbook in private go schools in Korea. Though designed for children, the content and practice provided is invaluable for adults and children alike. [expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;] [table] Title, Level Up 9 Series, Level Up! Series Author, Lee [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/07/levelup9cover.jpg"><img class="aligncenter size-full wp-image-3661" alt="Level Up 9 Cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/07/levelup9cover.jpg?resize=300%2C400" width="300" height="400" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Level Up 9</h2>
+<p><strong>Description:</strong> <em>Level Up 9</em> is part of the Level Up! Series that serves as a workbook in private go schools in Korea. Though designed for children, the content and practice provided is invaluable for adults and children alike.<br />
+<span id="more-3660"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Level Up 9<br />
+Series, Level Up! Series<br />
+Author, Lee Jae-Hwan<br />
+Translators, Lee Seong-Geun &amp; Daniela Trinks<br />
+Supervisor, Yoo Chang-Hyuk (9P)<br />
+Publisher, <a href="http://www.baduktopia.com/">Baduktopia</a><br />
+Published, &#8220;April 29th, 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-89-90965-89-9<br />
+Length, 168 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>Glossary</li>
+<li>The US Go Congress</li>
+<li>Finding the Key Stones</li>
+<li>Capturing and Saving the Key Stones</li>
+<li>Dansu and Then Capture</li>
+<li>Taking and Choking the Weak Point</li>
+<li>Kinds of Connections</li>
+<li>Opening Sample 1</li>
+<li>Startpoint Joseki (Pattern) 3</li>
+<li>Snapback by Hane</li>
+<li>Where to Throw-in</li>
+<li>Capturing Race</li>
+<li>Making a False/Real Eye</li>
+<li>Where to Make an Eye</li>
+<li>Where to Take an Eye</li>
+<li>Starpoint Joseki (Pattern) 4</li>
+<li>Opening Sample 2</li>
+<li>Let&#8217;s Think Before Playing the Next Move</li>
+<li>Is a Cut/Hane/Block Possible?</li>
+<li>Learning Baduk and Emotional Quotient</li>
+<li>Capturing Techniques</li>
+<li>Opening Sample 3</li>
+<li>Be Careful with the Nose Attachment</li>
+<li>Next Move</li>
+<li>Opening Sample 4</li>
+<li>Life and Death &amp; Capturing Race</li>
+<li>Opening Sample 5</li>
+<li>How to Play the Endgame</li>
+<li>Opening Sample 6</li>
+<li>How to Answer</li>
+<li>Level Tests</li>
+</ol>
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ol>
+<li>Really works on the ability to recognize key stones.</li>
+<li>Contains a great mix of life and death, haengma (i.e., stone movement), and capturing techniques.</li>
+<li>Exposes the reader to joseki using a simple but effective method.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>My Abilities</strong></p>
+<ul>
+<li>A mid to high SDK (single digit kyu) kyu who has read his fair share of go books and has a pretty strong foundation in the basics and teaching go.</li>
+</ul>
+<p><strong>My Perspective</strong></p>
+<ul>
+<li>Level Up 8 definitely gave me quite a bit to pause about, so I wasn&#8217;t taking any chances with this one either.</li>
+</ul>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Starts training the reader to look for the key stones.</li>
+<li>Trains the reader to look for weak points in shapes for life and death.</li>
+<li>Exposes the reader to a number of joseki using knowledge that one should have gained from the previous volumes.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Realization that I&#8217;m actually kind of slow when it comes to recognizing which stones are critical.</li>
+<li>A better understanding of why certain joseki progress the way they do.</li>
+<li>Improved baseline when it comes to reading basic life and death situations.</li>
+</ul>
+<p><strong>What style of teaching does the book use?</strong></p>
+<ul>
+<li>Curriculum Style
+<ul>
+<li>Content is organized into lessons, topics, or themes in order to facilitate learning.</li>
+</ul>
+</li>
+<li>Primary Learning Mechanism:
+<ul>
+<li>Practice problems</li>
+</ul>
+</li>
+<li>Other Learning Mechanisms:
+<ul>
+<li>Cute and entertaining comics to teach and/or reinforce lessons.</li>
+<li>Simple explantations that are accompanied by equally simple diagrams.</li>
+<li>Samples of openings from professional games to further acclimate the reader to full games on a 19&#215;19 board.</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>No complaints here!</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. Other than the occasional article, the explanations are very easy short and easy to understand.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.</li>
+<li>People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Yellow Mountain Imports &#8211; <a title="Yellow Mountain Imports Purchase Link" href="http://www.ymimports.com/p-780-level-up-9-14-12-kyu.aspx">$13.00</a> USD (shipping and handling not included)</li>
+<li>Baduktopia &#8211; E-mail them at info@baduktopia.com for more information.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: Level Up 1" href="//book-review-level-up-1/">Level Up 1</a></li>
+<li><a title="Book Review: Level Up 2" href="//book-review-level-up-vol-2/">Level Up 2</a></li>
+<li><a title="Book Review: Level Up 3" href="//book-review-level-up-3/">Level Up 3</a></li>
+<li><a title="Book Review: Level Up 4" href="//book-review-level-up-4/">Level Up 4</a></li>
+<li><a title="Book Review: Level Up 5" href="//book-review-level-up-5/">Level Up 5</a></li>
+<li><a title="Book Review: Level Up Review 1" href="//book-review-level-up-review-1/">Level Up Review 1</a></li>
+<li><a title="Book Review: Level Up 6" href="//book-review-level-up-6/">Level Up 6</a></li>
+<li><a title="Book Review: Level Up 7" href="//book-review-level-up-7/">Level Up 7</a></li>
+<li><a title="Book Review: Level Up 8" href="//book-review-level-up-8/">Level Up 8</a></li>
+<li>Level Up 10</li>
+<li>Level Up Review 2</li>
+<li>Jump Level Up Series</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on July 27th, 2013</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-level-up-9/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3660</post-id>	</item>
+		<item>
+		<title>Book Review: Level Up 8</title>
+		<link>/book-review-level-up-8/</link>
+		<pubDate>Thu, 25 Jul 2013 09:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[capturing races]]></category>
+		<category><![CDATA[educational]]></category>
+		<category><![CDATA[joseki]]></category>
+		<category><![CDATA[korean style]]></category>
+		<category><![CDATA[level up]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[proper move]]></category>
+
+		<guid isPermaLink="false">//?p=3629</guid>
+		<description><![CDATA[Level Up 8 Description: Level Up 8 is part of the Level Up! Series that serves as a workbook in private go schools in Korea. Though designed for children, the content and practice provided is invaluable for adults and children alike. [expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;] [table] Title, Level Up 8 Series, Level Up! Series Author, Lee [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/07/levelup8cover.jpg"><img class="aligncenter size-full wp-image-3630" alt="Level Up 8 Cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/07/levelup8cover.jpg?resize=300%2C400" width="300" height="400" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Level Up 8</h2>
+<p><strong>Description:</strong> <em>Level Up 8</em> is part of the Level Up! Series that serves as a workbook in private go schools in Korea. Though designed for children, the content and practice provided is invaluable for adults and children alike.<br />
+<span id="more-3629"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Level Up 8<br />
+Series, Level Up! Series<br />
+Author, Lee Jae-Hwan<br />
+Translators, Lee Seong-Geun &amp; Daniela Trinks<br />
+Supervisor, Yoo Chang-Hyuk (9P)<br />
+Publisher, <a href="http://www.baduktopia.com/">Baduktopia</a><br />
+Published, &#8220;April 29th, 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-89-90965-88-2<br />
+Length, 168 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>Glossary</li>
+<li>Learn Baduk and IQ-Development</li>
+<li>Capturing Techniques</li>
+<li>Opening Sample 1</li>
+<li>Play Dansu (Atari) and Then Capture Stones</li>
+<li>Opening Sample 2</li>
+<li>Play Dansu (Atari) and Then Capture in Net</li>
+<li>Life and Death (Review)</li>
+<li>Opening Sample 3</li>
+<li>Connection</li>
+<li>Opening Sample 4</li>
+<li>Cut</li>
+<li>Opening Sample 5</li>
+<li>Using Paired Moves (Miai)</li>
+<li>Vital Point First</li>
+<li>Starpoint Pattern (Joseki) 1</li>
+<li>Next Move</li>
+<li>Opening Sample 6</li>
+<li>One Eye Versus No Eye</li>
+<li>Make a Living 4-Point Eye Shapes</li>
+<li>Korean Professional Tournaments</li>
+<li>Snapback (Review)</li>
+<li>Opening Sample 7</li>
+<li>Continuous Dansu (Atari) Review</li>
+<li>Opening Sample 8</li>
+<li>Extension &#8211; Open or Closed Door</li>
+<li>Starpoint Pattern (Joseki) 2</li>
+<li>Opening Sample 9</li>
+<li>Life and Death, Capturing Race (Review)</li>
+<li>Opening Sample 10</li>
+<li>Living and Capturing by Pae (Ko)</li>
+<li>Endgame</li>
+<li>How to Answer</li>
+<li>Level Tests</li>
+</ol>
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ol>
+<li>Even though I may be a solid 5 kyu, I started slipping up on some of the problems.</li>
+<li>Really enjoyed how joseki was integrated into the lesson plan.</li>
+<li>Continues to live up to the quality of problems and content you come to expect of the series.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>My Abilities</strong></p>
+<ul>
+<li>A mid to high SDK (single digit kyu) kyu who has read his fair share of go books and has a pretty strong foundation in the basics and teaching go.</li>
+</ul>
+<p><strong>My Perspective</strong></p>
+<ul>
+<li>Level Up 7 was starting to really test my reading abilities, so I will continue to tread carefully with this one.</li>
+</ul>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>They are unrelenting with the training on ladders and nets.</li>
+<li>Introduces joseki in a fun and easy way to help the reader remember the proper sequence along with how to respond to unorthodox responses from the opponent.</li>
+<li>Continues to drill away at the reader to improve their life and death and capturing race abilities.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Continued polishing of my reading abilities.</li>
+<li>Better understanding of why certain star point josekis flow the way they do.</li>
+<li>Gained more familiarity and comfort with my fundamental life and death skills along with capturing races.</li>
+</ul>
+<p><strong>What style of teaching does the book use?</strong></p>
+<ul>
+<li>Curriculum Style
+<ul>
+<li>Content is organized into lessons, topics, or themes in order to facilitate learning.</li>
+</ul>
+</li>
+<li>Primary Learning Mechanism:
+<ul>
+<li>Practice problems</li>
+</ul>
+</li>
+<li>Other Learning Mechanisms:
+<ul>
+<li>Cute and entertaining comics to teach and/or reinforce lessons.</li>
+<li>Simple explantations that are accompanied by equally simple diagrams.</li>
+<li>Samples of openings from professional games to further acclimate the reader to full games on a 19&#215;19 board.</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>No complaints here!</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. Other than the occasional article, the explanations are very easy short and easy to understand.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Though the series is designed for kids, both kids and adults alike will be able to learn everything they need to know about playing go in a fun and entertaining way.</li>
+<li>People who enjoy learning things in an easy to understand format and lots of opportunities to reinforce what they are learning.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Yellow Mountain Imports &#8211; <a title="Yellow Mountain Imports Purchase Link" href="https://www.ymimports.com/p-785-level-up-8-16-14-kyu.aspx">$13.00</a> USD (shipping and handling not included)</li>
+<li>Baduktopia &#8211; E-mail them at info@baduktopia.com for more information.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: Level Up 1" href="//book-review-level-up-1/">Level Up 1</a></li>
+<li><a title="Book Review: Level Up 2" href="//book-review-level-up-vol-2/">Level Up 2</a></li>
+<li><a title="Book Review: Level Up 3" href="//book-review-level-up-3/">Level Up 3</a></li>
+<li><a title="Book Review: Level Up 4" href="//book-review-level-up-4/">Level Up 4</a></li>
+<li><a title="Book Review: Level Up 5" href="//book-review-level-up-5/">Level Up 5</a></li>
+<li><a title="Book Review: Level Up Review 1" href="//book-review-level-up-review-1/">Level Up Review 1</a></li>
+<li><a title="Book Review: Level Up 6" href="//book-review-level-up-6/">Level Up 6</a></li>
+<li>Level Up 7</li>
+<li>Level Up 9</li>
+<li>Level Up 10</li>
+<li>Level Up Review 2</li>
+<li>Jump Level Up Series</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on July 25th, 2013</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">3629</post-id>	</item>
+		<item>
+		<title>Book Review: Essential Life &#038; Death 3</title>
+		<link>/book-review-essential-life-death-3/</link>
+		<pubDate>Thu, 18 Jul 2013 09:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[intense]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[problems]]></category>
+		<category><![CDATA[raining]]></category>
+		<category><![CDATA[reading]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[workbook]]></category>
+
+		<guid isPermaLink="false">//?p=2900</guid>
+		<description><![CDATA[Description: Essential Life &#38; Death 3 is part of the Essential Life &#38; Death Series that is used as workbooks in private go schools in Korea. Though it might be seen as an addendum to the Level Up Series, it certainly can be used as a standalone product for anyone looking to study life and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a style="font-size: 13px;" href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/06/eldv3cover.jpg"><img class="aligncenter size-full wp-image-2901" alt="eldv3cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/06/eldv3cover.jpg?resize=300%2C405" width="300" height="405" data-recalc-dims="1" /></a><br />
+<strong>Description:</strong> <em>Essential Life &amp; Death 3</em> is part of the Essential Life &amp; Death Series that is used as workbooks in private go schools in Korea. Though it might be seen as an addendum to the Level Up Series, it certainly can be used as a standalone product for anyone looking to study life and death.<br />
+<span id="more-2900"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Essential Life &amp; Death 3<br />
+Author, Lee Jae-Hwan<br />
+Translators, Lee Seong-Geun &amp; Daniela Trinks<br />
+Publisher, <a href="http://www.baduktopia.com/">Baduktopia</a><br />
+Published, &#8220;July 8th, 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-89-90965-95-0<br />
+Length, 168 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>Rectangular Six in the Corner</li>
+<li>Rectangular Six in the Corner with One Liberty</li>
+<li>Recangular Six in the Corner with Two Liberties</li>
+<li>Placement</li>
+<li>Rectangular Six at the Side</li>
+<li>Rectangular Six at the Side with One Cutting Point</li>
+<li>Rectangular Six at the Side with One Cutting Point &#8211; Life</li>
+<li>Making the Rectangular Six at the Side</li>
+<li><strong>1st Review</strong></li>
+<li>The 2-2-2 Shape 1</li>
+<li>2-2-2 Shape with One Cutting Point</li>
+<li>2-2-2 Shape with a Liberty</li>
+<li>2-2-2 Shape &#8211; Corner Specialty</li>
+<li>The 2-2 Shape</li>
+<li>Paired Moves (Miai) Tesuji</li>
+<li>The Box Shape</li>
+<li>Box Shape with Hane + Liberty</li>
+<li>1-2 Vital Point</li>
+<li><strong>2nd Review</strong></li>
+<li>Life &amp; Death in the Corner 1</li>
+<li>Reserve the Dansu (Atari)</li>
+<li>Large Diagonal Placement</li>
+<li>Finding the Vital Point</li>
+<li>Placement After Reduction 1</li>
+<li>Placement After Reduction 2</li>
+<li><strong>3rd Review</strong></li>
+<li>Life &amp; Death at the Side</li>
+<li>Life &amp; Death at the Side with Hane</li>
+<li>Take Your time Even If It Is Urgent</li>
+<li>Playing Inside at the Vital Point</li>
+<li>Vital Point at the Center of Three Stones 1</li>
+<li>Life &amp; Death of 3-3 Invasions</li>
+<li>Life &amp; Death After 3-3 Invasions &#8211; When There is a Liberty</li>
+<li>Don&#8217;t Let the Eye Space be Increased!</li>
+<li>Diagonal Teusji</li>
+<li><strong>4th Review</strong></li>
+<li>Tiger&#8217;s Mouth or Stretching Connection?</li>
+<li>When There is a Hane</li>
+<li>Life &amp; Death After Invasions</li>
+<li>Sente Gains Nothing</li>
+<li><strong>5th Review</strong></li>
+<li>1000 Year Pae (Ko)</li>
+<li>When There is a Liberty</li>
+<li>When There is a First Line Stone 1</li>
+<li>When There is a First Line Stone 2</li>
+<li>Throw-in and Then Placement</li>
+<li>Cut and Then Placement</li>
+<li><strong>6th Review</strong></li>
+<li>Rectangular Six in the Corner</li>
+<li>Rectangular Six: Life by Accident / Capturing Method</li>
+<li>Rectangular Six: When There is a Liberty</li>
+<li>Rectangular Six: When There is a Stone</li>
+<li>Beware of &amp; Making the Rectangular Six</li>
+<li>Rectangular Six: When There is a Hane</li>
+<li>Belly Attachment</li>
+<li><strong>7th Review</strong></li>
+<li>The 2-2-2 Shape 2</li>
+<li>2-2-2 Shape 2 with a Liberty</li>
+<li>2-2-2 Shape 2 with 2 Liberties</li>
+<li>2-2-2 Shape with a Liberty Elsewhere</li>
+<li>Vital Point at the Center of Three Stones 2</li>
+<li>Difference of One Liberty</li>
+<li><strong>8th Review</strong></li>
+<li>Clamp Tesuji</li>
+<li>Placement after Reduction 3</li>
+<li>First Line Tesuji 2</li>
+<li>Life &amp; Death After a Blockade</li>
+<li>Life &amp; Death in the Corner 2</li>
+<li>Hane Twice</li>
+<li>Hane Twice &#8211; with a Liberty</li>
+<li><strong>9th Review</strong></li>
+<li>Life &amp; Death in the Corner 3</li>
+<li>Life &amp; Death in the Corner 3 with a Liberty</li>
+<li>Life &amp; Death in the Corner 4</li>
+<li>Using a Sacrifice</li>
+<li>First Line Tesuji 3</li>
+<li>Bent Four in the Corner</li>
+<li><strong>10th Review</strong></li>
+<li><strong>Final Test</strong></li>
+</ol>
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ol>
+<li>As a mid to high SDK (single digit kyu), the problems gave me a lot more difficulty this time around.</li>
+<li>Presents a lot of new shapes that I previously would have assumed was hopeless.</li>
+<li>Continues to live up to the high quality of problems that you come to expect from this series.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>My Abilities</strong></p>
+<ul>
+<li>I&#8217;ve studied my fair share of life and death and can confidently say that I have a SDK (single digit kyu) level of life and death.</li>
+</ul>
+<p><strong>My Perspective</strong></p>
+<ul>
+<li>In general, I would say that I have always preferred learning through experience. Though in all honesty, after finishing the second volume, I was skeptical of how far I could really get in this book.</li>
+</ul>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>Though my inability to progress very far was slightly depressing, I was happy to see that there was still a lot of room for me to grow and improve my life and death skills.</li>
+<li>The drill seargent routine is great because I have multiple opportunities to get exposure to moves I would have never considered before.</li>
+<li>There is a huge focus on shapes that players don&#8217;t normally study: rectangular six and 2-2-2. In addition, these shapes are dissected to a very detailed level. Example: Rectangular six with one outside liberty versus two liberties.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>A broader perspective on the different variations that can arise from life and death postiions.</li>
+<li>A better grasp on techniques used to either kill or save a group.</li>
+<li>Moderate improvement in my reading abilities. (This is only due to the speed at which I was going through problems. Anyone who diligently studies each problem to mastery will most likely gain a significant boost to their reading ability).</li>
+</ul>
+<p><strong>What style of teaching does the book use?</strong></p>
+<ul>
+<li>Curriculum Style
+<ul>
+<li>Content is organized into lessons, topics, or themes in order to facilitate learning.</li>
+</ul>
+</li>
+<li>Teaching Mechanism:
+<ul>
+<li>Practice problems</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>I felt that the problems got a lot more difficult very quickly. However, this should be taken with a grain of salt since there is a good chance that the reader is supposed to already have a more solid reading ability than I have before working on this book.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. Unless you can&#8217;t read English, it really doesn&#8217;t get any simpler.</li>
+</ul>
+[/expand]
+[expand title=&#8221;In Comparison to Similar Books&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+[expandsub1 title=&#8221;1001 Life and Death Problems&#8221; trigclass=&#8221;cBookTitle&#8221;]
+Compared to <a title="Book Review: 1001 Life and Death Problems" href="//book-review-1001-life-and-death-problems/">1001 Life and Death Problems</a>, this series does a better job hand-holing players new to life and death through the basic shapes and variations. On the other hand, I would say that in terms of polishing a player&#8217;s life and death skills, 1001 Life and Death Problems is still highly recommended. So to clarify, neither one trumps the other. Both can provide great value to a player&#8217;s life and death abilities.<br />
+[/expandsub1]
+[expandsub2 title=&#8221;Elementary Go Series, Volume 4 &#8211; Life and Death&#8221; trigclass=&#8221;cBookTitle&#8221;]
+While <a title="Book Review: Life and Death" href="//book-review-life-and-death/">Life and Death</a> does a great job providing a broad survey of different shapes through explanations and accompanying practice problems, this series uses the &#8220;learn it through experience&#8221; methodology. Though they may overlap on a good deal of material, I believe that they complement one another and would both be of great use to serious players wanting to improve their life and death.<br />
+[/expandsub2]
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players looking to improve their life and death skills.</li>
+<li>People who prefer to learn through experience rather than explanations.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Yellow Mountain Imports &#8211;<a title="Yellow Mountain Imports Purchase Link" href="http://www.ymimports.com/p-816-essential-life-death-3-5-kyu-3-dan.aspx#.UeIfXxbTxEA">$13.00</a> USD (shipping &amp; handling not included)</li>
+<li>Baduktopia &#8211; Contact them at info@baduktopia.com to request pricing and shipping costs.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: Essential Life &amp; Death 1" href="//book-review-essential-life-death-1/">Essential Life and Death 1</a></li>
+<li><a title="Book Review: Essential Life &amp; Death 2" href="//book-review-essential-life-death-2/">Essential Life and Death 2</a></li>
+<li>Essential Life and Death 4</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on July 18th, 2013</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2900</post-id>	</item>
+		<item>
+		<title>Book Review: Essential Life &#038; Death 2</title>
+		<link>/book-review-essential-life-death-2/</link>
+		<pubDate>Sat, 13 Jul 2013 09:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[korean style]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[problems]]></category>
+		<category><![CDATA[reading]]></category>
+		<category><![CDATA[school]]></category>
+		<category><![CDATA[training]]></category>
+		<category><![CDATA[tsumego]]></category>
+		<category><![CDATA[workbook]]></category>
+
+		<guid isPermaLink="false">//?p=2895</guid>
+		<description><![CDATA[Description: Essential Life &#38; Death 2 is part of the Essential Life &#38; Death Series that is used as workbooks in private go schools in Korea. Though it might be seen as an addendum to the Level Up Series, it certainly can be used as a standalone product for anyone looking to study life and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/eldv2cover.jpg"><img class="aligncenter size-full wp-image-2896" alt="eldv2cover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/eldv2cover.jpg?resize=300%2C406" width="300" height="406" data-recalc-dims="1" /></a><br />
+<strong>Description:</strong> <em>Essential Life &amp; Death 2</em> is part of the Essential Life &amp; Death Series that is used as workbooks in private go schools in Korea. Though it might be seen as an addendum to the Level Up Series, it certainly can be used as a standalone product for anyone looking to study life and death.<br />
+<span id="more-2895"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Essential Life &amp; Death 2<br />
+Author, Lee Jae-Hwan<br />
+Translators, Lee Seong-Geun &amp; Daniela Trinks<br />
+Publisher, <a href="http://www.baduktopia.com/">Baduktopia</a><br />
+Published, &#8220;July 8th, 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-89-90965-94-3<br />
+Length, 168 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>Tiger&#8217;s Mouth Vital Point</li>
+<li>Vital Point of Eye Shapes</li>
+<li>Using Seonsu (Sente)</li>
+<li>Making a Sacrifice</li>
+<li>Miai (Paired Moves) Tesuji</li>
+<li>Playing Dansu (Atari) Fails</li>
+<li>Beware of a Pae (Ko) 1</li>
+<li><strong>1st Review</strong></li>
+<li>Using Jachung</li>
+<li>Extending the Eye Space</li>
+<li>Under the Stones 1</li>
+<li>First Line Tiger&#8217;s Mouth 1</li>
+<li>1-2 Vital Point 1</li>
+<li>Try to Find the Vital Point 1</li>
+<li>Large Diagonal Vital Point 1</li>
+<li><strong>2nd Review</strong></li>
+<li>Where to Reduce the Eye Space</li>
+<li>Large Knight&#8217;s Vital Point</li>
+<li>Vital Point to Make a False Eye</li>
+<li>False Eye After Placement 1</li>
+<li>Using a Sacrifice to Make a False Eye</li>
+<li>How to Make a False Eye</li>
+<li>False Eye After Placement 2</li>
+<li><strong>3rd Review</strong></li>
+<li><strong></strong>Finding the Vital Point 1</li>
+<li>Finding the Vital Point 2</li>
+<li>Finding the Vital Point 3</li>
+<li>Finding the Vital Point 4</li>
+<li>Finding the Vital Point 5</li>
+<li>Finding the Vital Point 6</li>
+<li>Center of Symmetry</li>
+<li>Finding the Vital Point<strong> 7 </strong></li>
+<li>Large Diagonal Vital Point 1</li>
+<li><b>4th Review</b></li>
+<li>Using the Suicide-Rule</li>
+<li>Using a Sacrifice</li>
+<li>Under the Stones 2</li>
+<li>Using Pae (Ko)</li>
+<li>Using Miai (Paired Moves)</li>
+<li>Wedging-in Tesuji</li>
+<li>Using One Eye versus No Eye</li>
+<li>Using a Throw-in</li>
+<li><strong>5th Review</strong></li>
+<li>Playing Inside at the Vital Point 1</li>
+<li>Playing Inside at the Vital Point 2</li>
+<li>Playing Inside at the Vital Point 3</li>
+<li>Jachung using Vital Point</li>
+<li>False Eye after Placement 3</li>
+<li>First Line Tesuji</li>
+<li>Where to Make a Tiger&#8217;s Mouth</li>
+<li>Monkey Jump</li>
+<li><strong>6th Review</strong></li>
+<li>Life &amp; Death with no Outside Liberties</li>
+<li>Life &amp; Death with an Outside Liberty</li>
+<li>According to the Throw-in 1</li>
+<li>According to the Throw-in 2</li>
+<li>Beware of Bent 4 in the Corner</li>
+<li>Bent 4 in the Corner</li>
+<li>Placement (Playing Inside)</li>
+<li>Spinning Around</li>
+<li><strong>7th Review</strong></li>
+<li>Using Connection</li>
+<li>Using Double-Pae (Ko)</li>
+<li>Using Jachung</li>
+<li>Using a Weak Point</li>
+<li>1-2 Vital Point 2</li>
+<li>Center of Symmetry</li>
+<li>Diagonal Move Tesuji 1</li>
+<li>Diagonal Move Tesuji 2</li>
+<li><strong>8th Review</strong></li>
+<li>Loose Connection</li>
+<li>Where to Hane</li>
+<li>False Eye After Placement 4</li>
+<li>Try to Find the Vital Point 2</li>
+<li>Beware of a Pae (Ko) 2</li>
+<li>Making a Seki in Sente</li>
+<li>First Line Tiger&#8217;s Mouth 2</li>
+<li>False Eye After Reduction</li>
+<li><strong>9th Review</strong></li>
+<li>Big Eye Shapes Can Die!</li>
+<li>Using a Weak Point 2</li>
+<li>Excellent Sequence</li>
+<li>First Line Tiger&#8217;s Mouth 3</li>
+<li>One Eye by Two Hane</li>
+<li>Tesuji to Make a Pae (Ko)</li>
+<li><strong>10th Review</strong></li>
+<li><strong>Final Test</strong></li>
+</ol>
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ol>
+<li>You can expect the same quality of problems from the first volume.</li>
+<li>A great way for players to drill their life and death skills.</li>
+<li>Though I had a relatively easy time with the first volume, the problems in this book started to pose some difficulty for me.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>My Abilities</strong></p>
+<ul>
+<li>I&#8217;ve studied my fair share of life and death and can confidently say that I have a SDK (single digit kyu) level of life and death.</li>
+</ul>
+<p><strong>My Perspective</strong></p>
+<ul>
+<li>After finishing the first volume, I was expecting this book to be rather easy to do as well.</li>
+</ul>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>They have no reservation in terms of making you drill the same concept repeatedly.</li>
+<li>There are so many concepts and shapes in this book that makes it very valuable.</li>
+<li>The review sections (e.g., quizzes) and tests do a great job helping you determine if you actually learned the lessons prior.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>A broader perspective on the different variations that can arise from life and death postiions.</li>
+<li>A better grasp on techniques used to either kill or save a group.</li>
+<li>The problems in this book actually posed some difficulty for me at times. Being that this is the second book, it didn&#8217;t take long for me to realize how weak my life and death skills really are.</li>
+</ul>
+<p><strong>What style of teaching does the book use?</strong></p>
+<ul>
+<li>Curriculum Style
+<ul>
+<li>Content is organized into lessons, topics, or themes in order to facilitate learning.</li>
+</ul>
+</li>
+<li>Teaching Mechanism:
+<ul>
+<li>Practice problems</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>If I had to request one thing, it&#8217;s that I was hoping that the difficulty of the problems would be more gradual. The difficulty of the problems increased faster than I was expecting. Though this should be taken with a grain of salt since I have a feeling this is just an indicator of how weak my reading abilities are instead of it being the book&#8217;s problem.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. Unless you can&#8217;t read English, it really doesn&#8217;t get any simpler.</li>
+</ul>
+[/expand]
+[expand title=&#8221;In Comparison to Similar Books&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+[expandsub1 title=&#8221;1001 Life and Death Problems&#8221; trigclass=&#8221;cBookTitle&#8221;]
+Compared to <a title="Book Review: 1001 Life and Death Problems" href="//book-review-1001-life-and-death-problems/">1001 Life and Death Problems</a>, this series does a better job hand-holing players new to life and death through the basic shapes and variations. On the other hand, I would say that in terms of polishing a player&#8217;s life and death skills, 1001 Life and Death Problems is still highly recommended. So to clarify, neither one trumps the other. Both can provide great value to a player&#8217;s life and death abilities.<br />
+[/expandsub1]
+[expandsub2 title=&#8221;Elementary Go Series, Volume 4 &#8211; Life and Death&#8221; trigclass=&#8221;cBookTitle&#8221;]
+While <a title="Book Review: Life and Death" href="//book-review-life-and-death/">Life and Death</a> does a great job providing a broad survey of different shapes through explanations and accompanying practice problems, this series uses the &#8220;learn it through experience&#8221; methodology. Though they may overlap on a good deal of material, I believe that they complement one another and would both be of great use to serious players wanting to improve their life and death.<br />
+[/expandsub2]
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players looking to improve their life and death skills.</li>
+<li>People who prefer to learn through experience rather than explanations.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Yellow Mountain Imports &#8211; <a title="Yellow Mountain Import Purchase Link" href="https://www.ymimports.com/p-1414-essential-life-death-2-10-5-kyu.aspx#.UeAJdkGvPzw">$13.00</a> USD (shipping &amp; handling not included)</li>
+<li>Baduktopia &#8211; Contact them at info@baduktopia.com to request pricing and shipping costs.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: Essential Life &amp; Death 1" href="//book-review-essential-life-death-1/">Essential Life and Death 1</a></li>
+<li>Essential Life and Death 3</li>
+<li>Essential Life and Death 4</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on July 13th, 2013</strong></em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2895</post-id>	</item>
+		<item>
+		<title>Book Review: Life and Death</title>
+		<link>/book-review-life-and-death/</link>
+		<comments>/book-review-life-and-death/#comments</comments>
+		<pubDate>Wed, 10 Jul 2013 09:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[groups]]></category>
+		<category><![CDATA[kill]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[reading]]></category>
+		<category><![CDATA[safety]]></category>
+		<category><![CDATA[save]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=3098</guid>
+		<description><![CDATA[Life and Death Description: In this volume of the Elementary Go Series, Davies teaches common shapes that players will encounter in their games along with practice problems to train the reader&#8217;s life and death skills. [expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;] [table] Title, Life and Death (Volume 4) Series, Elementary Go Series Author, James Davies Publisher, Kiseido [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/egslifeanddeathcover.jpg"><img class="aligncenter size-full wp-image-3099" alt="egslifeanddeathcover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/egslifeanddeathcover.jpg?resize=300%2C443" width="300" height="443" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Life and Death</h2>
+<p><strong>Description: </strong>In this volume of the Elementary Go Series, Davies teaches common shapes that players will encounter in their games along with practice problems to train the reader&#8217;s life and death skills.<br />
+<span id="more-3098"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Life and Death (Volume 4)<br />
+Series, Elementary Go Series<br />
+Author, James Davies<br />
+Publisher, Kiseido<br />
+Published, 1st Edition &#8211; December 1975 | 2nd Edition &#8211; August 1996<br />
+Language, English<br />
+ISBN, 978-4-906574-13-0<br />
+Length, 160 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>Introduction</li>
+<li>Unsettled Three</li>
+<li>Six Die, Eight Live</li>
+<li>Four- and Five-Space Eyes</li>
+<li>Rabbity Six</li>
+<li>One-Space Notchers</li>
+<li>Shortage of Liberties</li>
+<li>Two-Space Notchers</li>
+<li>An Eye in the Interior</li>
+<li>Three-Space Notchers</li>
+<li>False Eyes and Placement Techniques</li>
+<li>The Door Group is Dead</li>
+<li>Incomplete Shapes</li>
+<li>Review Problems</li>
+<li>To Make One Eye</li>
+<li>Half Eyes</li>
+<li>Bent Four in the Corner</li>
+<li>The One-Two Points, Etc.</li>
+<li>Placement: Attack and Defense</li>
+<li>Throw-Ins</li>
+<li>The L Group</li>
+<li>The First L+1 Group</li>
+<li>The Second L+1 Group</li>
+<li>The L+2 Group</li>
+<li>The Tripod Group</li>
+<li>The J Groups</li>
+<li>Hane for Ko</li>
+<li>The Long L Group</li>
+<li>Seki in the Corner</li>
+<li>The Carpenter&#8217;s Square</li>
+<li>The Weak Carpenter&#8217;s Square</li>
+<li>More Corner Positions</li>
+<li>Live or Link Up</li>
+<li>Threat to Capture</li>
+<li>Under the Stones</li>
+<li>The Difference a Liberty Makes</li>
+<li>Building Eye Shape</li>
+</ol>
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ol>
+<li>A great overview on a lot of different shapes that players can definitely benefit from.</li>
+<li>Not a good introductory book for life and death.</li>
+<li>Requires a higher reading ability level for the practice problems than I was anticipating.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>My Abilities</strong></p>
+<ul>
+<li>Having worked through other life and death books, I am confident enough to say that I have a SDK (single digit kyu) understanding of life and death.</li>
+</ul>
+<p><strong>My Perspective</strong></p>
+<ul>
+<li>I was looking forward to getting exposed to a lot of basic life and death shapes. In addition, I was hoping to get a bit of practice on the different shapes so I could be a lot more confident on my life and death abilities when I finished the book.</li>
+</ul>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>There are so many shapes that you get to learn about!</li>
+<li>On top of that, these shapes are ones that actually occur quite frequently in games! Case and point, I actually ran into a J shape soon after I finished the book.</li>
+<li>There are a lot of &#8220;what is the status of this group&#8221; problems.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Exposure to a lot of new shapes that I never even considered life and death shapes in the past.</li>
+<li>Better understanding of the weaknesses in various shapes.</li>
+<li>New ideas regarding how the opponent would/should actually respond in certain life and death scenarios.</li>
+</ul>
+<p><strong>What style of teaching does the book use?</strong></p>
+<ul>
+<li>Textbook Approach
+<ul>
+<li>Organized in a curriculum format that reflects the learning style one might normally find in school.</li>
+</ul>
+</li>
+<li>Primary Learning Mechanism:
+<ul>
+<li>Explanations with example diagrams</li>
+</ul>
+</li>
+<li>Other Learning Mechanisms:
+<ul>
+<li>Practice problems</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>Though the fact that it uses &#8220;what is the status of this group&#8221; problems is a good thing for the most part, I feel that this is counter-productive to anyone learning life and death for the first time since status problems can actually be rather difficult for players who are not accustomed to reading multiple rather complex variations in life and death situations.</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. Davies&#8217; writing style is easy to understand and his conversational style makes for a fun read. In addition, almost every diagram is accompanied by a short line or paragraph explaining the position.</li>
+</ul>
+[/expand]
+[expand title=&#8221;In Comparison to Similar Books&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+[expandsub1 title=&#8221;1001 Life and Death Problems&#8221; trigclass=&#8221;cBookTitle&#8221;]
+<a title="Book Review: 1001 Life and Death Problems" href="//book-review-1001-life-and-death-problems/">1001 Life and Death Problems</a> is much more appropriate for players looking for an introduction to life and go. It does a great job providing the building blocks for being able to see the variations that are found in Davies&#8217; Life and Death.<br />
+[/expandsub1]
+[expandsub2 title=&#8221;Essential Life &amp; Death Series&#8221; trigclass=&#8221;cBookTitle&#8221;]
+The Essential Life &amp; Death Series takes a more gradual approach with life and death and provides the reader with ample opportunities to practice. However, it does not contain the explanations that you get with Davies&#8217; Life and Death, so they complement one another very well.<br />
+[/expandsub2]
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players looking for a reference on numerous shapes that are frequently encountered in games.</li>
+<li>Players who have read other life and death books and are looking to expand their knowledge and test their skills.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>GoGameGuru &#8211; <a title="Go Game Guru Purchase Link" href="http://shop.gogameguru.com/life-and-death/?acc=e4da3b7fbbce2345d7772b0674a318d5">$17.99</a> USD (shipping &amp; handling not included)</li>
+<li>Kiseido &#8211; <a title="Kiseido Purchase Link" href="http://kiseido.com/go_books.htm">$18.00</a> USD (shipping &amp; handling not included)</li>
+<li>SmartGo Books &#8211; <a title="SmartGo Book Link" href="http://www.smartgo.com/books.htm">$9.99</a> USD (e-Book for iPad &amp; iPhone Only)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li><a title="Book Review: In the Beginning" href="//book-review-in-the-beginning/">Elementary Go Series, Volume 1 &#8211; In the Beginning</a></li>
+<li><a title="Book Review: 38 Basic Joseki" href="//book-review-38-basic-joseki/">Elementary Go Series, Volume 2 &#8211; 38 Basic Joseki</a></li>
+<li><a title="Book Review: Tesuji" href="//book-review-tesuji/">Elementary Go Series, Volume 3 &#8211; Tesuji</a></li>
+<li><a title="Book Review: Attack and Defense" href="//book-review-attack-and-defense/">Elementary Go Series, Volume 5 &#8211; Attack and Defense</a></li>
+<li><a title="Book Review: The Endgame" href="//book-review-the-endgame/">Elementary Go Series, Volume 6 &#8211; The Endgame</a></li>
+<li><a title="Book Review: Handicap Go" href="//book-review-handicap-go/">Elementary Go Series, Volume 7 &#8211; Handicap Go</a></li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on July 10th , 2013</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-life-and-death/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3098</post-id>	</item>
+		<item>
+		<title>Book Review: Essential Life &#038; Death 1</title>
+		<link>/book-review-essential-life-death-1/</link>
+		<comments>/book-review-essential-life-death-1/#comments</comments>
+		<pubDate>Sun, 16 Jun 2013 09:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[korean style]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[progressive]]></category>
+		<category><![CDATA[school like training]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=2886</guid>
+		<description><![CDATA[Description: Essential Life &#38; Death 1 is part of the Essential Life &#38; Death Series that is used as workbooks in private go schools in Korea. Though it might be seen as an addendum to the Level Up Series, it certainly can be used as a standalone product for anyone looking to study life and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/eldv1cover.jpg"><img class="aligncenter size-full wp-image-2887" alt="eldv1cover" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/eldv1cover.jpg?resize=300%2C408" width="300" height="408" data-recalc-dims="1" /></a><br />
+<strong>Description:</strong> <em>Essential Life &amp; Death 1</em> is part of the Essential Life &amp; Death Series that is used as workbooks in private go schools in Korea. Though it might be seen as an addendum to the Level Up Series, it certainly can be used as a standalone product for anyone looking to study life and death.<br />
+<span id="more-2886"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, Essential Life &amp; Death 1<br />
+Author, Lee Jae-Hwan<br />
+Translators, Lee Seong-Geun &amp; Daniela Trinks<br />
+Publisher, <a href="http://www.baduktopia.com/">Baduktopia</a><br />
+Published, &#8220;July 8th, 2009&#8243;<br />
+Language, English<br />
+ISBN, 978-89-90965-93-6<br />
+Length, 168 Pages<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>One Eye by Tiger&#8217;s Mouth</li>
+<li>One Eye by Pushing Ahead</li>
+<li>One Eye by Stretching</li>
+<li>Two Birds with One Stone</li>
+<li>Beware of the 3-Point-Eye Space</li>
+<li>Making the 3-Point Eye Space</li>
+<li>Taking the Weak Point</li>
+<li>Choking the Weak Point</li>
+<li><strong>1st Review</strong></li>
+<li>Making a Straight Four</li>
+<li>Making a Bent four</li>
+<li>Making a Twisted Four</li>
+<li>Use Dead Stones to Make a Straight Four</li>
+<li>Use Dead Stones to Make a Bent Four</li>
+<li>Use Dead Stones to Make a Twisted Four</li>
+<li>Making a Dead Four</li>
+<li>Making a 5-Point-Eye Shape</li>
+<li><strong>2nd Review</strong></li>
+<li>Tiger&#8217;s Mouth Vital Point</li>
+<li>Playing Inside at the Vital Point</li>
+<li>Vital Point First</li>
+<li>Finding the Vital Point 1</li>
+<li>The Center of Symmetry</li>
+<li>The 1-2 Vital Point</li>
+<li><strong>3rd Review</strong></li>
+<li>False Eye by Throwing-in Twice</li>
+<li>False Eye by Raising the Throw-in</li>
+<li>False Eye by Miai (Paired Moves)</li>
+<li>False Eye by Cutting</li>
+<li>False Eye by Underneath Attachment</li>
+<li>False Eye by Crawling Out</li>
+<li><strong>4th Review</strong></li>
+<li>Using a Snapback</li>
+<li>Using a Chokchoksu</li>
+<li>Using a Sacrifice</li>
+<li>Using a Sente (Seonsu)</li>
+<li>Using Jachung</li>
+<li>Using the Suicide-Rule</li>
+<li>Using Miai (Paired Moves) 1</li>
+<li>Making Seki (Dual Life) 1</li>
+<li><strong>5th Review</strong></li>
+<li>Block to Extend the Eye Space</li>
+<li>Hane to Extend the Eye Space</li>
+<li>Stretch to Extend the Eye Space</li>
+<li>Throw-in to Reduce the Eye Space</li>
+<li>Hane to Reduce the Eye Space</li>
+<li>Push to Reduce the Eye Space</li>
+<li><strong>6th Review</strong></li>
+<li>Playing Inside (Placement)</li>
+<li>Loose Block</li>
+<li>Loose Connection</li>
+<li>Finding the Vital Point 2</li>
+<li>Using Sacrificed Stones</li>
+<li>Where to Make a Tiger&#8217;s Mouth</li>
+<li>Belly Attachment</li>
+<li><strong>7th Review</strong></li>
+<li>Large Diagonal Spin-Around</li>
+<li>One-Point-Spin-Around</li>
+<li>Cut to Spin-Around</li>
+<li>Wedge-in to Spin-Around</li>
+<li>Throw-in 1</li>
+<li>Throw-in 2</li>
+<li>False Eye by Using Jachung 1</li>
+<li>False Eye by Using Jachung 2</li>
+<li><strong>8th Review</strong></li>
+<li>Beware of a False Eye</li>
+<li>Beware of Jachung</li>
+<li>False Eye after Reduction</li>
+<li>Using Miai (Paired Moves) 2</li>
+<li>Monkey Jump 1</li>
+<li>Monkey Jump 2</li>
+<li>Extending the Eye Space</li>
+<li>Using a Weak Point</li>
+<li><strong>9th Review</strong></li>
+<li>Making Seki (Dual Life) 2</li>
+<li>6 Die, 8 Live</li>
+<li>4 Die, 6 Live</li>
+<li>2nd Line Life &amp; Death</li>
+<li>Beware of a Pae (Ko)</li>
+<li>Living by Pae (Ko)</li>
+<li>Capturing by Pae (Ko)</li>
+<li><strong>10th Review</strong></li>
+<li><strong>Final Test</strong></li>
+</ol>
+[/expand]
+[expand title=&#8221;Synopsis&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ol>
+<li>A workbook-based approach to teaching life and death.</li>
+<li>A great way for players to drill their life and death skills.</li>
+<li>A good introductory book to learning and experiencing life and death problems.</li>
+</ol>
+[/expand]
+[expand title=&#8221;Before I Read This Book&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<strong>My Abilities</strong></p>
+<ul>
+<li>I&#8217;ve studied my fair share of life and death and can confidently say that I have a SDK (single digit kyu) level of life and death.</li>
+</ul>
+<p><strong>My Perspective</strong></p>
+<ul>
+<li>I was hoping for very easy problems that would help polish my basic life and death skills.</li>
+</ul>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<strong>What did I enjoy about the book?</strong></p>
+<ul>
+<li>They have no reservation in terms of making you drill the same concept repeatedly.</li>
+<li>The concept of using seki to save your group is used very often from the very beginning.</li>
+<li>The review sections (e.g., quizzes) and tests do a great job helping you determine if you actually learned the previous lessons.</li>
+</ul>
+<p><strong>What did I gain from reading this book?</strong></p>
+<ul>
+<li>Polished my basic life and death skills.</li>
+<li>Improved my ability to see seki as an option when solving life and death problems.</li>
+<li>Realization that I had a long way to go for life and death.</li>
+</ul>
+<p><strong>What style of teaching does the book use?</strong></p>
+<ul>
+<li>Curriculum Style
+<ul>
+<li>Content is organized into lessons, topics, or themes in order to facilitate learning.</li>
+</ul>
+</li>
+<li>Teaching Mechanism:
+<ul>
+<li>Practice problems</li>
+</ul>
+</li>
+</ul>
+<p><strong>What aspect can be improved on?</strong></p>
+<ul>
+<li>No complaints here!</li>
+</ul>
+<p><strong>Is this book easy to read?</strong></p>
+<ul>
+<li>Yes. Unless you can&#8217;t read English, it really doesn&#8217;t get any simpler.</li>
+</ul>
+[/expand]
+[expand title=&#8221;In Comparison to Similar Books&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+[expandsub1 title=&#8221;1001 Life and Death Problems&#8221; trigclass=&#8221;cBookTitle&#8221;]
+Compared to <a title="Book Review: 1001 Life and Death Problems" href="//book-review-1001-life-and-death-problems/">1001 Life and Death Problems</a>, this series does a better job hand-holing players new to life and death through the basic shapes and variations. On the other hand, I would say that in terms of polishing a player&#8217;s life and death skills, <a title="Book Review: 1001 Life and Death Problems" href="//book-review-1001-life-and-death-problems/">1001 Life and Death Problems</a> is still highly recommended. So to clarify, neither one trumps the other. Both can provide great value to a player&#8217;s life and death abilities.<br />
+[/expandsub1]
+[expandsub2 title=&#8221;Elementary Go Series, Volume 4 &#8211; Life and Death&#8221; trigclass=&#8221;cBookTitle&#8221;]
+While <a title="Book Review: Life and Death" href="//book-review-life-and-death/">Life and Death</a> does a great job providing a broad survey of different shapes through explanations and accompanying practice problems, this series uses the &#8220;learn it through experience&#8221; methodology. Though they may overlap on a good deal of material, I believe that they complement one another and would both be of great use to serious players wanting to improve their life and death.<br />
+[/expandsub2]
+[/expand]
+[expand title=&#8221;Recommended For&#8230;&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Players looking to improve their life and death skills.</li>
+<li>People who prefer to learn through experience rather than explanations.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ul>
+<li>Yellow Mountain Imports &#8211; <a href="https://www.ymimports.com/p-1413-essential-life-death-1-15-10-kyu.aspx#.Ua-kqUCvP2s">$13.00</a> USD (shipping &amp; handling not included)</li>
+<li>Baduktopia &#8211; Contact them at info@baduktopia.com to request pricing and shipping costs.</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>Essential Life and Death 2</li>
+<li>Essential Life and Death 3</li>
+<li>Essential Life and Death 4</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on June 12th, 2013</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-essential-life-death-1/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2886</post-id>	</item>
+		<item>
+		<title>Book Review: 1001 Life and Death Problems</title>
+		<link>/book-review-1001-life-and-death-problems/</link>
+		<pubDate>Sun, 19 May 2013 09:00:17 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[go problems]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=1553</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Mastering the Basics, Volume 2 &#8211; One Thousand and One Life-and-Death Problems Authors: Compiled and edited by Richard Bozulich Publisher: Kiseido Publication Date: February 2002 Page Length: 244 pages Number of Problems: 1001 problems (what else did you expect? =D) Synopsis New and refreshing approach to teaching life and death. Appropriate [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/04/mtb2cover.jpg"><img class="aligncenter size-full wp-image-2694" alt="mtb2cover" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/04/mtb2cover.jpg?resize=300%2C450" width="300" height="450" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Mastering the Basics, Volume 2 &#8211; One Thousand and One Life-and-Death Problems</li>
+<li><strong>Authors: </strong>Compiled and edited by Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>February 2002</li>
+<li><strong>Page Length:</strong> 244 pages</li>
+<li><strong>Number of Problems</strong>: 1001 problems (what else did you expect? =D)</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>New and refreshing approach to teaching life and death.</li>
+<li>Appropriate for 12 kyu and stronger.</li>
+<li>Recommended for casual players.</li>
+</ul>
+<p><span id="more-1553"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 8 / 10</h4>
+<p>The directions for the problems don&#8217;t get any simpler. You have one of two directions: Black to kill or Black to live. This can be slightly confusing for those who wish for more specific directions whether life means seki or not; but this is more accurate to what players must do in their actual games. In addition, the explanation are on the shorter side in order to accommodate the large number of problems. Due to the lack of variations, the readability of the book is rather difficult since there will be times where you are unsure of why your answer is wrong. However, since players purchasing this book are aiming to master the basics and progress into intermediate and hard life and death problems, the format of the book is a great stepping stone for doing so.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>The content quality is primarily boosted by the way that the problems are categorized. You start with one move problems (to kill or live), and then work your way up to three move problems and then five move problems. As a result, each section is carefully designed to meet those requirements and allow players to get a much better grasp of life and death concepts before jumping to something more advanced. Very high marks for this categorization method.</p>
+<h4>Final Thoughts</h4>
+<p>This book is not for the faint-hearted. 1,001 problems is a lot more difficult than it seems and it can get tiring at times. However, I cannot stress enough how great this book is at giving players a really good structure for practicing and reinforcing basic life and death skills. It may not cover every life and death problem category that exists out there, but it focuses on the important ones that you will generally see at the beginner and intermediate level. In addition, it gives players great practice in increasing the number of moves they are able to see in their head. So if you&#8217;re looking to focus on life and death problems that provide a challenge that won&#8217;t bore you to death, this is the book for you.</p>
+<h4>Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>Some Important Terms and Concepts</li>
+<li>Part One &#8211; One-move problems &#8211; Black to live</li>
+<li>Part Two &#8211; One-move problems &#8211; Black to kill</li>
+<li>Part Three &#8211; Three-move problems &#8211; Black to live</li>
+<li>Part Four &#8211; Three-move problems &#8211; Black to kill</li>
+<li>Part Five- Five-move problems &#8211; Black to live</li>
+<li>Part Six- Five-move problems &#8211; Black to kill</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated May 14th, 2013 &#8211; 5 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1553</post-id>	</item>
+	</channel>
+</rss>

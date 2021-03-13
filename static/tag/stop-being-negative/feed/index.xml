@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>stop being negative &#8211; BenGoZen</title>
+	<atom:link href="/tag/stop-being-negative/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Confidence is Worth Two Stones</title>
+		<link>/confidence-worth-two-stones/</link>
+		<comments>/confidence-worth-two-stones/#comments</comments>
+		<pubDate>Thu, 03 Oct 2013 17:59:25 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[confidence]]></category>
+		<category><![CDATA[stop being negative]]></category>
+		<category><![CDATA[zen]]></category>
+
+		<guid isPermaLink="false">//?p=4059</guid>
+		<description><![CDATA[Last week, I was playing a game when other players started showing up to watch the game. My opponent then remarked, &#8220;Everyone is here to see me lose.&#8221; And then I promptly replied, &#8220;You&#8217;ve got it wrong. They&#8217;re here to see me lose.&#8221; Though it was said in a joking manner that was also supposed to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_4111" style="width: 400px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/10/confidence-building.jpg"><img class="size-full wp-image-4111" alt="Credit to treeofknowledge" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/10/confidence-building.jpg?resize=400%2C300" width="400" height="300" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://www.treeof.com/confidence-building/">treeofknowledge</a></figcaption></figure>
+Last week, I was playing a game when other players started showing up to watch the game. My opponent then remarked, &#8220;Everyone is here to see me lose.&#8221; And then I promptly replied, &#8220;You&#8217;ve got it wrong. They&#8217;re here to see me lose.&#8221; Though it was said in a joking manner that was also supposed to be humble, it wasn&#8217;t until after the game that a comment made by a visitng dan player struck me: &#8220;Confidence is worth two stones.&#8221;<br />
+It got me thinking about my whole approach to the game, or perhaps life in general. With the way I&#8217;ve been brought up, it&#8217;s expected that one be humble and not be cocky or overconfident. However, I started to wonder whether or not I ended up taking this mentality too far and becoming self-deprecating instead. In other words, even though I would say things like, &#8220;No no, I&#8217;m a weak player&#8221; as a way of being humble; I may have actually been planting seeds of doubt in myself this entire time.<br />
+Now to be clear, I&#8217;m not saying that one should prance around saying how they&#8217;ll win every game and rub it in their opponent&#8217;s faces. &#8220;Look at me! I&#8217;m so great!&#8221; I mean sure, sometimes the cockiness works as a placebo effect and some people end up becoming &#8220;stronger,&#8221; but then everyone thinks you&#8217;re an asshole and that is way worse than being a weak player. So instead, I will stop using negative statements and stop worrying about what other people think.<br />
+With each stone I play, I will simply aim to play the best go that I can. That is all that matters.</p>
+]]></content:encoded>
+			<wfw:commentRss>/confidence-worth-two-stones/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4059</post-id>	</item>
+	</channel>
+</rss>

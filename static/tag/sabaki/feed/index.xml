@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>sabaki &#8211; BenGoZen</title>
+	<atom:link href="/tag/sabaki/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: The Road Map to Shodan, Volume 2</title>
+		<link>/book-review-road-map-shodan-volume-2/</link>
+		<comments>/book-review-road-map-shodan-volume-2/#comments</comments>
+		<pubDate>Sun, 19 Oct 2014 17:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[kiseido]]></category>
+		<category><![CDATA[middle game]]></category>
+		<category><![CDATA[opening]]></category>
+		<category><![CDATA[principles]]></category>
+		<category><![CDATA[richard bozulich]]></category>
+		<category><![CDATA[rob van zeijst]]></category>
+		<category><![CDATA[sabaki]]></category>
+
+		<guid isPermaLink="false">//?p=5887</guid>
+		<description><![CDATA[The Basic Principles of the Opening and the Middle Game Description: “In this book, 20 basic principles are presented. Each principle is accompanied by numerous examples and each section is followed by problems in which the application of these principles is required to solve them. The intuition of the novice player who studies the principles, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/10/roadmaptoshodanv2cover.jpg"><img class="aligncenter  wp-image-5888" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/10/roadmaptoshodanv2cover.jpg?resize=296%2C395" alt="roadmaptoshodanv2cover" width="296" height="395" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">The Basic Principles of the Opening and the Middle Game</h2>
+<p><strong>Description:</strong> “In this book, 20 basic principles are presented. Each principle is accompanied by numerous examples and each section is followed by problems in which the application of these principles is required to solve them. The intuition of the novice player who studies the principles, examples, and problems presented in this book will quickly rise to the level of an expert go player.”<br />
+<span id="more-5887"></span><br />
+[expand title=&#8221;Book Details&#8221; trigclass=&#8221;expandTitle&#8221;]
+[table]
+Title, The Basic Principles of the Opening and the Middle Game<br />
+Series/Volume, The Road Map to Shodan (Vol. 2)<br />
+Author, Rob van Zeijst and Richard Bozulich<br />
+Publisher, Kiseido (LINK)<br />
+Published, “September 2014“<br />
+Language, English<br />
+ISBN, 978-4-906574-83-4<br />
+Length, 146 pages<br />
+Problems, 45 problems<br />
+[/table]
+[/expand]
+[expand title=&#8221;Table of Content&#8221; trigclass=&#8221;expandTitle&#8221;]
+<ol>
+<li>Preface</li>
+<li>A Brief Glossary of Go Terms and Concepts</li>
+<li>Section I: Extensions and Efficiency
+<ol>
+<li>Principle 1A</li>
+<li>Principle 1B</li>
+<li>Principle 1C</li>
+<li>Principle 2</li>
+<li>Principle 3</li>
+<li>Problems 1 to 8</li>
+<li>Answers to Problems 1 to 8</li>
+</ol>
+</li>
+<li>Section II: Confinement, Linkage, and Separation
+<ol>
+<li>Principle 4A</li>
+<li>Principle 4B</li>
+<li>Principle 5</li>
+<li>Problems 9 to 14</li>
+<li>Answers to Problems 9 to 14</li>
+</ol>
+</li>
+<li>Section III: Weak Stones and Weak Positions
+<ol>
+<li>Principle 6A</li>
+<li>Principle 6B</li>
+<li>Principle 7A</li>
+<li>Principle 7B</li>
+<li>Principle 8</li>
+<li>Problems 15 to 22</li>
+<li>Answer to Problems 15 to 22</li>
+</ol>
+</li>
+<li>Section IV: Handling Moyos &amp; Escaping
+<ol>
+<li>Principle 9A</li>
+<li>Principle 9B</li>
+<li>Principle 10</li>
+<li>Problems 23 to 28</li>
+<li>Answers to Problems 23 to 28</li>
+</ol>
+</li>
+<li>Section V: Handling Thickness
+<ol>
+<li>Principle 11</li>
+<li>Principle 12</li>
+<li>Principle 13</li>
+<li>Principle 14</li>
+<li>Problems 29 to 32</li>
+<li>Answers to Problems 29 to 32</li>
+</ol>
+</li>
+<li>Section VI: The Third and Fourth Lines in the Opening &amp; Defending Against a 3-3 Invasion
+<ol>
+<li>Principle 15</li>
+<li>Principle 16</li>
+<li>Principle 17</li>
+<li>Principle 18</li>
+<li>Problems 33 to 38</li>
+<li>Answer to Problems 33 to 38</li>
+</ol>
+</li>
+<li>Section VII: Turning a Moyo into Territory
+<ol>
+<li>Principle 19</li>
+<li>Problems 39 to 40</li>
+<li>Answers to Problems 39 to 40</li>
+</ol>
+</li>
+<li>Section VIII: How to Make Sabaki
+<ol>
+<li>Principle 20</li>
+<li>Problems 41 to 45</li>
+<li>Answers to Problems 41 to 45</li>
+</ol>
+</li>
+</ol>
+[/expand]
+[expand title=&#8221;My Review&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<h3>Introduction</h3>
+<p><em>The Basic Principles of the Opening and the Middle Game</em>, by Rob can Zeijst and Richard Bozulich, is the second volume to Kiseido’s new series: The Road Map to Shodan. Though the title might lead some astray, this book is not intended to be a definitive guide to all principles in regards to the opening and middle game. Instead, it would be more accurate to view the purpose of this book as a broad survey of common principles that beginner and intermediate players forget during their own games. And while some might write this book off as a simple marketing ploy, this book is truly a fantastic collection of principles that cover a wide range of material in an easy to understand manner.</p>
+<h3>Summary of Content</h3>
+<p>When first presented with the title, I must admit that I was initially skeptical of what it could contain. After all, I had already read 20 Principles of the Opening, Get Strong at the Opening, 501 Opening Problems, etc. To my delight, the content of the book exceeded my expectations. Just look at the topics covered: (1) Extensions and Efficiency, (2) Confinement, Linkage, and Separation, (3) Weak Stones and Weak Positions, (4) Handling Moyos &amp; Escaping, (5) Handling Thickness, (6) The Third and Fourth Lines in the Opening, (7) Defending Against a 3-3 Invasion, (8) Turning a Moyo into Territory, and (9) How to Make Sabaki.<br />
+While the topics do not receive a comprehensive explanation of each topic, the book does a great job providing a survey of the topic with the key points highlighted. After all, don’t forget that this series is meant to be a guide for those who are kyu players looking to gain strength. So the most effective method for helping players do that is to provide the most common mistakes that players make and how to fix them. More advanced techniques and principles would naturally be reserved for other books.<br />
+Unlike most of the other books I have read, this book does an excellent job of keeping things as simple as possible. For example, instead of inundating the reader with numerous of examples taken from professional games, the examples consist of straight-forward examples that are easy to follow. In addition, each principle is given a good mixture of examples and explanation. As a result, novice and/or more casual players would not be overwhelmed and can digest the material much more easily.</p>
+<h3>Intended Audience</h3>
+<p>The strength of players who would benefit most from this book would be around 10k and stronger.<br />
+While there are other books out there that contain similar information in various forms, this book is best suited for players who approach the study of go with a more casual approach.<br />
+In other words, the material is written in such a way that it is quite easy to get through and absorb without multiple intense readings. That’s not to say that you can read it once and be done with it, but it is not so dense that you would have to reread a paragraph multiple times just to understand its basic meaning (let alone trying to apply it in your own games). In addition, the diagrams are short enough that it is not necessary to have a board in order to comprehend the flow of the stones (though it is certainly recommended if you have it in front of you).</p>
+<h3>Layout</h3>
+<p>The content is laid out in a way that is analogous to a textbook. First you have a section explaining the principles that you should learn along with a few examples to illustrate their point. The explanations are then followed up with a few problems for you to reinforce what you have just learned. And to ensure that you don’t accidentally glance at the solutions while trying to solve the problems, they are kept in a separate section after the problems are presented.</p>
+<h3>Analysis and Evaluation</h3>
+<p>The key to understanding the brilliance of this book lies in its accessibility to players of all kinds. Even when I consider players like myself who have read numerous books and take the game quite seriously, there is something to be appreciated about the simplicity to which this book approaches the topic. And though my understanding of this topic most likely has already encroached on dan territory, I still felt that the book provided a great reinforcement of things I knew and helped fill some areas that I didn’t realize were missing.<br />
+In terms of shortcomings, there is only one aspect that I would have liked to have seen: more practice problems. While there are a handful of problems to review each section, there was more than one occasion where I would have liked just a few more problems. To be clear though, this is not to say that the problems in the book do not cover the topics presented. It’s just I would have liked a few more than what is in the book.</p>
+<h3>Conclusion</h3>
+<p>While there will be players who may scoff at this book, Kiseido has done a great job of finally providing a stepping stone that beginner and intermediate players can actually benefit from. So if you have any interest in the topics mentioned above and think you could benefit from the style of teaching being used, then I highly recommend that you get a copy of this book pronto!<br />
+[/expand]
+[expand title=&#8221;Where Can I Buy It?&#8221; trigclass=&#8221;expandTitle&#8221; expanded=&#8221;true&#8221;]
+<ul>
+<li><a title="Kiseido Go Shop" href="http://kiseido.com/go_books.htm">Kiseido</a> &#8211; $21 (shipping and handling not included)</li>
+</ul>
+[/expand]
+[expand title=&#8221;Other Books in This Series&#8230;&#8221; trigclass=&#8221;lastExpandTitle&#8221;]
+<ul>
+<li>Volume 1: Handicap-Go Strategy and the Sanrensei Opening (Making the Transition from Handicap to Even Games)</li>
+<li><strong>Volume 2: The Basic Principles of the Opening and the Middle Game</strong></li>
+<li>Volume 3: The Basic LIfe and Death Positions</li>
+<li>Volume 4: A Survey of the Basic Tesujis</li>
+<li>Volume 5: All About the Endgame</li>
+<li>Volume 6: Sabaki: The Art of Settling Groups and Making Good Shape</li>
+<li>Volume 7: Attacking Weak Groups</li>
+<li>Volume 8: The Chinese and Mini-Chinese Openings</li>
+<li>Volume 9: The Kobayashi Opening</li>
+<li>Volume 10: Tasuki Openings</li>
+<li>Volume 11: Parallel Openigs</li>
+<li>Volume 12: The Shusaku Opening</li>
+</ul>
+[/expand]
+<p style="text-align: center;"><em><strong>Last Updated on October 19th, 2014</strong></em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-road-map-shodan-volume-2/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5887</post-id>	</item>
+		<item>
+		<title>Book Review: The Basics of Go Strategy</title>
+		<link>/book-review-the-basics-of-go-strategy/</link>
+		<comments>/book-review-the-basics-of-go-strategy/#comments</comments>
+		<pubDate>Sun, 02 Jun 2013 09:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[aji]]></category>
+		<category><![CDATA[forcing moves]]></category>
+		<category><![CDATA[go strategy]]></category>
+		<category><![CDATA[heavy stones]]></category>
+		<category><![CDATA[junk stones]]></category>
+		<category><![CDATA[key stones]]></category>
+		<category><![CDATA[light stones]]></category>
+		<category><![CDATA[proving moves]]></category>
+		<category><![CDATA[sabaki]]></category>
+		<category><![CDATA[thickness]]></category>
+
+		<guid isPermaLink="false">//?p=2712</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: Mastering the Basics, Volume 5 &#8211; The Basics of Go Strategy Author: Richard Bozulich Publisher: Kiseido Publication Date: January 2007 Page Length: 216 pages Number of Problems: 101 Synopsis Fantastic overview to concepts that many beginners should be exposed to early on in their study of go. This is a hybrid [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/mtbs5cover.jpg"><img class="aligncenter size-full wp-image-2780" alt="mtbs5cover" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/05/mtbs5cover.jpg?resize=300%2C429" width="300" height="429" data-recalc-dims="1" /></a></h2>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3>Basic Information</h3>
+<ul>
+<li><strong>Title:</strong> Mastering the Basics, Volume 5 &#8211; The Basics of Go Strategy</li>
+<li><strong>Author: </strong>Richard Bozulich</li>
+<li><strong>Publisher: </strong>Kiseido</li>
+<li><strong>Publication Date: </strong>January 2007</li>
+<li><strong>Page Length:</strong> 216 pages</li>
+<li><strong>Number of Problems</strong>: 101</li>
+</ul>
+<h3>Synopsis</h3>
+<ul>
+<li>Fantastic overview to concepts that many beginners should be exposed to early on in their study of go.</li>
+<li>This is a hybrid book that consists of theory along with actual problems.</li>
+<li>Content is appropriate for 18 kyu and stronger.</li>
+<li>Problems are appropriate for 9k and above.</li>
+<li>Highly recommended for serious players.</li>
+</ul>
+<p><span id="more-2712"></span></p>
+<h3>Detailed Review</h3>
+<h4>Readability &#8211; 9 / 10</h4>
+<p>The first half of the book focuses on explaining the various concepts: forcing moves, aji, heavy vs. light stones, etc. As someone who has read his fair share of go books and have had stronger players help to explain these concepts before, Bozulich has done a fantastic job on explaining the concepts and doing his best to illustrate them through examples or other games. Granted, sometimes the explanations may feel like they are going over your head; but that is most likely due to the fact that these concepts are rather deep and cannot be grasped as simply as say the snapback tesuji.<br />
+For the solution to the problems in the second half of the book, the explanations were quite concise and generally easy to understand in regards to what principle they are aiming for you to grasp when solving them. There were a few occasions where I felt a little bewildered by the explanations, but they were quite easy to read and understand for the most part.</p>
+<h4>Content Quality &#8211; 10 / 10</h4>
+<p>Whether it&#8217;s due to the fact that I&#8217;ve yet to see another book come close to explaining these concepts as well as this book does or something else, I really do believe that the book deserves perfect marks for providing go players with a great reference for these ideas and theories. Each chapter does a fantastic job explaining the basic idea behind each concepts, potential responses that you might expect from the opponent and possible continuations to each scenario. Although there were times I definitely wanted a bit more explanation as to why a certain cut did not work, the quantity of solid content and explanations supercedes any of these minor questions.</p>
+<h4>Final Thoughts</h4>
+<p>In my entire search for books that are capable of explaining some of the most critical concepts in go (such as heavy stones, junk stones, etc.), it saddens me that it&#8217;s taken so long to finally discover this book. For those who are interested in any of the topics found in the table of contents, this is a great book that will help to shed some light and more each time you read it. Very highly recommended!</p>
+<h4>Table of Content</h4>
+<ol>
+<li>Author&#8217;s Note</li>
+<li>Preface</li>
+<li>Some Important Terms and Concepts</li>
+<li>Chapter One: Aji</li>
+<li>Chapter Two: Forcing Moves</li>
+<li>Chapter Three: Probing Moves</li>
+<li>Chapter Four: Attacking Heavy Stones</li>
+<li>Chapter Five: Light Stones and Sabaki</li>
+<li>Chapter Six: Junk Stones</li>
+<li>Chapter Seven: Key Stones</li>
+<li>Chapter Eight: Thickness</li>
+<li>101 Problems</li>
+<li>Answers to the Problems</li>
+</ol>
+<h4>Recommended Vendors:</h4>
+<ol>
+<li>Kiseido &#8211; <a title="Kiseido Order Form" href="http://www.kiseido.com/go_books.htm">$21.00</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated May 26th, 2013 &#8211; 5 kyu</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/book-review-the-basics-of-go-strategy/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2712</post-id>	</item>
+	</channel>
+</rss>

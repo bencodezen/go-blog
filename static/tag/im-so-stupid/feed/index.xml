@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>im so stupid &#8211; BenGoZen</title>
+	<atom:link href="/tag/im-so-stupid/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Reminded of My Hatred for Blitz</title>
+		<link>/reminded-of-my-hatred-for-blitz/</link>
+		<pubDate>Tue, 14 May 2013 21:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[blitz sucks]]></category>
+		<category><![CDATA[hate blitz]]></category>
+		<category><![CDATA[im so stupid]]></category>
+
+		<guid isPermaLink="false">//?p=2688</guid>
+		<description><![CDATA[Earlier today, I thought it would be a good idea to get back in the groove of things by playing a quick 10 minute game. I think it was going okay, until my time ran short and then I made a blunder and lost a big group. That might have been okay, but then I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Earlier today, I thought it would be a good idea to get back in the groove of things by playing a quick 10 minute game. I think it was going okay, until my time ran short and then I made a blunder and lost a big group. That might have been okay, but then I thought that it would be an even better idea to play a blitz game with 10 seconds on the clock. Worst. Idea. Ever.<br />
+As I was bombarded by the painstaking beeping of the clock reminding me I&#8217;m running out of time, my opponents would just play any crazy invasion they could think of just to burn time and hope for me to make an error. Fortunately for them, the strategy worked quite well and I made more than my fair share of blunders. Sigh.<br />
+So once again, I am painfully reminded of how I need to remember my own advice and stick with longer games. Short games are fun when it&#8217;s casual and with friends, but blitz games against strangers leaves a rather bitter taste in my mouth that I would like to avoid from now on.<br />
+What a terrible way to come back to ranked games on KGS. And to top it off, since I haven&#8217;t played a ranked game in so long, the two losses caused me to drop a rank. Whomp whomp&#8230; But no matter, I know that I am not a 6k anymore. It&#8217;s just a temporary blip on the radar that will be insignificant once I get back in the groove of things.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2688</post-id>	</item>
+	</channel>
+</rss>

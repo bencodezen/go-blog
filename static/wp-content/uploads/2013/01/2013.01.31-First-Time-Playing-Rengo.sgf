@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://bengozen.com/wp-content/uploads/2013/01/2013.01.31-First-Time-Playing-Rengo.sgf">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://bengozen.com/wp-content/uploads/2013/01/2013.01.31-First-Time-Playing-Rengo.sgf";
+		</script>
+
+		<p>You are being redirected to <a href="http://bengozen.com/wp-content/uploads/2013/01/2013.01.31-First-Time-Playing-Rengo.sgf">http://bengozen.com/wp-content/uploads/2013/01/2013.01.31-First-Time-Playing-Rengo.sgf</a></p>
+	</body>
+</html>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>happy &#8211; BenGoZen</title>
+	<atom:link href="/tag/happy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Level Up! Series &#8211; Off to a Good Start</title>
+		<link>/level-up-series-off-to-a-good-start/</link>
+		<comments>/level-up-series-off-to-a-good-start/#comments</comments>
+		<pubDate>Tue, 02 Jul 2013 21:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[happy]]></category>
+		<category><![CDATA[korean training]]></category>
+		<category><![CDATA[level up]]></category>
+
+		<guid isPermaLink="false">//?p=3212</guid>
+		<description><![CDATA[It&#8217;s only Day 2 of my Korean Training Reboot and I&#8217;m happy to report that I am really enjoying this series. Although I could theoretically fly through most of the beginning books, I have been taking more time to be very thorough with the content. I&#8217;m hoping that this will help to reveal any inconsistencies with [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It&#8217;s only Day 2 of my <a title="Korean Training Reboot!" href="//korean-training-reboot/">Korean Training Reboot</a> and I&#8217;m happy to report that I am really enjoying this series. Although I could theoretically fly through most of the beginning books, I have been taking more time to be very thorough with the content. I&#8217;m hoping that this will help to reveal any inconsistencies with my basics as I work my way through the series.<br />
+In terms of progress though, I&#8217;m almost done with <em>Level Up! &#8211; Volume 1 </em>and plan to post the review in the near future. For my preliminary findings though, I&#8217;m 99% sure that this series will be awarded the best introductory series to go in my book. Although it might be written and designed for kids, I have a feeling that any adult who goes through this entire series will rise through the ranks much faster than by studying any other book.<br />
+This is just a preliminary analysis though, so I will let you know if my opinion changes when I&#8217;m done with the series. =D</p>
+]]></content:encoded>
+			<wfw:commentRss>/level-up-series-off-to-a-good-start/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3212</post-id>	</item>
+	</channel>
+</rss>

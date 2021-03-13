@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>yunguseng dojang &#8211; BenGoZen</title>
+	<atom:link href="/tag/yunguseng-dojang/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 64</title>
+		<link>/monday-go-meditation-game-64/</link>
+		<comments>/monday-go-meditation-game-64/#comments</comments>
+		<pubDate>Mon, 14 Jul 2014 17:58:31 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[4k opponent]]></category>
+		<category><![CDATA[moyo vs moyo]]></category>
+		<category><![CDATA[w+38.5]]></category>
+		<category><![CDATA[white]]></category>
+		<category><![CDATA[yunguseng dojang]]></category>
+
+		<guid isPermaLink="false">//?p=5554</guid>
+		<description><![CDATA[Introduction Contrary to what I said last week, this week’s Monday Go Meditation features my Yunguseng Dojang game from last week. The reason for this is two-fold: (1) I didn’t play any other games over the past two weeks and (2) I’m still trying to keep MGM as current as possible. As I mentioned before, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 id="introduction" style="text-align: center;">Introduction</h2>
+<p>Contrary to what I said last week, this week’s Monday Go Meditation features my Yunguseng Dojang game from last week. The reason for this is two-fold: (1) I didn’t play any other games over the past two weeks and (2) I’m still trying to keep MGM as current as possible.<br />
+As I mentioned before, I was feeling rather iffy before this game. My opponent was around 4–5k in strenghth, and with my ups and downs lately, I wasn’t so sure that I could even beat him. But before I could wallow too much in my own insecurities, the game started.<br />
+<em>Note: Similar to the other YSD match I posted last week, any specific things I learned from the review will be omitted in this game to respect other members’ paid membership.</em><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/2014.07.14-MGM-64.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/2014.07.14-MGM-64.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/07/2014.07.14-MGM-64.sgf[/download]
+<h2 id="onepointlesson" style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p>When playing a moyo vs moyo game, don’t get caught up in small gains (like taking a corner) when big points like an opponent’s corner enclosure on a double winged formation are available on the board.<br />
+<span id="more-5554"></span></p>
+<h2 id="gamesummary" style="text-align: center;">Game Summary</h2>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Move 10</strong> &#8211; This is not so much a good move as it is a move I’m proud of because it showed kiai on my part to be willing to compete with Black on a moyo game.,&#8221;<strong>Move 18</strong> &#8211; Though this moved seemed nice at the time, it was not very effective in terms of the whole board.&#8221;<br />
+2,Attack and Defense,<strong>Move 44</strong> &#8211; The fact that I was able to take a step back to defend my group first before overextending my attack was a sign of progress for me.,<strong>Move 72</strong> &#8211; Trying to invade to attack the Black group was a bad attack.<br />
+3,Shape,<strong>Move 162</strong> &#8211; Recognizing this clamp instantly was a nice moment for me since it meant I was increasing my repertoire of techniques to use.,<strong>Move 108</strong> &#8211; This doesn’t really defend my corner and makes bad shape.<br />
+4,Strategy,<strong>Move 148</strong> &#8211; Sacrificing my four stones to push and cut here is one of the key moves that allowed me to secure my win.,<strong>Move 62</strong> &#8211; This peep and following sequence to take the corner was too small strategically.<br />
+5,Overall Reading,<strong>Move 208</strong> &#8211; Reading out Black’s subsequent atari and seeing how it played out was a pretty big moment for me even though I missed the killing move at the end.,<strong>Move 82</strong> &#8211; The following sequence was just awful for me. Complete misread.<br />
+6,Endgame,&#8221;<strong>Move 120</strong> &#8211; Though this move was an overplay, the idea of taking sente instead of responding to Black was good.&#8221;,<strong>Move 86</strong> &#8211; Blocking here instead of defending my bottom group nearly allowed my opponent to reverse the game in his favor.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-64/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5554</post-id>	</item>
+		<item>
+		<title>My Experience with YSD &#8211; S9 &#8211; Part 2</title>
+		<link>/experience-ysd-s9-part-2/</link>
+		<comments>/experience-ysd-s9-part-2/#comments</comments>
+		<pubDate>Wed, 02 Jul 2014 15:33:41 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Websites]]></category>
+		<category><![CDATA[yunguseng dojang]]></category>
+
+		<guid isPermaLink="false">//?p=5515</guid>
+		<description><![CDATA[Part I &#8211; Part II &#8211; Part III Overview With one month of Yunguseng Dojang (YSD) in my pocket, I was ready to take on this next month with a whole new perspective. However, this month would not be the bright new sunshine that I thought it would be. Lectures &#38; Homework For this month, the three [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a title="My Experience with YSD — S9 — Part 1" href="//experience-ysd-s9-part-1/">Part I</a> &#8211; <strong>Part II</strong> &#8211; Part III</p>
+<h2 id="overview">Overview</h2>
+<p>With one month of <a title="Yunguseng Dojang Official Site" href="http://www.yunguseng.com/">Yunguseng Dojang</a> (YSD) in my pocket, I was ready to take on this next month with a whole new perspective. However, this month would not be the bright new sunshine that I thought it would be.<br />
+<span id="more-5515"></span></p>
+<h2 id="lecturesamphomework">Lectures &amp; Homework</h2>
+<p>For this month, the three lecture topics were:</p>
+<ul>
+<li><a href="http://ayd.yunguseng.com/videos/index.php?id=1219">Analyze the most often played patterns: Star point chapter</a></li>
+<li><a href="http://ayd.yunguseng.com/videos/index.php?id=1256">Analyze the most often played patterns: 3–4 point chapter</a></li>
+<li><a href="http://ayd.yunguseng.com/videos/index.php?id=1296">Approach to the 4–4 enclosed corner</a></li>
+</ul>
+<p>Though I didn’t get a chance to watch all the lectures, the material that I did watch and study contained very pertinent information in common patterns that typically appear in games.</p>
+<h2 id="mygames">My Games</h2>
+<h3 id="round6" style="text-align: center;">Round 6</h3>
+<p><strong>Preliminary Thoughts</strong> &#8211; With my first match being against my friend nadoss, I was a little nervous since I always feel kind of weird when playing a friend in a competitive nature where something is at stake (i.e., our rank in YSD). In addition, I knew that nadoss could play at a level higher than his rank, so I was trying hard to remember not to take him lightly.<br />
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/YSD-S9-Round6.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/YSD-S9-Round6.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/07/YSD-S9-Round6.sgf[/download]
+<p><strong>After the Game</strong> &#8211; While I managed to win, it was a victory of mixed feelings. On the one hand, I was glad to win the first round of month 2, but on the other hand, I did not feel like I played as well I could have.<br />
+<strong>After the Review</strong> &#8211; Overall I wasn’t criticized too much for my play, but there were certainly mistakes here and there. I think the only thing I did well was being able to keep a whole board focus for some of the critical points in the game. However, this is not something I feel any pride in because there is a 5 stone difference between us anyways.</p>
+<h3 id="round7" style="text-align: center;">Round 7</h3>
+<p><strong>Preliminary Thoughts</strong> &#8211; This week I’m playing a 5 kyu. For some reason, playing even games against players with a lower rank than me by 2 stones or more makes me nervous. I guess I’m worried that I’ll get overconfident and underestimate my opponent, and then lose!! Haha. Ah well, just have to remember to play the best moves I possibly can. As long as I do that, I’m hoping I’ll have no regrets.<br />
+
+<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/YSD-S9-Round7.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/YSD-S9-Round7.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/07/YSD-S9-Round7.sgf[/download]
+<p><strong>After the Game</strong> &#8211; The game ended up boiling down to a huge capturing race. It wasn’t necessary, but I got it in my head that it was time for White to die and I nearly killed myself in the process. Completely unnecessary and a poor decision on my part. On top of that, I even proudly played an empty triangle because I thought it was the firmest way to kill. <em>hangs head in shame</em><br />
+<strong>After the Review</strong> &#8211; Inseong essentially confirmed my thoughts on the game. In fact, if anything there was probably more negative things to say about the game than positive. I was just fortunate that my slack moves were not punished properly. I really need to work on my mindset when playing people a couple stones or more weaker than I am…</p>
+<h3 id="round8" style="text-align: center;">Round 8</h3>
+<p><strong>Preliminary Thoughts</strong> &#8211; Prior to playing this game, I went on a 5 game losing streak* that very day. I was in the worst of moods and clearly on tilt. So as I geared up to play the 4k of our group, part of me flinched at the idea since my last loss was to a 4k as well. And I know that my opponent was no ordinary 4k, so as I prepared to challenge him to our match, I couldn’t help but feel some dread at adding a 6th loss to my day.<br />
+*<em>And if you’re wondering how bad it was, my rank dropped from 2k to 4k. Yup. That bad.</em><br />
+
+<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/YSD-S9-Round8.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/YSD-S9-Round8.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/07/YSD-S9-Round8.sgf[/download]
+<p><strong>After the Game</strong> &#8211; I can’t believe I won. When I was counting towards the end, I was pretty sure I was behind by like 10 points (although I will admit I completely forgot I had komi, but nonetheless I would have still been behind according to my rough estimates). While a relief in one respect, it definitely felt like a growing moment as the game was very different from my normal aggressive game. It was surprisingly calm.<br />
+<strong>After the Review</strong> &#8211; Overall the review went pretty well. I missed a couple of key points that would have been pretty bad for me if my opponent was able to see it at the time; but there wasn’t anything overly critical. So all in all, I’m pretty happy with the result of the game and my ability to stay in control till the very end (considering how bent up I was at the time).</p>
+<h3 id="round9" style="text-align: center;">Round 9</h3>
+<p><strong>Preliminary Thoughts</strong> &#8211; Tonight’s opponent is one that I was rather worried about because he had an atypical playing style. In summary, he was very comfortable using 5–3 as one of his opening moves. Being as how I have little experience with it, I was admittedly worried. So while I did try to read up on 5–3 a little bit, I didn’t feel as prepared as I would have liked before playing this game.<br />
+
+<div id='glift_display5' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display5","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/YSD-S9-Round9.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/YSD-S9-Round9.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/07/YSD-S9-Round9.sgf[/download]
+<p><strong>After the Game</strong> &#8211; Losing the game was rough because it meant that I was not guaranteed a promotion anymore. In addition, I thought that I was in control for a good portion of the game; but ended up giving up away too much in the center and lost. Sigh. Frustrated for sure…<br />
+<strong>After the Review</strong> &#8211; Sometimes the most frustrating thing is knowing you were right about being in control for a good portion of the game. And then when you make one single error that goofs up your entire advantage…. Argh! Makes you just want to throw your hands up in disbelief at your own incompetence… Although on an interesting note, I was very close to discovering a tesuji that would have allowed me to win the game. So that&#8217;s pretty cool.</p>
+<h3 id="round10" style="text-align: center;">Round 10</h3>
+<p><strong>Preliminary Thoughts</strong> &#8211; Once again, I was put in the position of having my final match be the determining factor between whether I get promoted or not. Sigh. And on top of that, I was fighting a slump so the pressure was not helping at all…<br />
+
+<div id='glift_display6' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display6","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/YSD-S9-Round10.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/YSD-S9-Round10.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=“Download Kifu”]//wp-content/uploads/2014/07/YSD-S9-Round10.sgf[/download]
+<p><strong>After the Game</strong> &#8211; I lost… Once again… I choked at the final moment and loss. Just no words at this time. Can’t even stay for the review because of how frustrated I am with my go.<br />
+<strong>After the Review</strong> &#8211; It wasn’t until a few days later that I finally sat down to watch the review. To my surprise, sabum-nim actually had mostly positive things to say about my gameplay. Granted, in the end my opponent triumphed and destroyed me; but at least the game wasn’t hopeless. So while I was really bummed out after the game, I’m at least glad that the review wasn’t as horrible as I thought it would be.</p>
+<h2 id="finalthoughts">Final Thoughts</h2>
+<p>This has been a rough month for me, but a lot of it has to do with other factors and not so much with YSD itself. The YSD games certainly showed my decline and poor play over the month, but they are certainly not to blame. At the bare minimum, I am at least grateful to Inseong for his reviews and insights so that I can patch up my mistakes and continue getting stronger. Here’s to hoping next month is better.</p>
+<p style="text-align: center;"><a title="My Experience with YSD — S9 — Part 1" href="//experience-ysd-s9-part-1/">Part I</a> &#8211; <strong>Part II</strong> &#8211; Part III</p>
+]]></content:encoded>
+			<wfw:commentRss>/experience-ysd-s9-part-2/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5515</post-id>	</item>
+		<item>
+		<title>On Thin Ice</title>
+		<link>/thin-ice/</link>
+		<comments>/thin-ice/#comments</comments>
+		<pubDate>Tue, 27 May 2014 04:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[anxious]]></category>
+		<category><![CDATA[demotion]]></category>
+		<category><![CDATA[promotion]]></category>
+		<category><![CDATA[yunguseng dojang]]></category>
+
+		<guid isPermaLink="false">//?p=5362</guid>
+		<description><![CDATA[The first month of Yunguseng Dojang (YSD) is almost over and you know what that means: top two players get promoted while the bottom two players get demoted. And as you might have guessed from the title of the post, I am on thin ice this month. Based on my calculations of how the rest of the players in my league [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The first month of <a title="Yunguseng Dojang Official Site" href="http://www.yunguseng.com/">Yunguseng Dojang</a> (YSD) is almost over and you know what that means: top two players get promoted while the bottom two players get demoted. And as you might have guessed from the title of the post, I am on thin ice this month.<br />
+Based on my calculations of how the rest of the players in my league will do, everything hinges on my final game this Thursday. My opponent is already guaranteed a spot in League A, so for some reason I feel even more pressure since he holds the key to my fate next month.<br />
+To my surprise, I am more worried and stressed out about this than I would have imagined. Perhaps it&#8217;s due to sheer ego and desire to remain in the top class, but I do feel pressure to stay in League A next month.<br />
+Ah well. No point sitting here dreading and worrying about it. Off to prepare what I can before the game.</p>
+]]></content:encoded>
+			<wfw:commentRss>/thin-ice/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5362</post-id>	</item>
+		<item>
+		<title>Friday Go Forward: Week 58</title>
+		<link>/friday-go-forward-week-58/</link>
+		<pubDate>Fri, 18 Apr 2014 15:15:51 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[lynx]]></category>
+		<category><![CDATA[trying new things]]></category>
+		<category><![CDATA[yunguseng dojang]]></category>
+
+		<guid isPermaLink="false">//?p=4900</guid>
+		<description><![CDATA[Overview As I&#8217;m sure you all have noticed, I have finally gotten around to releasing my Hong Kong trip series this week! It took quite a few hours to work through all the photos and then make sure they were ready for viewing, but if you all enjoyed the posts, then I think it was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Overview</h2>
+<p>As I&#8217;m sure you all have noticed, I have finally gotten around to releasing my <a title="Hong Kong Trip: Part 1 — The Scenery" href="//hong-kong-trip-part-1/">Hong Kong trip series</a> this week! It took quite a few hours to work through all the photos and then make sure they were ready for viewing, but if you all enjoyed the posts, then I think it was plenty worthwhile.<br />
+With that said, I have been starting to approach my life with a lot more vigor. One of the things I&#8217;ve gotten back to doing consistently is going to my local boxing gym. Even though this takes up a lot of time throughout the week, I think that we often underestimate the connection between physical and mental conditioning. Both must be optimal in order for them to work together harmoniously. In addition, I&#8217;ve started watching more <a title="Yunguseng Dojang Official Website" href="http://www.yunguseng.com/">Yunguseng Dojang</a> lectures and changed up my training a bit.<br />
+Over the past week, I got a chance reconnect with Lynx on KGS and we had a fun teaching game. I lost of course, but after a bit of discussion, she showed me an article she wrote on &#8220;<a title="Lynx's Article on How to Improve at Go" href="http://shobia.com/w/How_to_Improve_at_Go">How to Improve at Go</a>.&#8221; While I could write a whole post about the various things I like about the article (which will probably happen in the near future when I have a moment to breathe), the main thing that stuck out to me was her emphasis on tesuji problems rather than life and death problems. As a result, you&#8217;ll notice my training regimen has changed a bit from before.<br />
+I&#8217;m still trying to create a training schedule that works well for me, so you&#8217;ll have to bear with me as I continue to experiment and try different things. It&#8217;s particularly volatile at the moment, but a large part is due to the fact that I really want to be in a stable position when the <a title="Yunguseng Dojang Official Website" href="http://www.yunguseng.com/">Yunguseng Dojang</a> starts in May. So I&#8217;m really testing the waters in various areas to see what works best for me. Just have to keep trying.</p>
+<h2>Training Regimen</h2>
+<ul>
+<li><b>Life and Death Problems </b>
+<ul>
+<li>Software: MagicBaduk</li>
+<li>Frequency: Daily</li>
+<li>Task: (1) 10 minutes or (2) Finish an entire problem set (250-300 problems depending on difficulty). Whichever comes second.</li>
+</ul>
+</li>
+<li><strong><span style="line-height: 1.5em;">Tesuji Problems</span></strong>
+<ul>
+<li><span style="line-height: 1.5em;"> Software: MagicBaduk</span></li>
+<li>Frequency: Daily</li>
+<li>Task: (1) 10 minutes exploring the problem set and practicing problems I&#8217;ve learned before.</li>
+</ul>
+</li>
+</ul>
+<h2>Games</h2>
+<ul>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  5 games</li>
+<li><a title="Pandanet-IGS Official Site" href="http://pandanet-igs.com/communities/pandanet">IGS</a> &#8211; 0 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 5 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  2 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li>N/A</li>
+</ul>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">4900</post-id>	</item>
+	</channel>
+</rss>

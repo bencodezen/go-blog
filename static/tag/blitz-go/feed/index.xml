@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>blitz go &#8211; BenGoZen</title>
+	<atom:link href="/tag/blitz-go/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 77</title>
+		<link>/monday-go-meditation-game-77/</link>
+		<pubDate>Mon, 26 Mar 2018 14:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Commentaries]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[blitz go]]></category>
+		<category><![CDATA[kifu]]></category>
+
+		<guid isPermaLink="false">/?p=6307</guid>
+		<description><![CDATA[Introduction So what you&#8217;ll probably notice first is that my rank in this game is a lot lower than you might expect. This is because my OGS rank is super outdated as I never played many games and lost a few games due to time around the time I took a break. That said, it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Introduction</h2>
+<p>So what you&#8217;ll probably notice first is that my rank in this game is a lot lower than you might expect. This is because my OGS rank is super outdated as I never played many games and lost a few games due to time around the time I took a break.</p>
+<p><span id="more-6307"></span></p>
+<p>That said, it was a blitz game and man I forgot how antsy those made me. I played one previous to this with 10 seconds time and that was one full of mistakes. This one was 30 seconds and also pretty bad, but I thought I would post it nonetheless since there are still things to learn from it. Enjoy!</p>
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/wp-content\/uploads\/2018\/03\/2018.03.26-MGM-77.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='/wp-content/uploads/2018/03/2018.03.26-MGM-77.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<h2>One Point Lesson</h2>
+<p>In blitz go, be prepared to prove you know what you&#8217;re doing because your opponent will test you time and time again&#8230;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">6307</post-id>	</item>
+		<item>
+		<title>Pool and Blitz Go</title>
+		<link>/pool-and-blitz-go/</link>
+		<pubDate>Thu, 27 Dec 2012 17:04:16 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[blitz go]]></category>
+		<category><![CDATA[pool]]></category>
+
+		<guid isPermaLink="false">//?p=1524</guid>
+		<description><![CDATA[So lately, I&#8217;ve been playing pool with my family, and I have to say that I realized how accustomed I&#8217;ve become to the manner of play in go. For those who aren&#8217;t familiar with pool, a player can theoretically play the entire game from start to finish without ever letting the opponent have a single [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So lately, I&#8217;ve been playing pool with my family, and I have to say that I realized how accustomed I&#8217;ve become to the manner of play in go. For those who aren&#8217;t familiar with pool, a player can theoretically play the entire game from start to finish without ever letting the opponent have a single turn. Can you imagine how I felt as a go player?! It&#8217;s as if I passed every time an opponent put down a stone. AHHHHHHH!!!!!<br />
+With that random anecdote, I&#8217;m still happy to report that my ranked game sabbatical has continued to be sustain. Although in all honesty, with the league games diminishing in availability, I am starting to feel the urge to start playing ranked games again. I&#8217;ve even resorted to playing two games of blitz go yesterday (which was a complete and utter mistake might I add).  Playing league games consistently has certainly weakened my ability to play blitz go properly, but I think that&#8217;s a plus more than a negative.<br />
+On that note, the month is nearly over! I&#8217;m not sure whether or not I want to continue abstaining from ranked games or not, so I guess I&#8217;ll see when the time comes.<br />
+Hope everyone had a great holiday!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1524</post-id>	</item>
+		<item>
+		<title>Blitz Go: To Play or Not to Play?</title>
+		<link>/blitz-go-to-play-or-not-to-play/</link>
+		<pubDate>Wed, 03 Oct 2012 13:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[baduk]]></category>
+		<category><![CDATA[blitz go]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=25</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #2 For many players, one of the major obstacles to playing go is time. After all, an average game can take anywhere from 60 to 90 minutes depending on the level of thinking that goes into each game. So in order to accommodate the faster players and those without much time, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><em>Weekly Go Wednesday, Issue #2</em></h2>
+<p style="text-align: left;">For many players, one of the major obstacles to playing go is time. After all, an average game can take anywhere from 60 to 90 minutes depending on the level of thinking that goes into each game. So in order to accommodate the faster players and those without much time, the format known as blitz go was born.</p>
+<p style="text-align: left;">For new players who&#8217;ve never played blitz go, the general idea is that you have less than a minute to make each move. If you fail to make your move within the allotted time, you lose by default on time.</p>
+<p style="text-align: left;">While there are different perspectives on blitz go, you should seriously consider the following points as to whether or you should be playing blitz go:</p>
+<p style="text-align: left;"><span id="more-25"></span></p>
+<h3 style="text-align: left;"><span style="text-decoration: underline;">Why You Should Play Blitz Go&#8230;</span></h3>
+<ol>
+<li>You can play an entire 19&#215;19 game if you&#8217;re under a time constraint.</li>
+<li>It is an excellent way to see how good your instincts are. In other words, the strength of your fundamentals in the game and reading speed will be severely tested in this format.</li>
+</ol>
+<p><em>I really tried to come up with three reasons; but even when I included the obvious benefit that the games are much shorter, I don&#8217;t honestly believe there are any other strengths to this format. And you&#8217;ll see why with the following list.</em></p>
+<h3 style="text-align: left;"><span style="text-decoration: underline;">Why You Shouldn&#8217;t Play Blitz Go&#8230;</span></h3>
+<p style="padding-left: 30px;"><strong>#1. Players are often rewarded for bad or desperate moves.</strong></p>
+<p style="padding-left: 30px;">While this may seem like a reason to play go, in my opinion, this is ultimately a double edged sword that will often be more agonizing than anything else. Case and point, check out my game record below for two groups that are supposed to be utterly alive, but who get killed off in the end. And in the end, if one of your desperate plays happens to be successful, there is a pretty good chance you&#8217;ll think you figured out a clever play when in actuality it was just your opponent&#8217;s stupidity. So you&#8217;re ultimately just reinforcing an inflated ego that would be smashed to bits if your opponent just avoids stupid mistakes. Is that really the way you want to get stronger?</p>
+<p style="text-align: left; padding-left: 30px;"><strong>#2. If players become accustomed to this format, it will often condition them to have the &#8220;play and hope it works&#8221; mentality. </strong></p>
+<p style="text-align: left; padding-left: 30px;">Just like #1, this is a TERRIBLE habit for players to acquire. This will not only negatively impact your abilities, but it will make the game far less enjoyable because you&#8217;ll look back at your games only to regret the hopeful move you made that cost you the game.</p>
+<p style="text-align: left; padding-left: 30px;"><strong>#3. In addition, players who become accustomed to blitz go will also be practically unable to return to regular go since their deep reading abilities will have ultimately become crippled. </strong></p>
+<p style="text-align: left; padding-left: 30px;">Unless you happen to study your deep reading constantly on the side and have not been plagued with the impatience many blitz players acquire, your deep reading is going to go down the drain. On the other hand, a player who typically plays longer games of go will always have the ability to play blitz go.</p>
+<p style="text-align: left; padding-left: 30px;"><strong>#4. Tournaments are rarely blitz go. </strong></p>
+<p style="text-align: left; padding-left: 30px;">Let&#8217;s face it. The big tournaments around the world are primarily non-blitz. So when you go off to compete for prizes and such, you will be at a severe disadvantage compared to your opponents who are more accustomed to managing their time at different points in the game. Unless you are hoping to pressure your opponent into playing a faster game, I have a feeling you won&#8217;t be doing as well as you think.</p>
+<p style="text-align: left; padding-left: 30px;"><strong>#5. It&#8217;s difficult to tell when you&#8217;re actually progressing. </strong></p>
+<p style="text-align: left; padding-left: 30px;">If you were to chart your results and progress over time, there&#8217;s a good chance it looks like a roller coaster. There are times where you utterly crush your opponent&#8230; times you get crushed by your opponent&#8230;. and once every blue moon you&#8217;ll have a close game. Since a player&#8217;s rank is perhaps the most desirable aspect for most players, this would admittedly be frustrating to see no?</p>
+<p style="text-align: left;">The kifu record today is an excellent demonstration of the points I mentioned above regarding blitz go: careless errors, weird moves, desperate attempts that succeed despite the fact they are supposed to be terribly doomed for failure, and so forth.</p>
+<p style="text-align: left;">
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2012\/10\/2012.10.03-Blitz-Go.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2012/10/2012.10.03-Blitz-Go.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2012/10/2012.10.03-Blitz-Go.sgf[/download]
+<p style="text-align: center;">In your experience thus far, what are some of your thoughts on blitz go?</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">25</post-id>	</item>
+		<item>
+		<title>First Saturday Post!</title>
+		<link>/first-saturday-post/</link>
+		<pubDate>Sat, 16 Oct 2010 20:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[14k]]></category>
+		<category><![CDATA[blitz go]]></category>
+		<category><![CDATA[victory]]></category>
+
+		<guid isPermaLink="false">//?p=66</guid>
+		<description><![CDATA[So I think this is my first official Saturday post in terms of posting a game and giving an overview as to my progress. Last night I visited the GWGC, but it was relatively uneventful&#8230; just a friendly sparring match with my cousin. For him, go is far more of a recreational activity. So I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I think this is my first official Saturday post in terms of posting a game and giving an overview as to my progress. Last night I visited the GWGC, but it was relatively uneventful&#8230; just a friendly sparring match with my cousin. For him, go is far more of a recreational activity. So I tried to give him four stones, but that wasn&#8217;t not enough of a handicap. Oh well, we&#8217;ll try six stones next time.<br />
+In terms of Go study, that&#8217;s kind of been slowed down a bit. Job hunt and school are taking a lot more of my time these days (which it should =D), but I&#8217;ve tried to play at least one to two games a day. Today I played one against an 18k, but it was utter destruction. Unless people would like me to post it up, I&#8217;ll post the second game I played yesterday against a 11kyu. It was more or less speed Go for me since I only had 10 min main time. He loss on time, but it&#8217;d be nice to get some commentaries on whether I would&#8217;ve been able to actually win. Cheers!<br />
+<span id="more-66"></span><br />
+
+<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.16-First-Saturday-Post.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.16-First-Saturday-Post.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">66</post-id>	</item>
+	</channel>
+</rss>

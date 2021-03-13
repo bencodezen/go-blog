@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>edison &#8211; BenGoZen</title>
+	<atom:link href="/tag/edison/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Feeling Full of Contradictions</title>
+		<link>/feeling-full-contradictions/</link>
+		<comments>/feeling-full-contradictions/#comments</comments>
+		<pubDate>Fri, 04 Jul 2014 03:55:59 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[confused]]></category>
+		<category><![CDATA[contradictions]]></category>
+		<category><![CDATA[edison]]></category>
+		<category><![CDATA[haze]]></category>
+
+		<guid isPermaLink="false">//?p=5530</guid>
+		<description><![CDATA[Managed to win the first round of Yunguseng Dojang tonight. Contrary to most people&#8217;s expectation however, I&#8217;m not feeling particularly good about it. I don&#8217;t know. Hard to say. Because it feels like to some extend, the games I win I don&#8217;t like, but then the games I felt good about are the ones I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Managed to win the first round of Yunguseng Dojang tonight. Contrary to most people&#8217;s expectation however, I&#8217;m not feeling particularly good about it. I don&#8217;t know. Hard to say. Because it feels like to some extend, the games I win I don&#8217;t like, but then the games I felt good about are the ones I ended up losing. But my head has been in a bit of a haze lately, so it&#8217;s hard to say if what I&#8217;m feeling makes any sense at the moment.<br />
+What I will say at the moment however, is that I definitely feel like my journey has come to a culmination point where everything seems to be contradicting. In an effort to not play automatic moves and think on a whole board scale, I end up ignoring my instinct to play a move which is actually the proper move that I end up talking myself out of for X reason. Games I win are games I dislike while games I lose are ones that I feel are better. North is south and east is west. Oy vey&#8230;<br />
+I imagine that others who have gone through this must find it quite difficult. It definitely seems easier to just throw in the towel instead of subjecting myself to being neck deep in this confusion; but this is the time when I&#8217;m reminded of the quote:</p>
+<blockquote><p>&#8220;Many of life&#8217;s failures are people who did not realize how close they were to success when they gave up.&#8221;</p></blockquote>
+<p>&#8211; Thomas A. Edison<br />
+Going to keep calm and maintain my bearings&#8230; Onwards&#8230; Always moving forward&#8230;.</p>
+]]></content:encoded>
+			<wfw:commentRss>/feeling-full-contradictions/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5530</post-id>	</item>
+	</channel>
+</rss>

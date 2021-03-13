@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>3 step thinking &#8211; BenGoZen</title>
+	<atom:link href="/tag/3-step-thinking/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>My First One Point Lesson</title>
+		<link>/my-first-one-point-lesson/</link>
+		<pubDate>Sun, 17 Oct 2010 04:23:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Lessons]]></category>
+		<category><![CDATA[14k]]></category>
+		<category><![CDATA[3 step thinking]]></category>
+		<category><![CDATA[shidougo]]></category>
+
+		<guid isPermaLink="false">//?p=65</guid>
+		<description><![CDATA[So I played my first teaching game on KGS today. It was a pretty quick game with a 3-dan who UTTERLY demolished me. I couldn&#8217;t help but laugh as I watched my shapes get cut up into tiny little pieces and get swallowed up whole by Leviathan. Don&#8217;t even want to think about what it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I played my first teaching game on KGS today. It was a pretty quick game with a 3-dan who UTTERLY demolished me. I couldn&#8217;t help but laugh as I watched my shapes get cut up into tiny little pieces and get swallowed up whole by Leviathan. Don&#8217;t even want to think about what it would be like to play a pro right now&#8230;. *head explodes*<br />
+Anyhow, here is the following onslaught. The 3-dan has an interesting idea called: <strong>One Point Teaching Game</strong>. At first I was like do I pay him a point or something&#8230;. but then it became clear to me at the end. He gives one solid point for the player to work on. BRILLIANT! Considering weak players are being pulled five millions different directions at once (e.g. life and death, tesuji, opening theory, etc.), it&#8217;s nice to have one solid thing to focus on.<br />
+So I&#8217;m sure the question then is, what was my one point lesson for today?<br />
+<span id="more-65"></span><br />
+<strong>Practice 3-Step Thinking for Every Move</strong> &#8211; In other words, think what move you intend to play, how your opponent could respond, and how you&#8217;d respond to your opponent&#8217;s response. This process will give a player a better overview as to the board position and whether it is favorable or not.<br />
+He said that a number of SDK don&#8217;t even do this consistently, so it may be difficult for me to incorporate it as second nature. I would like to note that we played a relatively quick game, so most of my moves were instinctual. Nonetheless, I must train myself to do 3-Step Thinking instinctively or else the pursuit to become stronger will be futile. Now grab your bag of popcorn, and enjoy the onslaught.<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.17-My-First-One-Point-Lesson.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.17-My-First-One-Point-Lesson.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+&nbsp;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">65</post-id>	</item>
+	</channel>
+</rss>

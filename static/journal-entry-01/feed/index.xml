@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Journal Entry: #01</title>
+	<atom:link href="/journal-entry-01/feed/" rel="self" type="application/rss+xml" />
+	<link>/journal-entry-01/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Zelmor</title>
+		<link>/journal-entry-01/#comment-2531</link>
+		<dc:creator><![CDATA[Zelmor]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2014 16:05:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5622#comment-2531</guid>
+		<description><![CDATA[&quot;The Tao is common property. It should be pointed out to all we meet.&quot;]]></description>
+		<content:encoded><![CDATA[<p>&#8220;The Tao is common property. It should be pointed out to all we meet.&#8221;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/journal-entry-01/#comment-2530</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2014 14:33:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5622#comment-2530</guid>
+		<description><![CDATA[This is incredible. I will be sure to review them over the next few weeks. Thank you for sharing this with me!]]></description>
+		<content:encoded><![CDATA[<p>This is incredible. I will be sure to review them over the next few weeks. Thank you for sharing this with me!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Zelmor</title>
+		<link>/journal-entry-01/#comment-2529</link>
+		<dc:creator><![CDATA[Zelmor]]></dc:creator>
+		<pubDate>Wed, 10 Sep 2014 12:26:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5622#comment-2529</guid>
+		<description><![CDATA[You seem to have lost the way. Here&#039;s something to think about. I read it daily, gives a lot of insight. Enjoy.
+http://www.beatrice.com/TAO.pdf]]></description>
+		<content:encoded><![CDATA[<p>You seem to have lost the way. Here&#8217;s something to think about. I read it daily, gives a lot of insight. Enjoy.<br />
+<a href="http://www.beatrice.com/TAO.pdf" rel="nofollow">http://www.beatrice.com/TAO.pdf</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ben</title>
+		<link>/journal-entry-01/#comment-2528</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2014 12:52:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5622#comment-2528</guid>
+		<description><![CDATA[Thanks! Believe it or not, I was having issues writing posts sometimes because I would sit there thinking what I would title things. And then next thing you know I&#039;ve titled a post something I would probably have titled an article. Classifying these types of rants / posts as simple Journal Entries should make for much fluid blogging.
+Appreciate the support as always man! It&#039;s definitely much needed as I start everything back up!]]></description>
+		<content:encoded><![CDATA[<p>Thanks! Believe it or not, I was having issues writing posts sometimes because I would sit there thinking what I would title things. And then next thing you know I&#8217;ve titled a post something I would probably have titled an article. Classifying these types of rants / posts as simple Journal Entries should make for much fluid blogging.<br />
+Appreciate the support as always man! It&#8217;s definitely much needed as I start everything back up!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Moboy78</title>
+		<link>/journal-entry-01/#comment-2527</link>
+		<dc:creator><![CDATA[Moboy78]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2014 01:48:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=5622#comment-2527</guid>
+		<description><![CDATA[Nice idea with the whole Journal Entry thing.  I bet it&#039;ll really help with organizing the blog.  Can&#039;t wait to start reading your regular blog posts again!]]></description>
+		<content:encoded><![CDATA[<p>Nice idea with the whole Journal Entry thing.  I bet it&#8217;ll really help with organizing the blog.  Can&#8217;t wait to start reading your regular blog posts again!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

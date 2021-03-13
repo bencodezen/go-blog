@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>email newsletter &#8211; BenGoZen</title>
+	<atom:link href="/tag/email-newsletter/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>I Lost to Cloudbrows + E-mail Newsletters</title>
+		<link>/i-lost-to-cloudbrows-e-mail-newsletters/</link>
+		<comments>/i-lost-to-cloudbrows-e-mail-newsletters/#comments</comments>
+		<pubDate>Thu, 18 Jul 2013 03:40:18 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[cloudbrows]]></category>
+		<category><![CDATA[email newsletter]]></category>
+		<category><![CDATA[studying]]></category>
+
+		<guid isPermaLink="false">//?p=3548</guid>
+		<description><![CDATA[In lieu of my last post on the desire to lose, I thought it would only be appropriate that I title this blog post after a marvelous game I played on Monday. It&#8217;s already slated for a Monday Go Meditation, so more on that game in a couple of weeks! With that being said, I&#8217;m [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>In lieu of my last post on <a title="The Desire to Lose" href="//the-desire-to-lose/">the desire to lose</a>, I thought it would only be appropriate that I title this blog post after a marvelous game I played on Monday. It&#8217;s already slated for a Monday Go Meditation, so more on that game in a couple of weeks!<br />
+With that being said, I&#8217;m sure that some of you have noticed that the email subscription widget on the right has changed a bit. And in case you didn&#8217;t, here&#8217;s the basic rundown!</p>
+<ol>
+<li><span style="line-height: 13px;">E-mail newsletters now have a new look and feel that should make the reading process more enjoyable!</span></li>
+<li>You can now choose the frequency at which you want to receive your email newsletter!</li>
+</ol>
+<p>The only drawback to the plugin I&#8217;m using is that it isn&#8217;t very easy to switch to a different list, so if anyone would like to switch the frequency of their newsletter, feel free to contact me or go ahead and unsubscribe to the current list you&#8217;re on and resubscribe to the new one you want to be on. Either one works.<br />
+Finally, as you all have definitely noticed, I am on a book review rampage. I&#8217;ve gotten in a really great study groove, but I&#8217;m starting to feel the need to take it down a couple of notches since I have a few books I would like to spend more time on. Anyhow, more on that later on. Need to get some studying in before I pass out. XD<br />
+<em>PS. To all my first email subscribers (who were all immediately being updated whenever I posted something), in order to prevent everyone from feeling like I am spamming your inbox, I switched everyone over to the Daily Newsletter in order to keep my emails to one per day. If you would like to be switched back to the Immediate Newsletter, just let me know!</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/i-lost-to-cloudbrows-e-mail-newsletters/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3548</post-id>	</item>
+	</channel>
+</rss>

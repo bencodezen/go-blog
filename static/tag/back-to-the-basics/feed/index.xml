@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>back to the basics &#8211; BenGoZen</title>
+	<atom:link href="/tag/back-to-the-basics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 22</title>
+		<link>/friday-go-forward-week-22/</link>
+		<pubDate>Fri, 05 Jul 2013 09:00:35 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[back to the basics]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[lots of studying]]></category>
+		<category><![CDATA[polishing reading]]></category>
+
+		<guid isPermaLink="false">//?p=3145</guid>
+		<description><![CDATA[Friday Go Forward: Week 22 Overview As I&#8217;m sure you all are aware, this week marks the start of my Korean Training Reboot! I am having the time of life as I&#8217;m going over the basics of all basics for the first time ever. Now I know it probably sounds stupid to some of you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Friday Go Forward: Week 22</h2>
+<h2>Overview</h2>
+<p>As I&#8217;m sure you all are aware, this week marks the start of my <a title="Korean Training Reboot!" href="//korean-training-reboot/">Korean Training Reboot</a>! I am having the time of life as I&#8217;m going over the basics of all basics for the first time ever. Now I know it probably sounds stupid to some of you that I&#8217;m spending my time on books intended for 30 kyus, but I feel like I am getting a lot of value just drilling basics such as &#8220;can my stone escape from atari.&#8221; It&#8217;s not so much that I&#8217;m learning something &#8220;new,&#8221; but instead I am really trying to polish the fundamentals of my reading ability. Here&#8217;s to hoping I know what I&#8217;m doing!</p>
+<h2>Games</h2>
+<ul>
+<li>DGS &#8211; 2 ongoing games</li>
+<li>Nova &#8211; 2 ongoing games</li>
+</ul>
+<h2>Education &amp; Training</h2>
+<ul>
+<li>Finished <em>Attacking and Defending Moyos</em>.</li>
+<li>Finished on <i>Elementary Go Series, Vol 4 &#8211; Life and Death.</i></li>
+<li>Started and finished <em>Level Up 1</em>.</li>
+<li>Started working on <em>Level Up 2</em>.</li>
+<li>Worked on <em>Modern Master Games, Vol. 1</em>.</li>
+<li>Worked on <i>Elementary Go Series, Vol 5 &#8211; Attack and Defense</i>.</li>
+<li>Worked on <i>Whole Board Thinking of Joseki, Vol. 1</i>.</li>
+<li>Worked on <em>Essential Life &amp; Death 3.</em></li>
+</ul>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">3145</post-id>	</item>
+	</channel>
+</rss>

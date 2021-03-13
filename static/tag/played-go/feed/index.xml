@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>played go &#8211; BenGoZen</title>
+	<atom:link href="/tag/played-go/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Journal Log #4</title>
+		<link>/journal-log-4/</link>
+		<pubDate>Tue, 07 Sep 2010 23:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[computer go]]></category>
+		<category><![CDATA[played go]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">//?p=121</guid>
+		<description><![CDATA[So I&#8217;m back online!  With two online games under my belt today, I&#8217;m feeling pretty good. I played against a human AkiraWeiqi (22 kyu).  It was a good battle.  We both made some careless errors, but man it is different playing against a handicap.  I&#8217;m so used to taking handicaps/even games that seeing stones on [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So I&#8217;m back online!  With two online games under my belt today, I&#8217;m feeling pretty good.</p>
+<ol>
+<li>I played against a human AkiraWeiqi (22 kyu).  It was a good battle.  We both made some careless errors, but man it is different playing against a handicap.  I&#8217;m so used to taking handicaps/even games that seeing stones on the board was like WHOA!  I won by a slight margin, but I&#8217;ll have to have someone review it to see if he might have been able to close the gap.</li>
+<li>Second game was against the LiberyBot (14 kyu), and that I thought I played relatively well.  I lost by 5.5 moku, but I think it was largely due to a huge reading error in one of my larger groups which then resulted in its death.  Sigh&#8230;. need more practice.</li>
+</ol>
+<p>Okay.  So&#8230; in terms of my study regimen&#8230;. here&#8217;s what we&#8217;ll be looking at.</p>
+<ul>
+<li>Life and Death Problem</li>
+<li>Reading about Go Strategy</li>
+<li>General Go Problems</li>
+<li>Play one serious game</li>
+<li>Replay at least part of a pro game</li>
+</ul>
+<p>Let&#8217;s see where that takes me.  Onwards!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">121</post-id>	</item>
+	</channel>
+</rss>

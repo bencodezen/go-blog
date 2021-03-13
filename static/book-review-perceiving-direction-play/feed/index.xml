@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Book Review: Perceiving the Direction of Play</title>
+	<atom:link href="/book-review-perceiving-direction-play/feed/" rel="self" type="application/rss+xml" />
+	<link>/book-review-perceiving-direction-play/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/book-review-perceiving-direction-play/#comment-1271</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2013 01:33:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4144#comment-1271</guid>
+		<description><![CDATA[Yeah. Definitely not recommended for kyu players. If you really want to get a book on direction of play, definitely check out my review on Direction of Play from Kiseido. It&#039;s still a bit advanced, but I think it&#039;s much more in line with teaching someone direction of play than this book.
+And for your second question, I realized that I didn&#039;t actually finish my thought on the second bullet, so it&#039;s updated now. Let me know if you have any other questions. =)]]></description>
+		<content:encoded><![CDATA[<p>Yeah. Definitely not recommended for kyu players. If you really want to get a book on direction of play, definitely check out my review on Direction of Play from Kiseido. It&#8217;s still a bit advanced, but I think it&#8217;s much more in line with teaching someone direction of play than this book.<br />
+And for your second question, I realized that I didn&#8217;t actually finish my thought on the second bullet, so it&#8217;s updated now. Let me know if you have any other questions. =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: RisingStar</title>
+		<link>/book-review-perceiving-direction-play/#comment-1270</link>
+		<dc:creator><![CDATA[RisingStar]]></dc:creator>
+		<pubDate>Sun, 13 Oct 2013 23:11:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4144#comment-1270</guid>
+		<description><![CDATA[So what you&#039;re saying is that we (kyu players) shouldn&#039;t read it? I still need to work on my direction of play so can you recommend any other books at the moment?]]></description>
+		<content:encoded><![CDATA[<p>So what you&#8217;re saying is that we (kyu players) shouldn&#8217;t read it? I still need to work on my direction of play so can you recommend any other books at the moment?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

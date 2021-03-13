@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>moyo vs moyo &#8211; BenGoZen</title>
+	<atom:link href="/tag/moyo-vs-moyo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 64</title>
+		<link>/monday-go-meditation-game-64/</link>
+		<comments>/monday-go-meditation-game-64/#comments</comments>
+		<pubDate>Mon, 14 Jul 2014 17:58:31 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[4k opponent]]></category>
+		<category><![CDATA[moyo vs moyo]]></category>
+		<category><![CDATA[w+38.5]]></category>
+		<category><![CDATA[white]]></category>
+		<category><![CDATA[yunguseng dojang]]></category>
+
+		<guid isPermaLink="false">//?p=5554</guid>
+		<description><![CDATA[Introduction Contrary to what I said last week, this week’s Monday Go Meditation features my Yunguseng Dojang game from last week. The reason for this is two-fold: (1) I didn’t play any other games over the past two weeks and (2) I’m still trying to keep MGM as current as possible. As I mentioned before, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 id="introduction" style="text-align: center;">Introduction</h2>
+<p>Contrary to what I said last week, this week’s Monday Go Meditation features my Yunguseng Dojang game from last week. The reason for this is two-fold: (1) I didn’t play any other games over the past two weeks and (2) I’m still trying to keep MGM as current as possible.<br />
+As I mentioned before, I was feeling rather iffy before this game. My opponent was around 4–5k in strenghth, and with my ups and downs lately, I wasn’t so sure that I could even beat him. But before I could wallow too much in my own insecurities, the game started.<br />
+<em>Note: Similar to the other YSD match I posted last week, any specific things I learned from the review will be omitted in this game to respect other members’ paid membership.</em><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/2014.07.14-MGM-64.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/2014.07.14-MGM-64.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/07/2014.07.14-MGM-64.sgf[/download]
+<h2 id="onepointlesson" style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p>When playing a moyo vs moyo game, don’t get caught up in small gains (like taking a corner) when big points like an opponent’s corner enclosure on a double winged formation are available on the board.<br />
+<span id="more-5554"></span></p>
+<h2 id="gamesummary" style="text-align: center;">Game Summary</h2>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Move 10</strong> &#8211; This is not so much a good move as it is a move I’m proud of because it showed kiai on my part to be willing to compete with Black on a moyo game.,&#8221;<strong>Move 18</strong> &#8211; Though this moved seemed nice at the time, it was not very effective in terms of the whole board.&#8221;<br />
+2,Attack and Defense,<strong>Move 44</strong> &#8211; The fact that I was able to take a step back to defend my group first before overextending my attack was a sign of progress for me.,<strong>Move 72</strong> &#8211; Trying to invade to attack the Black group was a bad attack.<br />
+3,Shape,<strong>Move 162</strong> &#8211; Recognizing this clamp instantly was a nice moment for me since it meant I was increasing my repertoire of techniques to use.,<strong>Move 108</strong> &#8211; This doesn’t really defend my corner and makes bad shape.<br />
+4,Strategy,<strong>Move 148</strong> &#8211; Sacrificing my four stones to push and cut here is one of the key moves that allowed me to secure my win.,<strong>Move 62</strong> &#8211; This peep and following sequence to take the corner was too small strategically.<br />
+5,Overall Reading,<strong>Move 208</strong> &#8211; Reading out Black’s subsequent atari and seeing how it played out was a pretty big moment for me even though I missed the killing move at the end.,<strong>Move 82</strong> &#8211; The following sequence was just awful for me. Complete misread.<br />
+6,Endgame,&#8221;<strong>Move 120</strong> &#8211; Though this move was an overplay, the idea of taking sente instead of responding to Black was good.&#8221;,<strong>Move 86</strong> &#8211; Blocking here instead of defending my bottom group nearly allowed my opponent to reverse the game in his favor.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-64/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5554</post-id>	</item>
+	</channel>
+</rss>

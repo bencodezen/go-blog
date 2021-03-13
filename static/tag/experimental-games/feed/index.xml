@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>experimental games &#8211; BenGoZen</title>
+	<atom:link href="/tag/experimental-games/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Losing in Style</title>
+		<link>/losing-in-style/</link>
+		<pubDate>Thu, 13 Dec 2012 18:30:58 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[asr league]]></category>
+		<category><![CDATA[experimental games]]></category>
+
+		<guid isPermaLink="false">//?p=1355</guid>
+		<description><![CDATA[There&#8217;s one thing I&#8217;ve learned recently is that leagues are a fantastic place for experimental games. Not convinced? Three reasons: They are free games. You have nothing to lose. More often than not, you are playing people stronger than you. If you&#8217;re going to lose anyways, why not do so while learning something new? The reviews of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>There&#8217;s one thing I&#8217;ve learned recently is that leagues are a fantastic place for experimental games. Not convinced? Three reasons:</p>
+<ol>
+<li><span style="line-height: 13px;">They are free games. You have nothing to lose.</span></li>
+<li>More often than not, you are playing people stronger than you. If you&#8217;re going to lose anyways, why not do so while learning something new?</li>
+<li>The reviews of your games will yield more nuggets of wisdom than normal since you are trying to break into new territory.</li>
+</ol>
+<p>My record thus far has been pretty abysmal, but like the title of this post suggests, I feel like I&#8217;ve been going out with a bang each time. Don&#8217;t get me wrong, the losing aspect still stings a little bit; but I am comforted by the idea that the games are not terribly lopsided as a whole.<br />
+Here&#8217;s to hoping I can hang on to my place in the Beta class&#8230; *fingers crossed*</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1355</post-id>	</item>
+		<item>
+		<title>Experimental Games</title>
+		<link>/experimental-games/</link>
+		<pubDate>Wed, 21 Nov 2012 14:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[experimental games]]></category>
+		<category><![CDATA[getting stronger]]></category>
+
+		<guid isPermaLink="false">//?p=13</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #7 Insanity is doing the same thing, over and over again, but expecting different results. &#8211; Narcotics Anonymous If we rephrase it into a go context, it might look something like this. Insanity in go is playing the same level of moves over and over again, but expecting to gain a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><em>Weekly Go Wednesday, Issue #7</em></h2>
+<blockquote><p>Insanity is doing the same thing, over and over again, but expecting different results. &#8211; Narcotics Anonymous</p></blockquote>
+<p>If we rephrase it into a go context, it might look something like this.</p>
+<blockquote><p>Insanity in go is playing the same level of moves over and over again, but expecting to gain a stone in strength.</p></blockquote>
+<p>That being said, this brings us to a critical aspect to getting stronger at go: experimental games.<br />
+<span id="more-13"></span><br />
+While a lot of attention is given to people practicing tsumego, reading go books, and playing games for experience, many players fail to recognize the importance of playing experimental games. In my opinion, this is perhaps the most critical aspect to breaking past rank barriers.<br />
+For those who don&#8217;t quite understand what I&#8217;m talking about,<strong> experimental games can be defined as games where the goal is to test new concepts and gain a better understanding of them</strong>, while being fully aware that winning or losing the game is entirely irrelevant.<br />
+There are those who may argue that reading about new moves and seeing them in professional games should help to expand a player&#8217;s knowledge on its own. To those who believe this, I refer you to the following quotation:</p>
+<blockquote><p>How We Learn<br />
+10% of what we READ<br />
+20% of what we HEAR<br />
+30% of what we SEE<br />
+50% of what we SEE and HEAR<br />
+70% of what is DISCUSSED with OTHERS<br />
+80% of what is EXPERIENCED PERSONALLY<br />
+95% of what we TEACH TO SOMEONE ELSE<br />
+~William Glasser</p></blockquote>
+<p>Whether you like it or not, simply reading about high level moves has very little impact on your actual gameplay. After all, if simply reading or being exposed to new concepts and ideas were enough to gain us strength, I&#8217;m sure many of us can attest that we&#8217;d be a lot stronger than we actually are.<br />
+To further illustrate this idea, let&#8217;s take a look at the following example:</p>
+<p style="padding-left: 30px;">Electron is currently a  10k who is trying to break into SDK territory. As any player knows, the key to increasing your rank is to have a good winning percentage. So, like any other person would do, Electron plays every game with the intention of winning so he can finally break into the SDK ranks.</p>
+<p style="padding-left: 30px;">When his rank finally jumped to 9 kyu, he was elated. Unfortunately, his joy was short lived and his rank dropped back down to 10 kyu after losing to stronger players. In a mad rush to get back his SDK rank, he continued to try and win enough games to gain his SDK status back. With every game, he would play the moves he was confident were the best. To his dismay however, he has yet to achieve solid SDK status.</p>
+<p>So what is stopping Electron from getting his solid SDK status? While a number of factors play a part in his growth stunt, it is his narrow focus on simply obtaining wins that is preventing him from obtaining solid SDK status.<br />
+<em>In a concerted effort to win every game, he tried to play the best moves possible</em>. While this may seem rationale at first, this is a flawed concept because the &#8220;best moves&#8221; that he is capable of coming up with are ones that are usually within one to two standard deviation of his rank. There will be times where his moves exceed the DDK range and therefore allow him to beat low SDK&#8217;s, but there will be just as many times where his moves are DDK moves that cause him to lose games.<br />
+With all of that being said, here are some tips to help you maximize your own experimental games:</p>
+<p style="padding-left: 30px;"><strong>1. Focus on applying concepts that you vaguely understand.</strong> While being exposed to moves that are completely beyond our understanding is good in small doses, new moves are useless if you have no idea how to follow it up. In other words, you want to feel a bit unsure as to how things are going to play out, but you don&#8217;t want to be so lost that you are simply hoping for the best. After all, if you have no idea how to follow up a new move, what do you expect to learn from it?</p>
+<p style="padding-left: 30px;"><strong>2. Test only a handful of concepts each experimental game.</strong> It may seem like common sense to try as many concepts as possible per experimental game, but this approach will actually prevent you from really learning anything. Like a laboratory experiment, it&#8217;s important to be able to control as many variables as possible so that you can isolate the root cause of the issue. By playing only a few new moves and keeping the rest of your game consistent, you will have a better understanding of how the new moves impacted the flow of the game.</p>
+<p style="padding-left: 30px;"><strong>3. Get a stronger player to review the experimental part of the game. </strong>While this isn&#8217;t critical to experimental games, it can provide great insight into the new concepts since stronger players can usually show you the proper sequence which will enhance and reinforce your understanding of the move.</p>
+<p style="padding-left: 30px;"><strong>4. Most importantly, remember that this game is not about winning or losing.</strong></p>
+<p>Happy experimenting!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">13</post-id>	</item>
+	</channel>
+</rss>

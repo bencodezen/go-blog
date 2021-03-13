@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>online &#8211; BenGoZen</title>
+	<atom:link href="/tag/online/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Go Seigen, Freedom and an AGA Online Tournament</title>
+		<link>/go-seigen-freedom-aga-online-tournament/</link>
+		<comments>/go-seigen-freedom-aga-online-tournament/#comments</comments>
+		<pubDate>Tue, 24 Sep 2013 15:18:53 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[aga]]></category>
+		<category><![CDATA[freedom]]></category>
+		<category><![CDATA[go seigen]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[tournament]]></category>
+
+		<guid isPermaLink="false">//?p=4034</guid>
+		<description><![CDATA[I recently finished Master Play: The Style of Go Seigen (Review coming soon!), and it has really given me a lot to think about in regards to the way I play go. For starters, though I&#8217;ve been familiar with the concept of professionals ignoring an area when there just aren&#8217;t any good moves to play, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I recently finished <em>Master Play: The Style of Go Seigen</em> (Review coming soon!), and it has really given me a lot to think about in regards to the way I play go.<br />
+For starters, though I&#8217;ve been familiar with the concept of professionals ignoring an area when there just aren&#8217;t any good moves to play, it wasn&#8217;t until I saw Go Seigen&#8217;s games till I realized how true this really was. In fact, not only did Go Seigen constantly resist giving in to his opponents; but he would also not hesitate to trade large sections of the board! And what made it even more mind-blowing, was that these areas he would sacrifice were places that were only a few moves away from solid territory!<br />
+With that vivid illustration in mind, I couldn&#8217;t help but start to notice how stubborn kyu players get about hanging onto stones or territory. It&#8217;s as if once they&#8217;ve made a decision (i.e., I have declared the right side to be mine!), they will defend it to the end regardless of the fact that they are losing. Another example of this is I&#8217;ve noticed is: &#8220;Oh look, I&#8217;ve spent the time to play three stones here, even though they are now strategically useless, I must save it at all cost even though I will let my opponent walk right into my territory!&#8221; Granted, I realize that you must understand strategy and such to be able to walk away from some groups, but this seems to be a general trend that I&#8217;ve noticed.<br />
+In addition, I think I may have started to internalize the idea of, &#8220;If you can&#8217;t find a good move, play somewhere else.&#8221; In other words, seeing Go Seigen&#8217;s game for the first time has really shocked me into realizing how much freedom there really is on the go board. Although a sequence might be considered sente or an area might seem large, it may not actually be from a whole board perspective or from another player&#8217;s strategy.<br />
+I keep trying to bring this post to a nice closing statement, but it seems that this post is destined for random ramblings. It&#8217;s still a whirlwind of thoughts and emotions that I&#8217;m sorting through, but I guess that&#8217;s one of the benefits of having a blog right? A way for me to dump my thoughts and attempt to sort it out in the process. xD<br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/09/2013.09.22_AGA-Online-logo.jpg"><img class="aligncenter" alt="2013.09.22_AGA-Online-logo" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/09/2013.09.22_AGA-Online-logo.jpg?resize=468%2C60" width="468" height="60" data-recalc-dims="1" /></a><br />
+On an entirely different note, in case you haven&#8217;t heard about it, the <a href="http://www.usgo.org/">American Go Association (AGA)</a> has taken a big step towards establishing a presence online. Starting in October, there will be an <a href="http://www.usgo.org/news/2013/09/expanding-online-efforts-aga-launches-on-line-self-paired-tourney-on-kgs/">AGA Online Tournament</a> that will be used to help gather information and help them figure out the right way to proceed with online games in the future. And yes, I have already signed up! For more information, check out their post <a href="http://www.usgo.org/news/2013/09/expanding-online-efforts-aga-launches-on-line-self-paired-tourney-on-kgs/">here</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/go-seigen-freedom-aga-online-tournament/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4034</post-id>	</item>
+		<item>
+		<title>GoStyle WebApp Analyzes Your Style!</title>
+		<link>/gostyle-webapp-analyzes-your-style/</link>
+		<comments>/gostyle-webapp-analyzes-your-style/#comments</comments>
+		<pubDate>Tue, 18 Jun 2013 21:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[analysis]]></category>
+		<category><![CDATA[free]]></category>
+		<category><![CDATA[gostyle]]></category>
+		<category><![CDATA[great tool]]></category>
+		<category><![CDATA[online]]></category>
+		<category><![CDATA[style]]></category>
+		<category><![CDATA[webapp]]></category>
+
+		<guid isPermaLink="false">//?p=3001</guid>
+		<description><![CDATA[Every other blue moon, we have the opportunity to stumble onto something pretty awesome. Fellow go player Bonscott shared an incredible resource that I think you would all find just as fascinating as I did the first time I tried it: GoStyle WebApp The process is really simple. Just visit the link above and enter [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Every other blue moon, we have the opportunity to stumble onto something pretty awesome. Fellow go player Bonscott shared an incredible resource that I think you would all find just as fascinating as I did the first time I tried it:</p>
+<p style="text-align: center;"><a href="http://gostyle.j2m.cz/webapp.html">GoStyle WebApp</a></p>
+<p style="text-align: left;">The process is really simple. Just visit the link above and enter in your KGS username (or send a zip file of a bunch of games), and click Submit. It will take a few minutes or so to process all your games, but the resulting report is just incredible.</p>
+<p style="text-align: left;">Besides the fact that it&#8217;s free and you have nothing to lose by trying it, here are things you can expect in the report:</p>
+<ol>
+<li><strong>Estimated Strength</strong> &#8211; Believe it or not. This is not just based on the ranks of players you play with. Mine seems a little inflated (~1k), but it&#8217;s cool that they try to estimate your strength aside from your determined rank on KGS and the players you play.</li>
+<li><strong>Style</strong> &#8211; On a scale of 1 &#8211; 10, it tells you where you fall in terms of: Territorality, Novelty, Agressivity, Thickness</li>
+<li><strong>Professionals who have a similar style to you</strong> &#8211; *mind blown*</li>
+<li><strong>Professionals whose style is farthest from yours</strong> &#8211; *mind blown*</li>
+<li><strong>Distinctive patterns and tips</strong> &#8211; It analyzes the patterns in your games and tells you bad habits and even gives you inspiration for new moves to try!</li>
+</ol>
+<p>Granted, this is still a work in progress and not perfect by any means; but I think it&#8217;s a really cool tool for go players.<br />
+If you&#8217;re interested in what the WebApp said about me, be sure to see below:<br />
+<span id="more-3001"></span><br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp1.png"><img class="aligncenter size-full wp-image-3002" alt="webapp1" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp1.png?resize=720%2C160" width="720" height="160" data-recalc-dims="1" /></a> <a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp2.png"><img class="aligncenter size-full wp-image-3003" alt="webapp2" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp2.png?resize=720%2C271" width="720" height="271" data-recalc-dims="1" /></a> <a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp3.png"><img class="aligncenter size-full wp-image-3004" alt="webapp3" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp3.png?resize=720%2C182" width="720" height="182" data-recalc-dims="1" /></a> <a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp4.png"><img class="aligncenter size-full wp-image-3005" alt="webapp4" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/06/webapp4.png?resize=720%2C455" width="720" height="455" data-recalc-dims="1" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/gostyle-webapp-analyzes-your-style/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3001</post-id>	</item>
+	</channel>
+</rss>

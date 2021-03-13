@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Monday Go Meditation: Game 37</title>
+	<atom:link href="/monday-go-meditation-game-37/feed/" rel="self" type="application/rss+xml" />
+	<link>/monday-go-meditation-game-37/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/monday-go-meditation-game-37/#comment-1341</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2013 13:42:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4356#comment-1341</guid>
+		<description><![CDATA[You&#039;re welcome! I&#039;m glad that they&#039;ve been of some help. Haha. It certainly was an eye opening experience for me to go back to my old games. =)]]></description>
+		<content:encoded><![CDATA[<p>You&#8217;re welcome! I&#8217;m glad that they&#8217;ve been of some help. Haha. It certainly was an eye opening experience for me to go back to my old games. =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Zoltan Halasz</title>
+		<link>/monday-go-meditation-game-37/#comment-1340</link>
+		<dc:creator><![CDATA[Zoltan Halasz]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2013 10:20:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4356#comment-1340</guid>
+		<description><![CDATA[Wow, thanks for sharing this game, thit is a nice koan-like experience about the mistakes of myself. :)]]></description>
+		<content:encoded><![CDATA[<p>Wow, thanks for sharing this game, thit is a nice koan-like experience about the mistakes of myself. 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

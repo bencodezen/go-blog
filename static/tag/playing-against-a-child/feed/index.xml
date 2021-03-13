@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>playing against a child &#8211; BenGoZen</title>
+	<atom:link href="/tag/playing-against-a-child/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Tennis and Go</title>
+		<link>/tennis-and-go/</link>
+		<pubDate>Tue, 16 Nov 2010 03:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[baduk]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[playing against a child]]></category>
+		<category><![CDATA[tennis]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=47</guid>
+		<description><![CDATA[So forgive my absence. I am currently trying to attend to a number of things. I&#8217;ll be updating you with a couple of insights that I&#8217;ve made into my Go playing so far. #1. Tennis and Go I recently played with a friend and he mentioned how I was trying to &#8220;kill&#8221; the ball every [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So forgive my absence. I am currently trying to attend to a number of things. I&#8217;ll be updating you with a couple of insights that I&#8217;ve made into my Go playing so far.<br />
+<strong>#1. Tennis and Go</strong><br />
+I recently played with a friend and he mentioned how I was trying to &#8220;kill&#8221; the ball every time I swung. He told me that I needed to simply slow down and just make sure that I follow through with the ball with proper form and posture. It was then that it kind of hit me, this is the same exact issue that I notice in my Go games. Take my time. Follow through. Make solid and proper moves, regardless of whether I am winning or losing. That&#8217;s not to say to play conservatively, but to not make bad shape or overplays for the sake of trying to win, because ultimately that is the only way I will truly get stronger.<br />
+<strong>#2. First Game Against a Child</strong><br />
+So I played a kid named Walter at the Baltimore Go Club just yesterday. I believe he was maybe 11? It was definitely intimidating. I&#8217;ve heard my fair share of really strong kids who just crush you. He was 11k apparently, and we played a game. I wish I could show you the kifu, but unfortunately I&#8217;m still limited in my ability to record games (once I get an iPad&#8230;. that will no longer be the case). He played a lot of non-conventional moves. It wasn&#8217;t until Keith commented later that I noticed he was essentially trying to initiate fights for the majority of the game. I ended up winning by resign since I outpaced him strategically and killed a rather large group. In all honesty though, he had me on the edge of my seat since his reading ability was superb and I didn&#8217;t know how to respond to half of his moves (e.g. I played the 4-4 star in the opening&#8230; he played 5-5. EH?!) Anyhow, very interesting game.<br />
+<strong>#3. Update on My Studying</strong><br />
+Essentially my studying has only consisted of practicing stuff on GoChild. I really need to finish two books before the next month is up. But more on that later.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">47</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>3d opponent &#8211; BenGoZen</title>
+	<atom:link href="/tag/3d-opponent/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 32</title>
+		<link>/monday-go-meditation-game-32/</link>
+		<comments>/monday-go-meditation-game-32/#comments</comments>
+		<pubDate>Mon, 21 Oct 2013 09:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[3d opponent]]></category>
+		<category><![CDATA[9.5]]></category>
+		<category><![CDATA[tygem]]></category>
+		<category><![CDATA[victory]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=4153</guid>
+		<description><![CDATA[Introduction For today&#8217;s go meditation, I will be featuring a second one of my games from Tygem with another 3 dan! This time I am playing White and actually manage to legitimately win! (Though last week&#8217;s game is technically a legitimate win, I feel like I was lucky with the capturing race on the right.) [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>For today&#8217;s go meditation, I will be featuring a second one of my games from Tygem with another 3 dan! This time I am playing White and actually manage to legitimately win! (Though <a title="Monday Go Meditation: Game 31" href="//monday-go-meditation-game-31/">last week&#8217;s game</a> is technically a legitimate win, I feel like I was lucky with the capturing race on the right.) This game is a great example of how losing whole board vision for even just one move can make a huge difference in the outcome of the game. Fortunately for me, it didn&#8217;t cost me the game this time; but it very well could have. Enjoy!<a href="//wp-content/uploads/2013/08/2013.08.05-MGM-21.sgf"><br />
+</a><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/10\/2013.10.21-MGM-32.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/10/2013.10.21-MGM-32.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/10/2013.10.21-MGM-32.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">When preparing to deal with an opponent&#8217;s moyo, make sure that the rest of your groups are strong and stable before invading and creating a complicated mess on the board.</p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-32/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4153</post-id>	</item>
+	</channel>
+</rss>

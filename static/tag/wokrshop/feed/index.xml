@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>wokrshop &#8211; BenGoZen</title>
+	<atom:link href="/tag/wokrshop/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Yuan Zhou Monthly Workshop</title>
+		<link>/yuan-zhou-monthly-workshop-3/</link>
+		<comments>/yuan-zhou-monthly-workshop-3/#comments</comments>
+		<pubDate>Sat, 27 Jul 2013 17:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[even game]]></category>
+		<category><![CDATA[lee sedol]]></category>
+		<category><![CDATA[lian xiao]]></category>
+		<category><![CDATA[monthly]]></category>
+		<category><![CDATA[pro game review]]></category>
+		<category><![CDATA[wokrshop]]></category>
+		<category><![CDATA[yuan zhou]]></category>
+
+		<guid isPermaLink="false">//?p=3614</guid>
+		<description><![CDATA[On Sunday, July 21st, I was able to finally join my friends at Yuan Zhou&#8216;s Monthly Workshop! Though I was originally unable to go, I&#8217;m glad that I was able to make it out! The day began as always with a tsumego on the demonstration board. Though I had the correct answer at one point, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>On Sunday, July 21st, I was able to finally join my friends at <a href="http://www.zhouyuan.com/">Yuan Zhou</a>&#8216;s Monthly Workshop! Though I was originally unable to go, I&#8217;m glad that I was able to make it out!<br />
+The day began as always with a tsumego on the demonstration board.<br />
+<figure id="attachment_3625" style="width: 122px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/07/tsumego.png"><img class=" wp-image-3625 " alt="tsumego problem" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/07/tsumego.png?resize=122%2C274" width="122" height="274" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Black to play. What is White&#8217;s status?</figcaption></figure>
+Though I had the correct answer at one point, I talked myself out of it by misreading the order of moves. As a result, I unfortunately can&#8217;t proudly say I solved it with confidence. Haha. But in terms of what I gained from that experience, I need much more work on my life and death skills. I&#8217;m decent with some of the instinctual moves, but I need to be better in terms of being absolutely sure of my answer.<br />
+After my friend Gurujeet answered the question correctly, we moved on to reviewing a professional game between Lee Sedol [9P] and Lian Xiao [4P] ([download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/07/LianLee07212013.sgf[/download]). It was an exciting game that really helped to open my eyes. Some of the major things I learned from the flow and tenacity of the players include:<br />
+<span id="more-3614"></span></p>
+<ol>
+<li><span style="line-height: 13px;">Do not give your opponent an easy time when it comes to figuring out the next move.</span></li>
+<li>The strength of a player is actually reflected in his/her ability to handle the center of the board.</li>
+<li>When making a move, try to make the follow-up move as severe as possible.</li>
+<li>If it&#8217;s not life or death, don&#8217;t fight on your opponent&#8217;s terms.</li>
+<li>Always look for a more active way to defend yourself.</li>
+</ol>
+<p>Afterwards, we had lunch and then got our afternoon matches. Apparently according to AGA, my rating is actually -4.375 now (i.e. 4 kyu), so I got matched up with a fellow UMBC go player by the name of Nathan. We had played against one another at the local club before, but this would be our first ranked match against one another. Below is a record of our game along with some of Yuan Zhou&#8217;s and my thoughts as well.<a href="//wp-content/uploads/2013/07/2013.07.21-Yuan-Zhou-Workshop-Game.sgf"><br />
+</a><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/07\/2013.07.21-Yuan-Zhou-Workshop-Game.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/07/2013.07.21-Yuan-Zhou-Workshop-Game.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/07/2013.07.21-Yuan-Zhou-Workshop-Game.sgf[/download]
+<p>In hindsight, I am really out of practice when it comes to playing with a clock. I got into byoyomi pretty early but somehow misread the clock as 3 minutes and 30 seconds when it fact it was actually 3 periods of 30 seconds. And to be honest, I didn&#8217;t even realize how little time until I heard the clock voice go, &#8220;1, 2, 3..&#8221; Then it suddenly occurred to me that I was about to lose on time and from that point on when playing in sudden death. Haha.<br />
+The funny thing is that I wasn&#8217;t the only one with clock problems. Nathan told me after the game that he misread the clock as well (although he didn&#8217;t get into sudden death the way I did xD). And on top of that, my friends Gurujeet and Diego were so intent on their game that Black ended up losing on time due to some confusion. Haha. Fortunately we are all friends and the environment is a friendly-competitive one, so it was something we could all laugh about afterwards.<br />
+My biggest highlight of the day would have to be when Yuan Zhou said &#8220;This may be a local loss, but this keeps with whole board thinking.&#8221; WOOT! One step toward eliminating kyu tunnel vision forever!<br />
+At the end of the day however, it was a day full of learning and lots of fun. Big shoutout to Nate, Diego, Gurujeet, and Nathan for making it a blast!</p>
+]]></content:encoded>
+			<wfw:commentRss>/yuan-zhou-monthly-workshop-3/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3614</post-id>	</item>
+	</channel>
+</rss>

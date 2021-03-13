@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>reviews &#8211; BenGoZen</title>
+	<atom:link href="/tag/reviews-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>My Experience with YSD &#8211; S9 &#8211; Part 1</title>
+		<link>/experience-ysd-s9-part-1/</link>
+		<comments>/experience-ysd-s9-part-1/#comments</comments>
+		<pubDate>Tue, 03 Jun 2014 11:15:39 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Websites]]></category>
+		<category><![CDATA[anatoly]]></category>
+		<category><![CDATA[brian]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[dojang]]></category>
+		<category><![CDATA[kifu]]></category>
+		<category><![CDATA[league]]></category>
+		<category><![CDATA[oren]]></category>
+		<category><![CDATA[reviews]]></category>
+		<category><![CDATA[sauk]]></category>
+		<category><![CDATA[season 9]]></category>
+		<category><![CDATA[yunguseng]]></category>
+
+		<guid isPermaLink="false">//?p=5395</guid>
+		<description><![CDATA[Part I &#8211; Part II &#8211; Part III Overview Prelude: Out of respect to Sabum-nim (i.e., In-seong), the lessons learned are kept to a minimum since it is paid content and I do not want to infringe on that in any way, shape, or form. The game reviews also only contain highlights of concise highlights instead of my normal detailed [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><strong>Part I</strong> &#8211; <a title="My Experience with YSD — S9 — Part 2" href="//experience-ysd-s9-part-2/">Part II</a> &#8211; Part III</p>
+<h2>Overview</h2>
+<p><em>Prelude: Out of respect to Sabum-nim (i.e., In-seong), the lessons learned are kept to a minimum since it is paid content and I do not want to infringe on that in any way, shape, or form. The game reviews also only contain highlights of concise highlights instead of my normal detailed reviews since I would inadvertently write about what Sabum-nim taught in the review (which would essentially replicate his lecture). </em><br />
+As a new member to the <a title="Yunguseng Dojang Official Site" href="http://www.yunguseng.com/">Yunguseng Dojang</a> (YSD) during Season 9 of 2014, I was assigned to League A as my starting league (this is the highest league possible in the American division). I wasn&#8217;t sure what I was to expect, but I was excited at the prospect at being part of a formal training program.<br />
+<span id="more-5395"></span></p>
+<h2>Lectures &amp; Homework</h2>
+<p>For this month, the three lecture topics were:</p>
+<ol>
+<li><a href="http://ayd.yunguseng.com/videos/index.php?id=1138">Knight move across attachment / Break the dog&#8217;s face / Indirect defense</a></li>
+<li><a title="1-3-5 Opening Link" href="http://ayd.yunguseng.com/videos/index.php?id=1156">1-3-5 opening</a></li>
+<li><a title="All About 3-3 Invasion Link" href="http://ayd.yunguseng.com/videos/index.php?id=1174">All about 3-3 invasion</a></li>
+</ol>
+<p>Overall, I felt that Sabum-nim was very good at selecting topics that were relevant to his students. After watching his student&#8217;s play their games, he would often notice trends that were occurring and would then select lecture topics to address them.<br />
+In addition, the lectures were much more valuable if you could attend them in person because he made them interactive. There were usually numerous examples to show what he was trying to illustrate and to give the students a chance to show whether or not they understood what was being taught.<br />
+Unfortunately, I was didn&#8217;t end up participating in the second aspect of lectures which were the homework (which consists of taking what you learned in the lecture and applying it to your own games). I&#8217;m sure I could come up with some bogus excuse for why I couldn&#8217;t do it, but it was my own fault and I plan to do every homework next month.<br />
+Finally, another thing cool thing that Sabum-nim does is a lecture series that highlights the most important points from the games played that week (from both Europe and America division). It&#8217;s a cool series that has a lot of concise highlights and cool techniques that came up in actual games.</p>
+<h2 style="text-align: left;">My Games</h2>
+<h3 style="text-align: center;">Round 1</h3>
+<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; As this was the first game I would play in YSD, I felt a lot of pressure to try and play the best go I possibly could. To top it off, my opponent was known as one of the strongest players in the league, so I was more anxious than I would&#8217;ve liked. And so one of the things I did was to play out the game on a real board simultaneously. By doing so, I was hoping it would calm me down.</p>
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round1.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round1.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round1.sgf[/download]
+<p style="text-align: left;"><strong>After the Game</strong> &#8211; Playing the game out on a real board ended up helping me calm down, but it also led to me being more adventurous/experimental and to also lose on time. When the pop-up flashed, &#8220;bengozen loses on time,&#8221; I sat there flustered as I tried to collect myself in thinking that at least I played a good game.</p>
+<p style="text-align: left;"><strong>After the Review</strong> &#8211; Turns out I was wrong on all counts. Not only was I not complimented on my play, but I was shown how badly I should have lost. I made numerous mistakes and deserved to lose (even regardless of time). Sigh. Definitely did not make the good impression I wanted to make on Sabum-nim.</p>
+<h3 style="text-align: center;">Round 2</h3>
+<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; Since my last game was so disastrous, I was eager to yet again prove myself. Similar to the first match however, my opponent was considered one of the strongest players in the league as well, so there was a bit of pressure to try and do well against the veteran.</p>
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round2.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round2.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round2.sgf[/download]
+<p style="text-align: left;"><strong>After the Game</strong> &#8211; Though I lost my Round 1 game in part due to experimenting, I still ended up doing it again this round. And just like before, I lost again. I was really starting to doubt my abilities as a player and whether I even belonged in League A.</p>
+<p style="text-align: left;"><strong>After the Review</strong> &#8211; Similar to the Round 1, I didn&#8217;t play particularly well this game either. The only reprieve that I got was that the game resulted in a fun reading problem on the bottom that Sabum-nim liked. Otherwise than that though, I was still feeling pretty crappy about my performance so far.</p>
+<h3 style="text-align: center;">Round 3</h3>
+<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; Seeing as how I had lost my last two games, I had much lower expectations of myself this time around. I really had no idea if I was going to win. If anything, I was simply hoping I wouldn&#8217;t play another game that would add another mark of disappointment to Sabum-nim&#8217;s impression of me.</p>
+
+<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round3.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round3.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round3.sgf[/download]
+<p style="text-align: left;"><strong>After the Game</strong> &#8211; The game was still a rather weird one for me. Still a lot more experimenting than I necessarily would have wanted, but it seemed I was not destined to play games that were in my comfort range. Luckily for me though, I was able to secure an advantage early on that allowed me to win the game.</p>
+<p style="text-align: left;"><strong>After the Review</strong> &#8211; Though this was my first win for YSD, the review still felt a bit mediocre for me overall. What I remember feeling like is that I was really only able to win because of my opponent&#8217;s overplay early on. Otherwise however, it wasn&#8217;t a particularly good game for me either.</p>
+<h3 style="text-align: center;">Round 4</h3>
+<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; I was unable to make the original time scheduled for Round 4, but I was lucky that my opponent could reschedule to the prior Sunday. Unfortunately, unlike my previous games, I was unable to play in a focused state of mind because I was at a local Starbucks and had a lot of other work needed to be done. So I was unable to give this game my all like I normally would.</p>
+
+<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round4.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round4.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round4.sgf[/download]
+<p style="text-align: left;"><strong>After the Game</strong> &#8211; After my opponent resigned, I breathed a sigh of relief; but I was not terribly proud of the game that I had just played. After looking back over it, it was a haphazard game that I was lucky to win only because my opponent made a mistake and I got away with a few overplays that allowed me to reverse the game in my favor. So even though I won, it felt more like I had loss since my play was rather disappointing.</p>
+<p style="text-align: left;"><strong>After the Review</strong> &#8211; Continuing the trend of being a disappointment, Sabum-nim was quick to show how I was able to get away with numerous overplays in order to win the game. &#8220;This wasn&#8217;t supposed to work. And then that wasn&#8217;t supposed to work.&#8221; Although this time around, I knew that my play was rather abysmal since I was unable to give it my all at the time; so I was accepting of his criticism.</p>
+<h3 style="text-align: center;">Round 5</h3>
+<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; With my record at 2-2, my ability to stay in League A rested on this final match. And so the pressure was particularly high for this game since I was unsure if I would be able to pull it off and the idea of being demoted terrified me. On top of all of that, it was against a friend who I&#8217;ve gotten to know quite well over the last few weeks, so it was a mixed bag of emotions as we dove into the epic clash that would determine my fate.</p>
+
+<div id='glift_display5' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display5","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round5.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round5.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round5.sgf[/download]
+<p style="text-align: left;"><strong>After the Game</strong> &#8211; After clicking the resign button, I knew my fate was sealed. I was rather downtrodden, but there was a part of me that actually felt really good about the game. Unlike the other games, though I was <a title="My First Demotion" href="//first-demotion/">wrestling with disappointment of demotion at the time</a>, I actually felt like this game was something I could actually be proud of.</p>
+<p style="text-align: left;"><strong>After the Review </strong>&#8211; Finally, after four weeks of being a disappointment, I felt like I was finally able to play a game that Sabum-nim actually approved of. Of course as expected, I made a number of mistakes, but it felt like maybe I had finally played a game worthy of Sabum-nim&#8217;s time and energy. And on top of that, I felt start to awaken inside of me as a result of that game; but more on that later.</p>
+<h2 style="text-align: left;">Final Thoughts</h2>
+<p style="text-align: left;">When I first learned about how YSD worked, I have to admit that I thought 5 games a month would be a piece of cake. In reality, it is actually more difficult than it sounds since the games often take more than 90 minutes to complete and are scheduled. And well, you all know how life likes to get in the way of things. Nonetheless, I was really grateful that the program spurred us on to play more since that was one of my weaker areas at the time.</p>
+<p style="text-align: left;">As I look back at my thoughts after the reviews, I just wanted to clarify that Sabum-nim is really not an overly harsh or mean teacher. He simply tells it as it is without sugar-coating things since his goal is to teach you where your mistakes are and not to coddle you. In addition, it&#8217;s important to keep in mind that a major component to how I felt after each review derives from the fact that I am extremely self-critical of myself. So what else could you expect from someone rubbing salt into their own wounds? Haha.</p>
+<p style="text-align: left;">And though I was more disappointed and frustrated about being demoted to League B than I probably should have been, my exposure to League A was a great experience to show the gaps in my skills as a go player. I don&#8217;t know what is in store for me in League B, but I look forward to the challenge of climbing back up to League A. Until next month!</p>
+<p style="text-align: center;"><strong>Part I</strong> &#8211; <a title="My Experience with YSD — S9 — Part 2" href="//experience-ysd-s9-part-2/">Part II</a> &#8211; Part III</p>
+]]></content:encoded>
+			<wfw:commentRss>/experience-ysd-s9-part-1/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5395</post-id>	</item>
+		<item>
+		<title>Maintaining a Higher Quality of Learning</title>
+		<link>/maintaining-higher-quality-learning/</link>
+		<comments>/maintaining-higher-quality-learning/#comments</comments>
+		<pubDate>Thu, 26 Sep 2013 01:51:12 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[change]]></category>
+		<category><![CDATA[improvement]]></category>
+		<category><![CDATA[playing]]></category>
+		<category><![CDATA[reviews]]></category>
+		<category><![CDATA[revision]]></category>
+
+		<guid isPermaLink="false">//?p=4047</guid>
+		<description><![CDATA[So my resolution to play one game a day has ultimately fallen through. As time went on, my games began deteriorating in quality and each game began to feel more like a chore that I needed to hurry and finish instead of a learning experience. After feeling like this for a few days, I decided [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_4048" style="width: 400px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/09/quality-assurance.jpg"><img class="size-full wp-image-4048" alt="Credit to MediaWhiz" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/09/quality-assurance.jpg?resize=400%2C293" width="400" height="293" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://www.mediawhiz.com/trust-quality-score-for-quality-results-2">MediaWhiz</a></figcaption></figure>
+So my resolution to play one game a day has ultimately fallen through. As time went on, my games began deteriorating in quality and each game began to feel more like a chore that I needed to hurry and finish instead of a learning experience. After feeling like this for a few days, I decided to that I needed to re-examine what I was doing before I started developing bad habits. Instead of just stopping the idea as a whole however, I decided to revise it to the following: <strong>Play 1 game of go / thoroughly review one of your previous games per day.</strong><br />
+As an active blogger, I face some challenges when it comes to things like generating content. One of the pieces of content that people seem to like are the game reviews. However, I found that trying to find time to play one game a day every day was making it difficult for me to find time to review my games. In addition, even though it doesn&#8217;t normally take too long for some people to review their games, I have been trying to make my reviews much more thorough and explain each move as I go. So as you might guess, it takes me a lot longer to review games than one might normally take.<br />
+By doing this, I hope to not only reinforce my own understanding of the game; but to also make the reviews more useful to readers of various levels. In addition, by allowing myself the option to choose between playing and reviewing, I am hoping I will be able to maintain a higher quality of learning for myself while generating content for the blog. And for someone with a crazy schedule like me, being able to save that kind of time will do wonders for the other aspects of my life. With that said, hopefully my revised discipline inspires some of you to possibly take a similar route with your study as well. =)</p>
+]]></content:encoded>
+			<wfw:commentRss>/maintaining-higher-quality-learning/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4047</post-id>	</item>
+	</channel>
+</rss>

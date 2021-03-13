@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>when to resign &#8211; BenGoZen</title>
+	<atom:link href="/tag/when-to-resign/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>To Resign or Not to Resign</title>
+		<link>/to-resign-or-not-to-resign/</link>
+		<pubDate>Wed, 06 Mar 2013 14:00:39 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[bad habits]]></category>
+		<category><![CDATA[kyu players]]></category>
+		<category><![CDATA[resigning]]></category>
+		<category><![CDATA[when to resign]]></category>
+
+		<guid isPermaLink="false">//?p=1904</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #18 As most of us are aware, the game of go is rather unique in the sense that it is considered honorable to resign. Unfortunately, when it comes to kyu players (particularly mid-SDK&#8217;s and below), I have found that resignation is the bane of their existence. Instead of resignation being a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #18</h2>
+<p style="text-align: center;"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/02/gobanwhiteflag.jpg"><img class="aligncenter size-full wp-image-2120" alt="gobanwhiteflag" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2013/02/gobanwhiteflag.jpg?resize=300%2C300" width="300" height="300" data-recalc-dims="1" /></a></p>
+<p>As most of us are aware, the game of go is rather unique in the sense that it is considered honorable to resign. Unfortunately, when it comes to kyu players (particularly mid-SDK&#8217;s and below), I have found that resignation is the bane of their existence. Instead of resignation being a quiet acknowledgment of their opponent&#8217;s strength, it becomes a self-imposed obstacle that prevents kyu players from getting stronger. If you don&#8217;t believe me, read on.<br />
+<span id="more-1904"></span><br />
+I&#8217;ve watched my fair share of games, and more often than not, all it takes to get kyu players to resign is the capture of a decent sized group. Granted, the loss of a group can be difficult to swallow for kyu players, but this is by no means a reason to give up on the game as a whole. After all, just because you lost one battle doesn&#8217;t mean you lost the war. As if that wasn&#8217;t enough, the resignations tend to occur in the early to middle game stages. Have players forgotten that endgame can make a huge difference in terms of who wins the game?<br />
+While this is by no means an absolute guideline for when to resign as a kyu player, there are only three reasons when a player should resign in casual games:</p>
+<ol>
+<li><span style="line-height: 13px;"><strong>You&#8217;re just plodding along hoping for some monumentally huge error on your opponent&#8217;s part.</strong> If you&#8217;re doing this, it&#8217;s time to resign, take a break, and come back with a renewed spirit for your next game. </span></li>
+<li><strong>Your group which took up half the board died.</strong> In this case, obviously the battle became the war. So no point wasting any more time.</li>
+<li><strong>You can legitimately count and you know that you can&#8217;t catch up.</strong> Although if you can and have the patience to do this, you probably don&#8217;t have this tendency anyways.</li>
+</ol>
+<p>Otherwise, it is critical to remember that there is a lot to be said about seeing a game through to the end. Just because you feel behind doesn&#8217;t mean it&#8217;s time to go running to the resign button. In fact, one of the greatest accomplishments a player can have is being able to reverse a game to his/her favor. After all, who doesn&#8217;t love a good underdog story?<br />
+So the next time you are thinking about resigning when things are looking bad, remember the following:</p>
+<ol>
+<li><span style="line-height: 13px;"><strong>These are the best opportunities to learn how to come back from behind</strong>. Even if you can&#8217;t reverse the game entirely, being able to close the gap is a critical skill that will become a dangerous weapon in your arsenal in your future. After all, if all your games are won or loss through resignation, when do you ever plan on practicing your endgame?</span></li>
+<li><strong>It will become a terrible habit that will cause you to start resigning games where you are actually ahead.</strong> That&#8217;s right. You heard me. That habit of running off with your tail in between your legs just because you feel frustrated or badly is only going to cause unnecessary resignations in the future. So don&#8217;t do it. Just stop.</li>
+<li><b>You start to get used to winning or losing by resignation. </b>This is especially bad for people who plan on playing in tournaments because I will tell you one thing for sure, people will go down fighting tooth and nail in tournaments. Being able to &#8220;win a won game&#8221; or &#8220;turning the tables&#8221; becomes critical in every game that you will play. And since you can&#8217;t control your opponents, the least you can do is reduce the frequency of you resigning your own games.</li>
+</ol>
+<p>Never forget that it is better to lose by a lot than never having fought at all. Do not cave in and resign easily, fight on till there is nothing left!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1904</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>risingstar &#8211; BenGoZen</title>
+	<atom:link href="/tag/risingstar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 59</title>
+		<link>/friday-go-forward-week-59/</link>
+		<comments>/friday-go-forward-week-59/#comments</comments>
+		<pubDate>Fri, 25 Apr 2014 11:15:52 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[life and death]]></category>
+		<category><![CDATA[new blog]]></category>
+		<category><![CDATA[risingstar]]></category>
+		<category><![CDATA[tesuji]]></category>
+		<category><![CDATA[tournament]]></category>
+		<category><![CDATA[washington open]]></category>
+
+		<guid isPermaLink="false">//?p=5041</guid>
+		<description><![CDATA[Overview After trying to go through my training regimen from last week, I realized I was getting bored of practicing the same problems over and over again. And while my intentions were good (since my goal was to make all the problems instinctive), interest and motivation trumps that so I&#8217;ve moved on to more interesting [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Overview</h2>
+<p>After trying to go through my training regimen from last week, I realized I was getting bored of practicing the same problems over and over again. And while my intentions were good (since my goal was to make all the problems instinctive), interest and motivation trumps that so I&#8217;ve moved on to more interesting topics to change it up for now. And especially after giving thought to the notion that <a title="WGW37: Tesuji More Useful Than Tsumego?" href="//wgw37-tesuji-more-useful-than-tsumego/">tesuji is more important than life and death</a>, I really wanted to start studying tesuji once again.<br />
+On another note, in case anyone missed it, the <a title="Nova Go Club Tournaments Website" href="http://www.novagoclub.org/tournaments">Washington Open</a> is happening this weekend. Yours truly will be attending and competing/participating in whatever I can do. So you can definitely look forward to a series of posts on the event. I&#8217;m a little nervous because I haven&#8217;t really been playing as much as I should have, but I&#8217;ll have to brush that aside and just go to have as much fun as I can. If I can play really interesting games, then I will consider this event to be a success. See you all next week!<br />
+PS. In case you didn&#8217;t know, fellow go player Risingstar just started his own <a title="RisingStar's Blog" href="http://gosimplycomplex.blogspot.com/">blog</a>, so be sure to check it out and support him as we try and bolster go&#8217;s presence online!</p>
+<h2>Training Regimen</h2>
+<ul>
+<li><b>Life and Death Problems </b>
+<ul>
+<li>Book: Jump Level Up 5</li>
+<li>Frequency: Daily</li>
+<li>Task: 10 minutes working through problems</li>
+</ul>
+</li>
+<li><strong><span style="line-height: 1.5em;">Tesuji Problems</span></strong>
+<ul>
+<li><span style="line-height: 1.5em;"> Book: Graded Go Problems for Dan Players (Vol. 2) &#8211; 300 Tesuji Problems</span></li>
+<li>Frequency: Daily</li>
+<li>Task: 10 minutes working through problems</li>
+</ul>
+</li>
+</ul>
+<h2>Games</h2>
+<ul>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  3 games</li>
+<li><a title="Pandanet-IGS Official Site" href="http://pandanet-igs.com/communities/pandanet">IGS</a> &#8211; 2 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 5 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  2 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li>Jump Level Up 5</li>
+<li>Graded Go Problems for Dan Players (Vol. 2) &#8211; 300 Tesuji Problems</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-59/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5041</post-id>	</item>
+		<item>
+		<title>Monday Go Meditation: Game 30</title>
+		<link>/monday-go-meditation-game-30/</link>
+		<comments>/monday-go-meditation-game-30/#comments</comments>
+		<pubDate>Mon, 07 Oct 2013 09:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[even]]></category>
+		<category><![CDATA[resign]]></category>
+		<category><![CDATA[risingstar]]></category>
+		<category><![CDATA[victory]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=4042</guid>
+		<description><![CDATA[Introduction For today&#8217;s go meditation, I am happy to feature a new player to the reviews: RisingStar! At his request, I will be going through an even game that I played with him recently. Overall, RisingStar played very well and surprised me numerous times with his decisions to take critical points and to give me [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>For today&#8217;s go meditation, I am happy to feature a new player to the reviews: RisingStar! At his request, I will be going through an even game that I played with him recently. Overall, RisingStar played very well and surprised me numerous times with his decisions to take critical points and to give me an easy win. In fact, I would have to say that there were a number of times where I was at a rather disadvantageous position and might have lost if he had just been a bit more aggressive. Nonetheless, a job well done to RisingStar and I hope that you enjoy this review! <a href="//wp-content/uploads/2013/08/2013.08.05-MGM-21.sgf"><br />
+</a><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/10\/2013.10.07-MGM-30.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/10/2013.10.07-MGM-30.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/10/2013.10.07-MGM-30.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">Be careful not to get caught up in small plays that have little to no significance on the board. Otherwise, you will give your opponents a lot of opportunities to change the flow of the game.</p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-30/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4042</post-id>	</item>
+	</channel>
+</rss>

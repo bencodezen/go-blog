@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>lazy reading &#8211; BenGoZen</title>
+	<atom:link href="/tag/lazy-reading/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Trying to Counter Bad Habits</title>
+		<link>/trying-to-counter-bad-habits/</link>
+		<comments>/trying-to-counter-bad-habits/#comments</comments>
+		<pubDate>Tue, 11 Jun 2013 21:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[bad habit]]></category>
+		<category><![CDATA[laziness]]></category>
+		<category><![CDATA[lazy reading]]></category>
+		<category><![CDATA[nate]]></category>
+		<category><![CDATA[neagle]]></category>
+		<category><![CDATA[need to discipline]]></category>
+
+		<guid isPermaLink="false">//?p=2934</guid>
+		<description><![CDATA[As of late, I have been finding it difficult to really get my head in the game. I&#8217;m not sure if it&#8217;s due to the busy schedule of having relatives from out of town, or whether my mind is undergoing some new twists and turns that is changing the way I see the game. For [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As of late, I have been finding it difficult to really get my head in the game. I&#8217;m not sure if it&#8217;s due to the busy schedule of having relatives from out of town, or whether my mind is undergoing some new twists and turns that is changing the way I see the game.<br />
+For those who have been keeping up with my progress, you probably remember that I mentioned a recently gained ability to estimate territory. Unfortunately though, it seems like my mind is once again becoming adverse to doing it and it&#8217;s causing me to just play moves on a local scale (which is turning out terribly might I add). And as if that wasn&#8217;t bad enough, I&#8217;ve gotten into a bad habit of not fully reading moves out before I play. This is ends up causing a vicious cycle of where I end up playing regrettable moves because of laziness as opposed to not seeing a particular sequence.  Oy vey&#8230;<br />
+To counter these bad habits, I&#8217;m going back to the basics and doing life and death problems the old fashioned way: Read it till you figure it out. No more exposure to new material. Just a good ol&#8217; fashioned tsumego drills. In addition, I&#8217;ve started Cho Chikun&#8217;s book on <span style="text-decoration: underline;">Positional Judgment</span> to hopefully get myself more comfortable with evaluating the whole board. We&#8217;ll see how it goes&#8230;<br />
+<em>Also, for those who enjoy game commentaries, you should definitely check out my long time friend and rival&#8217;s new <a href="http://nateeagle.com/2013/06/10/workshop-game-against-a-new-little-brother/">post</a> on a game he played recently at <a href="http://zhouyuan.com/">Yuan Zhou</a>&#8216;s Workshop! It is a fun exciting game that shows an excellent command of play by Black and numerous examples of how overplays are supposed to be punished. Definitely worth checking out!</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/trying-to-counter-bad-habits/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2934</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>professional game &#8211; BenGoZen</title>
+	<atom:link href="/tag/professional-game/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 10</title>
+		<link>/monday-go-meditation-game-10/</link>
+		<pubDate>Mon, 06 May 2013 09:00:39 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[9p]]></category>
+		<category><![CDATA[liang wei tang]]></category>
+		<category><![CDATA[professional game]]></category>
+
+		<guid isPermaLink="false">//?p=2648</guid>
+		<description><![CDATA[Introduction As I was collecting all my games that I&#8217;ve ever played with professionals, I realized that I never posted my first professional game with Liang Wei Tang, 9 dan! So, here&#8217;s a throwback to when I was a mere 10k and trying to prove himself against a 9p. Hope you enjoy! [download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/04/2013.05.06-MGM-10.sgf[/download] [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>As I was collecting all my games that I&#8217;ve ever played with professionals, I realized that I never posted my first professional game with Liang Wei Tang, 9 dan! So, here&#8217;s a throwback to when I was a mere 10k and trying to prove himself against a 9p. Hope you enjoy!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/04\/2013.05.06-MGM-10.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/04/2013.05.06-MGM-10.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/04/2013.05.06-MGM-10.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;"><strong>Not being able to make up your mind about what you want will result in inefficient moves that fail to work together.</strong></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2648</post-id>	</item>
+	</channel>
+</rss>

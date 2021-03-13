@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>new concept &#8211; BenGoZen</title>
+	<atom:link href="/tag/new-concept/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Keeping My Options Open</title>
+		<link>/keeping-my-options-open/</link>
+		<pubDate>Mon, 29 Jul 2013 22:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[freedom]]></category>
+		<category><![CDATA[frozensoul]]></category>
+		<category><![CDATA[new concept]]></category>
+		<category><![CDATA[self-imposed constraints]]></category>
+
+		<guid isPermaLink="false">//?p=3681</guid>
+		<description><![CDATA[Today I played an interesting teaching game with frozensoul. After losing (as I normally do), he made a very insightful comment about my play: I have a tendency to settle positions quickly. In other words, instead of keeping my options open, I choose to instead play out a local area to completion before I&#8217;m entirely sure [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Today I played an interesting teaching game with frozensoul. After losing (as I normally do), he made a very insightful comment about my play: I have a tendency to settle positions quickly. In other words, instead of keeping my options open, I choose to instead play out a local area to completion before I&#8217;m entirely sure of what my strategy is for the game. As a result, it becomes a lot easier for stronger opponents to figure out what I&#8217;m aiming at and ultimately nullify it.<br />
+Though I try to keep as open a mind as possible in every game, it seems that I still fail to appreciate how much freedom players actually have during a game. You want to play three moves in a corner to try and eliminate my stone&#8217;s aji? No problem. I&#8217;ll go ahead and take the 2 other big points on the board and laugh maniacally later when my stone&#8217;s aji still comes back to bite you in the butt.<br />
+No longer do I wish to be imprisoned by my own volition and stubbornness. Go is a game of freedom. So from this moment forth, I will stop trying to see the game from the confines of everything I learned thus far. Instead, I will try to see the board as it truly is: a beautifully endless depth of possibilities and creativity.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">3681</post-id>	</item>
+	</channel>
+</rss>

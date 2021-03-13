@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>monthly goal &#8211; BenGoZen</title>
+	<atom:link href="/tag/monthly-goal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Ranked Games Retreat</title>
+		<link>/ranked-games-retreat/</link>
+		<pubDate>Sat, 01 Dec 2012 13:30:25 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[asr league]]></category>
+		<category><![CDATA[monthly goal]]></category>
+		<category><![CDATA[no ranked games]]></category>
+		<category><![CDATA[promoted]]></category>
+
+		<guid isPermaLink="false">//?p=1195</guid>
+		<description><![CDATA[When I woke up this morning to check to see if my ASR class had changed, I was pleasantly surprised to find out that I was actually promoted to Beta II!!! Definitely wasn&#8217;t expecting it and I&#8217;m sure it was because of the need to fill in the class after people were either demoted or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2012/12/retreat2.jpg"><img class="aligncenter  wp-image-1196" title="Retreat Stones" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2012/12/retreat2.jpg?resize=340%2C226" alt="Scenic Imagery of Stones - Credit to YellowStonePackTrips" width="340" height="226" data-recalc-dims="1" /></a></p>
+<p>When I woke up this morning to check to see if my <a title="Advanced Study Room" href="http://www.advancedstudyroom.com/ASR/">ASR</a> class had changed, I was pleasantly surprised to find out that I was actually promoted to Beta II!!! Definitely wasn&#8217;t expecting it and I&#8217;m sure it was because of the need to fill in the class after people were either demoted or dropped. Nonetheless, this is great news for me because it means that I&#8217;ve managed to graduate two classes since I started in July! Although it would be nice to be promoted to Alpha class next month, my goal for this month is to simply stay in the Beta class for now.<br />
+With the upcoming <a title="North American Go Convention!!!" href="//north-american-go-convention/">North American Go Convention (NAGC)</a> in February 2013, I realized that I am extremely motivated to find out how strong I can get before the tournament/professional event. More often than not, I have found that although it is always exciting to hear professionals give lectures, I was always too weak to really appreciate their commentary and insight.<br />
+As a result, I have decided on a new route of study for the month of December: <strong>no ranked games</strong>. The reason for this is because no matter how hard I try, I am still stuck in the state where ranked games still cause a bit of anxiety regarding its impact on my online rank. Although I hope that this will no longer be an issue one day, I know that this impacts my ability to try new things and simply play better go instead of trying to win.<br />
+&#8220;But Ben, you&#8217;ve tried this before! And you failed miserably every time!&#8221;<br />
+You are correct and incorrect at the same time. This time around, instead of simply going on &#8220;sabbatical&#8221; from playing go, I will primarily focus on league games and any free games that stronger players would be happy to play with me and help me review afterwards! With this approach in conjunction with my study of the game, I&#8217;m hoping to see results by the month of January.<br />
+If this works out well, I may even continue doing this till the NAGC! But like many things in life, one step at a time. Wish me luck!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1195</post-id>	</item>
+	</channel>
+</rss>

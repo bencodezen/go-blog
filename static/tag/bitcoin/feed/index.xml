@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>bitcoin &#8211; BenGoZen</title>
+	<atom:link href="/tag/bitcoin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Bitcoin Go: New Go Server in Beta!</title>
+		<link>/bitcoin-go-new-go-server-beta/</link>
+		<comments>/bitcoin-go-new-go-server-beta/#comments</comments>
+		<pubDate>Sun, 02 Feb 2014 03:27:12 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[bitcoin]]></category>
+		<category><![CDATA[new go server]]></category>
+
+		<guid isPermaLink="false">//?p=4573</guid>
+		<description><![CDATA[Hey everyone! Just wanted to drop in and let you all know about a brand new go server that is currently in beta: Bitcoin Go! Though currently still undergoing development and being in beta, one of the unique factors about them is that they will be using bit coins (aka digital currency) as prizes for the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hey everyone! Just wanted to drop in and let you all know about a brand new go server that is currently in beta: <a href="https://bitcoingo.io/">Bitcoin Go</a>! Though currently still undergoing development and being in beta, one of the unique factors about them is that they will be using <a href="http://en.wikipedia.org/wiki/Bitcoin">bit coins</a> (aka digital currency) as prizes for the tournaments! Isn&#8217;t that awesome?<br />
+So since it won&#8217;t cost you a thing, be sure to get on over to <a href="https://bitcoingo.io/">Bitcoin Go</a> and sign up for an account and become a beta tester with them! And if you have any suggestions or notice any bugs, feel free to contact the developers. I&#8217;ve had the pleasure of meeting and playing with Steven and he was really responsive and friendly. So don&#8217;t delay, go check it out! =)</p>
+]]></content:encoded>
+			<wfw:commentRss>/bitcoin-go-new-go-server-beta/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4573</post-id>	</item>
+	</channel>
+</rss>

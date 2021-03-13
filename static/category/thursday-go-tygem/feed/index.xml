@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Thursday Go Tygem &#8211; BenGoZen</title>
+	<atom:link href="/category/thursday-go-tygem/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Thursday Go Tygem: Game 07</title>
+		<link>/thursday-go-tygem-game-07/</link>
+		<comments>/thursday-go-tygem-game-07/#comments</comments>
+		<pubDate>Thu, 19 Jun 2014 11:15:45 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[opponent 1d]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[tygem]]></category>
+		<category><![CDATA[w+resign]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=5423</guid>
+		<description><![CDATA[Introduction After my third game in Yunguseng Dojang, I became a lot more comfortable playing White. Maybe it&#8217;s because I&#8217;ve started to really appreciate having komi. Either way, I&#8217;m glad to have broken away from my fear of playing White. This game was the first one I played after being dispelled of that anxiety of playing [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>After my third game in Yunguseng Dojang, I became a lot more comfortable playing White. Maybe it&#8217;s because I&#8217;ve started to really appreciate having komi. Either way, I&#8217;m glad to have broken away from my fear of playing White.<br />
+This game was the first one I played after being dispelled of that anxiety of playing White. And believe it or not, it was actually a rather calm game where no dramatic battles of life and death occurred. See for yourself below!<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.19-TGT-07.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.19-TGT-07.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.19-TGT-07.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Move 30</strong> &#8211; Using the knight’s move to gain sente from the 3-3 invasion was a big reason why I could get an advantage this game., Surprisingly I cannot find any fault with my opening. Please let me know if you spot something I missed!<br />
+2,Middle Game,&#8221;Overall it was quite peaceful and neither played created any big weak groups, but I managed to take more territory overall.&#8221;, N/A<br />
+3,Fighting,&#8221;To my surprise, there wasn’t much fighting in this game.”, N/A<br />
+4,Endgame,<strong>Move 164-175</strong> &#8211; I was proud to find this sequence that reduced a lot of Black’s points in sente., Hard to find any big flaws in my endgame. It seemed I was stronger than my opponent in this area.<br />
+5,Overall Reading,<strong>Move 100</strong> &#8211; Finding this preparatory move for the resulting sequence was a big step forward for me.,Move 52 &#8211; I completely missed the double atari when I played here. Shame on me.<br />
+6,Strategy,<strong>Move 78</strong> &#8211; Realizing that it would be difficult to continue severely attacking the Black group and simply cashing in on territory is a move I used to find it impossible to do.,&#8221;<strong>Move 52</strong> &#8211; Even if we assume this move works, there wasn’t much strategic value here since White did not have great potential in the center nor a weak group to attack.&#8221;<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-07/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5423</post-id>	</item>
+		<item>
+		<title>Thursday Go Tygem: Game 06</title>
+		<link>/thursday-go-tygem-game-06/</link>
+		<comments>/thursday-go-tygem-game-06/#comments</comments>
+		<pubDate>Thu, 12 Jun 2014 11:15:34 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[b+resign]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[opponent 1d]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[tygem]]></category>
+
+		<guid isPermaLink="false">//?p=5366</guid>
+		<description><![CDATA[Introduction This opponent was a unique one since he thought longer than I did and took his time. He actually ended up in byoyomi early on in the game and used most of his byoyomi time which is really weird for Tygem since most players I&#8217;ve encountered play pretty quickly and I&#8217;m the one usually [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>This opponent was a unique one since he thought longer than I did and took his time. He actually ended up in byoyomi early on in the game and used most of his byoyomi time which is really weird for Tygem since most players I&#8217;ve encountered play pretty quickly and I&#8217;m the one usually running out of time. Overall though, I felt that I was in control for most of the game. Hopefully you&#8217;ll agree! And if I&#8217;m totally wrong, please let me know!<br />
+
+<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.12-TGT-06.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.12-TGT-06.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.12-TGT-06.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Move 9-11</strong>: Ignoring White in the upper left was good in that I did not unnecessarily strengthen my opponent by trying to struggle.,&#8221;Other than the inconsistency of Move 21, I don’t see any egregious errors in regards to the opening.&#8221;<br />
+2,Middle Game,<strong>Move 39-63</strong>: It felt like I did a good job attacking White while gaining nice 4th line territory on the right.,Can’t see any major mistakes at the moment.<br />
+3,Fighting,Overall the fighting seemed to be in my favor most of the game. Nothing terribly complicated.,Didn’t see any real weaknesses in my fighting this game.<br />
+4,Endgame,<strong>Move 219</strong>: Ignoring White’s atari at M1 to make an extra point showed I was not making automatic moves and trying to look for bigger plays.,<strong>Move 164</strong>: Letting what get the diagonal here first was rough.<br />
+5,Overall Reading,<strong>Move 121</strong>: I was proud to be able to read out this attachment and know it could not be cut without some loss to White.,<strong>Move 70</strong>: I could sense there was double cut aji here but failed to read it out properly.<br />
+6,Strategy,<strong>Move 81</strong>: Sacrificing the F3 group in exchange for breaking up the left side seemed to show good judgment.,&#8221;<strong>Move 21</strong>: Though successful, the 3-3 invasion seems to be contrary to my initial plan at making a moyo. So negative points for inconsistency.&#8221;<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-06/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5366</post-id>	</item>
+		<item>
+		<title>Thursday Go Tygem: Game 05</title>
+		<link>/thursday-go-tygem-game-05/</link>
+		<comments>/thursday-go-tygem-game-05/#comments</comments>
+		<pubDate>Thu, 05 Jun 2014 11:15:49 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[2d opponent]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[tygem]]></category>
+		<category><![CDATA[w+resign]]></category>
+		<category><![CDATA[win]]></category>
+
+		<guid isPermaLink="false">//?p=5345</guid>
+		<description><![CDATA[Introduction Before this game, I had been getting white in most of my even games and had trouble playing properly. Games were often very rushed and I could hardly play a good game as White. However, after listening to Inseong talk about his views on playing White, I gave it a lot of thought and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>Before this game, I had been getting white in most of my even games and had trouble playing properly. Games were often very rushed and I could hardly play a good game as White. However, after listening to Inseong talk about his views on playing White, I gave it a lot of thought and tried to get in a similar mindset.<br />
+This game is the first game that I felt successful when playing White. Not only was my game not rushed and ill-conceived, but I felt like I was able to maintain control for most of the game. Hopefully you&#8217;ll agree! Enjoy the game.<br />
+
+<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.05-TGT-05.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.05-TGT-05.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.05-TGT-05.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Move 20</strong> &#8211; I liked this extension in regards to the whole board since it seems like a proactive move., <strong>Move 9</strong> &#8211; I am unfamiliar with this position. Need to learn more about it in the future.<br />
+2,Middle Game, <strong>Move 44</strong> &#8211; The cap started a sequence that allowed me to take the initiative in the middle game.,<strong>Move 104</strong> &#8211; Bad move that could have cost me the game.<br />
+3,Fighting, <strong>Move 112</strong> &#8211; Ignoring Black to play here showed good fighting spirit., Can&#8217;t say that any of the fighting was bad for me this game. Correct me if I&#8217;m wrong though!<br />
+4,Endgame, Not Applicable, Not Applicable<br />
+5,Overall Reading, &#8220;<strong>Move 106</strong> &#8211; Though the reading is relatively simple, I was happy that I could read it out instantly with no doubt in my mind.&#8221;,<strong>Move 104</strong> &#8211; Worth mentioning twice. This was an overplay. I am lucky Black let me off the hook and made life instead.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-05/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5345</post-id>	</item>
+		<item>
+		<title>Thursday Go Tygem: Game 04</title>
+		<link>/thursday-go-tygem-game-04/</link>
+		<comments>/thursday-go-tygem-game-04/#comments</comments>
+		<pubDate>Thu, 29 May 2014 11:15:20 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[2d opponent]]></category>
+		<category><![CDATA[color]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[resign]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[tygem]]></category>
+		<category><![CDATA[w+]]></category>
+
+		<guid isPermaLink="false">//?p=5307</guid>
+		<description><![CDATA[Introduction I recently had a conversation regarding the importance of ladders. And while the topic of ladders will probably cause many people to roll their eyes at the topic time and time again, it&#8217;s simply one of those things that you keep having a deeper and deeper respect for as you dive into the abyss [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>I recently had a conversation regarding the importance of ladders. And while the topic of ladders will probably cause many people to roll their eyes at the topic time and time again, it&#8217;s simply one of those things that you keep having a deeper and deeper respect for as you dive into the abyss of go. Today&#8217;s game is short, but it illustrates the severity of not being able to perfectly read out a ladder.<br />
+So whether you like it or not, you need to make your peace with ladders and make them your best friend. It&#8217;s the only way to climb to the top!<br />
+
+<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/05\/2014.05.29-TGT-04.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/05/2014.05.29-TGT-04.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/05/2014.05.29-TGT-04.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening, <strong>Move 10</strong> &#8211; I&#8217;m proud of experimenting with a new joseki move I learned., <strong>Move 34</strong> &#8211; This seems questionable to me; but perhaps it was a necessary defense.<br />
+2,Middle Game, <strong>Move 36</strong> &#8211; The sequence around here worked out really well in my favor., <strong>Move 52</strong> &#8211; This was rather small in regards to the whole board.<br />
+3,Fighting, <strong>Move 48</strong> &#8211; My confidence in believing I could figure out the upper right corner was a good sign of healthy kiai., &#8220;<strong>Move 54</strong> &#8211; Though I was successful locally, this was small in regards to the whole board.&#8221;<br />
+4,Endgame, Not Applicable, Not Applicable<br />
+5,Overall Reading, <strong>Move 74</strong> &#8211; Being able to confidently read out this ladder was awesome., <strong>Move 58</strong> &#8211; The sequence around here didn&#8217;t quite work out the way I expected. Didn&#8217;t realize I needed a ladder to be able to really gain a foothold in this area.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-04/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5307</post-id>	</item>
+		<item>
+		<title>Thursday Go Tygem: Game 03</title>
+		<link>/thursday-go-tygem-game-03/</link>
+		<comments>/thursday-go-tygem-game-03/#comments</comments>
+		<pubDate>Thu, 22 May 2014 11:15:55 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[2d opponent]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[resign]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[tygem]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=5295</guid>
+		<description><![CDATA[Introduction Before playing this game, I had been studying one of Seo Bong Soo&#8217;s games from Master Play: The Fighting Styles of Kato Masao and Seo Bong Soo. And as I was replaying his game against Otake Hideo, I couldn&#8217;t help but wonder whether or not I had been wrong about my style of go this [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>Before playing this game, I had been studying one of Seo Bong Soo&#8217;s games from <a title="Book Review: The Fighting Styles of Kato Masao and Seo Bong Soo" href="//book-review-fighting-styles-kato-masao-seo-bong-soo/">Master Play: The Fighting Styles of Kato Masao and Seo Bong Soo</a>. And as I was replaying his game against Otake Hideo, I couldn&#8217;t help but wonder whether or not I had been wrong about my style of go this entire time. After all, I always thought I had a fighting style; but perhaps that is not really the case.<br />
+Anyways, inspired by his game, I decided to try and imitate that same feeling in this game. And though I end up collapsing in on myself with a really basic reading mistake, I hope you&#8217;ll still find this game entertaining.<br />
+
+<div id='glift_display5' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display5","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/05\/2014.05.22-TGT-03.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/05/2014.05.22-TGT-03.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/05/2014.05.22-TGT-03.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,Overall it felt okay considering it was a non-traditional opening; but nothing spectacular.,<strong>Move 28: </strong>This may have been too slow. Giving Black the initiative on the lower left was rough.<br />
+2,Middle Game,It felt more or less in my favor; but a bit risky.,Black got a big left side which sort of forced me to try and kill his group.<br />
+3,Fighting,<strong>Move 38:</strong> I was proud of starting this fight since I had an advantage in this area.,<strong>Move 98:</strong> This is probably my losing move. Letting my stones get weakened like that was bad.<br />
+4,Endgame,Not Applicable,Not Applicable<br />
+5,Overall Reading,<strong>Move 74-97:</strong> Felt proud for being able to continually harass this group / almost killing it.,<strong>Move 106:</strong> No excuses for this move. Complete misread.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-03/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5295</post-id>	</item>
+		<item>
+		<title>Thursday Go Tygem: Game 02</title>
+		<link>/thursday-go-tygem-game-02/</link>
+		<comments>/thursday-go-tygem-game-02/#comments</comments>
+		<pubDate>Thu, 15 May 2014 11:15:02 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[2d opponent]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[tygem]]></category>
+		<category><![CDATA[white]]></category>
+
+		<guid isPermaLink="false">//?p=5275</guid>
+		<description><![CDATA[Introduction And we&#8217;re back for the second week of Thursday Go Tygem! Unfortunately since the last game, I was demoted to 2d. No matter though! The opponents are still dans, so we march onwards! This game I take White against a 2d. The opening starts out with a terrible exchange on my part, and then [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>And we&#8217;re back for the second week of Thursday Go Tygem! Unfortunately since the last game, I was demoted to 2d. No matter though! The opponents are still dans, so we march onwards!<br />
+This game I take White against a 2d. The opening starts out with a terrible exchange on my part, and then a crazy fight for supremacy in the middle game breaks out after he makes a mistake in trying to cut apart my groups. Definitely a game that demonstrates how kiai (i.e., fighting spirit) can make a big difference in a position where you are initially at a disadvantage.<br />
+As always, please let me know if there is anything I can do to improve this series for you guys!<br />
+
+<div id='glift_display6' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display6","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/05\/2014.05.15-TGT-02.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/05/2014.05.15-TGT-02.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/05/2014.05.15-TGT-02.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Moves 44:</strong> Was proud to find this move to resist Black’s attempt to get an overwhelming advantage in the opening.,<strong>Move 18+:</strong> The push cut exchange made me over-concentrated and in bad position.<br />
+2,Middle Game,Overall it felt like the middle game was in my favor and I outplayed my opponent.,<strong>Move 168:</strong> Avoiding the ko was so indescribably bad because there was no ko. *hangs head in shame* Could have been such an easy game&#8230;<br />
+3,Fighting,<strong>Move 122+:</strong> I was quite proud to be able to fight on even grounds in such close proximity here.,<strong>Move 168:</strong> So shameful it gets restated twice. Just so bad.<br />
+4,Endgame,<strong>Move 212:</strong> I was proud to find this attachment quickly to reduce Black’s area., Can’t say I was great at identifying the biggest value on the board; but tried to use sente/gote moves as my points of reference.<br />
+5,Overall Reading,<strong>Move 80:</strong> Outreading Black by knowing the cut didn’t work was very satisfying.,<strong>Move 188:</strong> This should have been at R3 to make life in the corner and would have changed the result of the game.<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-02/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5275</post-id>	</item>
+		<item>
+		<title>Thursday Go Tygem: Game 01</title>
+		<link>/thursday-go-tygem-game-01/</link>
+		<comments>/thursday-go-tygem-game-01/#comments</comments>
+		<pubDate>Thu, 08 May 2014 18:50:34 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Thursday Go Tygem]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[kifu]]></category>
+		<category><![CDATA[korean]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[server]]></category>
+		<category><![CDATA[tygem]]></category>
+
+		<guid isPermaLink="false">//?p=5256</guid>
+		<description><![CDATA[Introduction Welcome to my new Thursday Go Tygem series! This series is inspired by fellow go blogger Eyecatcher&#8217;s WBaduk Challenge series where he posts the games from WBaduk to keep himself disciplined and force himself to review his games from there as well. As you might have guessed from the title of this series, the games featured [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>Welcome to my new Thursday Go Tygem series! This series is inspired by fellow go blogger Eyecatcher&#8217;s <a title="Eyecatcher's WBaduk Series Intro" href="http://www.truthandgo.com/?p=442">WBaduk Challenge series</a> where he posts the games from WBaduk to keep himself disciplined and force himself to review his games from there as well. As you might have guessed from the title of this series, the games featured on here will solely be from Tygem.<br />
+I&#8217;m sure some of you are wondering though, &#8220;What&#8217;s the difference between this and Monday Go Meditation?&#8221;</p>
+<ol>
+<li><strong>Higher Level Commentaries</strong> &#8211; Instead of being extremely detailed with every move, this series focuses on higher level commentary that highlights big points and any key aspects of how I thought the game went. In addition, it will abstain from any detailed explanation regarding variations in order to save on time and effort. By doing this, I am hoping that this will help speed up my process (since reviewing all my games via Monday Go Meditation is practically impossible).</li>
+<li><strong>Exclusively Dan Level Opponents</strong> &#8211;  The unique kicker to this entire series is that it will consist entirely of me playing dan players on Tygem. As some of you might remember, frozensoul once gave me the challenge to exclusively play dan players on Tygem in order to get stronger. Well, your wish is granted sensei. This series is the start of me embarking on that journey.</li>
+</ol>
+<p>And since this is a new series, it would be great if you could leave some feedback below to let me know whether or not I should continue with this series or if there are things I should do to improve it! Here we go!<br />
+
+<div id='glift_display7' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display7","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/05\/2014.05.08-TGT-01.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/05/2014.05.08-TGT-01.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/05/2014.05.08-TGT-01.sgf[/download]
+<h3 style="text-align: center;">Game Summary</h3>
+[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
+no,Category,Good,Bad<br />
+1,Opening,<strong>Moves 8-10</strong>: Ignoring White&#8217;s pincer to make my own enclosure and then diving in the corner felt like good timing overall.,<strong>Move 11</strong>: I messed up the lower left joseki due to carelessness.<br />
+2,Middle Game,<strong>Move 45-49</strong>: I was really proud of this sequence since I could break up White&#8217;s area while counter attacking at the same time., <strong>Move 56</strong>: I feel I may have mishandled this crosscut fight and gave away too much to White as a result.<br />
+3,Fighting,<strong>Move 158-160</strong>: I was proud of myself for not backing away from the ko fight., Nothing bad as far as I can tell.<br />
+4,Endgame,My endgame felt average this game. Nothing special.,<strong>Move 134</strong>: Letting White get this hane was really painful.<br />
+5,Overall Reading,Overall I think I did alright. Nothing I&#8217;m particularly proud of though., <strong>Move 100</strong>: Didn&#8217;t see that coming!<br />
+[/table]
+]]></content:encoded>
+			<wfw:commentRss>/thursday-go-tygem-game-01/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5256</post-id>	</item>
+	</channel>
+</rss>

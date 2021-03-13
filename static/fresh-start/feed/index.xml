@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: A Fresh Start</title>
+	<atom:link href="/fresh-start/feed/" rel="self" type="application/rss+xml" />
+	<link>/fresh-start/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/fresh-start/#comment-1656</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Mon, 03 Mar 2014 02:34:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4740#comment-1656</guid>
+		<description><![CDATA[Man. I used to get so frustrated when I lost to someone who would play unconventionally like that. However, now I am just trying to be creative and think ways to creatively counter it! =)]]></description>
+		<content:encoded><![CDATA[<p>Man. I used to get so frustrated when I lost to someone who would play unconventionally like that. However, now I am just trying to be creative and think ways to creatively counter it! =)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Eyecatcher</title>
+		<link>/fresh-start/#comment-1655</link>
+		<dc:creator><![CDATA[Eyecatcher]]></dc:creator>
+		<pubDate>Sun, 02 Mar 2014 05:17:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4740#comment-1655</guid>
+		<description><![CDATA[Very good idea! Great post.
+I had a game yesterday against black player, he starts at tengen and everytime i played a 4/4 he invaded san san ;-p very strange... in the end i lost the game. I thought... why not try it out next time myself this fuseki?! Why not experiment more, we have nothing to loose only 1 or two stones rank... but that is not important isn&#039;t it?!
+The board is open and wide we can try out new things when ever we want :) ]]></description>
+		<content:encoded><![CDATA[<p>Very good idea! Great post.<br />
+I had a game yesterday against black player, he starts at tengen and everytime i played a 4/4 he invaded san san ;-p very strange&#8230; in the end i lost the game. I thought&#8230; why not try it out next time myself this fuseki?! Why not experiment more, we have nothing to loose only 1 or two stones rank&#8230; but that is not important isn&#8217;t it?!<br />
+The board is open and wide we can try out new things when ever we want 🙂 </p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

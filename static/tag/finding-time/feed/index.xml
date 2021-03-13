@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>finding time &#8211; BenGoZen</title>
+	<atom:link href="/tag/finding-time/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Finding Time for One Game a Day</title>
+		<link>/finding-time-one-game-day/</link>
+		<comments>/finding-time-one-game-day/#comments</comments>
+		<pubDate>Tue, 17 Sep 2013 20:16:33 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[consistently]]></category>
+		<category><![CDATA[experience]]></category>
+		<category><![CDATA[finding time]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[one game a day]]></category>
+		<category><![CDATA[playing]]></category>
+		<category><![CDATA[time]]></category>
+
+		<guid isPermaLink="false">//?p=3981</guid>
+		<description><![CDATA[As many of you are aware, I recently started a discipline of playing at least one game a day. And while I am happy to report that I have been keeping up with it, it occurred to me that there are many people out there who would probably like to attempt something similar; but decide [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/09/findingtime.jpg"><img class="aligncenter  wp-image-3985" alt="findingtime" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/09/findingtime.jpg?resize=270%2C270" width="270" height="270" data-recalc-dims="1" /></a></p>
+<p>As many of you are aware, I recently started a discipline of playing at least one game a day. And while I am happy to report that I have been keeping up with it, it occurred to me that there are many people out there who would probably like to attempt something similar; but decide not to due to assuming that it would be too &#8220;time consuming.&#8221; So, I thought that I would go ahead and write about my experience on finding time for one game a day.<br />
+<span id="more-3981"></span><br />
+When I tried playing blitz (e.g., only 5 periods of 10 second byoyomi) in order to satisfy my &#8220;one game a day,&#8221; I found that the game was more of a blur than an experience and felt like I didn&#8217;t gain anything. After all, blitz games are more about intuition than anything else. On the other hand, when I tried to play a game of typical tournament length (e.g., 30 min main time), I would find my games taking anywhere from an hour to two (which any working person who wants any semblance of a life would agree is death). Therefore, after some experimenting with different time settings, I have found that 10 minutes main time and 3x 30 second byoyomi is about right since it strikes a nice balance between intuition and thinking while not taking too much time out of my day.<br />
+Some might quote me on how I once stated that even 20 minute main time games were too short for me; however, the key difference between my analysis then and now is the fact that my focus used to be giving myself the most optimal conditions for winning a game. However, I have come to learn that that approach was too slow. I am fully aware and accept the fact that I will make many mistakes and lose many games as a result of not being able to think every move thoroughly, but the consistent practice and application is something that I am hoping will be beneficial in the long run. After all, the goal with this discipline is not to win; but to gain more experience while not putting a huge strain on your time.<br />
+So for those who tend to find themselves studying instead of playing, I ask that you give this habit a shot. Whether it&#8217;s just one game every 3 days or just once a week, go out there, get your feet wet and just play. I don&#8217;t care if it&#8217;s under a secret account that you hide away from the rest of the world, but the important thing is that you do it. That way, when the time comes for you to take the plunge and participate in a tournament, you&#8217;ll feel a lot more comfortable with playing a game and have a much better chance of showing what you&#8217;ve been learning instead of losing because you are rusty from playing.<br />
+At the end of the day, no matter how good you are at the various aspects of go (i.e., fuseki, joseki, tesuji, life and death, endgame, etc.), you are only as good as your ability to transition between these skills during a game. The faster you are at moving between them, the better your analysis will be and the stronger you will inevitably be. And no matter what anyone else says, there is nothing that can train this ability better than playing games. So what are you waiting for, get out there and play some go!<br />
+<em>For anyone who is wondering where I am playing my daily games, I alternate between KGS and Tygem depending on my mood. Lately, I have been more partial to Tygem since it&#8217;s really easy to find a game and I get to play against players much stronger than me. You are welcome to follow me on my alternate account (that I created awhile ago for the 5 dan Tygem training frozensoul suggested to me): zenblade.  </em></p>
+]]></content:encoded>
+			<wfw:commentRss>/finding-time-one-game-day/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3981</post-id>	</item>
+	</channel>
+</rss>

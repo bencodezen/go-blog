@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Monday Go Meditation: Game 35</title>
+	<atom:link href="/monday-go-meditation-game-35/feed/" rel="self" type="application/rss+xml" />
+	<link>/monday-go-meditation-game-35/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/monday-go-meditation-game-35/#comment-1302</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2013 14:43:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4257#comment-1302</guid>
+		<description><![CDATA[Haha. Don&#039;t underestimate yourself! And the fact that you could see how painful that game was shows you are not as weak as you claim to be! =D]]></description>
+		<content:encoded><![CDATA[<p>Haha. Don&#8217;t underestimate yourself! And the fact that you could see how painful that game was shows you are not as weak as you claim to be! =D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Brandon Coan</title>
+		<link>/monday-go-meditation-game-35/#comment-1301</link>
+		<dc:creator><![CDATA[Brandon Coan]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2013 14:32:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4257#comment-1301</guid>
+		<description><![CDATA[OUCH!  Then again, it&#039;s better than I&#039;d do haha =D]]></description>
+		<content:encoded><![CDATA[<p>OUCH!  Then again, it&#8217;s better than I&#8217;d do haha =D</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

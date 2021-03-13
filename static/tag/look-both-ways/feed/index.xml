@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>look both ways &#8211; BenGoZen</title>
+	<atom:link href="/tag/look-both-ways/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Look Both Ways Before You Play</title>
+		<link>/look-both-directions-before-you-play/</link>
+		<pubDate>Wed, 06 Feb 2013 14:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[basics]]></category>
+		<category><![CDATA[common mistake]]></category>
+		<category><![CDATA[look both ways]]></category>
+
+		<guid isPermaLink="false">//?p=1822</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #16 As every player progresses, one of the skills that clearly shows signs of improvement is the ability to read ahead. Whether it is only one or twenty moves more, this gives a player a significant advantage if he/she is able to read further than his/her opponent. However, one of the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><em>Weekly Go Wednesday, Issue #16</em></h2>
+<figure id="attachment_1832" style="width: 300px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/02/wgw16.jpg"><img class="size-full wp-image-1832" alt="Crossing by Matt Eaton" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/02/wgw16.jpg?resize=300%2C202" width="300" height="202" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Crossing by Matt Eaton</figcaption></figure>
+As every player progresses, one of the skills that clearly shows signs of improvement is the ability to read ahead. Whether it is only one or twenty moves more, this gives a player a significant advantage if he/she is able to read further than his/her opponent. However, one of the things I&#8217;ve noticed in my own progress is that the attempt to read out longer sequences can sometimes causes you to forget a the most important purpose of reading: <strong>analyzing multiple variations</strong>.<br />
+During the opening of a game I played recently, I chose a rather complicated joseki that was dependent on having the ladder in my favor. After much thought and reading, I confidently concluded that the ladder worked in my favor. As my opponent played out the joseki, I delightfully plodded along as I thought that my opponent had not read thoroughly enough and that I would soon greatly profit from his mistake. When the time came to play out the ladder, I watched in horror as my opponent chose the opposite direction&#8230; which conveniently worked in his favor.</p>
+<p style="text-align: center;"><em>*faceplant*</em></p>
+<p>Whether you like it or not, being able to read 100 moves in a sequence is only good if you can do it for multiple variations quickly. We are all aware of that time is almost always a factor so we must be careful of how we manage our time. As a result, here are some tips for how you can increase the effectiveness of your reading abilities:<br />
+<span id="more-1822"></span></p>
+<ol>
+<li><span style="line-height: 13px;"><strong>Read out fewer moves for more variations</strong>. In other words, if you can read out 10 moves easily for one sequence, read out 5 moves for different sequences to have a better understanding of what potential dangers might arise.</span></li>
+<li><strong>At the bare minimum, read out the two most obvious directions. </strong>If you find that reading out multiple sequences is rather cumbersome, you can at least read out the two most obvious sequences that can arise. Two easy examples would be when you want to atari a stone or when a ladder is coming into play.</li>
+</ol>
+<p>If you make sure to do the two things above, you will be sure to reduce the frequency of self-induced mistakes that you end up paying for later on. After all, it is much better to have your opponent surprise you with a new tesuji or move than to cause your own impending doom.<br />
+So remember, just like your parents used to tell you before crossing the street:</p>
+<blockquote><p>Look both ways before playing your next move.</p></blockquote>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1822</post-id>	</item>
+	</channel>
+</rss>

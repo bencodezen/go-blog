@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>life is crazy &#8211; BenGoZen</title>
+	<atom:link href="/tag/life-is-crazy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>It&#039;s About to Go Crazy</title>
+		<link>/its-about-to-go-crazy/</link>
+		<pubDate>Tue, 31 Aug 2010 03:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[job hunting]]></category>
+		<category><![CDATA[life is crazy]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">//?p=134</guid>
+		<description><![CDATA[Starting tomorrow, my life shall be a whirlwind: graduate school is starting, job hunting will become intensified, and my Go training will persevere! In conjunction with what my life will be, the posts from this point on will most likely not follow any chronological order. If I find any time to finish and polish any [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Starting tomorrow, my life shall be a whirlwind: graduate school is starting, job hunting will become intensified, and my Go training will persevere! In conjunction with what my life will be, the posts from this point on will most likely not follow any chronological order. If I find any time to finish and polish any reviews, they will be flying up on the go. I&#8217;ll also be starting up weekly and monthly progress reports so that you can see how I&#8217;m doing as a player as well. So look out world cause here we go!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">134</post-id>	</item>
+	</channel>
+</rss>

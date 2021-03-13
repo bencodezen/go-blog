@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>park junghwan &#8211; BenGoZen</title>
+	<atom:link href="/tag/park-junghwan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Yuan Zhou Monthly Workshop</title>
+		<link>/yuan-zhou-monthly-workshop-2/</link>
+		<pubDate>Mon, 14 Jan 2013 22:30:37 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[even]]></category>
+		<category><![CDATA[lee changho]]></category>
+		<category><![CDATA[park junghwan]]></category>
+		<category><![CDATA[resignation]]></category>
+		<category><![CDATA[tsumego]]></category>
+		<category><![CDATA[victory]]></category>
+		<category><![CDATA[workshop]]></category>
+		<category><![CDATA[yuan zhou]]></category>
+
+		<guid isPermaLink="false">//?p=1650</guid>
+		<description><![CDATA[Yesterday, I had the pleasure of attending another one of Yuan Zhou&#8216;s Monthly Workshops! We started off with a life and death problem that is called &#8220;hunting the 6 stone bird.&#8221; Apparently it&#8217;s a very old problem that has been around for a long time, for those wondering what the shape looks like. For those [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Yesterday, I had the pleasure of attending another one of <a title="Yuan Zhou's Website" href="http://www.zhouyuan.com/">Yuan Zhou</a>&#8216;s Monthly Workshops!<br />
+We started off with a life and death problem that is called &#8220;hunting the 6 stone bird.&#8221; Apparently it&#8217;s a very old problem that has been around for a long time, for those wondering what the shape looks like. For those who would like to try it out for themselves, here it is below:<br />
+<figure id="attachment_1663" style="width: 250px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/6stonebird.png"><img class="size-full wp-image-1663" alt="6stonebird" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/6stonebird.png?resize=250%2C250" width="250" height="250" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Black to play.</figcaption></figure>
+Afterwards, I got to hear a very captivating  review for one of <a title="Lee Chang Ho's Page" href="http://senseis.xmp.net/?YiChangHo">Lee Changho</a> 9p Vs. <a title="Park Jung Hwan's Page" href="http://senseis.xmp.net/?ParkJungHwan">Park Junghwan</a> 9p games in the most recent Ing Cup World Go Championship. It was one that was full of full of suspense, excitement, and a capturing battle on epic proportions that made Park Junghwan the decisive victor.<br />
+As I listened to Yuan Zhou review the game, there were a few things that really struck me:<br />
+<span id="more-1650"></span></p>
+<ol>
+<li><strong>Professionals pay particular attention to their weak groups</strong>. They almost never let a weak group go unattended for more than a move or two.</li>
+<li><strong>Professionals never play follow the leader.</strong> They try to figure out what their opponent is trying to do, and then usually come up with a move to interrupt the flow of their opponent&#8217;s game.</li>
+<li><strong>Professional games tend to steer away from killing groups.</strong> The reasons lies in the fact that it is very difficult to kill a group and you usually end up sacrificing a lot of points in the process of attempting to do so.</li>
+</ol>
+<p>In addition, one of the biggest takeaways I had from the entire workshop is <strong>how incredibly important life and death is</strong>. I mean, sure, we all know that life and death is &#8220;important,&#8221; but I think that most players brush it off as a tedious chore that gets in the way of their game. And while I will be sure to write an article further detailing my new found appreciation for life and death, I leave you with this thought: Imagine the possibilities if you could live wherever you invaded/reduced. Wouldn&#8217;t every game become far more simpler?<br />
+After the review, we had lunch and played a game with one another. As I looked back on my game, I believe that the reverse komi (-7.5 points) caused my opponent to take more risks than he needed to. In addition, our ranks are most likely about equal, so I believe that the game was rather lopsided to begin with. With that in mind, I do think that my play overall was rather poor and still shows a lack of my attention to the fundamentals of strong players.<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/01\/2013.01.14-Yuan-Zhou-Monthly-Workshop.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/01/2013.01.14-Yuan-Zhou-Monthly-Workshop.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/01/2013.01.14-Yuan-Zhou-Monthly-Workshop.sgf[/download]
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1650</post-id>	</item>
+	</channel>
+</rss>

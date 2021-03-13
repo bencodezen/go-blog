@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>improving &#8211; BenGoZen</title>
+	<atom:link href="/tag/improving/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Boxing and Go</title>
+		<link>/boxing-and-go/</link>
+		<comments>/boxing-and-go/#comments</comments>
+		<pubDate>Tue, 13 Aug 2013 16:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[boxing]]></category>
+		<category><![CDATA[consistency]]></category>
+		<category><![CDATA[fundamentals]]></category>
+		<category><![CDATA[improving]]></category>
+		<category><![CDATA[menu]]></category>
+		<category><![CDATA[training]]></category>
+
+		<guid isPermaLink="false">//?p=3794</guid>
+		<description><![CDATA[I&#8217;ve recently taken an interest in boxing, and I have to say that the more I study it, the more I can&#8217;t help but see similarities between boxing and go. Here are a few off the top of my head: There are two players in each match. Regardless of how badly each player might want [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_3796" style="width: 400px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg"><img class="size-full wp-image-3796" alt="Credit to CrazyThemes" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/08/Boxing-Sport-Latest-HD-Wallpaper-3.jpg?resize=400%2C225" width="400" height="225" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to CrazyThemes</figcaption></figure>
+I&#8217;ve recently taken an interest in boxing, and I have to say that the more I study it, the more I can&#8217;t help but see similarities between boxing and go. Here are a few off the top of my head:</p>
+<ol>
+<li>There are two players in each match.</li>
+<li>Regardless of how badly each player might want to win, there can only be one victor at the end of the match.</li>
+<li>Exchanging blows with your opponent is inevitable and necessary for a good match.</li>
+<li>There are different styles of boxing that seem analogous the go styles as well (e.g., technician/point counter, infighter/fighting, etc.).</li>
+</ol>
+<p>But most importantly of all, <strong>those who rise to the top are those who are instinctively faithful to the fundamentals</strong>.<br />
+After all, look at any boxer&#8217;s training regimen and what are you going to find? Running, jump rope, shadow boxing, combinations, sparring. Repeat. Repeat. Repeat. There might be a few deviations occasionally depending on what muscle groups they need to build for certain techniques, but the training menu almost always consists of the fundamentals. And what does a fight primarily consist of? The basics: jab, cross, hook, uppercut, jab, jab&#8230;<br />
+So how is this relevant to go? Well, one topic that I know runs rampant throughout the community is the idea of getting stronger (especially for kyu players who want to reach dan level). And as I begin to study boxing, I can&#8217;t help but wonder what a go players training menu should look like? I mean sure, everyone will say do life and death problems, but that advice is so incredibly generic and subject to interpretation (as to how to study it) that I would guarantee that many players have gone astray and become frustrated with their progress because they couldn&#8217;t figure out what to do to keep getting better.<br />
+I know that no one has a magical formula for getting better at go; but I think that there is more wisdom that can be offered from my study of boxing in terms of trying to discover better guidelines for designing a training menu for go. After all, it&#8217;s not about knowing the most complicated joseki or knowing the common trick plays, but to instead constantly improve the fundamentals.<br />
+More on this as I continue researching and testing out different things&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/boxing-and-go/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3794</post-id>	</item>
+	</channel>
+</rss>

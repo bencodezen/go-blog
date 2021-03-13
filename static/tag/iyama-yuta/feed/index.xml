@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>iyama-yuta &#8211; BenGoZen</title>
+	<atom:link href="/tag/iyama-yuta/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 76</title>
+		<link>/monday-go-meditation-game-76/</link>
+		<pubDate>Tue, 20 Mar 2018 03:59:06 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Commentaries]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[iyama-yuta]]></category>
+		<category><![CDATA[park-jeong-hwan]]></category>
+		<category><![CDATA[pro game review]]></category>
+
+		<guid isPermaLink="false">/?p=6296</guid>
+		<description><![CDATA[Introduction To be honest, I didn&#8217;t expect to release a Monday Go Meditation so quickly; but it seems that the universe had something else in mind. I happened to run across a tweet from @TheGoMovie regarding the Go World Championship final between Park Jeong-Hwan (9p) and Iyama Yuta (9p) that I couldn&#8217;t resist clicking on. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>To be honest, I didn&#8217;t expect to release a Monday Go Meditation so quickly; but it seems that the universe had something else in mind. I happened to run across a tweet from <a href="https://twitter.com/thegomovie">@TheGoMovie</a> regarding the Go World Championship final between Park Jeong-Hwan (9p) and Iyama Yuta (9p) that I couldn&#8217;t resist clicking on. Next thing I know, I&#8217;m watching the game and deciding I might as well take the opportunity to comment on it as I watched. Enjoy!</p>
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/wp-content\/uploads\/2018\/03\/2018.03.19-MGM-76.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='/wp-content/uploads/2018/03/2018.03.19-MGM-76.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<h2 style="text-align: center;">One Point Lesson</h2>
+<blockquote><p>Treating stones lightly in order to develop whole board strategy is key to getting stronger.</p></blockquote>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">6296</post-id>	</item>
+	</channel>
+</rss>

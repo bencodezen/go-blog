@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Switching to Time Based Training</title>
+	<atom:link href="/switching-time-based-training/feed/" rel="self" type="application/rss+xml" />
+	<link>/switching-time-based-training/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/switching-time-based-training/#comment-1222</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Mon, 30 Sep 2013 10:16:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4057#comment-1222</guid>
+		<description><![CDATA[You should definitely see if it works for you!]]></description>
+		<content:encoded><![CDATA[<p>You should definitely see if it works for you!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: RisingStar</title>
+		<link>/switching-time-based-training/#comment-1221</link>
+		<dc:creator><![CDATA[RisingStar]]></dc:creator>
+		<pubDate>Sun, 29 Sep 2013 16:33:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=4057#comment-1221</guid>
+		<description><![CDATA[Maybe I should try that.]]></description>
+		<content:encoded><![CDATA[<p>Maybe I should try that.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

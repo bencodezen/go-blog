@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: No Turning Back</title>
+	<atom:link href="/no-turning-back/feed/" rel="self" type="application/rss+xml" />
+	<link>/no-turning-back/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: One More Thing... &#124; BenGoZen</title>
+		<link>/no-turning-back/#comment-794</link>
+		<dc:creator><![CDATA[One More Thing... &#124; BenGoZen]]></dc:creator>
+		<pubDate>Fri, 31 May 2013 01:40:53 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2791#comment-794</guid>
+		<description><![CDATA[[...] an adden­dum to my post on Tues­day, I real­ized yes­ter­day that in addi­tion to see­ing the board in more of a global [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] an adden­dum to my post on Tues­day, I real­ized yes­ter­day that in addi­tion to see­ing the board in more of a global [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

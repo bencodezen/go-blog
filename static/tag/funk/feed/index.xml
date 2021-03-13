@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>funk &#8211; BenGoZen</title>
+	<atom:link href="/tag/funk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Journal Log #3</title>
+		<link>/journal-log-3/</link>
+		<pubDate>Mon, 06 Sep 2010 20:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[funk]]></category>
+		<category><![CDATA[labor day]]></category>
+
+		<guid isPermaLink="false">//?p=123</guid>
+		<description><![CDATA[Hope everyone has had a restful Labor Day Weekend.  Mine has been filled with 21st birthdays and craziness, but it&#8217;s time to get back to Go! So over the last few days I&#8217;ve tried to play some games online, but I just can&#8217;t bring myself to complete any of them.  I end up resigning halfway [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hope everyone has had a restful Labor Day Weekend.  Mine has been filled with 21st birthdays and craziness, but it&#8217;s time to get back to Go!<br />
+So over the last few days I&#8217;ve tried to play some games online, but I just can&#8217;t bring myself to complete any of them.  I end up resigning halfway for some reason.  I&#8217;m not sure whether it&#8217;s just cause I&#8217;m just itching to be playing with a real goban and stones, or what&#8230;. It&#8217;s putting me in a weird funk and I&#8217;m not sure what to do.  sigh&#8230;.<br />
+Need to do something about this&#8230;.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">123</post-id>	</item>
+	</channel>
+</rss>

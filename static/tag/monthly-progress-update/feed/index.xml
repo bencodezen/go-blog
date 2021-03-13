@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>monthly progress update &#8211; BenGoZen</title>
+	<atom:link href="/tag/monthly-progress-update/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Two Months</title>
+		<link>/two-months/</link>
+		<pubDate>Fri, 08 Oct 2010 14:19:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[monthly progress update]]></category>
+		<category><![CDATA[reading go books]]></category>
+
+		<guid isPermaLink="false">//?p=75</guid>
+		<description><![CDATA[So today marks my two month milestone. Let&#8217;s overview my original goal shall we? #1. Finish the following books: Opening Theory Made Easy by Otake Hideo 9 dan Whole Board Thinking in Joseki &#8211; Volume One by Yi-Lun Yang One Thousand and One Life-and-Death Problems by Richard Bozulich Understanding Dan Level Play by Yuan Zhou [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So today marks my two month milestone. Let&#8217;s overview my original goal shall we?</p>
+<p style="padding-left: 30px;">#1. Finish the following books:</p>
+<ul>
+<ul>
+<li>Opening Theory Made Easy by Otake Hideo 9 dan</li>
+<li>Whole Board Thinking in Joseki &#8211; Volume One by Yi-Lun Yang</li>
+<li>One Thousand and One Life-and-Death Problems by Richard Bozulich</li>
+<li>Understanding Dan Level Play by Yuan Zhou</li>
+<li>Tesuji by James Davies</li>
+</ul>
+</ul>
+<p style="padding-left: 30px;">#2. Replay 25 moves of a professional game (that has commentary) everyday.</p>
+<p style="padding-left: 30px;">#3. Play one serious game (not a bot) everyday where I don&#8217;t rush and try my hardest.</p>
+<p>A lot has changed since I originally set those goals. Here&#8217;s what I have accomplished.</p>
+<p style="padding-left: 30px;">#1. Finished the following books:</p>
+<ul>
+<ul>
+<li><span style="text-decoration: underline;">Opening Theory Made Easy</span></li>
+<li><span style="text-decoration: underline;">Fundamental Principles of Go</span></li>
+<li><span style="text-decoration: underline;">The Second Book of Go</span></li>
+<li><span style="text-decoration: underline;">Nihon Ki-in Handbook of Proverbs</span></li>
+<li><span style="text-decoration: underline;">Understanding Dan Level Play</span></li>
+<li><span style="text-decoration: underline;">The Workshop Lectures: Vol. 1</span></li>
+</ul>
+</ul>
+<p>I did not manage to refocus myself onto problems in time for it to be worth mentioning at this point. For those whose eyes may be slightly wide open at the number of books, again I must reiterate that I have simply READ them once. Comprehension and integration are still far, far away.<br />
+There&#8217;s a scene in <span style="text-decoration: underline;">Hikaru no Go</span>, which I can&#8217;t seem to find, where Sai comments on how everything that Hikaru had been observing and replaying up to that point began to crystallize in him. I&#8217;m hoping to have a similar effect by achieving a broad range of theory first instead of just memorizing everything by rote. The second month goal may have failed, but like the stones we place on the board, let us simply move forward.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">75</post-id>	</item>
+	</channel>
+</rss>

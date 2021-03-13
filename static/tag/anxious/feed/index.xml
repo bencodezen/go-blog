@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>anxious &#8211; BenGoZen</title>
+	<atom:link href="/tag/anxious/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>On Thin Ice</title>
+		<link>/thin-ice/</link>
+		<comments>/thin-ice/#comments</comments>
+		<pubDate>Tue, 27 May 2014 04:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[anxious]]></category>
+		<category><![CDATA[demotion]]></category>
+		<category><![CDATA[promotion]]></category>
+		<category><![CDATA[yunguseng dojang]]></category>
+
+		<guid isPermaLink="false">//?p=5362</guid>
+		<description><![CDATA[The first month of Yunguseng Dojang (YSD) is almost over and you know what that means: top two players get promoted while the bottom two players get demoted. And as you might have guessed from the title of the post, I am on thin ice this month. Based on my calculations of how the rest of the players in my league [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The first month of <a title="Yunguseng Dojang Official Site" href="http://www.yunguseng.com/">Yunguseng Dojang</a> (YSD) is almost over and you know what that means: top two players get promoted while the bottom two players get demoted. And as you might have guessed from the title of the post, I am on thin ice this month.<br />
+Based on my calculations of how the rest of the players in my league will do, everything hinges on my final game this Thursday. My opponent is already guaranteed a spot in League A, so for some reason I feel even more pressure since he holds the key to my fate next month.<br />
+To my surprise, I am more worried and stressed out about this than I would have imagined. Perhaps it&#8217;s due to sheer ego and desire to remain in the top class, but I do feel pressure to stay in League A next month.<br />
+Ah well. No point sitting here dreading and worrying about it. Off to prepare what I can before the game.</p>
+]]></content:encoded>
+			<wfw:commentRss>/thin-ice/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5362</post-id>	</item>
+	</channel>
+</rss>

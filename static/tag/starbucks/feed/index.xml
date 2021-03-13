@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>starbucks &#8211; BenGoZen</title>
+	<atom:link href="/tag/starbucks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Study Session at Starbucks</title>
+		<link>/study-session-starbucks/</link>
+		<comments>/study-session-starbucks/#comments</comments>
+		<pubDate>Sat, 21 Sep 2013 20:04:36 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[new idea]]></category>
+		<category><![CDATA[productive]]></category>
+		<category><![CDATA[starbucks]]></category>
+		<category><![CDATA[study session]]></category>
+
+		<guid isPermaLink="false">//?p=4004</guid>
+		<description><![CDATA[Over the last couple of weeks, I&#8217;ve been making it a habit to head out to the local Starbucks to remove myself from the distractions of being in the apartment (aka putting on shows on Netflix or rewatching Hikaru no Go for the five millionth time). And overall I have to say that I definitely enjoy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Over the last couple of weeks, I&#8217;ve been making it a habit to head out to the local Starbucks to remove myself from the distractions of being in the apartment (aka putting on shows on Netflix or rewatching <em>Hikaru no Go</em> for the five millionth time). And overall I have to say that I definitely enjoy and look forward to these study sessions.<br />
+I have half a mind to design a little billboard for myself with a welcoming message for people to ask me about go when I&#8217;m sitting at the table with my board and stones. I saw a number of customers walk by looking onwards at the board a few times, but I was in no position to really teach them at the moment. So in the future I think I may create me a some portable materials to setup a &#8220;booth&#8221; and allow interested people to ask me about the game and learn about it.<br />
+Other than that, it&#8217;s been a pretty productive session. So far, I&#8217;ve played one game, finished <em>Get Strong at Invading </em>and <i>Commented Games by Lee Sedol Volume 2 </i>(so be sure to look for those reviews soon), and am hoping to get a bit more work done on <em>Get Strong at Tesuji </em>and <em>Jump Level Up 2</em>. Anyhow, that&#8217;s all for this random post! Till next time!</p>
+]]></content:encoded>
+			<wfw:commentRss>/study-session-starbucks/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4004</post-id>	</item>
+	</channel>
+</rss>

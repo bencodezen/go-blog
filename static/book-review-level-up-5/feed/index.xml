@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Book Review: Level Up 5</title>
+	<atom:link href="/book-review-level-up-5/feed/" rel="self" type="application/rss+xml" />
+	<link>/book-review-level-up-5/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Book Review: Level Up 8 &#124; BenGoZen</title>
+		<link>/book-review-level-up-5/#comment-910</link>
+		<dc:creator><![CDATA[Book Review: Level Up 8 &#124; BenGoZen]]></dc:creator>
+		<pubDate>Thu, 25 Jul 2013 09:01:48 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3450#comment-910</guid>
+		<description><![CDATA[[...] Level Up 5 [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Level Up 5 [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Book Review: Level Up 2 &#124; BenGoZen</title>
+		<link>/book-review-level-up-5/#comment-909</link>
+		<dc:creator><![CDATA[Book Review: Level Up 2 &#124; BenGoZen]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2013 14:48:43 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3450#comment-909</guid>
+		<description><![CDATA[[...] Level Up 5 [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Level Up 5 [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Book Review: Level Up 1 &#124; BenGoZen</title>
+		<link>/book-review-level-up-5/#comment-908</link>
+		<dc:creator><![CDATA[Book Review: Level Up 1 &#124; BenGoZen]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2013 14:48:13 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3450#comment-908</guid>
+		<description><![CDATA[[...] Level Up 5 [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Level Up 5 [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

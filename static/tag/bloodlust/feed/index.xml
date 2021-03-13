@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>bloodlust &#8211; BenGoZen</title>
+	<atom:link href="/tag/bloodlust/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Caught In Bloodlust Again&#8230;</title>
+		<link>/caught-bloodlust/</link>
+		<comments>/caught-bloodlust/#comments</comments>
+		<pubDate>Tue, 11 Feb 2014 16:01:13 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[bloodlust]]></category>
+
+		<guid isPermaLink="false">//?p=4645</guid>
+		<description><![CDATA[I&#8217;ve been making a more active effort lately to play more. Although it has been good to play real games once again, I have been on a bit of a losing streak. As most people might think, it&#8217;s been a bit frustrating and I almost thought about stopping again for a while; but then it [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been making a more active effort lately to play more. Although it has been good to play real games once again, I have been on a bit of a losing streak.<br />
+As most people might think, it&#8217;s been a bit frustrating and I almost thought about stopping again for a while; but then it dawned on me, I was caught up in being overly aggressive and trying to kill everything once again. Should an opponent play something I deemed &#8220;incorrect&#8221; or &#8220;improper,&#8221; I felt like it was my mission to punish them. However, it wasn&#8217;t enough to simply gain profit. No no, each time I would try to dominate my opponent and kill a group or two.<br />
+Sigh. This bloodlust is definitely taking a toll on my enjoyment of the game. That combined with the losing streak is not helping since I&#8217;m on tilt; but alas, this is part of the journey to getting another stone stronger. I&#8217;m sure there&#8217;s just a critical mistake I keep making in my games that keeps costing me the game (along with a poor mental state of mind). Anyhow, hope your games are going better than mine.<br />
+PS. Be sure to be on the lookout for tomorrow&#8217;s Weekly Go Wednesday! I&#8217;ll be featuring an exclusive duo review by frozensoul and I on the recent Gu Li vs Lee Sedol Jubango Game 1. In the review, there will be comment on E-V-E-R-Y move. I am hoping that this helps to allow players of all strength levels to appreciate the game. So till then!</p>
+]]></content:encoded>
+			<wfw:commentRss>/caught-bloodlust/feed/</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4645</post-id>	</item>
+		<item>
+		<title>Monday Go Meditation: Game 11</title>
+		<link>/monday-go-meditation-game-11/</link>
+		<comments>/monday-go-meditation-game-11/#comments</comments>
+		<pubDate>Mon, 20 May 2013 09:00:18 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[4k opponent]]></category>
+		<category><![CDATA[5k]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[bloodlust]]></category>
+		<category><![CDATA[defeat]]></category>
+		<category><![CDATA[ranked]]></category>
+
+		<guid isPermaLink="false">//?p=2680</guid>
+		<description><![CDATA[Introduction This is my first proper ranked game in almost two months. Although I&#8217;m sad to say that I have not been able to have a decisive win yet, it was a game where I felt I was actually in control and not attempting to be too reckless. Plenty of mistake were made, but I [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>This is my first proper ranked game in almost two months. Although I&#8217;m sad to say that I have not been able to have a decisive win yet, it was a game where I felt I was actually in control and not attempting to be too reckless. Plenty of mistake were made, but I am happy to say that my mistakes were never on epic proportions. =D<br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/05\/2013.05.20-MGM-11.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/05/2013.05.20-MGM-11.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/05/2013.05.20-MGM-11.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;"><strong>Getting excited at the prospect of capturing a group can often lead to kyu tunnel vision.</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-11/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2680</post-id>	</item>
+		<item>
+		<title>Ranked Games = Bloodlust?</title>
+		<link>/ranked-games-bloodlust/</link>
+		<pubDate>Sat, 19 Jan 2013 22:27:46 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[bloodlust]]></category>
+		<category><![CDATA[overly aggressive]]></category>
+		<category><![CDATA[playing style flaw]]></category>
+
+		<guid isPermaLink="false">//?p=1711</guid>
+		<description><![CDATA[I have no idea what&#8217;s going on. It&#8217;s like whenever I play a ranked game, my personality changes and I become hell-bent on destroying groups. Any notion of growth or progress that I&#8217;ve made seems to be thrown out the window. How frustrating! I think part of my problem is that I stop reading when [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I have no idea what&#8217;s going on. It&#8217;s like whenever I play a ranked game, my personality changes and I become hell-bent on destroying groups. Any notion of growth or progress that I&#8217;ve made seems to be thrown out the window. How frustrating!<br />
+I think part of my problem is that I stop reading when I play people around my rank. I just play moves that feel okay and then try and repair the damage later on. In addition, I have no notion of giving any leeway to my opponent. It&#8217;s quite mind boggling&#8230;<br />
+A game of go is a game of go&#8230; It should make absolutely no difference if it is ranked or free. The problem now is to figure out how to hit my zen state when playing ranked games&#8230;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1711</post-id>	</item>
+	</channel>
+</rss>

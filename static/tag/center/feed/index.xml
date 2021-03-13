@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>center &#8211; BenGoZen</title>
+	<atom:link href="/tag/center/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Monday Go Meditation: Game 57</title>
+		<link>/monday-go-meditation-game-57/</link>
+		<comments>/monday-go-meditation-game-57/#comments</comments>
+		<pubDate>Mon, 26 May 2014 11:15:47 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[Monday Go Meditation]]></category>
+		<category><![CDATA[april challenge]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[center]]></category>
+		<category><![CDATA[commentary]]></category>
+		<category><![CDATA[maaike]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[win +39.50]]></category>
+
+		<guid isPermaLink="false">//?p=5255</guid>
+		<description><![CDATA[Introduction Though I would have ideally preferred these games to have come out during the month of April, I&#8217;m happy to finally feature my games from Maaike&#8217;s April&#8217;s Challenge.* This game was Game #1 for Maaike&#8217;s April&#8217;s Challenge. Though this might seem like an aggressive game, I think that I was successful in learning to curb my [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
+<p>Though I would have ideally preferred these games to have come out during the month of April, I&#8217;m happy to finally feature my games from Maaike&#8217;s <a title="April Challenge" href="http://www.thegochallenge.blogspot.com.au/2014/04/april-challenge.html">April&#8217;s Challenge</a>.* This game was Game #1 for Maaike&#8217;s April&#8217;s Challenge. Though this might seem like an aggressive game, I think that I was successful in learning to curb my bloodlust and let White live instead of killing and instead taking large profit in the center. Hopefully you&#8217;ll agree. Enjoy!<br />
+*<em>For those who haven&#8217;t read it, the basic challenge was to &#8220;get out of your comfort zone.&#8221; So for myself, I chose to try and play more calmly and territorially (however I had not yet studied <a href="http://www.slateandshell.com/SSYZ009.html">Master Play: The Territorial Style of Kitani Minoru and Cho Chikun</a> yet, so I tried to achieve it based on what I knew at the time).</em><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/05\/2014.05.26-MGM-57.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/05/2014.05.26-MGM-57.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/05/2014.05.26-MGM-57.sgf[/download]
+<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
+<p style="text-align: center;">More often than not, letting a group live in gote will yield profits.</p>
+]]></content:encoded>
+			<wfw:commentRss>/monday-go-meditation-game-57/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5255</post-id>	</item>
+	</channel>
+</rss>

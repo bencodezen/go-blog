@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>memorial day weekend &#8211; BenGoZen</title>
+	<atom:link href="/tag/memorial-day-weekend/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 63</title>
+		<link>/friday-go-forward-week-63/</link>
+		<comments>/friday-go-forward-week-63/#comments</comments>
+		<pubDate>Fri, 23 May 2014 11:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[memorial day weekend]]></category>
+		<category><![CDATA[progress]]></category>
+		<category><![CDATA[report]]></category>
+
+		<guid isPermaLink="false">//?p=5319</guid>
+		<description><![CDATA[Overview This week has been a great continuation of my new philosophy of gaining experience on the battlefield. I&#8217;ve always felt that experience on the battlefield was necessary, but it wasn&#8217;t until I really started taking it seriously that I&#8217;ve come to understand the depth of that fundamental truth. In fact, as a result of [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: left;">Overview</h2>
+<p>This week has been a great continuation of my new philosophy of gaining <a title="Experience on the Battlefield" href="//experience-on-the-battlefield/">experience on the battlefield</a>. I&#8217;ve always felt that experience on the battlefield was necessary, but it wasn&#8217;t until I really started taking it seriously that I&#8217;ve come to understand the depth of that fundamental truth. In fact, as a result of me playing more games (and of course losing more often), I was actually able to win my third round of <a title="Yunguseng Dojang Official Site" href="http://www.yunguseng.com/">Yunguseng Dojang</a>! So within a week, I already have some proof of the method working!<br />
+As you will notice, my training regimen has been trimmed a bit. Unlike the past however, the reason I&#8217;ve decided to trim it down is not because it&#8217;s burning me out or anything of the sort, but instead it&#8217;s a matter of having some other activities I need to prioritize at the moment. And to be clear, what I write in the &#8220;Training Regimen&#8221; section is what I am requiring myself to work on everyday. When I have some extra time, then I will be doing other things as well.<br />
+Hope that all is well with everyone and that you all have a great Memorial Day weekend!</p>
+<h2>Training Regimen</h2>
+<ul>
+<li>Spend about 50% of your time playing games.</li>
+<li>Complete 1 section of Level Up Review 2.</li>
+</ul>
+<h2>Games</h2>
+<ul>
+<li><a title="TygemGo Official Site" href="http://www.tygemgo.com/">Tygem</a> &#8211; 8 games</li>
+<li><a title="WBaduk Official Site" href="http://www.wbaduk.com/">WBaduk</a> &#8211; 2 games</li>
+<li><a title="IGS PandaNet Official Site" href="http://www.pandanet-igs.com/">PandaNet-IGS</a> &#8211; 3 games</li>
+<li><a title="KGS Website" href="http://www.gokgs.com/">KGS</a> &#8211;  2 games</li>
+<li><a title="Dragon Go Server - BenGoZen's Profile" href="http://www.dragongoserver.net/userinfo.php?uid=60385">DGS</a> &#8211; 5 ongoing games</li>
+<li><a title="Online Go Server - BenGoZen's Profile" href="http://online-go.com/user/view/549/BenGoZen">OGS</a> &#8211;  3 ongoing games</li>
+</ul>
+<h2>Books</h2>
+<ul>
+<li>Level Up Review 2</li>
+<li>The Theory and Practice of Shape</li>
+</ul>
+<h2>Videos</h2>
+<ul>
+<li><a title="YD S9 2nd lecture (1-3-5 opening)" href="http://ayd.yunguseng.com/videos/index.php?id=1156">YD S9 2nd lecture (1-3-5 opening)</a></li>
+<li><a title="This Week's Highlight S9 May 1st Week" href="http://ayd.yunguseng.com/videos/index.php?id=1163">This week&#8217;s Highlight S9 May 1st week</a></li>
+<li><a title="A,B,C 2nd round 2nd additional review oren vs Sauk" href="http://ayd.yunguseng.com/videos/index.php?id=1178">A,B,C 2nd round 2nd additional review oren vs Sauk</a></li>
+<li><a title="AYD S9 3rd lecture All about 3-3 invasion" href="http://ayd.yunguseng.com/videos/index.php?id=1174">AYD S9 3rd lecture All about 3-3 invasion</a></li>
+</ul>
+<h2>Lessons Learned</h2>
+<ul>
+<li>Just because you have a three in a row shape inside your opponent’s group doesn’t mean it’s dead. Seki is possible too. (-_-)</li>
+<li>When you are about to start a fight, make sure that you are not at a disadvantage.</li>
+<li>A ponnuki with an empty triangle is not as efficient early on as you might think.</li>
+<li>Do not underestimate the power of a good extension from your thickness.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/friday-go-forward-week-63/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5319</post-id>	</item>
+	</channel>
+</rss>

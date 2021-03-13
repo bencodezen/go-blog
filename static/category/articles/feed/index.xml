@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Articles &#8211; BenGoZen</title>
+	<atom:link href="/category/articles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>How to &#034;Teach&#034; Go</title>
+		<link>/teach-go/</link>
+		<comments>/teach-go/#comments</comments>
+		<pubDate>Wed, 09 Jul 2014 21:12:45 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[introducing]]></category>
+		<category><![CDATA[new]]></category>
+		<category><![CDATA[players]]></category>
+		<category><![CDATA[teaching]]></category>
+
+		<guid isPermaLink="false">//?p=5541</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #45 Introduction Introducing go to new people is a topic that I’m very passionate about and it’s something that I think a lot of people mess up. To be fair, it’s not their fault and they are not intentionally doing so. It’s just that people don’t realize how the lack or [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 id="weeklygowednesdayissue45" style="text-align: center;">Weekly Go Wednesday, Issue #45</h2>
+<h3 id="introduction">Introduction</h3>
+<p>Introducing go to new people is a topic that I’m very passionate about and it’s something that I think a lot of people mess up. To be fair, it’s not their fault and they are not intentionally doing so. It’s just that people don’t realize how the lack or presence of certain teaching principles can have profoundly different results.<br />
+I come from the belief that one day go will be known by the masses and played by all kinds of people. I don’t believe that it is a game for “smart” people and have no intention of seeing it get shelved as a niche of a game that only “intellectuals” play. Everything you’re about to read comes from personal experience and/or things that I have actually witnessed in real life, so there’s nothing theoretical about it. In addition, I have to emphasize that this “manifesto” focuses on people brand new to go. More established players are not considered below.<br />
+With that said, let’s dive right into it shall we?<br />
+<span id="more-5541"></span></p>
+<h3 id="principle1:youarenotteachinggo.">Principle #1: You are not teaching go.</h3>
+<p>Wait what? Isn’t this whole article about how to “teach” go? In one sense it is, but you’ll also notice that I put the team “teach” in quotes because I think it puts people in a completely incorrect mindset.<br />
+When a person tries to teach something, I have found that they are always very quick to correct a person’s mistake. Once they get it in their heads that they are “teaching,” there is this sense of superiority and a desire to raise the “perfect student.”<br />
+What do I mean by “perfect student?” Well what’s the ideal situation for introducing a new person to go? Easy. They become hooked and become obsessed with the game the way many of us are. However, the reality of it is that people of this mentality are far and few between.<br />
+What most people often forget is that go is simply a game to most people. Like chess, checkers, or video games, it is just one way to pass the time and enjoy themselves. It is not something that they obsess over and try to improve at the way most of us do. As a result, the mindset needs to be completely different for these people.<br />
+Teaching go is reserved for trying to help a player gain another stone in rank. This is not what you are doing. You are simply trying to help someone learn the rules of go and be able to play a game on their own. It doesn’t matter if their moves are great, or whether or not they make mistakes, they simply need to be able to play and you will have accomplished your goal.<br />
+To put it another way, imagine that board games are like restaurants in a food court and the prospective customers’ appetites are their free time and energy. When a person comes into the food court looking to figure out where to eat, do you think that they are going to eat a three course meal at all the restaurants to figure out where they want to eat? Absolutely not! They wouldn’t have the stomach for it!<br />
+So what’s the solution? The sample of course. You offer samples to all prospective customers because having them simply take the time to actually try your product is what you really need. If they like it, they’ll come in and enjoy all your restaurant has to offer. Or maybe they can’t sit down today, but because the sample you offered was great, they’ll come back another time. And worst case scenario, they don’t care much for it; but even in this scenario, at least they know what your food is and can tell people what it is.<br />
+As a result, your goal is not to “teach” go; but to instead market and sell it to anyone willing to give you their time and attention. You are not a teacher. You are a go enthusiast who wants to share with everyone why go is awesome and why they should play it. And the way you are going to do that is not by teaching them the game, but by introducing the rules to them in a fun and easy way.</p>
+<h3 id="principle2:keepitsimplestupidk.i.s.s..">Principle #2: Keep it simple stupid (K.I.S.S.).</h3>
+<p>Whenever anyone is learning anything new, the most important thing is that they get to practice, practice, and practice. So what does that mean for us as we show them the ropes of how to play go? Stop trying to introduce new and advanced concepts when they’ve barely grasped how go works.<br />
+Case and point. Let’s say you’ve just finished teaching someone how to capture stones. You ask them if they understand and they nod. At this point, you might feel compelled to the launch into this lengthy explanation about life and death or ko works; but don’t do it! That is one of the absolute worst things you could possibly do.<br />
+You have to realize that thinking you understand something is WAY different than applying it. I cannot even count the number of times where the player told me that they “understood” what I had just explained but had a difficult time actually applying it in the game. For example, once we start playing first capture, the board will get slightly complicated, and if I ask them to identify which group they are able to capture with one move, they get confused and can’t find the group! This is by no means their fault, but it illustrates the point I’m trying to make in that it’s easy to think they grasped a concept when in fact they really haven’t.<br />
+So I have a basic rule to follow, avoid the following topics when explaining the game or playing with a new player:</p>
+<ol>
+<li>Suicide</li>
+<li>Ko</li>
+<li>Life and Death</li>
+<li>Tesujis</li>
+<li>Komi</li>
+<li>Shape Efficiency (like why empty triangles are bad)</li>
+</ol>
+<p>This sounds crazy to full-fledged go players, but I have seen countless beginners who play full games on a 9&#215;9 board without ever questioning those things. They delight and find joy in simply being able to play and apply what they just learned. After all, isn’t it much easier to play a game when there aren’t a bunch of exceptions to remember? Go has one of the simplest rulesets needed to start playing, so why complicate that?<br />
+And to top it off, exceptions (like suicide and ko) are much easier to remember when they are discovered by the players themselves. There have been plenty of times when I was playing with a new player when they would stop me and go, “Wait a second. What about this?” In that case, by all means teach it to them! After all, if they are thinking at that level, it means they have grasped the other material which is great! Otherwise, let them practice with the simple ruleset as much as they want. After all, you want them to remember how to play the game the next day right?</p>
+<h3 id="principle3.givethemasmanyopportunitiesforsuccessaspossible.">Principle #3. Give them as many opportunities for success as possible.</h3>
+<p>When I had a chance to take a break from teaching last Saturday, I saw a classic scenario occurring on a number of the boards throughout the table: the new player was getting demolished and the person “teaching” had a bunch of stones as prisoners. I could only shake my head as my mind screamed, “Are you trying to discourage him from playing go?!?!”<br />
+I understand that there are some players who relish in getting crushed and see it as a challenge, but I <strong><em>guarantee</em></strong> you that most people you will be introducing the game to will <strong><em>not</em></strong> be like this at all. In fact, even something as simple as not grasping the rules is often reason enough for most people to walk away from learning a game. So imagine what it would be like if you are struggling to grasp the rules and getting destroyed at the same time. I don’t know about you, but I probably wouldn’t be playing this game any time soon. And that is precisely what we <strong>don’t</strong> want.<br />
+If you take a moment and think about successful games or apps, they tend to share one common functionality: they have really intuitive tutorials that make it very easy to go through because each level of accomplishment is often as simple as a touch or a swipe on your screen. In other words, they make it fun for someone to pick up the basics so that they can easily transition into the more advanced features later on.<br />
+In the same spirit, I strongly believe that go should be taught in the same manner. People respond well when they feel like they are accomplishing something or doing well at something. As a result, it is critical that they are given as many opportunities as possible to feel that way. By doing so, you will improve the chances that they will actually remember how to play the game the next day and maybe even share it with others one day.</p>
+<h3 id="mybasiccurriculumforbrandnewplayers">My Basic Curriculum for Brand New Players</h3>
+<p>Of course, some of you are wondering how I introduce new players to the game. While I’m still working out the kinks and plan to eventually release a detailed curriculum, here’s the general outline:</p>
+<ol>
+<li><strong>Start with the absolute basics of the game.</strong> Use other games that most people are familiar with to start differentiating the most basic rules of go. For example, in chess and checkers, you place pieces in the square. In go, we put the pieces on the intersections.</li>
+<li><strong>Explain the concept of liberties and give them plenty of opportunity of practice for counting the liberties of stones.</strong> This is a really easy way to give them opportunities for accomplishing things and feeling like they are making progress.</li>
+<li><strong>If time permits, I give them practice scenarios for capturing stones to further reinforce the idea of liberties and capturing.</strong> So you would make a shape with your stones and surround it except for it’s last liberty, and then have the person play the correct move to capture the group.</li>
+<li><strong>We play a couple games of first capture on a 9&#215;9 board.</strong> (1) I refrain from using any tesujis and constantly leave weaknesses open for the new player to spot. (2) I constantly let them undo and encourage it in fact. (3) My goal is not to win, but to give them continuous opportunities to practice and reinforce what we just learned.</li>
+<li><strong>If they are still interested in taking the next step in learning about go, then that’s when I explain the concept of territory and its importance in determining how one wins or loses in go.</strong> People often have trouble understanding this part, but I make the analogy of war and two parties coming to sign a peace treaty and they usually understand.</li>
+<li><strong>Finally, I give them either 6–9 stones handicap (on a 9&#215;9 board) depending on how fast they grasped the other concepts and play with them.</strong> Yes, the handicap is ridiculous, but it doesn’t matter because I’m not trying to win. I simply want them to play. If they are playing and spending more time on the game, I’m accomplished my goal.</li>
+</ol>
+<p>And just to reiterate from Principle #2, I avoid all the exceptions to the rules (like ko, suicide, etc.) and nuances unless the player asks me about it or it naturally occurs in a game. But for the most part, I avoid letting situations like ko arise for the sheer fact that I want the player spending as much time soaking up and reinforcing the basic rules of go as long as I possibly can.</p>
+<h3 id="otheradvicefrommyexperience">Other Advice from My Experience</h3>
+<ol>
+<li><strong>Don’t kill any big groups</strong>. If you’re playing a 9&#215;9 board game and you notice that a group only has one eye, don’t try to kill it. In fact, you should actually try to play in a way that makes him live without him realizing it.</li>
+<li><strong>If the score is going to end up in the negative points, you better be the one with the negative score.</strong> As an experienced go player, you should not take any pleasure in crushing a new player and leaving them with negative points. In fact, you should feel ashamed if you let the game become that way. If anyone should have negative points, let it be you.</li>
+<li><strong>Even if a group only has one eye at the end of the game (9&#215;9), I just let it live and count the points.</strong> This is probably hard for a lot of players to do, but I honestly see no value in pointing out that their group is dead. New players won’t know that you let it slide and it prevents them from feeling like they suffered a humiliating defeat. And to be honest, once you’re done showing how the game ends and score is counted, you are usually moving on to the next game. So what’s the point?</li>
+</ol>
+<p>So to end this long rant, at the end of the day, you have to remember this key fact: people have no obligation to learn, play, or even remember what the game of go is. It doesn’t matter if they never get ranked or never play on a 19&#215;19 board. If you can get them to remember what the game is and vaguely how to play it, you’ve already done an immense service to the go community. And maybe, just maybe, one day we will live in a world where people will stop coming up to me and ask if I’m playing othello.</p>
+]]></content:encoded>
+			<wfw:commentRss>/teach-go/feed/</wfw:commentRss>
+		<slash:comments>24</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5541</post-id>	</item>
+		<item>
+		<title>The Importance of Struggling</title>
+		<link>/importance-struggling/</link>
+		<comments>/importance-struggling/#comments</comments>
+		<pubDate>Wed, 28 May 2014 14:19:25 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[Daniel Coyle]]></category>
+		<category><![CDATA[deliberate]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[saxmaam]]></category>
+		<category><![CDATA[struggling]]></category>
+		<category><![CDATA[The Talent Code]]></category>
+
+		<guid isPermaLink="false">//?p=5370</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #42 For most of the time I studied go, I was always focused on getting the right answer. Perhaps this is a result of being conditioned from school and being obsessed with answering the question correctly, but nonetheless it showed up in my approach to studying go. So more often than [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #42</h2>
+<figure id="attachment_5371" style="width: 420px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/05/wgw42.png"><img class=" wp-image-5371" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/05/wgw42.png?resize=420%2C258" alt="Credit to Business in Canada" width="420" height="258" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="https://businessincanada.com/2013/08/12/surge-in-proposals-suggests-canadians-are-struggling-to-grapple-with-immense-debt/">Business in Canada</a></figcaption></figure>
+For most of the time I studied go, I was always focused on getting the right answer. Perhaps this is a result of being conditioned from school and being obsessed with answering the question correctly, but nonetheless it showed up in my approach to studying go. So more often than not, if I managed to guess what the correct answer was for a particular problem, that would be the end of it and I would move on to the next problem. After all, I got the right answer and that&#8217;s what&#8217;s important isn&#8217;t it?<br />
+Of course, the next question is what happened if I got the answer wrong. Well, since I got the answer wrong, the logical choice would be to see what the correct answer is and try to memorize it. In other words, I would focus on understanding why the correct answer was correct and was less concerned with why my answer was wrong. Standard studying mechanism for taking any test in a class right?<br />
+Unfortunately, while that sounds okay in theory and may have helped me get through school rather easily, it turns out I have been barking up the wrong tree this entire time.<br />
+<span id="more-5370"></span><br />
+Recently, fellow go player saxmaam gave her recommendation for <a title="Talent Code Audible Link" href="http://www.audible.com/pd/Science-Technology/The-Talent-Code-Audiobook/B002V8L6MA">The Talent Code</a> by Daniel Coyle, which is themed on the idea of &#8220;unlocking the secret to learning just about any skill.&#8221; I had heard of the book before and been told to read it in the past, but I was too caught up in other things at the time and never got around to it. However, as my approach and perspective on go has been undergoing a lot of transformation recently, so I decided to take it as a sign from the universe that it was time to finally read it.<br />
+I haven&#8217;t finished it yet, but I was presented with an idea that inspired the post for today: <strong>one of the key components to learning a skill is making mistakes along the way</strong>. In other words, the essence of getting stronger resides in the struggle it takes to the correct answer and not simply finding the correct answer. And though it seems like such an obvious statement, it is one that I ignored for most of my journey as a go player.<br />
+One of the things Coyle talks about is that people who master skills often spend a lot of time focused on what he calls &#8220;deliberate learning.&#8221; In other words, there is a significant conscious effort to constantly critically analyze and patch up weaknesses as the person encounters them. A good analogy for this would be like learning how to play a song on an instrument. Instead of simply trying to play through the whole thing and just barely getting by the tough parts of the song, a person will spend the time to really struggle with that section until they get it right before resuming with the rest of the song.<br />
+I grew up playing piano for most of my life and spent many years and hours in the field of music. And when I think back to it, I am rather ashamed of the fact that I was not always the most disciplined when it came to this kind of &#8220;deliberate learning.&#8221; In fact, my thought was always if I could get through most of song without a problem, it would be good enough. After all, who could tell the difference as long as I wasn&#8217;t perfect for the entire song. 80-90% should be good enough right?<br />
+When it came to go, the habit of &#8220;winging&#8221; it and getting by with only a general understanding of what was going on became the foundation of how I studied the game. And as a result, the time and energy I spent studying the game was more leisurely and less &#8220;deliberate learning.&#8221;<br />
+Upon reflection of my past, I realize now that I was wrong to avoid that stage of struggling during learning. For most of my life, I always felt that if I was struggling, then it was some sign of failure and/or ineptitude. And though you&#8217;ll think I was crazy, I really did think that things coming easy to a person was a sign of talent and the mark of potential success. Perhaps it&#8217;s because I was always surrounded by people more brilliant than I, but those ideas were a part of me for a long time.<br />
+I wanted to write this post because I don&#8217;t believe I&#8217;m the only one out there making this mistake. And though I haven&#8217;t figured out the magical equation for how one can ensure they are using &#8220;deliberate learning&#8221; in their study of go (which I will definitely write about when I starting figuring it out), hopefully this post will serve as an inspiration for some of you and a reminder to not get frustrated by those times you struggle with certain ideas and concepts. After all, it is the key to gaining that next stone.</p>
+]]></content:encoded>
+			<wfw:commentRss>/importance-struggling/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5370</post-id>	</item>
+		<item>
+		<title>WGW37: Tesuji More Useful Than Tsumego?</title>
+		<link>/wgw37-tesuji-more-useful-than-tsumego/</link>
+		<comments>/wgw37-tesuji-more-useful-than-tsumego/#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 11:15:59 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[amazing moves]]></category>
+		<category><![CDATA[awe]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[hikaru no go]]></category>
+		<category><![CDATA[meijin]]></category>
+		<category><![CDATA[sai]]></category>
+		<category><![CDATA[tesuji]]></category>
+		<category><![CDATA[tsumego]]></category>
+
+		<guid isPermaLink="false">//?p=5039</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #37 Last Friday, I mentioned an article that was shared with me on how to improve at go by Lynx. According to conventional wisdom, the one piece of advice that everyone seem to agree upon is that studying life and death is critical to getting stronger. And to be honest, it&#8217;s [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday, Issue #37</h2>
+<p>Last <a title="Friday Go Forward: Week 58" href="//friday-go-forward-week-58/">Friday</a>, I mentioned an <a title="Lynx's How to Improve at Go" href="http://shobia.com/w/How_to_Improve_at_Go">article</a> that was shared with me on how to improve at go by Lynx. According to conventional wisdom, the one piece of advice that everyone seem to agree upon is that studying life and death is critical to getting stronger. And to be honest, it&#8217;s something I never really questioned. However, after reading Lynx&#8217;s article, I was confronted with an eye-opening question: <strong>Is studying tesuji more useful than tsumego? </strong><br />
+After a lot of thought,  I would have to concur  with Lynx&#8217;s perspective. In fact, it is one of the key components to breaking the glass ceiling when trying to gain that next stone. However, because the masses constantly spout how important life and death is, it is often forgotten in all the noise.<br />
+<span style="line-height: 1.5em;">Now now, before you grab your pitchforks and torches, hear me out won&#8217;t you?</span><br />
+<span id="more-5039"></span><br />
+To start, I will go ahead and address probably the strongest argument against Lynx&#8217;s theory: What is the use of tesuji if you die everywhere?<br />
+True. If your life and skills are so abysmal that you are slaughtered around the board, I agree with you in that tesuji will not do you much good. However, the reality of the situation is that most games don&#8217;t consist of groups dying all over the board (unless the rank is horribly imbalanced). And though this can partially be attributed to people studying life and death, my personal experience has shown me that the bottom line is that <em>it is really hard to kill groups in go</em>.<br />
+Though people might not realize it, I think that players will inevitably learn about life and death as they play. Why do I say this? Because whenever your group dies, it is usually pretty traumatic. Who can remember that time when they thought their corner was alive and then died in a magnificent burst of flames? I know I can recount it on multiple occasions. And what happens when you die? Well usually you might go back to figure out how you could&#8217;ve avoided it. After all, who likes dying?<br />
+On top of that, let&#8217;s not forget the fact that players constantly miss tesuji in their games. It is usually very obvious to players who are much stronger, but unless someone is having their game reviewed by such a player, how many people are going to spend time going over their game to figure out the numerous tesuji they missed? Highly unlikely. They are way more likely to just move on and play another game.<br />
+In addition, no matter how peaceful a player you are, you are eventually going to get into fights on the board. I&#8217;m sure there are kifu that exists where no one challenged each other at all, but I&#8217;m pretty sure they only exist at the beginner level since they aren&#8217;t aware they are capable of invading and living. And when it comes to fighting, there is no better weapon than being better at tesuji than your opponent.<br />
+Who remembers this scene?<br />
+<figure id="attachment_5114" style="width: 422px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/04/wgw37tesuji01.png"><img class=" wp-image-5114" alt="wgw37tesuji01" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/04/wgw37tesuji01.png?resize=422%2C312" width="422" height="312" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Ring any bells? [Credit: Hikaru No Go Anime]</figcaption></figure><figure id="attachment_5115" style="width: 384px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/04/wgw37tesuji02.png"><img class=" wp-image-5115" alt="wgw37tesuji02" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/04/wgw37tesuji02.png?resize=384%2C291" width="384" height="291" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">How about this one? [Credit: Hikaru no Go Anime]</figcaption></figure><figure id="attachment_5116" style="width: 384px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/04/wgw37tesuji03.png"><img class=" wp-image-5116" alt="wgw37tesuji03" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/04/wgw37tesuji03.png?resize=384%2C291" width="384" height="291" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Still no? [Credit: Hikaru no Go Anime]</figcaption></figure>Many of you probably figured it out after the second screenshot, but the answer for those who couldn&#8217;t remember is: Episode 56, &#8220;After a Millennium Comes an Answer.&#8221;<br />
+Anyhow, was this a move that dealt with life and death? Did Sai&#8217;s incredible move kill the Meijin&#8217;s group? No. It was a brilliant tesuji that made all spectators watch in amazement. And in fact, if you think about it, most of the moves that are met with astonishment and awe in the show are usually tesuji. They are all about how brilliant that connection was, or how this peep is an excellent forcing move that allows XYZ tesuji to work.<br />
+Finally, I want to remind you that Lynx&#8217;s point is <strong><em>not</em></strong> to burn all your tsumego books and never life and death. Instead, she&#8217;s simply trying to remind us of how important tesuji are when it comes to gaining that next stone. So the next time you are thinking about what to study, I hope that you&#8217;ll consider making some time to study tesuji in your busy schedule. It&#8217;ll definitely be worth your while in the long run.</p>
+]]></content:encoded>
+			<wfw:commentRss>/wgw37-tesuji-more-useful-than-tsumego/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">5039</post-id>	</item>
+		<item>
+		<title>WGW 35: Stop Overthinking</title>
+		<link>/wgw-35-stop-overthinking/</link>
+		<comments>/wgw-35-stop-overthinking/#comments</comments>
+		<pubDate>Thu, 27 Mar 2014 01:33:15 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[overthinking]]></category>
+		<category><![CDATA[too much thinking]]></category>
+
+		<guid isPermaLink="false">//?p=4839</guid>
+		<description><![CDATA[Weekly Go Wednesday: Issue #35 Lately I&#8217;ve been piling up topics that I want to write about, but I found myself constantly pushing them off as I wanted to write the perfect article for each and every topic. Similarly, I&#8217;ve also realized that when it comes to playing games, I often find myself sitting there [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;">Weekly Go Wednesday: Issue #35</h2>
+<p>Lately I&#8217;ve been piling up topics that I want to write about, but I found myself constantly pushing them off as I wanted to write the perfect article for each and every topic. Similarly, I&#8217;ve also realized that when it comes to playing games, I often find myself sitting there thinking about the multiple factors that go into whether or not I&#8217;m &#8220;ready&#8221; to play a game (i.e., how much time do I have, what if my opponent takes forever in byoyomi, what if I have to resign early, what if I&#8217;m not actually ready to play and make silly mistakes, etc. etc. etc.).<br />
+Today&#8217;s topic is kind of counter-intuitive since after all, go is a thinking game. However, I think that especially when it comes to amateur players, it&#8217;s actually really important not to overthink things. Because even though we make plenty of stupid moves from the lack of thinking, I think there are a large number of occurrences where players end up making bad moves or not enjoying the game as much as they should due to overthinking.<br />
+<span id="more-4839"></span><br />
+To some degree, there needs to be a level of acceptance where the dice will fall where they will fall. Once you&#8217;ve reading a fair number of variations, it is useless to sit there and worry that you missed the one variation that would reverse the game in your favor. After all, you&#8217;re on a clock and your growth as a player is measured by the number of games you play and not by the number of perfect moves you make. Or in the instance of my blogging, I could spend hours upon hours trying to write the perfect article; but that would mean I would almost never post and it would take much longer for me to get out the messages I have in my head.<br />
+Another instance where overthinking is bad for the go soul is when players play against someone stronger than them. Or well, actually, perceive players to be stronger than them. For example, the mere fact that the number next to a player&#8217;s username is higher is often enough to make players worry about some magic tesuji. As a result, they end up playing inferior moves or &#8220;safe&#8221; moves for fear of &#8220;stronger player-suji.&#8221;<br />
+And in my case, I know that I think overthink when it comes to actually playing go. For example, I&#8217;ll login to KGS and look at the Open Games tab. I&#8217;ll gloss over the open games and see if there are any opponents around my level since I don&#8217;t usually enjoy playing handicap games for rank. And then I&#8217;ll consider the time conditions. And once I do that, I click on the challenge and look at my opponent&#8217;s profile to see what kind of player they might be. Are they German? Korean? Russian? Nah I&#8217;m not in a mood to get challenged at every move. Or wait, let&#8217;s see how they played in their past games&#8230; And then usually before I know it, they accept a challenge from another player and I&#8217;m relieved of the burden of playing a game I might lose&#8230;<br />
+That was rather lengthy huh? Well that&#8217;s what goes on inside my head and a classic example of me overthinking things. And to be honest, I wouldn&#8217;t be surprised if other people suffered from the same kind of anxiety when it comes to playing games. After all, what if I lose? What if I play poorly and people see? And on and on and on&#8230;.<br />
+So hopefully the next time you find yourself overthinking, I hope that you&#8217;ll remember this post and realize that there is only so much you can do before it&#8217;s just not worth worrying about. Think and play to the best of your ability. Don&#8217;t overthink it. In turn, I will stop being so paranoid about each and every game I play. And finally, I will just write more each week instead of trying to craft a perfect post. Off to not overthinking!</p>
+]]></content:encoded>
+			<wfw:commentRss>/wgw-35-stop-overthinking/feed/</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4839</post-id>	</item>
+		<item>
+		<title>WGW 32: Seeing Results Now Now Now</title>
+		<link>/wgw-32-seeing-results-now-now-now/</link>
+		<comments>/wgw-32-seeing-results-now-now-now/#comments</comments>
+		<pubDate>Wed, 26 Feb 2014 12:15:49 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[bad]]></category>
+		<category><![CDATA[habits]]></category>
+		<category><![CDATA[immediate]]></category>
+		<category><![CDATA[impatience]]></category>
+		<category><![CDATA[mindset]]></category>
+		<category><![CDATA[now]]></category>
+		<category><![CDATA[profit]]></category>
+		<category><![CDATA[rush]]></category>
+
+		<guid isPermaLink="false">//?p=4643</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #32 One of the things I&#8217;ve been dealing with lately is the narrow sightedness at seeing the fruits of my efforts as soon as possible. And as time has gone on, I felt more and more like my ability to play go deteriorated as each move became more rushed and every [&#8230;]]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_4717" style="width: 288px" class="wp-caption aligncenter"><a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/now-clock.jpg"><img class=" wp-image-4717  " alt="Credit to Adavita-Vision" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/now-clock.jpg?resize=288%2C378" width="288" height="378" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://www.advaita-vision.org/">Adavita-Vision</a></figcaption></figure>
+<h2 style="text-align: center;">Weekly Go Wednesday, Issue #32</h2>
+<p>One of the things I&#8217;ve been dealing with lately is the narrow sightedness at seeing the fruits of my efforts as soon as possible. And as time has gone on, I felt more and more like my ability to play go deteriorated as each move became more rushed and every failure to gain easily recognizable profit (i.e., a large dead group in your moyo) only resulted in dismay and frustration with the game.<br />
+To be honest, I think a lot of this has to do with the culture that we are living in today. Everything is now now now! And in the case of most entertainment, such as video games, the results of what you do can usually be seen within a few minutes or even seconds. For example, in <a href="http://signup.leagueoflegends.com/?ref=51b6e1e131a49289751215">League of Legends</a>, the moment you engage an opponent, there will be a clear outcome of whether your play was a good or bad one (i.e., you kill your opponent, your opponent harasses you more than you anticipated and you have lower health, you overextend and get ganked by the enemy jungler, etc.). However, with go, it&#8217;s the complete reverse.<br />
+<span id="more-4643"></span><br />
+What do I mean by this? Simple. When your opponent misplays a joseki or makes some huge overplay, does it translate to an automatic win or huge advantage on the board? To stronger players and professionals, they might respond with a resounding yes. But based on my experience as a weak amateur player, the advantage that you gain is small and cannot be used to snowball you into victory. In fact, if the advantage if not taken into consideration for future play, it might end up being negated or your opponent&#8217;s overplay might end up being a &#8220;good move.&#8221;<br />
+Contrary to conventional forms of gaming, go is one of those games that requires more patience than most games by far. When you gain a large amount of thickness, unless your opponent rashly plunges into your moyo, it&#8217;s hard to necessarily see the immediate benefits of having it. And in fact, this obsession with seeing immediate profit is a guaranteed way to making sure your game remains incredibly rigid and unable to grow. And to be clear, this is not a slight at people who play territorially. After all, that is a valid and strong play style that has its own merits.<br />
+In fact, as I write about this, I realized that this issue is just as much about being narrow minded and tunnel-visioned about the board. And in fact, perhaps my commentary on this corrosive mindset applies more to players who tend to gain thickness in their play as opposed to territorial players who are focused with secure profit and invading living in their opponent&#8217;s moyo.<br />
+Regardless, the point I am trying to make is that go is a game of patience. Trying to rush and see the immediate results (i.e., territory) of your efforts (i.e., placing stones on the board) will often lead to a protective mindset as opposed to a creative one that can adapt. After all, the go board is an ever-changing environment. Groups &#8220;die,&#8221; then come back alive, only to be sacrificed for greater profit later on. What you once considered yours might become your opponents, but then perhaps the profit you gain from letting your opponent live in &#8220;your&#8221; area results in a victory instead of a ragged resignation as a result of being unable to kill the group.<br />
+Hope that this helps you in your own games!</p>
+]]></content:encoded>
+			<wfw:commentRss>/wgw-32-seeing-results-now-now-now/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4643</post-id>	</item>
+		<item>
+		<title>Erythen&#039;s Virtual Tour Through Mr. Kuroki&#039;s Shop</title>
+		<link>/erythens-virtual-tour-mr-kurokis-shop/</link>
+		<comments>/erythens-virtual-tour-mr-kurokis-shop/#comments</comments>
+		<pubDate>Tue, 25 Feb 2014 15:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Cultural]]></category>
+		<category><![CDATA[clam]]></category>
+		<category><![CDATA[culture]]></category>
+		<category><![CDATA[erythen]]></category>
+		<category><![CDATA[factory]]></category>
+		<category><![CDATA[hyuga]]></category>
+		<category><![CDATA[japanese]]></category>
+		<category><![CDATA[manufacturing]]></category>
+		<category><![CDATA[method]]></category>
+		<category><![CDATA[mexican]]></category>
+		<category><![CDATA[process]]></category>
+		<category><![CDATA[shell]]></category>
+		<category><![CDATA[slate]]></category>
+		<category><![CDATA[stones]]></category>
+		<category><![CDATA[tour]]></category>
+
+		<guid isPermaLink="false">//?p=4680</guid>
+		<description><![CDATA[Though I&#8217;ve never explicitly stated this, one of my goals with this blog is to bring the most exciting and interesting stories about go that I think anyone with even only the slightest interest in go would enjoy while documenting my own journey. I try not to replicate the amazing work done by GoGameGuru and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kurokisitescreenshot.png"><img class="aligncenter  wp-image-4681" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kurokisitescreenshot.png?resize=392%2C354" alt="kurokisitescreenshot" width="392" height="354" data-recalc-dims="1" /></a></p>
+<p>Though I&#8217;ve never explicitly stated this, one of my goals with this blog is to bring the most exciting and interesting stories about go that I think anyone with even only the slightest interest in go would enjoy while documenting my own journey. I try not to replicate the amazing work done by <a href="http://www.gogameguru.com/">GoGameGuru</a> and others who document the details of the professional world and serve as a better source for those intricacies of the go world.<br />
+So in light of that, I am really excited to introduce the very first guest post on this blog! For those who<span style="line-height: 1.5em;"> don&#8217;t know, there&#8217;s an active forum on go called <a href="http://www.lifein19x19.com/">Life in 19&#215;19</a>, and I came across a magnificent post on a tour of the shop of Mr. Kuroki (who owns the </span><a style="line-height: 1.5em;" href="http://www.kurokigoishi.co.jp/english/">Kuroki Goishi Ten</a><span style="line-height: 1.5em;"> shop which sells high quality equipment). It reminded me of </span><a style="line-height: 1.5em;" href="http://chiyodad.blogspot.com/2007/04/yunzi-manufacturing-and-books-from.html">ChiyoDad&#8217;s post on yunzi manufacturing</a><span style="line-height: 1.5em;">, so I immediately contacted the author and requested his permission to repost his post here on the blog in order to further spread word of his awesome trip. And since you&#8217;re reading this, it shouldn&#8217;t surprise you to hear that I got permission! So without further delay, hope you enjoy <a href="http://lifein19x19.com/forum/memberlist.php?mode=viewprofile&amp;u=2341&amp;sid=a4e3128c00299b30319d260ced9ea0b3">Erythen&#8217;s</a> virtual tour through Mr. Kuroki&#8217;s shop!</span><br />
+<span id="more-4680"></span><br />
+<em>The following is a recount of <a href="http://lifein19x19.com/forum/memberlist.php?mode=viewprofile&amp;u=2341&amp;sid=a4e3128c00299b30319d260ced9ea0b3">Erythen&#8217;s</a> tour of Mr. Kuroki&#8217;s shop reprinted as found in the <a href="http://lifein19x19.com/forum/viewtopic.php?f=19&amp;t=9268&amp;sid=3e060fd5c411e7e4ebc0827a380eb755">original Life in 19&#215;19 post</a>. All text and images are credited to the hard work of <a href="http://lifein19x19.com/forum/memberlist.php?mode=viewprofile&amp;u=2341&amp;sid=a4e3128c00299b30319d260ced9ea0b3">Erythen</a>.</em><br />
+A few people have expressed interest in seeing my photos of Mr. Kuroki&#8217;s shop/factory in Hyuga, Japan. For those interested, I&#8217;ll intersperse the pictures with commentary.<br />
+Prior to leaving Japan I went on one last two week road trip. I debated with myself whether or not to visit Mr. Kuroki&#8217;s factory in Hyuga by the time I reached Kyushu. It&#8217;s not that I didn&#8217;t want to go, but the city is well off the beaten path, and everything else I really wanted to see was on the other side of the island. Nonetheless, curiosity got the better of me and I made the detour.<br />
+It took a little while to find his shop, even though it&#8217;s located on the city&#8217;s main road. My difficulties arose from the simple fact that I didn&#8217;t really know what to expect and thus didn&#8217;t know what to look for. After driving around town I found the shop nestled between a small hill and a river; the familiar black and white logo standing out to me.<br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki01.jpg"><img class="aligncenter size-full wp-image-4684" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki01.jpg?resize=600%2C800" alt="kuroki01" width="600" height="800" data-recalc-dims="1" /></a><br />
+I knew I&#8217;d found the right place, if for nothing else than the scent of Kaya working it&#8217;s way around the parking lot. Near the main entrance there&#8217;s a small building where the board artisan works. I had a chance to visit with him but didn&#8217;t want to disrupt his shift too much so let him continue. Later in the day, Mr. Kuroki brought me back when I expressed interest, and I had a chance to see him apply the grid to a beautiful shogi floorboard. Sadly, by that time though my camera&#8217;s battery was quite low and I didn&#8217;t get a chance to photograph it. Fortunately, I managed to take some snapshots of a few unfinished composite go boards.<br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki02.jpg"><img class="aligncenter size-full wp-image-4685" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki02.jpg?resize=720%2C540" alt="kuroki02" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki03.jpg"><img class="aligncenter size-full wp-image-4686" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki03.jpg?resize=600%2C800" alt="kuroki03" width="600" height="800" data-recalc-dims="1" /></a><br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki04.jpg"><img class="aligncenter size-full wp-image-4687" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki04.jpg?resize=720%2C540" alt="kuroki04" width="720" height="540" data-recalc-dims="1" /></a><br />
+Walking into the main building, one is bombarded by the sweet, subtle scent of Kaya. It surprised me how small the shop itself was. I don&#8217;t know why, but I expected something much larger. Dozens of Kaya boards lined the walls to the north and east, while a large table showing a few of the less expensive Kaya and Katsura boards dominated the center next to a small space for waiting guests. To the far west a myriad of go bowls stood on display. A large glass case rested next to the door on the south showing various some of the more pricey boards and a small selection of shogi equipment.<br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki05.jpg"><img class="aligncenter size-full wp-image-4688" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki05.jpg?resize=720%2C540" alt="kuroki05" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki06.jpg"><img class="aligncenter size-full wp-image-4689" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki06.jpg?resize=720%2C540" alt="kuroki06" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki07.jpg"><img class="aligncenter size-full wp-image-4690" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki07.jpg?resize=600%2C800" alt="kuroki07" width="600" height="800" data-recalc-dims="1" /></a><br />
+I&#8217;m not sure about the others that I pictured, but I do know that this Hyuga Kaya board is still for sale. On the website, scroll down the Hyuga Kaya masame boards and you&#8217;ll see it currently priced at 980,000 yen. I apologize in advance, but my camera focused on the display case and not the board, but you can still see how nice it is.<br />
+<a href="http://www.kurokigoishi.co.jp/english/onlineshop/hyugakayagoban/index3.html">http://www.kurokigoishi.co.jp/english/o &#8230; ndex3.html</a><br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki08.jpg"><img class="aligncenter size-full wp-image-4691" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki08.jpg?resize=720%2C540" alt="kuroki08" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki09.jpg"><img class="aligncenter size-full wp-image-4692" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki09.jpg?resize=720%2C540" alt="kuroki09" width="720" height="540" data-recalc-dims="1" /></a><br />
+Walking around the shop you enter an Omiage store. It doesn&#8217;t really have anything to do with Go so I didn&#8217;t take any pictures. This section mostly caters to the various tourist buses that pass through town on their way to someplace more exciting. While Hyuga is of interest to Go connoisseurs, there really isn&#8217;t much else there.<br />
+Walking around the corner and ignoring the souvenir shop you enter a display area where one can see the actual factory and the stone construction process. In this photo, you see how stones are traditionally made. Most new stones aren&#8217;t manufactured in this way anymore, though from my understanding, Mr. Kuroki still processes the native Hyuga stones (at least the larger ones) in this hand-made fashion; after all, would you expect anything less for such aristocratic game pieces.<br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki10.jpg"><img class="aligncenter size-full wp-image-4693" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki10.jpg?resize=720%2C540" alt="kuroki10" width="720" height="540" data-recalc-dims="1" /></a><br />
+I don&#8217;t know what most of the machines in these next pictures do. Some punch the stones from the shells, others from the slate. A few work the stones down and others polish them. Again I apologize for the fuzziness of the images. My camera doesn&#8217;t do too well behind glass.<br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki11.jpg"><img class="aligncenter size-full wp-image-4694" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki11.jpg?resize=720%2C540" alt="kuroki11" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki12.jpg"><img class="aligncenter size-full wp-image-4695" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki12.jpg?resize=720%2C540" alt="kuroki12" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki13.jpg"><img class="aligncenter size-full wp-image-4696" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki13.jpg?resize=600%2C800" alt="kuroki13" width="600" height="800" data-recalc-dims="1" /></a><br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki14.jpg"><img class="aligncenter size-full wp-image-4697" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki14.jpg?resize=720%2C540" alt="kuroki14" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki15.jpg"><img class="aligncenter size-full wp-image-4698" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki15.jpg?resize=720%2C540" alt="kuroki15" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki16.jpg"><img class="aligncenter size-full wp-image-4699" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki16.jpg?resize=600%2C800" alt="kuroki16" width="600" height="800" data-recalc-dims="1" /></a><br />
+These are what the stones look like when first cut from their shells. Mr. Kuroki has tens of thousands laying around the grounds near his shop. Whenever cuts are rejected, they just dump them around outside for decoration.<br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki17.jpg"><img class="aligncenter size-full wp-image-4700" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki17.jpg?resize=720%2C540" alt="kuroki17" width="720" height="540" data-recalc-dims="1" /></a><br />
+Finished stones that are accepted go through a sorting process. Grade and quality are determined and the shells are then put into storage until someone purchases them. From my understanding, they go through another quality check before being shipped out.<br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki18.jpg"><img class="aligncenter size-full wp-image-4701" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki18.jpg?resize=720%2C540" alt="kuroki18" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki19.jpg"><img class="aligncenter size-full wp-image-4702" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki19.jpg?resize=600%2C800" alt="kuroki19" width="600" height="800" data-recalc-dims="1" /></a><br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki20.jpg"><img class="aligncenter size-full wp-image-4703" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki20.jpg?resize=600%2C800" alt="kuroki20" width="600" height="800" data-recalc-dims="1" /></a><br />
+One of the things I found very interesting was the small display showing different levels of the manufacturing process. A lot more than a simple cut, shape and polish goes into the manufacturing process.<br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki21.jpg"><img class="aligncenter size-full wp-image-4704" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki21.jpg?resize=720%2C540" alt="kuroki21" width="720" height="540" data-recalc-dims="1" /></a><br />
+In the first photo here, you&#8217;ll see how the stones are cut from Mexican Clamshell and slate. In the second photo, you see the legendary Hyuga clamshell and how the stones are cut from these precious shells.<br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki22.jpg"><img class="aligncenter size-full wp-image-4705" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki22.jpg?resize=720%2C540" alt="kuroki22" width="720" height="540" data-recalc-dims="1" /></a><br />
+<a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki23.jpg"><img class="aligncenter size-full wp-image-4706" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki23.jpg?resize=720%2C540" alt="kuroki23" width="720" height="540" data-recalc-dims="1" /></a><br />
+Mr. Kuroki sat me down and we discussed the differences in clamshell. Hyuga clams are very rare now and the larger shells for stones will probably be gone within 5 &#8211; 10 years (if even that). He mentioned the average lifespan of a clam near Hyuga was about 15 years, and in order to get decent stones, they would need to be about 20 years old. Finding shells large enough for stones is difficult in the best of times and now it&#8217;s almost impossible to find anything larger than size 30.<br />
+He brought out a set of sized 40 snow grade hyuga stones for me to examine. I was almost afraid to touch the things because just one was worth more than I made in a month (and mind you, I wasn&#8217;t paid poorly while living in Japan). These stones can still be seen on his website (link provided below). For comparison, to the left you&#8217;ll see a Mexican clamshell and to the right, a Hyuga clamshell. In the center are those most valuable of go stones.<br />
+<a href="http://www.kurokigoishi.co.jp/english/gallery/gostones01.html">http://www.kurokigoishi.co.jp/english/g &#8230; nes01.html</a><br />
+<a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki24.jpg"><img class="aligncenter size-full wp-image-4707" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki24.jpg?resize=720%2C540" alt="kuroki24" width="720" height="540" data-recalc-dims="1" /></a><br />
+Mr. Kuroki was a very kind man an treated me like royalty. Above the shop is a rather large all you can eat restaurant and he offered to treat me to a nice meal. It was a pleasure to have an excellent conversation with him while we ate. His English isn&#8217;t the best, but then again neither is my Japanese. Between our broken English/Japanese however, we were able to conduct a very nice discussion.<br />
+He was very surprised that some random Caucasian guy would come visit his shop. He told me that those who visited were usually &#8220;rich man or old man.&#8221; In the end, my time was well worth the detour, and I&#8217;m very glad to have had a chance to meet the man behind the website.<br />
+My last photo is of my guide, Mr. Kuroki himself. Being of the unphotogenic type I cut myself from the picture:).<br />
+I hope you&#8217;d enjoyed this virtual tour through the finest of Japan&#8217;s go stone factories.<br />
+For those who are interested in further information, I found this link from the Russian Go Federation. It&#8217;s an interview with Mr. Kuroki.<br />
+<a href="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki25.jpg"><img class="aligncenter size-full wp-image-4708" src="https://i1.wp.com/bengozen.com//wp-content/uploads/2014/02/kuroki25.jpg?resize=720%2C588" alt="kuroki25" width="720" height="588" data-recalc-dims="1" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/erythens-virtual-tour-mr-kurokis-shop/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">4680</post-id>	</item>
+		<item>
+		<title>Finding Time for One Game a Day</title>
+		<link>/finding-time-one-game-day/</link>
+		<comments>/finding-time-one-game-day/#comments</comments>
+		<pubDate>Tue, 17 Sep 2013 20:16:33 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Journal]]></category>
+		<category><![CDATA[consistently]]></category>
+		<category><![CDATA[experience]]></category>
+		<category><![CDATA[finding time]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[one game a day]]></category>
+		<category><![CDATA[playing]]></category>
+		<category><![CDATA[time]]></category>
+
+		<guid isPermaLink="false">//?p=3981</guid>
+		<description><![CDATA[As many of you are aware, I recently started a discipline of playing at least one game a day. And while I am happy to report that I have been keeping up with it, it occurred to me that there are many people out there who would probably like to attempt something similar; but decide [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/09/findingtime.jpg"><img class="aligncenter  wp-image-3985" alt="findingtime" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/09/findingtime.jpg?resize=270%2C270" width="270" height="270" data-recalc-dims="1" /></a></p>
+<p>As many of you are aware, I recently started a discipline of playing at least one game a day. And while I am happy to report that I have been keeping up with it, it occurred to me that there are many people out there who would probably like to attempt something similar; but decide not to due to assuming that it would be too &#8220;time consuming.&#8221; So, I thought that I would go ahead and write about my experience on finding time for one game a day.<br />
+<span id="more-3981"></span><br />
+When I tried playing blitz (e.g., only 5 periods of 10 second byoyomi) in order to satisfy my &#8220;one game a day,&#8221; I found that the game was more of a blur than an experience and felt like I didn&#8217;t gain anything. After all, blitz games are more about intuition than anything else. On the other hand, when I tried to play a game of typical tournament length (e.g., 30 min main time), I would find my games taking anywhere from an hour to two (which any working person who wants any semblance of a life would agree is death). Therefore, after some experimenting with different time settings, I have found that 10 minutes main time and 3x 30 second byoyomi is about right since it strikes a nice balance between intuition and thinking while not taking too much time out of my day.<br />
+Some might quote me on how I once stated that even 20 minute main time games were too short for me; however, the key difference between my analysis then and now is the fact that my focus used to be giving myself the most optimal conditions for winning a game. However, I have come to learn that that approach was too slow. I am fully aware and accept the fact that I will make many mistakes and lose many games as a result of not being able to think every move thoroughly, but the consistent practice and application is something that I am hoping will be beneficial in the long run. After all, the goal with this discipline is not to win; but to gain more experience while not putting a huge strain on your time.<br />
+So for those who tend to find themselves studying instead of playing, I ask that you give this habit a shot. Whether it&#8217;s just one game every 3 days or just once a week, go out there, get your feet wet and just play. I don&#8217;t care if it&#8217;s under a secret account that you hide away from the rest of the world, but the important thing is that you do it. That way, when the time comes for you to take the plunge and participate in a tournament, you&#8217;ll feel a lot more comfortable with playing a game and have a much better chance of showing what you&#8217;ve been learning instead of losing because you are rusty from playing.<br />
+At the end of the day, no matter how good you are at the various aspects of go (i.e., fuseki, joseki, tesuji, life and death, endgame, etc.), you are only as good as your ability to transition between these skills during a game. The faster you are at moving between them, the better your analysis will be and the stronger you will inevitably be. And no matter what anyone else says, there is nothing that can train this ability better than playing games. So what are you waiting for, get out there and play some go!<br />
+<em>For anyone who is wondering where I am playing my daily games, I alternate between KGS and Tygem depending on my mood. Lately, I have been more partial to Tygem since it&#8217;s really easy to find a game and I get to play against players much stronger than me. You are welcome to follow me on my alternate account (that I created awhile ago for the 5 dan Tygem training frozensoul suggested to me): zenblade.  </em></p>
+]]></content:encoded>
+			<wfw:commentRss>/finding-time-one-game-day/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3981</post-id>	</item>
+		<item>
+		<title>Reviewing Your Games</title>
+		<link>/reviewing-your-games/</link>
+		<pubDate>Wed, 23 Jan 2013 14:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[learning]]></category>
+		<category><![CDATA[lessons]]></category>
+		<category><![CDATA[review]]></category>
+		<category><![CDATA[review games]]></category>
+		<category><![CDATA[self-tactic]]></category>
+		<category><![CDATA[stronger players]]></category>
+
+		<guid isPermaLink="false">//?p=1717</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #14 While nothing can replace the experience of playing games, one of the greatest mistakes that players make is to play games endlessly without any mind as to why they are winning or losing. There is nothing wrong with this approach as a whole, but it is contrary to the whole [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center"><em>Weekly Go Wednesday, Issue #14</em></h2>
+<p><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw14.jpg"><img class="aligncenter size-full wp-image-1723" alt="Proofreading Credit to TitanWebMarketingSolutoins" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw14.jpg?resize=300%2C235" width="300" height="235" data-recalc-dims="1" /></a><br />
+While nothing can replace the experience of playing games, one of the greatest mistakes that players make is to play games endlessly without any mind as to why they are winning or losing. There is nothing wrong with this approach as a whole, but it is contrary to the whole notion of getting stronger. After all, how can anyone learn from their mistake if they never knew it existed?<br />
+The one thing we have to remember as kyu players is that we often fall victim to being ignorant to fundamental go principles. It&#8217;s not so much that we&#8217;re not aware of them, but applying them in our game is a completely different story. Often times in the middle of a game, we will think one way and will not realize our mistake till later on. As a result, an extremely important aspect of getting stronger is to review your games.<br />
+<span id="more-1717"></span><br />
+Here is an overall guideline (in order of level of effort) as to how you should approach your game reviews:<br />
+<strong>#1. Start by reviewing the game on your own (or with a friend).</strong><br />
+Casually go through the game and see what things you might have done differently, or how you think the game might have gone if you had responded differently. The important thing to remember is not to spend a lot of time going over the game, but to go over any mistakes you&#8217;ve made and learn from it as best as you possibly can. This is the absolute bare minimum you should do after each game.<br />
+<strong>#2. Get a stronger player to review your game (preferably at least 3 stones stronger than you).</strong><br />
+Stronger players fulfill the gap that we lack when it comes to understanding why certain things work and certain things don&#8217;t. In fact, it is their guidance that helps bring us back from the edge of self-delusion when one of our &#8220;brilliant tesujis&#8221; turns out to be easily countered by a different response. So make no mistake, this type of review can do wonders for your understanding of the game.<br />
+<strong>#3. Come prepared to a game review with a stronger player (again, preferably at least 3 stones stronger).</strong><br />
+If you want to get the most out of your reviews, come to a review prepared to with the following:</p>
+<ol>
+<li>Pick three moves that you are really proud of.</li>
+<li>Pick three moves that you were not sure about.</li>
+<li>Pick three moves that you thought were bad in hindsight.</li>
+</ol>
+<p>By doing this, you will be doing yourself a huge favor since your reviewer will have a clear insight into how you are thinking. In addition, this will allow the reviewer to easily tailor the lessons towards your habits and style of play instead of making it generic.<br />
+So yes. While <a title="Even Games with Stronger Players" href="//even-games-with-stronger-players/">last week&#8217;s Weekly Go Wednesday</a> focused on how playing against stronger players against stronger players is a good method for getting stronger, the game reviews that come afterwards can make the difference between feeling awful about yourself and having your eyes opened to brand new possibilities.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1717</post-id>	</item>
+		<item>
+		<title>The Follow-Up Move</title>
+		<link>/the-follow-up-move/</link>
+		<pubDate>Wed, 09 Jan 2013 14:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[follow up move]]></category>
+		<category><![CDATA[getting stronger]]></category>
+
+		<guid isPermaLink="false">//?p=1537</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #12 Like the flow of water down a waterfall, every player&#8217;s goal is to have their territory pervade into as much of the go board in the most efficient way possible. As kyu players, we often attempt to do this with moves that either look or &#8220;feel&#8221; right. We are compelled [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center"><em>Weekly Go Wednesday, Issue #12</em></h2>
+<p><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12.jpg"><img class="aligncenter size-full wp-image-1614" alt="Blue Waterfall" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12.jpg?resize=300%2C225" width="300" height="225" data-recalc-dims="1" /></a><br />
+Like the flow of water down a waterfall, every player&#8217;s goal is to have their territory pervade into as much of the go board in the most efficient way possible. As kyu players, we often attempt to do this with moves that either look or &#8220;feel&#8221; right. We are compelled to play these moves for a variety of reasons (i.e., we saw a professional do it, we heard some proverb that we follow without regard to the situation, etc.), yet we often find ourselves grumbling and frustrated when our work is laid to waste or even killed off.<br />
+While part of the issue with our plays lies in our lack of understanding behind the purposes of each move, I have often found that we are also just as guilty for an important and often overlooked piece in our in our play: the follow-up move.<br />
+<span id="more-1537"></span><br />
+Take the following diagram below as a simple example:<br />
+<figure id="attachment_1617" style="width: 150px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12-dia1.png"><img class="size-full wp-image-1617" alt="wgw12-dia1" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12-dia1.png?resize=150%2C180" width="150" height="180" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Black to play.</figcaption></figure>
+<p style="text-align: left">Assuming that no other stones are on the board, then the answer is simple.</p>
+<figure style="width: 150px" class="wp-caption aligncenter"><a href="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12-dia2.png"><img alt="wgw12-dia2" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2013/01/wgw12-dia2.png?resize=150%2C180" width="150" height="180" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Black A threatens snapback at B.</figcaption></figure>
+While this is a straightforward example involving capturing stones, the same principle should be applied to practically every move you make on the board. If you don&#8217;t have a follow up move in mind that you think your opponent would regret having you play, then you&#8217;ll end up giving free moves to your opponent. I know that it may be difficult at first to see where severe follow up moves are in more abstract situations like attacking, but I assure you that continued practice in doing this will only serve to your benefit in the long run.<br />
+This lack of discipline is one of the big reasons that holds kyu players back from continued growth. Failure to consider a follow-up move may work for awhile in the lower kyu ranks, but I have found that this quickly becomes an obstacle as one enters the realm of SDK&#8217;s (single digit kyus). It is something that does not receive a lot of attention since it is more of a mental habit that is easily overshadowed by poor reading or strategic misconceptions. Therefore, it is critical that you do all that you can to incorporate this thought into every move you play. By doing so, you will certainly find a new type of enjoyment with your games.<br />
+So the next time you find yourself attacking or trying to establishing a strategic position, remember to ask yourself:</p>
+<blockquote><p>If my opponent ignores my move, do I have a severe follow up to punish the tenuki?</p></blockquote>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1537</post-id>	</item>
+		<item>
+		<title>Estimating Territory</title>
+		<link>/estimating-territory/</link>
+		<pubDate>Wed, 02 Jan 2013 22:30:49 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Advice]]></category>
+		<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Tactics]]></category>
+		<category><![CDATA[Weekly Go Wednesday]]></category>
+		<category><![CDATA[counting]]></category>
+		<category><![CDATA[estimating territory]]></category>
+		<category><![CDATA[estimation]]></category>
+		<category><![CDATA[getting stronger]]></category>
+		<category><![CDATA[good habits]]></category>
+
+		<guid isPermaLink="false">//?p=1586</guid>
+		<description><![CDATA[Weekly Go Wednesday, Issue #11 Counting (i.e., estimating territory at any point in the game). Although this is a skill that many would say is critical to improving the consistency of your games, this is probably the skill that is most avoided by go players all around. For those who are not aware of the benefits [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center"><strong><em>Weekly Go Wednesday, Issue #11</em></strong></h2>
+<figure id="attachment_1590" style="width: 288px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/abacus.jpg"><img class=" wp-image-1590  " alt="Credit to David R. Tribble" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/01/abacus.jpg?resize=288%2C216" width="288" height="216" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to David R. Tribble</figcaption></figure>
+Counting (i.e., estimating territory at any point in the game). Although this is a skill that many would say is critical to improving the consistency of your games, this is probably the skill that is most avoided by go players all around. For those who are not aware of the benefits of counting, it boils down to one simple principle: <strong>It provides guidance as to how aggressively/defensively you should be playing</strong>.<br />
+<span id="more-1586"></span><br />
+For example, if you are ahead by 30 points on the board, the best thing to do is to solidify your positions and reduce the possibility of your opponent successively invading and destroying your territory. Without counting, you might make overplays and take unnecessary risks that could allow your opponent to turn the game around. On the other hand, if you are behind, you better start invading or doing whatever you can to change the flow of the game.<br />
+With that benefit, you must be asking yourself, why doesn&#8217;t everyone do it then?</p>
+<ol>
+<li><strong>It is a time consuming process. </strong>Whether it&#8217;s trying to determine whether you can kill your opponent&#8217;s group, or whether you can win that capturing race, most players (myself included) are so preoccupied with the tactical aspects of go that counting rarely makes the cut when managing our time.</li>
+<li><strong>Counting is not as simple as 1 + 1 = 2. </strong>While estimating territory may seem rather easy, it requires a fundamental understanding of where realistic territory exists and what is still undecided. As any player is well aware, the game can be decided by as little as half a point. So overestimation/underestimation can obviously have a huge impact on the result of the game. As a result, the haziness of estimating territory only serves to scare more players away.</li>
+<li><strong>The board is constantly changing.</strong> This further discourages players from counting since it&#8217;s difficult to predict where the opponent will go next.</li>
+</ol>
+<p>Fortunately, all hope is not lost! Although this may seem rather self-explanatory, it is important to remember that the key word to remember when counting is that you are <strong>estimating</strong>. If you can get yourself to within 10 points of the actual score, you are far better off than most amateur players.<br />
+In terms of how you can improve your counting abilities, here are some tips to get you started:</p>
+<ol>
+<li><strong>Don&#8217;t spend any longer than a minute counting. </strong>If you are spending more time, you are being too exact.</li>
+<li><strong>Count in pairs.</strong> This will allow you to count at a much faster pace.</li>
+<li><strong>Don&#8217;t count anything that looks questionable.</strong> If it looks like either player can jump in and easily live/escape, throw that territory out the window.</li>
+<li><strong>Create a blueprint.</strong> In an ideal world, you would be able to easily remember how much each territory is. For most of us though, we will find ourselves forgetting or confusing how much each section is worth. So to build up to the skill of being able to remember it all, create a quick sketch of the board with your first estimations when you first count, and then modify it accordingly the next time you count.</li>
+<li><strong>Compare your estimation with a stronger player&#8217;s estimation.</strong> This can be a huge benefit to helping you understand how to make more accurate decisions regarding how to estimate the score.</li>
+</ol>
+<p>Like any other skill in life, do not be discouraged if your counting skills are off. The key thing is to keep practicing and making it a habit. Start by counting just once per game, and then increase it to two when you feel comfortable doing so. I assure you that you will definitely get faster over time.<br />
+Finally, there is one final matter that must be addressed: estimating score using software. While this is a really convenient tool, it is important to realize that it is far from perfect. I have seen the software mistaken large groups for dead when they are clearly alive. As a result, remember that it is not something you should use as a reference point.<br />
+If you have any tips or exercises that helped you improve your counting abilities, please be sure to share it below!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">1586</post-id>	</item>
+	</channel>
+</rss>

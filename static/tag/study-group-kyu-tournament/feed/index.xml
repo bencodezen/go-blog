@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>study group kyu tournament &#8211; BenGoZen</title>
+	<atom:link href="/tag/study-group-kyu-tournament/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>A Look Back at February</title>
+		<link>/a-look-back-at-february/</link>
+		<pubDate>Thu, 28 Feb 2013 22:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[asr]]></category>
+		<category><![CDATA[february]]></category>
+		<category><![CDATA[monthly overview]]></category>
+		<category><![CDATA[study group kyu tournament]]></category>
+
+		<guid isPermaLink="false">//?p=2125</guid>
+		<description><![CDATA[For those who are wondering how my studies of Korean go have gone, while I did not finish all the material that I originally set out to do, I have learned that Korean go is centered on fighting. I know that many people will say that they already knew this, but I will tell you [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>For those who are wondering how my studies of Korean go have gone, while I did not finish all the material that I originally set out to do, I have learned that Korean go is centered on fighting. I know that many people will say that they already knew this, but I will tell you that experiencing it firsthand is an entirely separate matter. It wasn&#8217;t until I was being pummeled by 5 dans on Tygem and studying the material they use that I began to really see the impressive feats Korean style go can accomplish. It will definitely become a useful weapon in my arsenal against the calmer players I have seen on KGS.<br />
+As March is literally right around the corner, I will have you know that I am now taking a free style approach to my training. If I feel motivated or excited to study something, that is precisely what I will study. I won&#8217;t feel obligated to begrudgingly finish a book because I started it. The only thing I will maintain consistently however, are my life and death problems. That will be the only aspect that will never change.<br />
+With my success at rising to the Alpha class in <a href="http://www.advancedstudyroom.com/">ASR</a>, I have also decided that it is time for me to drop the league for now. I will be turning my attention towards playing more ranked games so that I can find out how much I have grown over these last couple of months. In addition, I&#8217;ve decided to join the <a href="http://studygroupkyutournament.webs.com/">Study Group Kyu tournament</a> to see how my skills match up against other SDK&#8217;s. Since I will only be playing each opponent once, it should be less time consuming and may even give me a chance to play more ranked games as well.<br />
+Though it seems like just yesterday when I was attending the <a title="North American Go Convention — Day 1" href="//north-american-go-convention-day-1/">NAGC</a>, it has been an exciting month where the experiences and adventures I&#8217;ve had this month will certainly serve as a critical milestone for me. Looking forward to what March will bring!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2125</post-id>	</item>
+	</channel>
+</rss>

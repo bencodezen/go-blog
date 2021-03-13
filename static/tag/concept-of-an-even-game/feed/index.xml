@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>concept of an even game &#8211; BenGoZen</title>
+	<atom:link href="/tag/concept-of-an-even-game/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>One More Thing&#8230;</title>
+		<link>/one-more-thing/</link>
+		<comments>/one-more-thing/#comments</comments>
+		<pubDate>Thu, 30 May 2013 21:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[concept of an even game]]></category>
+		<category><![CDATA[estimating territory]]></category>
+
+		<guid isPermaLink="false">//?p=2809</guid>
+		<description><![CDATA[As an addendum to my post on Tuesday, I realized yesterday that in addition to seeing the board in more of a global perspective than ever before, I have actually acquired a rather moderate level of counting / estimating territory. I know it might seem rather mundane to most of you, but counting and estimating [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/05/uncle.jpg"><img class="aligncenter  wp-image-2833" alt="uncle" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/05/uncle.jpg?resize=336%2C252" width="336" height="252" data-recalc-dims="1" /></a></p>
+<p>As an addendum to my <a title="No Turning Back" href="//no-turning-back/">post on Tuesday</a>, I realized yesterday that in addition to seeing the board in more of a global perspective than ever before, I have actually acquired a rather moderate level of counting / estimating territory.<br />
+I know it might seem rather mundane to most of you, but counting and estimating territory has always been one of the things I have dreaded and avoided at all costs. Granted, my counting and estimating is far from anything praise worthy; but if I set my mind to it, I am now able to estimate territory within a reasonable standard deviance of error.<br />
+On top of that, I was also opened up to the whole concept of how a board is considered &#8220;an even position.&#8221; It&#8217;s always baffled me as to how a position could be considered &#8220;even,&#8221; but my lesson with frozensoul definitely helped to shed some light on why certain moves that are normally considered slow are actually good moves strategically when the whole board is considered.<br />
+Hopefully I&#8217;ll be able to explain these ideas and concepts better in the future; but for now, hopefully that helps to shed some insight into my new paradigm shift. =)</p>
+]]></content:encoded>
+			<wfw:commentRss>/one-more-thing/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">2809</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>6 stones &#8211; BenGoZen</title>
+	<atom:link href="/tag/6-stones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Relief</title>
+		<link>/relief/</link>
+		<pubDate>Mon, 04 Oct 2010 21:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[15k]]></category>
+		<category><![CDATA[6 stones]]></category>
+		<category><![CDATA[black]]></category>
+		<category><![CDATA[handicap go]]></category>
+		<category><![CDATA[victory]]></category>
+
+		<guid isPermaLink="false">//?p=86</guid>
+		<description><![CDATA[So here&#8217;s the game that broke my miserable resignation streak from last night. It was a game against a 9k. We played with a proper handicap this time (one guy tried to give me less stones earlier and as the idiot I accepted&#8230; let&#8217;s just say it didn&#8217;t go so well). Overall, I definitely have [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So here&#8217;s the game that broke my miserable resignation streak from last night. It was a game against a 9k. We played with a proper handicap this time (one guy tried to give me less stones earlier and as the idiot I accepted&#8230; let&#8217;s just say it didn&#8217;t go so well).<br />
+Overall, I definitely have come to see the game in a different light. As someone who was told that life and death is my first priority, it&#8217;s easy to get caught up in old habits and just simply try to kill the opponent&#8217;s stones the whole time. This game was a clear illustration of my growth from that mindset. At least I hope it is&#8230;<br />
+<span id="more-86"></span><br />
+
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.04-Relief.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.04-Relief.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">86</post-id>	</item>
+	</channel>
+</rss>

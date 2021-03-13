@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Book Review: Jump Level Up 1</title>
+	<atom:link href="/book-review-jump-level-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/book-review-jump-level-1/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Friday Go Forward: Week 67 - BenGoZen</title>
+		<link>/book-review-jump-level-1/#comment-1117</link>
+		<dc:creator><![CDATA[Friday Go Forward: Week 67 - BenGoZen]]></dc:creator>
+		<pubDate>Wed, 01 Oct 2014 19:08:02 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3885#comment-1117</guid>
+		<description><![CDATA[[&#8230;] 1 sec­tion of Jump Level Up 1 per [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] 1 sec­tion of Jump Level Up 1 per [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Book Review: Jump Level Up 4 &#124; BenGoZen</title>
+		<link>/book-review-jump-level-1/#comment-1116</link>
+		<dc:creator><![CDATA[Book Review: Jump Level Up 4 &#124; BenGoZen]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2013 01:54:33 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3885#comment-1116</guid>
+		<description><![CDATA[[&#8230;] Jump Level Up 1 [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Jump Level Up 1 [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

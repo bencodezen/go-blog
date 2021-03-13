@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: New Book Review Landing Page!</title>
+	<atom:link href="/new-book-review-landing-page/feed/" rel="self" type="application/rss+xml" />
+	<link>/new-book-review-landing-page/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Ben</title>
+		<link>/new-book-review-landing-page/#comment-810</link>
+		<dc:creator><![CDATA[Ben]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2013 20:21:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2884#comment-810</guid>
+		<description><![CDATA[Good point. I think I wrote it in light of the fact that some of the new ones I wrote are in the new format. To answer your question though, I am definitely going to modify that old ones in the near future. Got to keep great quality all around! =D]]></description>
+		<content:encoded><![CDATA[<p>Good point. I think I wrote it in light of the fact that some of the new ones I wrote are in the new format. To answer your question though, I am definitely going to modify that old ones in the near future. Got to keep great quality all around! =D</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Moboy78</title>
+		<link>/new-book-review-landing-page/#comment-809</link>
+		<dc:creator><![CDATA[Moboy78]]></dc:creator>
+		<pubDate>Wed, 05 Jun 2013 20:15:00 +0000</pubDate>
+		<guid isPermaLink="false">//?p=2884#comment-809</guid>
+		<description><![CDATA[I like the new book review page layout.  Much easier to find book reviews with the new categories!  However, I didn&#039;t see any reviews that had the new system you were going to use to review them.  I might have been misinterpreting you earlier, but were you going to change existing book reviews, or just use that system for new ones?]]></description>
+		<content:encoded><![CDATA[<p>I like the new book review page layout.  Much easier to find book reviews with the new categories!  However, I didn&#8217;t see any reviews that had the new system you were going to use to review them.  I might have been misinterpreting you earlier, but were you going to change existing book reviews, or just use that system for new ones?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

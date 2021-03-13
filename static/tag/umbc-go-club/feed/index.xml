@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>umbc go club &#8211; BenGoZen</title>
+	<atom:link href="/tag/umbc-go-club/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>UMBC Go Club = Back in Business!</title>
+		<link>/umbc-go-club-back-in-business/</link>
+		<pubDate>Tue, 14 Sep 2010 02:14:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[umbc go club]]></category>
+
+		<guid isPermaLink="false">//?p=114</guid>
+		<description><![CDATA[So the last two days have been fraught with trying to figure out the position of Go players in Baltimore.  Long story short, I have decided to take up the challenge to reinvigorate Go on-campus and increase membership! Also, for all those who read, lookout for an official tournament in October!  More details to come [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>So the last two days have been fraught with trying to figure out the position of Go players in Baltimore.  Long story short, I have decided to take up the challenge to reinvigorate Go on-campus and increase membership! Also, for all those who read, lookout for an official tournament in October!  More details to come soon enough!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">114</post-id>	</item>
+	</channel>
+</rss>

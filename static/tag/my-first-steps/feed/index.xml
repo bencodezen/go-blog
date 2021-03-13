@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>my first steps &#8211; BenGoZen</title>
+	<atom:link href="/tag/my-first-steps/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>My First Steps</title>
+		<link>/my-first-steps/</link>
+		<pubDate>Fri, 20 Aug 2010 18:37:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[bengozen]]></category>
+		<category><![CDATA[my first steps]]></category>
+
+		<guid isPermaLink="false">//?p=144</guid>
+		<description><![CDATA[As someone who had no background of the game (and I mean NO background since none of my family members even knew how to play the game), the first step I would have to take was to figure out the best way to learn the game. For those who are also starting out, here are [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>As someone who had no background of the game (and I mean NO background since none of my family members even knew how to play the game), the first step I would have to take was to figure out the best way to learn the game.<br />
+For those who are also starting out, here are the pros and cons for your main options:<br />
+#1. Tutors/Online Go Schools</p>
+<ul>
+<li>Pros: One of the fastest ways to learn since it&#8217;s interactive and since tutors are generally high level you will (hopefully) rise in level quickly due to their insight and guidance.</li>
+<li>Cons: Tutors are expensive for trying to just learn the rules and basics.</li>
+</ul>
+<p>#2. Friends and/or Go Clubs</p>
+<ul>
+<li>Pros: Like the tutor, one of the faster and funner ways to learn as well due to it being interactive.</li>
+<li>Cons: There have to be clubs you are able to go to in your area that also match with your schedule. And well&#8230; you have to have friends that play Go in order to learn from friends.</li>
+</ul>
+<p>#3. Books, Websites, and Software</p>
+<ul>
+<li>Pros: You can move at your own pace without scheduling conflicts.</li>
+<li>Cons: It can be difficult and confusing to decide what books to buy and the best way to maximize your efforts. Also, it costs money for books and software (for the most part).</li>
+</ul>
+<p>So, if you are anything like I was (with no friends who played Go or money to hire a tutor), you are most likely looking at curtain number 3! First off, I did a lot of research and bought a couple of books in hopes of learning tons of information. After my initial venture, I&#8217;m going to start by telling you NOT to buy any books just yet. Over the next few posts, I&#8217;ll be reviewing and clarifying a lot of the books, websites and software out there that might lure brand new Go players.<br />
+For now, head to <a href="http://www.playgo.to/iwtg/en/" target="_blank">The Interactive Way to Go (English)</a> to get started on how to learn Go for FREE!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">144</post-id>	</item>
+	</channel>
+</rss>

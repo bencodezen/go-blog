@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>blogger &#8211; BenGoZen</title>
+	<atom:link href="/tag/blogger/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>How to Embed Eidogo into Your Website</title>
+		<link>/how-to-embed-eidogo-into-your-website/</link>
+		<pubDate>Sun, 03 Oct 2010 15:26:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Guides]]></category>
+		<category><![CDATA[blogger]]></category>
+		<category><![CDATA[eidogo]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[nate]]></category>
+
+		<guid isPermaLink="false">//?p=90</guid>
+		<description><![CDATA[Blogger / Blogspot (Google) WARNING: Contrary to my previous findings, it seems that Blogger may actually not be compatible period with Eidogo anymore. Let me know if you find otherwise. Part 1: Putting the program into your blog. Access the control panel for your blog. Click Template. Click Edit HTML. A popup will appear that [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2 style="text-align: center;"><span style="text-decoration: underline;">Blogger / Blogspot (Google)</span></h2>
+<p style="text-align: center;"><strong><span style="color: #800000;"><em>WARNING: Contrary to my previous findings, it seems that Blogger may actually not be compatible period with Eidogo anymore. Let me know if you find otherwise.</em></span></strong></p>
+<h3>Part 1: Putting the program into your blog.</h3>
+<ol>
+<li>Access the control panel for your blog.</li>
+<li>Click <strong>Template</strong>.</li>
+<li>Click <strong>Edit</strong> <strong>HTML</strong>.</li>
+<li>A popup will appear that warns you the implications of editing HTML. Nothing to fear. Click <strong>Proceed</strong>.</li>
+<li>Once your text editor appears, search for the tag <strong>&lt;/head&gt;.</strong></li>
+<li>Move your text cursor to the beginning of the tag and press the <strong>Enter</strong>/<strong>Return</strong> key to create an empty line.</li>
+<li>Copy and paste the following code in the new line break you just created.
+<ul>
+<li>&lt;script type=&#8221;text/javascript&#8221; src=&#8221;http://www.eidogo.com/player/js/all.compressed.js&#8221;&gt;&lt;/script&gt;</li>
+</ul>
+</li>
+<li>Click <strong>Save</strong> <strong>template</strong>.</li>
+<li>Part 1 complete!</li>
+</ol>
+<h3>Part 2: Preparing your kifu for embedding.</h3>
+<ol>
+<li>Download your desired kifu (which should be an SGF file).</li>
+<li>Open the SGF file in a text editor (e.g., Notepad).</li>
+<li>At the very beginning of the document, paste the following code:
+<ul>
+<li>&lt;div class=&#8221;eidogo-player-auto&#8221;&gt;</li>
+</ul>
+</li>
+<li>Go to the very end of the document, paste the following code:
+<ul>
+<li>&lt;/div&gt;</li>
+</ul>
+</li>
+<li>Select the entire text and copy it.</li>
+<li>Part 2 complete!</li>
+</ol>
+<h3>Part 3: Inserting your kifu into the post.</h3>
+<ol>
+<li>Edit the post that you want to embed the sgf file into.</li>
+<li>On the left side above the text area, you should see two option: Compose | HTML, make sure that <strong>Compose</strong> is selected (it should have a darker gray background that looks as if it is indented).</li>
+<li>Move your text cursor to the area in the post that you want to post the SGF file to.</li>
+<li>Type <strong>PASTE SGF FILE</strong>.</li>
+<li>Click on the <strong>HTML</strong> tab mentioned in Step #5.</li>
+<li>Find the text you typed in Step #4. It should look something like this:
+<ul>
+<li>&lt;div&gt;PASTE SGF FILE&lt;/div&gt;</li>
+</ul>
+</li>
+<li>Highlight the entire code mentioned in Step #6.</li>
+<li>Paste copied text from Part 2.</li>
+<li>Click <strong>Save</strong> or <strong>Publish</strong>.</li>
+<li>Success!</li>
+</ol>
+<h4>Disclaimers:</h4>
+<ul>
+<li>The Eidogo Viewer will not appear in the preview nor will it appear in the compose section. It&#8217;ll just look like a gigantic text version of your sgf file. Don&#8217;t worry though! It works on the actual site.</li>
+<li>In case anyone is using SmartGo2 to create/modify their SGF file, the code they produce will cause Eidogo to not see the proper handicap, the players and their respective colors, komi, along with any commentary made throughout the game. As a result, I recommend that you use <a href="http://www.gokgs.com/download.jsp" target="_blank">CGoban</a> instead.</li>
+</ul>
+<p style="text-align: center;"><span style="text-decoration: underline;"><em>Many thanks to Nate for helping me create this guide and Eidogo for creating an amazing viewer!!</em></span></p>
+<p style="text-align: center;"><strong><em>Last updated October 29th, 2012.</em></strong></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">90</post-id>	</item>
+	</channel>
+</rss>

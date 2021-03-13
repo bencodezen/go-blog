@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>user inquiry &#8211; BenGoZen</title>
+	<atom:link href="/tag/user-inquiry/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>What Do You Look for in a Book Review?</title>
+		<link>/what-do-you-look-for-in-a-book-review/</link>
+		<comments>/what-do-you-look-for-in-a-book-review/#comments</comments>
+		<pubDate>Sat, 29 Jun 2013 09:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[book review]]></category>
+		<category><![CDATA[help]]></category>
+		<category><![CDATA[improving book reviews]]></category>
+		<category><![CDATA[need feedback]]></category>
+		<category><![CDATA[user inquiry]]></category>
+
+		<guid isPermaLink="false">//?p=3151</guid>
+		<description><![CDATA[Since I started reviewing books back in 2010, I have been updating the book review template as time has gone on. Categories were added and removed based on whether or not I felt it was relevant anymore. As some of you might have noticed, the book review format changed recently; but I&#8217;m already feeling dissatisfied [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Since I started reviewing books back in 2010, I have been updating the book review template as time has gone on. Categories were added and removed based on whether or not I felt it was relevant anymore. As some of you might have noticed, the book review format changed recently; but I&#8217;m already feeling dissatisfied with it even though I just updated it recently. On top of it all, I&#8217;m not sure my opinion is enough to validate whether a category is relevant or not.<br />
+I posted this <a href="http://www.reddit.com/r/baduk/comments/1h8trs/what_do_you_look_for_in_a_go_book_review/">question to the reddit baduk community</a> and got some interesting responses regarding some things that they would like to see. In addition, one user brought a great topic to my attention that I thought deserves some time here on this post: reduplication of effort.<br />
+For those who aren&#8217;t aware, there are already quite a few resources out there when it comes to go book reviews:</p>
+<ol>
+<li><a href="http://gobooks.info/"><span style="line-height: 13px;">GoBooks.info</span></a></li>
+<li><a href="http://gobooks.nemir.org/">GoBooks Nemir</a></li>
+<li><a href="http://senseis.xmp.net/?GoBooks">Sensei&#8217;s Library</a></li>
+</ol>
+<p>In my experience so far though, many of the sites tend to be outdated (in regards to user interface and design layout). In addition, while the content is still relevant, I always found it difficult to really determine whether or not I should purchase the book or not. In addition, the reviews are often simply huge blobs of text that can be difficult and tedious to navigate for the average user. Most of the time, due to sheer curiosity, I buy the book anyways; but this defeats the whole purpose of a book review.<br />
+My goal is to provide the <strong>best</strong> user experience for people interested in providing go books. This means designing the most intuitive user interface along with providing information in the most concise and useful manner possible. By doing so, casual players who would otherwise be discouraged by the lengthy reviews (since they aren&#8217;t as committed to the game as some of us are) can easily navigate the reviews I post and purchase the appropriate book for themselves!<br />
+So, to try and provide the best book review format in existence, <strong>I&#8217;m asking for your help to make this a reality</strong>!  If you could leave a comment with things that you would find useful (or not useful) in book reviews, it would be greatly appreciated!<br />
+Here is a list of some items to get you started:</p>
+<ul>
+<li><span style="line-height: 13px;">Author&#8217;s Teaching Style</span></li>
+<li>My background as a reviewer before reading the book</li>
+<li>General pros and cons</li>
+<li>My expectations of the book</li>
+<li>What I liked about it</li>
+<li>What makes the book unique</li>
+<li>Relationship with similar books</li>
+</ul>
+<p>As always, please be as honest and blunt as you would like to be. If you like or dislike the things I mentioned above or currently use in my reviews, say so! The more vocal and opinionated you are, the more useful the book reviews will be to you. I&#8217;m looking forward to seeing your feedback!</p>
+]]></content:encoded>
+			<wfw:commentRss>/what-do-you-look-for-in-a-book-review/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">3151</post-id>	</item>
+	</channel>
+</rss>

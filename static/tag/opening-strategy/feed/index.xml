@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>opening strategy &#8211; BenGoZen</title>
+	<atom:link href="/tag/opening-strategy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Book Review: The Second Book of Go</title>
+		<link>/book-review-the-second-book-of-go/</link>
+		<pubDate>Tue, 18 Dec 2012 17:30:20 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[capturing races strategy]]></category>
+		<category><![CDATA[handicap strategy]]></category>
+		<category><![CDATA[opening strategy]]></category>
+
+		<guid isPermaLink="false">//?p=965</guid>
+		<description><![CDATA[Overall Rating: 5 / 5 Ponnuki Basic Information Title: The Second Book of Go Author: Richard Bozulich Publication Date: January 1998 Synopsis Lives up to your expectations of being the &#8220;second book&#8221; of go that you&#8217;d like to have after learning the rules, but it may be overwhelming for the casual player. Covers a wide [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: center;"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/11/secondbookofgocover.jpg"><img class="aligncenter  wp-image-1307" title="Cover of The Second Book of  Go" alt="Cover of The Second Book of  Go" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2012/11/secondbookofgocover.jpg?resize=268%2C378" width="268" height="378" data-recalc-dims="1" /></a></p>
+<h2 style="text-align: center;">Overall Rating: 5 / 5 Ponnuki</h2>
+<h3><span style="text-decoration: underline;">Basic Information</span></h3>
+<ul>
+<li>Title: <span style="text-decoration: underline;">The Second Book of Go<br />
+</span></li>
+<li>Author: Richard Bozulich</li>
+<li>Publication Date: January 1998</li>
+</ul>
+<h3 style="text-align: left;"><span style="text-decoration: underline;">Synopsis</span></h3>
+<ul>
+<li style="text-align: left;">Lives up to your expectations of being the &#8220;second book&#8221; of go that you&#8217;d like to have after learning the rules, but it may be overwhelming for the casual player.</li>
+<li style="text-align: left;">Covers a wide array of vital topics that really makes it worthwhile to purchase.</li>
+<li style="text-align: left;">Do not expect to grasp everything the first time you read this book.</li>
+<li style="text-align: left;">Appropriate for 18 kyu and stronger.</li>
+<li style="text-align: left;">Recommended for serious players and above.</li>
+</ul>
+<div style="text-align: left;"><span id="more-965"></span></div>
+<h3 style="text-align: left;"><span style="text-decoration: underline;">Detailed Review</span></h3>
+<h4 style="text-align: left;">Readability &#8211; 7 / 10</h4>
+<p>The <span style="text-decoration: underline;">Second Book of Go</span> reads like a condensed version of a textbook. At times you find that the short explanations are clear and concise, while other times you find that you read the same paragraph three times and still don&#8217;t quite grasp the concept being explained. To clarify however, this is not a shortcoming of the book by any stretch of the means. Unlike books like the <a title="Book Review: The Nihon Ki-in Handbook of Proverbs" href="//book-review-the-nihon-ki-in-handbook-of-proverbs/">Nihon-Kiin Handbook of Proverbs</a>, the purpose of this book was written with the intent of being an all-in-one regarding next steps to getting stronger after learning the rules of go. As a result, one should expect that the material can be dense and difficult to grasp at times.<br />
+Fear not however, Bozulich strikes a nice balance between easy to understand concepts and dense concepts that will help maintain your interest and attention span. For example, the section on the opening is illustrated well through numerous diagrams and short explanations that do a fantastic job exposing players to new ideas. On the other hand, the section on winning capturing races is refreshing at first; but it quickly becomes very dense and difficult to follow if you are not ready for that level of reading. Do not worry though, the fact that the content varies between light and dense concepts is what makes its re-readability so high.</p>
+<h4 style="text-align: left;">Content Quality &#8211; 10 / 10</h4>
+<p>Generally, books that try to cover a large number of topics in a small amount of pages runs the risk of being too general and thus being quite useless to the reader. Bozulich does a fantastic job covering all of the topics in an impressive amount of detail when you consider that the book is not very long. In fact, I do not think I&#8217;m alone in the belief that this book alone can carry a player all the way to SDK without breaking a sweat (assuming the player&#8217;s reading ability is up to par). As with any book on theoretical concepts however, the key to unlocking the value will be in practicing the implementation of the concepts.</p>
+<h4 style="text-align: left;">Table of Contents</h4>
+<ol>
+<li>Preface</li>
+<li>Part One: Strategy
+<ol>
+<li>Chapter 1: The Opening Moves</li>
+<li>Chapter 2: Handicap Go-Strategy</li>
+<li>Chapter 3: Josekis</li>
+<li>Chapter 4: Securing Territory by Attacking</li>
+</ol>
+</li>
+<li>Part Two: Tactics
+<ol>
+<li>Tesuji</li>
+<li>Life and Death</li>
+<li>Counting Liberties</li>
+<li>How to Win Capturing Races</li>
+<li>Good and Bad Shape</li>
+<li>Ko Fights</li>
+</ol>
+</li>
+</ol>
+<h4 style="text-align: left;">Recommended Vendors:</h4>
+<ol>
+<li>Amazon for <a title="Amazon Purchase Link for Second Book of Go" href="http://www.amazon.com/gp/product/4906574319/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=4906574319&amp;linkCode=as2&amp;tag=be09a-20">$18.00</a></li>
+<li>GoGameGuru for <a title="GoGameGuru Purchase Link for Second Book of Go" href="http://shop.gogameguru.com/the-second-book-of-go/?acc=e4da3b7fbbce2345d7772b0674a318d5">$17.99</a> (S&amp;H not included)</li>
+</ol>
+<p style="text-align: center;"><em>Last updated December 6th, 2012 &#8211; 6 kyu</em></p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">965</post-id>	</item>
+	</channel>
+</rss>

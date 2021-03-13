@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>slate and shell stones &#8211; BenGoZen</title>
+	<atom:link href="/tag/slate-and-shell-stones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Three Months</title>
+		<link>/three-months/</link>
+		<pubDate>Mon, 08 Nov 2010 17:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Kifu]]></category>
+		<category><![CDATA[asr]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[progress update]]></category>
+		<category><![CDATA[slate and shell stones]]></category>
+		<category><![CDATA[weiqi]]></category>
+
+		<guid isPermaLink="false">//?p=49</guid>
+		<description><![CDATA[Happy 3 months to my Go Quest! Time for the monthly progress update! Major Highlights: KGS &#8211; 12k I joined the ASR League. I&#8217;m officially done with buying Go books for now. I finally broke down and bought a slate and shell set. =D Specifics: Go Ability &#8211; So I&#8217;m still 12k on KGS, but [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Happy 3 months to my Go Quest! Time for the monthly progress update!<br />
+<span style="text-decoration: underline;"><strong>Major Highlights:</strong></span></p>
+<ol>
+<li>KGS &#8211; 12k</li>
+<li>I joined the ASR League.</li>
+<li>I&#8217;m officially done with buying Go books for now.</li>
+<li>I finally broke down and bought a slate and shell set. =D</li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Specifics:</strong></span></p>
+<p style="padding-left: 30px;"><strong>Go Ability</strong> &#8211; So I&#8217;m still 12k on KGS, but I&#8217;m pretty sure that number is now definitely inaccurate. I can&#8217;t really say if I&#8217;ve hit the SDK ability, but I know that the handicaps I&#8217;ve been getting lately aren&#8217;t exactly fair to my opponents. Yesterday I played a 4k with a 6 stones handicap and managed to win by resignation. Below you will find a game against a 6k opponent at 6 stones handicap where I would have won by ~60 some points.</p>
+<p style="padding-left: 30px;">
+<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
+<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/11\/2010.11.08-Three-Months.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
+<p>&nbsp;</p>
+<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/11/2010.11.08-Three-Months.sgf' download>Download SGF</a></div>
+<p>&nbsp;</p>
+<p style="padding-left: 30px;"><strong>ASR</strong> <strong>League</strong> &#8211; This is an advanced study group for people serious about getting stronger at go and definitely gives off the whole insei atmosphere. In terms of how I&#8217;m doing, I&#8217;m getting totally demolished and will probably remain in the lowest class for a while. I will post more about this league so other players will get a chance to know more about it.</p>
+<p style="padding-left: 30px;"><strong>Go Library</strong> &#8211; So I&#8217;ve bought a few more books since the last update. I think I&#8217;ll try to simply update the blog to be up to date with my current inventory so people can see what I have and what they might want to see reviewed.</p>
+<p style="padding-left: 30px;"><strong>Slate and Shell Stones Set</strong> &#8211; I know I know&#8230; everyone must be thinking I have lots of money to burn. Not true. I sold off some of my Magic: the Gathering cards and made ~$300. And I wanted that whole classical Go atmosphere which I thought would be achieved with slate and shell stones. Now mind you, they are only jitsuyo grade but there is an argument that they are better since they have more interesting patterns. Anyhow, it was $200 cheaper. That helped a lot too.</p>
+<p><span style="text-decoration: underline;"><strong>Next Month:</strong></span><br />
+So in a broad sense of goals, I&#8217;ll be aiming to be officially SDK in terms of KGS standards. In addition, I&#8217;ll be aiming to create a much more solid content base for the blog. Those two goals combined with staying on top of my grades and the rest of my life should be adequate for growth. Onwards!</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">49</post-id>	</item>
+	</channel>
+</rss>

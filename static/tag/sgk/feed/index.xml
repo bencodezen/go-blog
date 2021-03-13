@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>sgk &#8211; BenGoZen</title>
+	<atom:link href="/tag/sgk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
+		<title>Friday Go Forward: Week 10</title>
+		<link>/friday-go-forward-week-10/</link>
+		<pubDate>Fri, 05 Apr 2013 13:00:45 +0000</pubDate>
+		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
+				<category><![CDATA[Progress Reports]]></category>
+		<category><![CDATA[sgk]]></category>
+		<category><![CDATA[studygroupkyu]]></category>
+		<category><![CDATA[ux design]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[website]]></category>
+
+		<guid isPermaLink="false">//?p=2341</guid>
+		<description><![CDATA[Games KGS &#8211; 5 games ( 1 win : 4 losses ) DGS &#8211; 5 ongoing games Tsumego Go Game &#8211; Life and Death (iPad App) &#8211; Practice Phase 2 ( Class 18 &#8211;  20 ) Five Hundred and One Opening Problems &#8211; Page 55 &#8211; 90 Other The Chi­nese Open­ing — Page 63 &#8211; 87 Thoughts [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>Games</h2>
+<ul>
+<li>KGS &#8211; 5 games ( 1 win : 4 losses )</li>
+<li>DGS &#8211; 5 ongoing games</li>
+</ul>
+<h2>Tsumego</h2>
+<ul>
+<li>Go Game &#8211; Life and Death (iPad App) &#8211; Practice Phase 2 ( Class 18 &#8211;  20 )</li>
+<li><span style="text-decoration: underline;">Five Hundred and One Opening Problems</span> &#8211; Page 55 &#8211; 90</li>
+</ul>
+<h2>Other</h2>
+<ul>
+<li><span style="text-decoration: underline;">The Chi­nese Open­ing</span> — Page 63 &#8211; 87</li>
+</ul>
+<h2>Thoughts</h2>
+<p>I&#8217;m happy to announce that the <a href="http://www.studygroupkyu.org/">StudyGroupKyu</a> site went live this week! There are still some enhancements to be made, and that will continue to take up my time; but it&#8217;s been fun to combine my love for design with go. Definitely hoping to do more of that as time goes on.<br />
+With that being said, this week has a decently studious week combined with sporadic blitz go. Now although none of the game time settings will indicate that, I generally didn&#8217;t spend more than 30 seconds on a move. This is probably due to my lack of time and newly acquired ability to not be attached to winning or losing a game. I&#8217;ve been more obsessed with trying out new things and experimenting with what I&#8217;ve been learning. And to be honest, it&#8217;s quite refreshing.</p>
+]]></content:encoded>
+		<post-id xmlns="com-wordpress:feed-additions:1">2341</post-id>	</item>
+	</channel>
+</rss>

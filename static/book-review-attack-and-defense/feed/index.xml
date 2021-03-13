@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+
+	>
+<channel>
+	<title>Comments on: Book Review: Attack and Defense</title>
+	<atom:link href="/book-review-attack-and-defense/feed/" rel="self" type="application/rss+xml" />
+	<link>/book-review-attack-and-defense/</link>
+	<description>Not your average go blog</description>
+	<lastBuildDate>Tue, 29 Sep 2015 12:34:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<item>
+		<title>By: Book Review: In the Beginning &#124; BenGoZen</title>
+		<link>/book-review-attack-and-defense/#comment-875</link>
+		<dc:creator><![CDATA[Book Review: In the Beginning &#124; BenGoZen]]></dc:creator>
+		<pubDate>Thu, 01 Aug 2013 15:07:49 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3104#comment-875</guid>
+		<description><![CDATA[[...] Ele­men­tary Go Series, Vol­ume 5 — Attack and Defense [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Ele­men­tary Go Series, Vol­ume 5 — Attack and Defense [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Book Review: Life and Death &#124; BenGoZen</title>
+		<link>/book-review-attack-and-defense/#comment-874</link>
+		<dc:creator><![CDATA[Book Review: Life and Death &#124; BenGoZen]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2013 15:02:25 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3104#comment-874</guid>
+		<description><![CDATA[[...] Ele­men­tary Go Series, Vol­ume 5 — Attack and Defense [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Ele­men­tary Go Series, Vol­ume 5 — Attack and Defense [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Book Review: Tesuji &#124; BenGoZen</title>
+		<link>/book-review-attack-and-defense/#comment-873</link>
+		<dc:creator><![CDATA[Book Review: Tesuji &#124; BenGoZen]]></dc:creator>
+		<pubDate>Fri, 19 Jul 2013 14:54:12 +0000</pubDate>
+		<guid isPermaLink="false">//?p=3104#comment-873</guid>
+		<description><![CDATA[[...] Ele­men­tary Go Series, Vol­ume 5 — Attack and Defense [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Ele­men­tary Go Series, Vol­ume 5 — Attack and Defense [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
