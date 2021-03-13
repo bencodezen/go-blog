@@ -1,49 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>mirror go &#8211; BenGoZen</title>
-	<atom:link href="/tag/mirror-go/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Monday Go Meditation: Game 08</title>
-		<link>/monday-go-meditation-game-08/</link>
-		<pubDate>Mon, 22 Apr 2013 09:00:44 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[chinese opening]]></category>
-		<category><![CDATA[insei]]></category>
-		<category><![CDATA[mirror go]]></category>
-		<category><![CDATA[professional]]></category>
-
-		<guid isPermaLink="false">//?p=2573</guid>
-		<description><![CDATA[Introduction With my own games being rather all over the place lately, I decided to try something new and review a game that I had a chance to see live online. This is between an insei in China (Black) and a Chinese professional (White). Since the Chinese Opening is currently a big part of my [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>With my own games being rather all over the place lately, I decided to try something new and review a game that I had a chance to see live online. This is between an insei in China (Black) and a Chinese professional (White). Since the Chinese Opening is currently a big part of my go, this game was the best choice since I got to see how stronger players not only utilize the Chinese Opening, but how they dealt with a mirror opening.</p>
-<p style="text-align: left;">
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/04\/2013.04.22-MGM-08.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/04/2013.04.22-MGM-08.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/04/2013.04.22-MGM-08.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;"><strong>Having the ideal opening does not mean you have a won game.</strong></p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">2573</post-id>	</item>
-	</channel>
-</rss>

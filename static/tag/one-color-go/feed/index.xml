@@ -1,48 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>one color go &#8211; BenGoZen</title>
-	<atom:link href="/tag/one-color-go/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Two Awesome Games</title>
-		<link>/two-awesome-games/</link>
-		<pubDate>Sun, 07 Nov 2010 15:53:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[gwgc]]></category>
-		<category><![CDATA[one color go]]></category>
-
-		<guid isPermaLink="false">//?p=50</guid>
-		<description><![CDATA[So sorry for the failure to post Friday or Saturday. Lots going on, but the following kifu is of my game against an 8k. I think it was pretty exciting and an excellent game for my persistence and some of my more clever moves that I&#8217;ve played in my games so far. Unfortunately, I ended [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>So sorry for the failure to post Friday or Saturday. Lots going on, but the following kifu is of my game against an 8k. I think it was pretty exciting and an excellent game for my persistence and some of my more clever moves that I&#8217;ve played in my games so far. Unfortunately, I ended up losing by 1.5 points. I&#8217;m pretty sure I messed up some yose maneuvers which may have actually cost me the game. I also managed to make it to GWGC after running some errands and had part of my game reviewed and learned some really interesting things. I&#8217;ll put the comments in on the parts that were reviewed.<br />
-<span id="more-50"></span><br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/11\/2010.11.07-Two-Awesome-Games.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/11/2010.11.07-Two-Awesome-Games.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-To top everything off however, I also got to play my FIRST game of&#8230;. wait for it&#8230;. ONE COLOR GO. And actually, it was also my first game against Mr. Justin Teng. Now mind you, I wasn&#8217;t trying to win&#8230; I was just trying to make it as far as I could into the game. Here&#8217;s a picture of the game.<br />
-<figure id="attachment_619" style="width: 640px" class="wp-caption aligncenter"><img class="size-large wp-image-619" title="one color go" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2010/11/one-color-go-1024x682.jpg?resize=640%2C426" alt="" width="640" height="426" data-recalc-dims="1" /><figcaption class="wp-caption-text">One Color Go w/ Justin Teng</figcaption></figure>
-Not shabby for my first game. Now I&#8217;m almost certainly being decimated, but I was happy with being able to get this far.</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">50</post-id>	</item>
-	</channel>
-</rss>

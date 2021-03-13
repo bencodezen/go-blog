@@ -1,161 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>6k &#8211; BenGoZen</title>
-	<atom:link href="/tag/6k/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Monday Go Meditation: Game 06</title>
-		<link>/monday-go-meditation-game-06/</link>
-		<pubDate>Mon, 08 Apr 2013 13:00:38 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[6k]]></category>
-		<category><![CDATA[automatically responding]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[defeat]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[resign]]></category>
-
-		<guid isPermaLink="false">//?p=2337</guid>
-		<description><![CDATA[[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/04/2013.04.08-MGM-06.sgf[/download] One Point Lesson Automatically responding to your opponent&#8217;s moves is the fastest way to making a mistake you will regret.]]></description>
-				<content:encoded><![CDATA[
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/04\/2013.04.08-MGM-06.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/04/2013.04.08-MGM-06.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/04/2013.04.08-MGM-06.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;"><strong>Automatically responding to your opponent&#8217;s moves is the fastest way to making a mistake you will regret.</strong></p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">2337</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 04</title>
-		<link>/monday-go-meditation-game-04/</link>
-		<pubDate>Mon, 25 Mar 2013 13:00:23 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[6k]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=2230</guid>
-		<description><![CDATA[[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/03/2013.03.25-MGM-04.sgf[/download] One Point Lesson Do not lose your composure when a dead group comes back alive. Twice.]]></description>
-				<content:encoded><![CDATA[
-<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/03\/2013.03.25-MGM-04.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/03/2013.03.25-MGM-04.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/03/2013.03.25-MGM-04.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;"><strong> Do not lose your composure when a dead group comes back alive. Twice.</strong></p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">2230</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 02</title>
-		<link>/monday-go-meditation-game-02/</link>
-		<pubDate>Mon, 11 Mar 2013 13:00:02 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[6k]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[loss]]></category>
-		<category><![CDATA[mistakes]]></category>
-		<category><![CDATA[technical win]]></category>
-
-		<guid isPermaLink="false">//?p=2137</guid>
-		<description><![CDATA[[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/03/2013.03.11-MGM-02.sgf[/download] One Point Lesson A one tracked mind with no regard to anything else is doomed for countless mistakes.]]></description>
-				<content:encoded><![CDATA[
-<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/03\/2013.03.11-MGM-02.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/03/2013.03.11-MGM-02.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/03/2013.03.11-MGM-02.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;"><strong>A one tracked mind with no regard to anything else is doomed for countless mistakes.</strong></p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">2137</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 01</title>
-		<link>/monday-meditation-game-1/</link>
-		<pubDate>Mon, 04 Mar 2013 14:00:44 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[6k]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=2048</guid>
-		<description><![CDATA[ [download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/03/2013.03.04-MGM-01.sgf[/download] One Point Lesson Never underestimate the power of &#8220;captured&#8221; stones.]]></description>
-				<content:encoded><![CDATA[
-<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/03\/2013.03.04-MGM-01.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/03/2013.03.04-MGM-01.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;"> [download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/03/2013.03.04-MGM-01.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;"><strong>Never underestimate the power of &#8220;captured&#8221; stones.</strong></p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">2048</post-id>	</item>
-		<item>
-		<title>The Importance of Endgame</title>
-		<link>/the-importance-of-endgame/</link>
-		<pubDate>Fri, 30 Nov 2012 14:00:07 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Advice]]></category>
-		<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[6k]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[defeat]]></category>
-		<category><![CDATA[endgame]]></category>
-		<category><![CDATA[even game]]></category>
-
-		<guid isPermaLink="false">//?p=1188</guid>
-		<description><![CDATA[So for those who don&#8217;t play on KGS, I actually managed to climb back up to 6k and hang on to it (*knock on wood*). As it is everyday, I had an urge to play a ranked game and decided to play against an opponent who is actually more along the lines of 5k but [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>So for those who don&#8217;t play on KGS, I actually managed to climb back up to 6k and hang on to it (*knock on wood*). As it is everyday, I had an urge to play a ranked game and decided to play against an opponent who is actually more along the lines of 5k but recently got downgraded to 6k. Although I was resistant to playing him at first, I decided to plunge ahead since I planned on beating stronger opponents anyways.<br />
-Let me just say this for the record: <strong>I never quite understood the importance of endgame until this game</strong>.<br />
-I mean, sure, everyone &#8220;knows&#8221; that the endgame is important. As I look at the people around me however, I realized that <strong>most kyu players tend to disregard this aspect of go since most of their games are contingent upon big battles which often result in early resignations</strong>. With that in mind, how could you blame them for not paying more attention to endgame?<br />
-As I&#8217;m approaching the mid-SDK range, the games that I have played have begun to take on a new form from the big battles I used to fight. While this makes me a bit nervous, this is part of the journey to becoming the strongest player I can possibly be.<br />
-The following game is one that I think many of you would find quite interesting since it consists of a rather complicated capturing race and is a great example of why a player&#8217;s endgame skill can be the difference between victory or defeat.<br />
-
-<div id='glift_display5' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display5","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2012\/11\/2012.11.30-The-Importance-of-Endgame.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2012/11/2012.11.30-The-Importance-of-Endgame.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2012/11/2012.11.30-The-Importance-of-Endgame.sgf[/download]
-<p>While he ended up resigning due to the capturing race, in reality this game goes down as a defeat in my book. Had I been more careful about my endgame, I&#8217;m quite sure that I would have earned that victory fair and square; but it is clear that my reckless endgame actually cost me the game. This game has really humbled my opinion of my abilities and reminded me how critical it is to:</p>
-<ol>
-<li>Practice estimating the score so that I do not have a distorted view of the game.</li>
-<li>Be more meticulous about my endgame moves since I only get a few opportunities to really practice it.</li>
-<li>Continue to practice my reading abilities so that I do not get caught in liberty shortages due to misreading.</li>
-</ol>
-<p>Here&#8217;s to hoping I have learned my lesson.</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">1188</post-id>	</item>
-	</channel>
-</rss>

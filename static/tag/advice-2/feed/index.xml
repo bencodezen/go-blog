@@ -1,53 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>advice &#8211; BenGoZen</title>
-	<atom:link href="/tag/advice-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Small # of Groups = Higher Chance to Win</title>
-		<link>/small-of-groups-higher-chance-to-win/</link>
-		<pubDate>Fri, 31 Aug 2012 15:03:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Lessons]]></category>
-		<category><![CDATA[advice]]></category>
-		<category><![CDATA[baduk]]></category>
-		<category><![CDATA[go]]></category>
-		<category><![CDATA[small number of groups]]></category>
-		<category><![CDATA[weiqib]]></category>
-
-		<guid isPermaLink="false">//?p=35</guid>
-		<description><![CDATA[Today&#8217;s game was a reminder of a concept I was told long ago in one of my teaching games: The less groups you have on the board, the more likely it is that you&#8217;re going to win. Sounds simple enough right? And yet at the same time, why is this the case? Let&#8217;s not forget [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Today&#8217;s game was a reminder of a concept I was told long ago in one of my teaching games:</p>
-<blockquote><p>The less groups you have on the board, the more likely it is that you&#8217;re going to win.</p></blockquote>
-<p>Sounds simple enough right? And yet at the same time, why is this the case?<br />
-<span id="more-35"></span><br />
-Let&#8217;s not forget an important aspect of Go &#8211; <strong>the players who use their stones the most efficiently are the ones who will most likely surround the most territory</strong>. After all, when you&#8217;re killing two birds with one stone, it becomes just about as close to having two moves as a player will ever get!<br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2012\/08\/2012.08.31-Small-Number-of-Groups.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2012/08/2012.08.31-Small-Number-of-Groups.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-If we look at the results of my game, you&#8217;ll notice that Black has 5 different groups and White has 4 groups. Yet if you play close enough attention, you&#8217;ll see how much more efficient White&#8217;s stones were at surround territory compared to Black&#8217;s. In fact, a number of Black&#8217;s groups seems like they barely escape death.<br />
-In terms of reflecting on my own play, I know that I experimented with a number of different plays that a higher ranked player would have probably punished nice and well. And in a few instances I tenuki&#8217;d when I should have paid more attention to the livelihood of the group. Overall though, I felt rather collected and was happy with each of my moves.</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">35</post-id>	</item>
-	</channel>
-</rss>

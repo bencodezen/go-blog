@@ -1,53 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>overcoming fear &#8211; BenGoZen</title>
-	<atom:link href="/tag/overcoming-fear/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>The Tip of Their Swords&#8230;</title>
-		<link>/the-tip-of-their-swords/</link>
-		<pubDate>Fri, 22 Oct 2010 14:18:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Advice]]></category>
-		<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[hikaru no go]]></category>
-		<category><![CDATA[overcoming fear]]></category>
-		<category><![CDATA[sai's wisdom]]></category>
-		<category><![CDATA[tip of their swords]]></category>
-
-		<guid isPermaLink="false">//?p=59</guid>
-		<description><![CDATA[Lately I&#8217;ve been looking at my style of play. It&#8217;s always safe, nice to opponents, and afraid to try anything new for fear of losing. Erm&#8230; yeah that wasn&#8217;t working out. Evolution requires trial and error, to think anything less will only result in a stable condition which will allow others to surpass you. Who [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Lately I&#8217;ve been looking at my style of play. It&#8217;s always safe, nice to opponents, and afraid to try anything new for fear of losing. Erm&#8230; yeah that wasn&#8217;t working out. Evolution requires trial and error, to think anything less will only result in a stable condition which will allow others to surpass you.</p>
-<p style="text-align: center;"><em>Who remembers the following scene?</em></p>
-<figure id="attachment_644" style="width: 492px" class="wp-caption aligncenter"><img class=" wp-image-644 " title="fear1" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2010/10/fear1-615x1024.jpg?resize=492%2C819" alt="" width="492" height="819" data-recalc-dims="1" /><figcaption class="wp-caption-text">Hikaru No Go: Volume 7</figcaption></figure>
-<p style="text-align: center;"><span id="more-59"></span>So what do we do to overcome our fear?</p>
-<figure id="attachment_645" style="width: 508px" class="wp-caption aligncenter"><img class=" wp-image-645 " title="fear2" src="https://i2.wp.com/bengozen.com//wp-content/uploads/2010/10/fear2-635x1024.jpg?resize=508%2C819" alt="" width="508" height="819" data-recalc-dims="1" /><figcaption class="wp-caption-text">Hikaru No Go &#8211; Volume 7</figcaption></figure>
-With Sai&#8217;s wisdom in mind, here is me diving straight in to try things out without fear of its consequences in an even game against a 12k. (Not that I didn&#8217;t read, but I just was no longer afraid.) I lost a few groups as a result, and a few misreadings caused the game to flip, but the game was by far one of the most interesting ones I think you&#8217;ll have seen so far.<br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.22-The-Tip-of-Their-Swords.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.22-The-Tip-of-Their-Swords.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-And for my other rabbit jumpers on KGS, don&#8217;t even pay mind to gaining that stone on KGS. Just trust your abilities and keep honing your skills. I guarantee you, the results will show itself without you keeping track of how many games till the next promotion. Cause ultimately the true promotion will manifest in you, not your KGS account.</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">59</post-id>	</item>
-	</channel>
-</rss>

@@ -1,362 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>victory &#8211; BenGoZen</title>
-	<atom:link href="/tag/victory/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Monday Go Meditation: Game 71</title>
-		<link>/monday-go-meditation-game-71/</link>
-		<pubDate>Mon, 27 Apr 2015 11:00:06 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Commentaries]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[9x9]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[influence]]></category>
-		<category><![CDATA[resign]]></category>
-		<category><![CDATA[victory]]></category>
-
-		<guid isPermaLink="false">//?p=5980</guid>
-		<description><![CDATA[Introduction For this week&#8217;s meditation, we are going to start off nice and easy with a 9&#215;9 game I played on GoQuest a week or so ago. It&#8217;s not too crazy in regards to fighting, but is a great example of how powerful influence can be on such a small board. Hope that you enjoy [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2>Introduction</h2>
-<p>For this week&#8217;s meditation, we are going to start off nice and easy with a 9&#215;9 game I played on GoQuest a week or so ago. It&#8217;s not too crazy in regards to fighting, but is a great example of how powerful influence can be on such a small board. Hope that you enjoy the game and the commentary!<br />
-<span id="more-5980"></span><br />
-<iframe id="gokibitz-NkVFPJrM" style="width: 100%; min-height: 500px; display: block; border: 10px solid snow;" src="//gokibitz.com/kifu/NkVFPJrM" width="300" height="150"></iframe><script src="//gokibitz.com/embed/NkVFPJrM"></script></p>
-<h2 style="text-align: left;">One Point Lesson</h2>
-<p style="text-align: left;">Never hesitate to take influence early on when playing on a small board, it is more powerful than you probably realize.</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">5980</post-id>	</item>
-		<item>
-		<title>Hello Again with GoKibitz</title>
-		<link>/hello-again-with-gokibitz/</link>
-		<comments>/hello-again-with-gokibitz/#comments</comments>
-		<pubDate>Thu, 26 Mar 2015 17:17:06 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Commentaries]]></category>
-		<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[9x9]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[gokibitz]]></category>
-		<category><![CDATA[opponent 1d]]></category>
-		<category><![CDATA[resign]]></category>
-		<category><![CDATA[victory]]></category>
-
-		<guid isPermaLink="false">//?p=5974</guid>
-		<description><![CDATA[Hey everyone. Just wanted to let you know I&#8217;m still alive and well. Been getting into some really interesting projects these past few weeks and have been really pondering what I can do with blogging again since I miss doing it. And as someone who hates it when a regular blogger just drops out of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Hey everyone. Just wanted to let you know I&#8217;m still alive and well. Been getting into some really interesting projects these past few weeks and have been really pondering what I can do with blogging again since I miss doing it. And as someone who hates it when a regular blogger just drops out of the blogosphere, you can rest assured that I won&#8217;t ever just leave the blog hanging in the event I need to close up shop for awhile.<br />
-In terms of what I&#8217;ve been up to, I&#8217;ve been tinkering again with daily regimens and playing games via <a title="Dragon Go Server" href="http://www.dragongoserver.net/">DGS</a> and <a title="Online Go Server" href="http://www.online-go.com/">OGS</a> while concurrently juggling a new job and trying to learn a ton of new skills. I&#8217;ve gone all the way back down to the very basics of doing only 10 life and death problems a day. They&#8217;re not hard in any sense of the word, but they help me to keep a connection to the world of go.<br />
-And as a special treat for those who miss my reviews, I&#8217;ve decided to try reviewing one of my 9&#215;9 games that I played recently on GoQuest via an awesome new social kifu reviewing software called <a title="GoKibitz" href="http://www.gokibitz.com/">GoKibitz</a> that a close friend and long time rival built himself. So I hope you enjoy the review and I will try and post again soon!<br />
-UPDATE: Apparently all my comments got lost in the abyss of the internet&#8230;. Oy vey&#8230; I&#8217;ll try and get another version up soon&#8230;.<br />
-<iframe id="gokibitz-mkYiGH8c" style="width: 100%; min-height: 500px; display: block; border: 10px solid snow;" src="//gokibitz.com/kifu/mkYiGH8c" width="300" height="150"></iframe><script src="//gokibitz.com/embed/mkYiGH8c"></script></p>
-]]></content:encoded>
-			<wfw:commentRss>/hello-again-with-gokibitz/feed/</wfw:commentRss>
-		<slash:comments>13</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5974</post-id>	</item>
-		<item>
-		<title>Journal Entry: #11</title>
-		<link>/journal-entry-11/</link>
-		<comments>/journal-entry-11/#comments</comments>
-		<pubDate>Tue, 18 Nov 2014 23:00:59 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[bot]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[ladder anxiety]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-
-		<guid isPermaLink="false">//?p=5930</guid>
-		<description><![CDATA[Over the last few days, part of my subconscious was nagging me for spending so much time not playing a single game. And while I did play at least one 9&#215;9 game a day, it has been ages since I last played a full 19&#215;19 game in real time. And for those who want to [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Over the last few days, part of my subconscious was nagging me for spending so much time not playing a single game. And while I did play at least one 9&#215;9 game a day, it has been ages since I last played a full 19&#215;19 game in real time. And for those who want to count the one at the Pumpkin Classic, that doesn’t really count since I wasn’t planning to play. So in another sense, I have been avoiding playing games in real time.<br />
-Why is that? Good question. Believe it or not, over time I seem to have developed some sort of “ladder anxiety.” (I’m not sure this list the correct term, but I saw it recently and feel it’s rather appropriate.) To put it more bluntly, I’m afraid of playing ranked games because I’m worried about playing stupid moves and being judged by others.<br />
-Yeah. I know. This probably sounds stupid to many of you, but somewhere along the line I started worrying about being judged even though I honestly have no reason to feel this way. If I had to attribute the cause to something, it would probably out of my own self-criticism that just got out of control. I set a bar of expectation so high for myself that any failure ended up being very damaging to me.<br />
-Anyhow, bottom line is that I’ve been doing a bit of soul-searching and have been inspired by the reading I’ve been doing to finally start breaking free of this self-imposed prison. Whenever I manage to finally get this all resolved, I will be sure to write a full article in hopes of helping anyone else who might have the same issue.<br />
-As evidence of this, here is the game that I played today. And while it is against a bot, I’m going to consider this one a success in my strive to get over my fear of playing. It’s a pretty weird game, but it was one that has bits of creativity throughout it.<br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/11\/2014.11.18.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/11/2014.11.18.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/11/2014.11.18.sgf[/download]
-]]></content:encoded>
-			<wfw:commentRss>/journal-entry-11/feed/</wfw:commentRss>
-		<slash:comments>12</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5930</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 69</title>
-		<link>/monday-go-meditation-game-69/</link>
-		<comments>/monday-go-meditation-game-69/#comments</comments>
-		<pubDate>Mon, 03 Nov 2014 12:00:02 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Commentaries]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[bonscott]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=5911</guid>
-		<description><![CDATA[Introduction In today&#8217;s go meditation, I am glad to welcome back fellow friend and go player Bonscott. For those who don&#8217;t remember, I&#8217;ve played a number of even games against Bonscott (even though there is a few stones difference between our ranks) and actually lost quite a few of them before. So when he challenged [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2>Introduction</h2>
-<p>In today&#8217;s go meditation, I am glad to welcome back fellow friend and go player Bonscott. For those who don&#8217;t remember, I&#8217;ve played a number of even games against Bonscott (even though there is a few stones difference between our ranks) and actually lost quite a few of them before. So when he challenged me to a game recently, I made sure to not underestimate him!<br />
-In terms of the game, you&#8217;ll get to see the rather uncommon 3-3 opening. In addition, this is a good game for study in regards to the importance of selecting the correct strategy in conjunction with your opening moves. As you progress through the game, you will notice that Black&#8217;s attempt to shift from territorial to moyo and how it results in a difficult uphill battle for Black.<br />
-Finally, in light of Halloween last Friday, I’ve included a fun life and death problem with a pretty detailed variations at the end of the game. Hope that you enjoy this game!<br />
-<span id="more-5911"></span><br />
-
-<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/10\/2014.11.03-MGM-69.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/10/2014.11.03-MGM-69.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/10/2014.11.03-MGM-69.sgf[/download]
-<h2>One Point Lesson</h2>
-<p>When choosing your strategy, keep in mind how well your opening moves will work with it.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-69/feed/</wfw:commentRss>
-		<slash:comments>21</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5911</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 67</title>
-		<link>/monday-go-meditation-game-67/</link>
-		<comments>/monday-go-meditation-game-67/#comments</comments>
-		<pubDate>Mon, 20 Oct 2014 11:00:45 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Commentaries]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[go congress]]></category>
-		<category><![CDATA[resign]]></category>
-		<category><![CDATA[victory]]></category>
-
-		<guid isPermaLink="false">//?p=5878</guid>
-		<description><![CDATA[Introduction For this week’s meditation, we are turning back the clock to my first game at the U.S. Go Congress! For those who need a refresher, this game was from the day I arrived in New York and was asked to play a match while we were waiting for people to arrive. It’s a fun [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: left;">Introduction</h2>
-<p>For this week’s meditation, we are turning back the clock to my first game at the <a title="Go Congress 2014 — Prelude" href="//go-congress-2014-prelude/">U.S. Go Congress</a>! For those who need a refresher, this game was from the day I arrived in New York and was asked to play a match while we were waiting for people to arrive. It’s a fun game that shows just how you can find the opportunity to reverse a game if you’re willing to roll up your sleeves and complicate things. Hope you enjoy this game!<br />
-<span id="more-5878"></span><br />
-
-<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/10\/2014.10.20-MGM-67.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/10/2014.10.20-MGM-67.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/10/2014.10.20-MGM-67.sgf[/download]
-<h2 style="text-align: left;">One Point Lesson</h2>
-<p style="text-align: left;">When you’re behind, making the game complicated is your best chance at reversing the game back in your favor.</p>
-<h2 style="text-align: left;">Game Summary</h2>
-[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|left|left|left&#8221;]
-no,Category,Good,Bad<br />
-1,Opening,<strong>Move 9</strong> &#8211; This pincer was the right idea., <strong>Move 11</strong> &#8211; This attachment was just awful.<br />
-2,Attack and Defense,Nothing worth mentioning, <strong>Move 93</strong> &#8211; This was an abysmal attack that turned out great for White.<br />
-3,Shape,Nothing significant, Nothing significant<br />
-4,Strategy,<strong>Move 101</strong> &#8211; This attachment was the seed that gave me the aji needed to turn the game back in my favor., <strong>Move 51</strong> &#8211; Not approaching the corner showed poor positional judgment.<br />
-5,Overall Reading, <strong>Move 163</strong> &#8211; Being able to see that I was going to lose the capturing race and restraining myself from the potential was a key moment in the game., <strong>Move 75</strong> &#8211; Not extending and trying to switch directions with the atari was bad reading.<br />
-6,Endgame, N/A, N/A<br />
-[/table]
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-67/feed/</wfw:commentRss>
-		<slash:comments>10</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5878</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 66</title>
-		<link>/monday-go-meditation-game-66/</link>
-		<comments>/monday-go-meditation-game-66/#comments</comments>
-		<pubDate>Mon, 13 Oct 2014 12:00:42 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Commentaries]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[resign]]></category>
-		<category><![CDATA[teafree]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=5867</guid>
-		<description><![CDATA[Introduction As the weeks have passed, one of the major factors in me starting to play go again has been the numerous friends who have been kind enough to take time out of their day and ask me to play. Just like last week’s MGM, this week’s MGM features teafree. It’s an exciting one that [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: left;">Introduction</h2>
-<p>As the weeks have passed, one of the major factors in me starting to play go again has been the numerous friends who have been kind enough to take time out of their day and ask me to play. Just like last week’s MGM, this week’s MGM features teafree. It’s an exciting one that is chocked full of ko battles and exciting exchanges. I hope that it keeps you on the edge of your seat as we navigate through the treacherous waters of this kifu! Enjoy!<br />
-<span id="more-5867"></span><br />
-
-<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/10\/2014.10.13-MGM-66.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/10/2014.10.13-MGM-66.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/10/2014.10.13-MGM-66.sgf[/download]
-<h2 style="text-align: left;">One Point Lesson</h2>
-<p style="text-align: left;">When involved in a ko fight, you must give serious consideration to each threat your opponent makes and determine whether it is worth it for you to respond.</p>
-<h2 style="text-align: left;">Game Summary</h2>
-[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
-no,Category,Good,Bad<br />
-1,Opening, Move 40 &#8211; I like this move since it was dual purpose as reinforcement and an extension.,&#8221;Move 10 &#8211; Though some might say that White ended up okay, I really did not like the result for White.&#8221;<br />
-2,Attack and Defense, Nothing worth mentioning., Move 22 &#8211; Neglecting my corner for this pincer is questionable.<br />
-3,Shape, N/A, Move 251 &#8211; I did not anticipate the ko shape here.<br />
-4,Strategy, Move 146 &#8211; I was proud of being able to switch strategies once I realized my mistake., Move 92 &#8211; This was too greedy on my part and helped Black more than White.<br />
-5,Overall Reading, Move 60 &#8211; Being able to discern this move out during the game gave me the advantage early on., Move 210 &#8211; Should have realized Black was already dead.<br />
-6,Endgame, Move 262-264 &#8211; This was a nice sequence to capture a bigger corner., Move 286 &#8211; This was a useless connection.<br />
-[/table]
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-66/feed/</wfw:commentRss>
-		<slash:comments>11</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5867</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 55</title>
-		<link>/monday-go-meditation-game-55/</link>
-		<comments>/monday-go-meditation-game-55/#comments</comments>
-		<pubDate>Mon, 12 May 2014 11:15:43 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[big moyo]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[bloody]]></category>
-		<category><![CDATA[kill]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[slaughter]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[violent]]></category>
-
-		<guid isPermaLink="false">//?p=5227</guid>
-		<description><![CDATA[Introduction So people have said my games were violent&#8230; Well a few weeks ago I finally decided to hop on IGS and check it out. I ended up losing the first couple automatches due to some rather epic blunders, but then I played this game. What I will say about it is that if you [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>So people have said my games were violent&#8230; Well a few weeks ago I finally decided to hop on IGS and check it out. I ended up losing the first couple automatches due to some rather epic blunders, but then I played this game.<br />
-What I will say about it is that if you thought my previous games were bloody.. well&#8230; I just don&#8217;t know how to describe this game other than it&#8217;s was the biggest massacre I&#8217;ve ever done with someone around my strength.<br />
-My opponent certainly ignores me at some critical points, so I end up getting away with what was most definitely overplays, but I thought you find the game entertaining, so here it is!<br />
-
-<div id='glift_display5' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display5","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/05\/2014.05.12-MGM-55.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/05/2014.05.12-MGM-55.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/05/2014.05.12-MGM-55.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">When you&#8217;re on the hunt to kill a big group, do not let your opponents distract you from the true target.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-55/feed/</wfw:commentRss>
-		<slash:comments>14</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5227</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 53</title>
-		<link>/monday-go-meditation-game-53/</link>
-		<comments>/monday-go-meditation-game-53/#comments</comments>
-		<pubDate>Mon, 28 Apr 2014 11:15:56 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[3k]]></category>
-		<category><![CDATA[ladder]]></category>
-		<category><![CDATA[life and death]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-		<category><![CDATA[zak]]></category>
-
-		<guid isPermaLink="false">//?p=4964</guid>
-		<description><![CDATA[Introduction For this week&#8217;s meditation, we really get to see a very popular joseki choice (i.e., small knight dive after one space low approach to the star point) get demolished (globally). Though it is certainly still an option in certain fuseki, it has fallen out of favor with me and I don&#8217;t really see it as [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>For this week&#8217;s meditation, we really get to see a very popular joseki choice (i.e., small knight dive after one space low approach to the star point) get demolished (globally). Though it is certainly still an option in certain fuseki, it has fallen out of favor with me and I don&#8217;t really see it as a viable move anymore in today&#8217;s metagame because it gives your opponent the opportunity to choose what&#8217;s best for him: (1) Take corner? (2) Take side? (3) Tenuki. Not a pleasant feeling at all&#8230;<br />
-Aside from that though, this is a game that is full of fighting spirit from both sides with a constant push and pull to gain the initiative. And because this game is shorter than the typical game I normally feature, I would recommend that you take more time to solve the problems in the kifu. There are two in particular: (1) a ladder and (2) life and death. Hope you enjoy the review!<br />
-Thanks to Zak for letting me use our game and helping out with figuring out some of the key variations. Looking forward to our next one!<br />
-
-<div id='glift_display6' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display6","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/04\/2014.04.28-MGM-53.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/04/2014.04.28-MGM-53.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/04/2014.04.28-MGM-53.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">Having anything more than one weak group at a time will make for a difficult game.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-53/feed/</wfw:commentRss>
-		<slash:comments>10</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">4964</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 52</title>
-		<link>/monday-go-meditation-game-52/</link>
-		<comments>/monday-go-meditation-game-52/#comments</comments>
-		<pubDate>Mon, 21 Apr 2014 11:15:32 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[3k]]></category>
-		<category><![CDATA[overplays]]></category>
-		<category><![CDATA[reading]]></category>
-		<category><![CDATA[resign]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=4909</guid>
-		<description><![CDATA[Introduction For this week&#8217;s meditation, I am featuring the first game I played after coming back from Hong Kong. It had been awhile since I last played, so I was feeling a little nervous about playing poorly. Fortunately for me though, my opponent accepted my challenge before I could chicken out and cancel my challenge. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>For this week&#8217;s meditation, I am featuring the first game I played after coming back from Hong Kong. It had been awhile since I last played, so I was feeling a little nervous about playing poorly. Fortunately for me though, my opponent accepted my challenge before I could chicken out and cancel my challenge.<br />
-If there&#8217;s one thing I will say about this game though, it is that I was spending a lot less time second guessing myself regarding my reading. Definitely have the trip to thank for that. This game was certainly a testament to how your reading abilities allow you to make better moves easily since it takes much less effort to read out the variations. Thank you once again Hong Kong trip.<br />
-Finally, this game&#8217;s play style was inspired by my sensei who told me one way to play is to simply ignore your opponent and play what you want. Obviously this should not be taken literally, but you&#8217;ll see how it influences this game. Hope that you&#8217;ll enjoy this crazy game full of fighting and an opponent who makes the most outrageous overplays in hopes that I will make an epic mistake!<br />
-
-<div id='glift_display7' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display7","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/04\/2014.04.21-MGM-52.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/04/2014.04.21-MGM-52.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/04/2014.04.21-MGM-52.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">The only antidote to an opponent who makes overplays in hopes you&#8217;ll make a mistake is reading.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-52/feed/</wfw:commentRss>
-		<slash:comments>6</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">4909</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 49</title>
-		<link>/monday-go-meditation-game-49/</link>
-		<comments>/monday-go-meditation-game-49/#comments</comments>
-		<pubDate>Mon, 31 Mar 2014 11:15:45 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[4k]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[bloody]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[violent]]></category>
-
-		<guid isPermaLink="false">//?p=4816</guid>
-		<description><![CDATA[Introduction For this week&#8217;s meditation, I will start by prefacing the fact that before I started playing this game, I noticed my opponent was German. Based on my experience thus far, there are three groups of players that have been consistently aggressive and challenged my reading abilities constantly: Russians, Koreans, and Germans. This is by [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>For this week&#8217;s meditation, I will start by prefacing the fact that before I started playing this game, I noticed my opponent was German. Based on my experience thus far, there are three groups of players that have been consistently aggressive and challenged my reading abilities constantly: Russians, Koreans, and Germans. This is by no means a bad thing, but it certainly made me a tad nervous. And just as I guessed, I ended up with another bloody game on my hands. It&#8217;s starting to make me think there is a trend in my games&#8230; Enjoy!<br />
-
-<div id='glift_display8' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display8","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/03\/2014.03.31-MGM-49.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/03/2014.03.31-MGM-49.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/03/2014.03.31-MGM-49.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">Always choose profit over the very difficult task of killing a group. Then if your opponent decides to neglect his group and the conditions are ripe, then it&#8217;s time to pounce.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-49/feed/</wfw:commentRss>
-		<slash:comments>4</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">4816</post-id>	</item>
-	</channel>
-</rss>

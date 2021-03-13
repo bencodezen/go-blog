@@ -1,46 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>fundamentals of go &#8211; BenGoZen</title>
-	<atom:link href="/tag/fundamentals-of-go/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Ordinary Moves</title>
-		<link>/ordinary-moves/</link>
-		<pubDate>Fri, 29 Oct 2010 17:08:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[12k]]></category>
-		<category><![CDATA[fundamentals of go]]></category>
-
-		<guid isPermaLink="false">//?p=54</guid>
-		<description><![CDATA[So I&#8217;m rereading the Fundamentals of Go by Kageyama, and I have to say this is definitely one of the best books a Go player can use in terms of getting stronger. He comments on the fact the amateurs often try these outlandish moves while professional stick to the ordinary and basic moves. This struck [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>So I&#8217;m rereading the <span style="text-decoration: underline;">Fundamentals of Go</span> by Kageyama, and I have to say this is definitely one of the best books a Go player can use in terms of getting stronger. He comments on the fact the amateurs often try these outlandish moves while professional stick to the ordinary and basic moves. This struck me and since then I&#8217;ve been trying to keep my moves relatively simple. More on this to come when I derive more meaning from his statement and how others can apply it to their own game.<br />
-Here is a game that I played today as I defended my recent promotion to 12 kyu against an 11 kyu in an even game.<br />
-<span id="more-54"></span><br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.29-Ordinary-Moves.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.29-Ordinary-Moves.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">54</post-id>	</item>
-	</channel>
-</rss>

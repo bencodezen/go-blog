@@ -1,47 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>game review &#8211; BenGoZen</title>
-	<atom:link href="/tag/game-review/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Monday Go Meditation: Game 03</title>
-		<link>/monday-go-meditation-game-03/</link>
-		<pubDate>Mon, 18 Mar 2013 13:00:42 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[dan level]]></category>
-		<category><![CDATA[deepsnow]]></category>
-		<category><![CDATA[game review]]></category>
-
-		<guid isPermaLink="false">//?p=2208</guid>
-		<description><![CDATA[[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/03/2013.03.18-MGM-03.sgf[/download] One Point Lesson Invading and living is nice, but realize that it often gives your opponent free points.]]></description>
-				<content:encoded><![CDATA[
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/03\/2013.03.18-MGM-03.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/03/2013.03.18-MGM-03.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/03/2013.03.18-MGM-03.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;"><strong>Invading and living is nice, but realize that it often gives your opponent free points.<a href="//wp-content/uploads/2013/03/2013.03.18-MGM-03.sgf"><br />
-</a></strong></p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">2208</post-id>	</item>
-	</channel>
-</rss>

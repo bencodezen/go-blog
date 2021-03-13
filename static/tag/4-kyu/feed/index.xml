@@ -1,54 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>4 kyu &#8211; BenGoZen</title>
-	<atom:link href="/tag/4-kyu/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Monday Go Meditation: Game 27</title>
-		<link>/monday-go-meditation-game-27/</link>
-		<comments>/monday-go-meditation-game-27/#comments</comments>
-		<pubDate>Mon, 16 Sep 2013 09:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[4 kyu]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-
-		<guid isPermaLink="false">//?p=3914</guid>
-		<description><![CDATA[Introduction For today&#8217;s go meditation, I am featuring first true ranked game as a 4 kyu. Though it is a game that I manage to convincingly win, it is important to note that I was very lucky to have an opponent respond to my taunts to fight. If my opponent had simply played a bit [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>For today&#8217;s go meditation, I am featuring first true ranked game as a 4 kyu. Though it is a game that I manage to convincingly win, it is important to note that I was very lucky to have an opponent respond to my taunts to fight. If my opponent had simply played a bit more lightly and watched the connections, that the game would probably have looked more like a charging bull running in circles. In terms of what I think you can take away from the game however, it would probably be how I am able to control the game and ensure my opponent is not given a single chance to reverse the game through calm analysis and play. I hope you enjoy!<a href="//wp-content/uploads/2013/08/2013.08.05-MGM-21.sgf"><br />
-</a><br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/09\/2013.09.16-MGM-27.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/09/2013.09.16-MGM-27.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/09/2013.09.16-MGM-27.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;"><b> When you are clearly winning, never underestimate the power of light and stable plays that reduce your opponent while solidifying your positions.</b></p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-27/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">3914</post-id>	</item>
-	</channel>
-</rss>

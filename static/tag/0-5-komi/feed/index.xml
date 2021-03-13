@@ -1,54 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>0.5 komi &#8211; BenGoZen</title>
-	<atom:link href="/tag/0-5-komi/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Feeling Like Go Seigen with a Mega-Fail</title>
-		<link>/feeling-like-go-seigen-with-a-mega-fail/</link>
-		<pubDate>Tue, 08 Jan 2013 22:30:25 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[0.5 komi]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[defeat]]></category>
-		<category><![CDATA[even]]></category>
-		<category><![CDATA[go seigen]]></category>
-		<category><![CDATA[nate]]></category>
-		<category><![CDATA[resignation]]></category>
-
-		<guid isPermaLink="false">//?p=1625</guid>
-		<description><![CDATA[It&#8217;s been awhile since I last posted a kifu on here, and for my first KGS game post for 2013, it is only fitting that I post this one. To give some background to this game, it&#8217;s been about five weeks since my friend Nate and I had the opportunity to play one another. So [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>It&#8217;s been awhile since I last posted a kifu on here, and for my first KGS game post for 2013, it is only fitting that I post this one.<br />
-To give some background to this game, it&#8217;s been about five weeks since my friend Nate and I had the opportunity to play one another. So the anticipation of the game was making me a little bit nervous since I&#8217;m quite sure that he&#8217;s stronger than his KGS rank. Nonetheless, I was excited at the opportunity to finally get to start the new year properly with a game with him.<br />
-This game was a magnificent show of tenacity and fierce fighting spirit from both players (if I may say so). Both of us were unrelenting in trying to stay ahead and find a way to conclude the game in his favor. It took a whopping 1.5 hours, which was more than either of us was probably anticipating; but what an intense and awesome 1.5 hours.<br />
-In regards to the blog post title, I felt like Go Seigen at certain points of the game because I was like, &#8220;Twenty points? Was that supposed to be mine? No matter! Here! Take it! Let me show you how that will dwarf in comparison to my attack!&#8221; On the other hand, this game is a mega-fail for me because of the fact that I lost my tenacity in the final move and failed to realize that the game was actually one move away from victory.<br />
-I hope that you enjoy one of my craziest games to date.<br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/01\/2013.01.08-Go-Seigen-MegaFail.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/01/2013.01.08-Go-Seigen-MegaFail.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/01/2013.01.08-Go-Seigen-MegaFail.sgf[/download]
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">1625</post-id>	</item>
-	</channel>
-</rss>

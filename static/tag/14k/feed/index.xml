@@ -1,149 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>14k &#8211; BenGoZen</title>
-	<atom:link href="/tag/14k/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Rematch!</title>
-		<link>/rematch/</link>
-		<pubDate>Tue, 19 Oct 2010 01:48:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[14k]]></category>
-		<category><![CDATA[rematch]]></category>
-		<category><![CDATA[victory]]></category>
-
-		<guid isPermaLink="false">//?p=63</guid>
-		<description><![CDATA[One of the fun things about getting to play go on the internet is the fact that you have a lot of opponents to play with. While that is great in a lot of aspects, I used to always get the itch to rematch with opponents so that I could see if I got any [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>One of the fun things about getting to play go on the internet is the fact that you have a lot of opponents to play with. While that is great in a lot of aspects, I used to always get the itch to rematch with opponents so that I could see if I got any better. Call it a grudge if you will, but for me it&#8217;s usually more of a curiosity than anything else.<br />
-Lo and behold, I was granted the opportunity to play against an opponent that I had previously lost to before. When I last played this guy, I lost practically every single fight that I got into. So in hindsight, I think I just wanted to reclaim some of my honor and dignity. =)<br />
-<span id="more-63"></span><br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.18-Rematch.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.18-Rematch.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-As you can see in the game record, I managed to make it out alive with a ~30 point win! Woot woot! Elated feeling for the day: check! Can&#8217;t let this get to my head too much though, got to keep getting stronger!</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">63</post-id>	</item>
-		<item>
-		<title>Absolutely Blown&#8230;.</title>
-		<link>/absolutely-blown/</link>
-		<pubDate>Sun, 17 Oct 2010 23:01:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[14k]]></category>
-		<category><![CDATA[defeat]]></category>
-		<category><![CDATA[handicap go]]></category>
-
-		<guid isPermaLink="false">//?p=64</guid>
-		<description><![CDATA[Just played against a 6k with a 6 stone handicap (which should have been 8 might I add) and lost due to a misclick. *hangs head in shame* Words can barely describe how blown I feel right now&#8230;. so incredibly blown&#8230; On the upside though, this may be one of my more interesting games since [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Just played against a 6k with a 6 stone handicap (which should have been 8 might I add) and lost due to a misclick. *hangs head in shame* Words can barely describe how blown I feel right now&#8230;. so incredibly blown&#8230; On the upside though, this may be one of my more interesting games since I managed to hang in there even though I was supposed to given two more stones. Check out the kifu to see my epic fail.<br />
-<span id="more-64"></span></p>
-<p style="text-align: center;">
-<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.17-Absolutely-Blown.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.17-Absolutely-Blown.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;"><em>Update: Upon analysis as a 7k, my 14k self was very wrong about my mistake. The position is seki either way. So there was nothing to be so sad about. <img src="https://s.w.org/images/core/emoji/11/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></em></p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">64</post-id>	</item>
-		<item>
-		<title>My First One Point Lesson</title>
-		<link>/my-first-one-point-lesson/</link>
-		<pubDate>Sun, 17 Oct 2010 04:23:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Lessons]]></category>
-		<category><![CDATA[14k]]></category>
-		<category><![CDATA[3 step thinking]]></category>
-		<category><![CDATA[shidougo]]></category>
-
-		<guid isPermaLink="false">//?p=65</guid>
-		<description><![CDATA[So I played my first teaching game on KGS today. It was a pretty quick game with a 3-dan who UTTERLY demolished me. I couldn&#8217;t help but laugh as I watched my shapes get cut up into tiny little pieces and get swallowed up whole by Leviathan. Don&#8217;t even want to think about what it [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>So I played my first teaching game on KGS today. It was a pretty quick game with a 3-dan who UTTERLY demolished me. I couldn&#8217;t help but laugh as I watched my shapes get cut up into tiny little pieces and get swallowed up whole by Leviathan. Don&#8217;t even want to think about what it would be like to play a pro right now&#8230;. *head explodes*<br />
-Anyhow, here is the following onslaught. The 3-dan has an interesting idea called: <strong>One Point Teaching Game</strong>. At first I was like do I pay him a point or something&#8230;. but then it became clear to me at the end. He gives one solid point for the player to work on. BRILLIANT! Considering weak players are being pulled five millions different directions at once (e.g. life and death, tesuji, opening theory, etc.), it&#8217;s nice to have one solid thing to focus on.<br />
-So I&#8217;m sure the question then is, what was my one point lesson for today?<br />
-<span id="more-65"></span><br />
-<strong>Practice 3-Step Thinking for Every Move</strong> &#8211; In other words, think what move you intend to play, how your opponent could respond, and how you&#8217;d respond to your opponent&#8217;s response. This process will give a player a better overview as to the board position and whether it is favorable or not.<br />
-He said that a number of SDK don&#8217;t even do this consistently, so it may be difficult for me to incorporate it as second nature. I would like to note that we played a relatively quick game, so most of my moves were instinctual. Nonetheless, I must train myself to do 3-Step Thinking instinctively or else the pursuit to become stronger will be futile. Now grab your bag of popcorn, and enjoy the onslaught.<br />
-
-<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.17-My-First-One-Point-Lesson.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.17-My-First-One-Point-Lesson.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-&nbsp;</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">65</post-id>	</item>
-		<item>
-		<title>First Saturday Post!</title>
-		<link>/first-saturday-post/</link>
-		<pubDate>Sat, 16 Oct 2010 20:17:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[14k]]></category>
-		<category><![CDATA[blitz go]]></category>
-		<category><![CDATA[victory]]></category>
-
-		<guid isPermaLink="false">//?p=66</guid>
-		<description><![CDATA[So I think this is my first official Saturday post in terms of posting a game and giving an overview as to my progress. Last night I visited the GWGC, but it was relatively uneventful&#8230; just a friendly sparring match with my cousin. For him, go is far more of a recreational activity. So I [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>So I think this is my first official Saturday post in terms of posting a game and giving an overview as to my progress. Last night I visited the GWGC, but it was relatively uneventful&#8230; just a friendly sparring match with my cousin. For him, go is far more of a recreational activity. So I tried to give him four stones, but that wasn&#8217;t not enough of a handicap. Oh well, we&#8217;ll try six stones next time.<br />
-In terms of Go study, that&#8217;s kind of been slowed down a bit. Job hunt and school are taking a lot more of my time these days (which it should =D), but I&#8217;ve tried to play at least one to two games a day. Today I played one against an 18k, but it was utter destruction. Unless people would like me to post it up, I&#8217;ll post the second game I played yesterday against a 11kyu. It was more or less speed Go for me since I only had 10 min main time. He loss on time, but it&#8217;d be nice to get some commentaries on whether I would&#8217;ve been able to actually win. Cheers!<br />
-<span id="more-66"></span><br />
-
-<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.16-First-Saturday-Post.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.16-First-Saturday-Post.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">66</post-id>	</item>
-		<item>
-		<title>Awesome Thursday Night + Game of the Day</title>
-		<link>/awesome-thursday-night-1st-game-of-the-day/</link>
-		<pubDate>Fri, 15 Oct 2010 13:37:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[14k]]></category>
-		<category><![CDATA[defeat]]></category>
-		<category><![CDATA[nate]]></category>
-
-		<guid isPermaLink="false">//?p=67</guid>
-		<description><![CDATA[So last night I had some unexpected bro-time.  It was great to be able to end class and head over to hangout with Nate and discuss philosophy, theology, and then one of the most intense games I&#8217;ve ever played so far.  Man&#8230; here&#8217;s to you Nate.  That was an awesome game. (Unfortunately, I do not [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>So last night I had some unexpected bro-time.  It was great to be able to end class and head over to hangout with Nate and discuss philosophy, theology, and then one of the most intense games I&#8217;ve ever played so far.  Man&#8230; here&#8217;s to you Nate.  That was an awesome game. (Unfortunately, I do not have the game record; so lessons learned for next time!)<br />
-Now I&#8217;ve talked to Josh recently, and he suggested that I try to play two games a day and play people who are stronger then me without giving the handicap (in order to raise my rank higher).  So interestingly enough, I decided to give it a shot against a 10 kyu.  I have not had time to comment on my moves yet, but you&#8217;ll see about two to three areas where I&#8217;m literally one step short of winning the capture race.  What does this mean? Clearly I did not read it out far enough.  Enjoy bashing away at my very sad game&#8230;<br />
-<span id="more-67"></span><br />
-
-<div id='glift_display5' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display5","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.15-Awesome-Thursday-Night.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.15-Awesome-Thursday-Night.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">67</post-id>	</item>
-	</channel>
-</rss>

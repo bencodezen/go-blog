@@ -1,132 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>canada go league &#8211; BenGoZen</title>
-	<atom:link href="/tag/canada-go-league/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>October 2013 Bonus Review &#8211; Game 4</title>
-		<link>/october-2013-bonus-review-game-4/</link>
-		<pubDate>Wed, 23 Oct 2013 10:00:05 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[4k]]></category>
-		<category><![CDATA[canada go league]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=4187</guid>
-		<description><![CDATA[For this week&#8217;s bonus review, we come to the final conclusion of my Canada Go League performance! After my performance from the third game, my goal was to be much calmer during this game and avoid any big blunders like before. Do I manage to end with a 3-1 record? Or will I be put [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>For this week&#8217;s bonus review, we come to the final conclusion of my Canada Go League performance! After my performance from the third game, my goal was to be much calmer during this game and avoid any big blunders like before. Do I manage to end with a 3-1 record? Or will I be put in my place again and be left with a 2-2 record? Jump into the kifu and find out!<a href="//wp-content/uploads/2013/10/2013.10.23-October-2013-Bonus-Review-Game-4.sgf"><br />
-</a><br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/10\/2013.10.23-October-2013-Bonus-Review-Game-4.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/10/2013.10.23-October-2013-Bonus-Review-Game-4.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/10/2013.10.23-October-2013-Bonus-Review-Game-4.sgf[/download]
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">4187</post-id>	</item>
-		<item>
-		<title>October 2013 Bonus Review &#8211; Game 3</title>
-		<link>/october-2013-bonus-review-game-3/</link>
-		<pubDate>Wed, 16 Oct 2013 10:00:27 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[canada go league]]></category>
-		<category><![CDATA[defeat]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=4134</guid>
-		<description><![CDATA[For this week&#8217;s bonus review, we will be going over my third game from the Canada Go League where I suffer a one-sided defeat. There is no excuse for the mistakes I made (both strategically and tactically), but the only thing I will say in my defense is that I tried out a lot of [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p style="text-align: left;">For this week&#8217;s bonus review, we will be going over my third game from the Canada Go League where I suffer a one-sided defeat. There is no excuse for the mistakes I made (both strategically and tactically), but the only thing I will say in my defense is that I tried out a lot of new experiments this game. And the thing to realize about experiments is that they often blow up in your face. This is a great example of one of them. Haha. xD Enjoy!<a href="//wp-content/uploads/2013/10/2013.10.16-October-2013-Bonus-Review-Game-3.sgf"><br />
-</a></p>
-
-<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/10\/2013.10.16-October-2013-Bonus-Review-Game-3.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/10/2013.10.16-October-2013-Bonus-Review-Game-3.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/10/2013.10.16-October-2013-Bonus-Review-Game-3.sgf[/download]
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">4134</post-id>	</item>
-		<item>
-		<title>October 2013 Bonus Review &#8211; Game 2</title>
-		<link>/october-2013-bonus-review-game-2/</link>
-		<comments>/october-2013-bonus-review-game-2/#comments</comments>
-		<pubDate>Wed, 09 Oct 2013 11:00:35 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[canada go league]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=4103</guid>
-		<description><![CDATA[For your second bonus game review, we will be continuing with my second game from the Canada Go League! Similar to what I mentioned in last week&#8217;s game, though my opponent was supposed to be in the 5-6 kyu range, I was not going to be underestimate my opponent. Overall, this game is a good [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>For your second bonus game review, we will be continuing with my second game from the Canada Go League! Similar to what I mentioned in <a title="October 2013 Bonus Review — Game 1" href="//october-2013-bonus-review-game-1/">last week&#8217;s game</a>, though my opponent was supposed to be in the 5-6 kyu range, I was not going to be underestimate my opponent.<br />
-Overall, this game is a good illustration of recognizing when to tenuki and how it is important not to let your opponent seal you in without good reason. In addition, I hope that this game will help you see my decision process when trying to figure out whether something is worth responding to or not. Hope you enjoy!<a href="//wp-content/uploads/2013/10/2013.10.09-October-2013-Bonus-Review-Game-2.sgf"><br />
-</a><br />
-
-<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/10\/2013.10.09-October-2013-Bonus-Review-Game-2.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/10/2013.10.09-October-2013-Bonus-Review-Game-2.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/10/2013.10.09-October-2013-Bonus-Review-Game-2.sgf[/download]
-]]></content:encoded>
-			<wfw:commentRss>/october-2013-bonus-review-game-2/feed/</wfw:commentRss>
-		<slash:comments>8</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">4103</post-id>	</item>
-		<item>
-		<title>October 2013 Bonus Review &#8211; Game 1</title>
-		<link>/october-2013-bonus-review-game-1/</link>
-		<comments>/october-2013-bonus-review-game-1/#comments</comments>
-		<pubDate>Wed, 02 Oct 2013 15:23:39 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[canada go league]]></category>
-		<category><![CDATA[division b5]]></category>
-		<category><![CDATA[even game]]></category>
-		<category><![CDATA[resignation]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=4098</guid>
-		<description><![CDATA[October is upon us and the time for trick or treating is here! Luckily for you, I have yet to come up with any imaginative ways to prank my readers. So until I do, looks like you&#8217;ll be stuck with treats of extra game reviews for this month! xD As I mentioned before, I joined [&#8230;]]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_4099" style="width: 360px" class="wp-caption aligncenter"><a href="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/10/Cosplay___Hikaru_no_Go_by_Zeasonal.jpg"><img class=" wp-image-4099 " alt="Credit to Zeasonal" src="https://i0.wp.com/bengozen.com//wp-content/uploads/2013/10/Cosplay___Hikaru_no_Go_by_Zeasonal.jpg?resize=360%2C240" width="360" height="240" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Credit to <a href="http://zeasonal.deviantart.com/art/Cosplay-Hikaru-no-GO-2007-63984274">Zeasonal</a></figcaption></figure>
-<p style="text-align: left;">October is upon us and the time for trick or treating is here! Luckily for you, I have yet to come up with any imaginative ways to prank my readers. So until I do, looks like you&#8217;ll be stuck with treats of extra game reviews for this month! xD</p>
-<p style="text-align: left;">As I mentioned before, I joined the <a title="Canadian Go League" href="//canadian-go-league/">Canada Go League</a>* recently and so I thought it would be appropriate if I reviewed my games that I played as part of this bonus material. So to start of this month&#8217;s bonus game reviews, we will begin with the first game I played in the Canada Go League.<a href="//wp-content/uploads/2013/10/2013.10.02-October-2013-Bonus-Review-Game-1.sgf"><br />
-</a></p>
-
-<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2013\/10\/2013.10.02-October-2013-Bonus-Review-Game-1.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2013/10/2013.10.02-October-2013-Bonus-Review-Game-1.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2013/10/2013.10.02-October-2013-Bonus-Review-Game-1.sgf[/download]
-<p style="text-align: left;">*A little background on the game and structure of the league. All the games are even, and the color that each player plays is determined based on the rank that you submit to the league (or your real life rank if you are part of the Canada Go Association). And since I&#8217;m a big skeptic of ranks being an accurate assessment of one&#8217;s strength, I did not even begin to think that this game would be easy since it was against a &#8220;6 kyu.&#8221; After all, you never know a player&#8217;s true strength till you actually play a game.</p>
-]]></content:encoded>
-			<wfw:commentRss>/october-2013-bonus-review-game-1/feed/</wfw:commentRss>
-		<slash:comments>7</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">4098</post-id>	</item>
-	</channel>
-</rss>

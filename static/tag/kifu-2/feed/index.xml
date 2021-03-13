@@ -1,477 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>kifu &#8211; BenGoZen</title>
-	<atom:link href="/tag/kifu-2/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Monday Go Meditation: Game 77</title>
-		<link>/monday-go-meditation-game-77/</link>
-		<pubDate>Mon, 26 Mar 2018 14:00:29 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Commentaries]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[blitz go]]></category>
-		<category><![CDATA[kifu]]></category>
-
-		<guid isPermaLink="false">/?p=6307</guid>
-		<description><![CDATA[Introduction So what you&#8217;ll probably notice first is that my rank in this game is a lot lower than you might expect. This is because my OGS rank is super outdated as I never played many games and lost a few games due to time around the time I took a break. That said, it [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2>Introduction</h2>
-<p>So what you&#8217;ll probably notice first is that my rank in this game is a lot lower than you might expect. This is because my OGS rank is super outdated as I never played many games and lost a few games due to time around the time I took a break.</p>
-<p><span id="more-6307"></span></p>
-<p>That said, it was a blitz game and man I forgot how antsy those made me. I played one previous to this with 10 seconds time and that was one full of mistakes. This one was 30 seconds and also pretty bad, but I thought I would post it nonetheless since there are still things to learn from it. Enjoy!</p>
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/wp-content\/uploads\/2018\/03\/2018.03.26-MGM-77.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='/wp-content/uploads/2018/03/2018.03.26-MGM-77.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<h2>One Point Lesson</h2>
-<p>In blitz go, be prepared to prove you know what you&#8217;re doing because your opponent will test you time and time again&#8230;</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">6307</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 63</title>
-		<link>/monday-go-meditation-game-63/</link>
-		<comments>/monday-go-meditation-game-63/#comments</comments>
-		<pubDate>Mon, 07 Jul 2014 11:15:09 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[3k]]></category>
-		<category><![CDATA[4k opponent]]></category>
-		<category><![CDATA[b+10.5]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[commentary]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[review]]></category>
-
-		<guid isPermaLink="false">//?p=5501</guid>
-		<description><![CDATA[Introduction For this week, I’ve decided to honor a request made by my friend Rob who asked that I review the game that was the cause for my post on being confused. Though I haven’t been commenting on games from YSD, I’ve decided to make an exception for this one. Just to note though, any [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 id="introduction" style="text-align: center;">Introduction</h2>
-<p>For this week, I’ve decided to honor a request made by my friend Rob who asked that I review the game that was the cause for my post on being confused. Though I haven’t been commenting on games from YSD, I’ve decided to make an exception for this one.<br />
-Just to note though, any specific insight that was taught by Inseong is withheld from the commentary in order to respect other member’s paid memberships. So while I will comment on what I understood on my own, any specific details will be omitted in this review.<br />
-Hope you enjoy this review!<br />
-
-<div id='glift_display2' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display2","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/07\/2014.07.06-MGM-63.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/07/2014.07.06-MGM-63.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/07/2014.07.06-MGM-63.sgf[/download]
-<h2 id="onepointlesson" style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">Even when you are just about to win the game, the slightest misstep could mean utter defeat if you are not careful.</p>
-<p><span id="more-5501"></span></p>
-<h2 id="gamesummary">Game Summary</h2>
-[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
-no,Category,Good,Bad<br />
-1,Opening,<strong>Move 39</strong> &#8211; This move is the only one I’m “proud” of since it took full advantage of White’s mistake in this joseki.,<strong>Move 19 and 29</strong> &#8211; Both these moves were bad since I was unable to punish White for his mistake in the joseki.<br />
-2,Attack and Defense,<strong>Move 97</strong> &#8211; Recognizing that my group was in trouble and defending it was a rather proud moment since I might have normally left it alone.,<strong>Move 19 and 29</strong> &#8211; These moves are worth mentioning again since they were missed opportunities to attack White early on.<br />
-3,Shape,<strong>Move 65</strong> &#8211; Getting this shape point allowed me the chance to start gaining the upper hand in this game.,&#8221;<strong>Move 95</strong> &#8211; Though it looks like good shape here, I consider this a bad move since the shape gave me little value on the board as a whole.&#8221;<br />
-4,Strategy,<strong>Move 53</strong> &#8211; Trying to remove White’s base in order to attack White seems to be a key moment to why I was able to gain an advantage in the game., <strong>Move 93–95</strong> &#8211; Continuing to try and kill it in such a direct manner however was a mistake.<br />
-5,Overall Reading,<strong>Move 271</strong> &#8211; Being able to calmly choose the correct move instead of the automatic move I might have made normally was another proud moment.,<strong>Move 111</strong> &#8211; Connecting here out of fear still shows the immaturity of my reading.<br />
-6,Endgame,<strong>Move 143</strong> &#8211; Recognizing that I could start the endgame since I was ahead was something I was unable to do before.,<strong>Move 237</strong> &#8211; Defending directly here was a mistake that gave White three extra points.<br />
-[/table]
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-63/feed/</wfw:commentRss>
-		<slash:comments>10</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5501</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 62</title>
-		<link>/monday-go-meditation-game-62/</link>
-		<comments>/monday-go-meditation-game-62/#comments</comments>
-		<pubDate>Mon, 30 Jun 2014 11:15:07 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[3k opponent]]></category>
-		<category><![CDATA[b+resign]]></category>
-		<category><![CDATA[black]]></category>
-		<category><![CDATA[commentary]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[review]]></category>
-
-		<guid isPermaLink="false">//?p=5471</guid>
-		<description><![CDATA[Introduction About a week ago, there was a bit of discussion about the importance of endgame. Now while I would never even begin to propose that endgame is not important or can&#8217;t make a huge difference, I was saying how I didn&#8217;t think studying it would serve kyu players as much as say dan players. Ironically, [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>About a week ago, there was a bit of discussion about the importance of endgame. Now while I would never even begin to propose that endgame is not important or can&#8217;t make a huge difference, I was saying how I didn&#8217;t think studying it would serve kyu players as much as say dan players.<br />
-Ironically, the game featured this week was played shortly after the discussion and happened to feature endgame as the shining star of the game. In addition, this game is also a good example of competing moyos and how critical points in shape and boundaries can make a huge difference in the resulting outcome. Hope you enjoy this review!<br />
-
-<div id='glift_display3' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display3","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.30-MGM-62.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.30-MGM-62.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.30-MGM-62.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">When you&#8217;re really behind, your only hope is to complicate the game and push your opponent&#8217;s abilities to the absolute limit.</p>
-<p style="text-align: center;"><span id="more-5471"></span></p>
-<h2 style="text-align: center;">Game Summary</h2>
-[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
-no,Category,Good,Bad<br />
-1,Opening,<strong>Move 11</strong> &#8211; Decisively ignoring White&#8217;s extension to play on the right inside seemed like the correct move.,<strong>Move 35</strong> &#8211; This was a bad move that allowed White to get a nice result on the upper right.<br />
-2,Attack and Defense,<strong>Move 111</strong> &#8211; Ignoring White to defend my group was an important step to giving me a chance to make a comeback.,<strong>Move 80</strong> &#8211; Letting White attack my group like this was very painful. It could have been awful if White had continued his attack.<br />
-3,Shape,<strong>Move 147</strong> &#8211; Being able to find this point in the midst of near death was another proud moment for me.,<strong>Move 48</strong> &#8211; Letting White get this shape point was unbelievably painful.<br />
-4,Strategy,<strong>Move 115</strong> &#8211; Ignoring White&#8217;s approach on my corner to try and reverse the game was importantly to try and reverse the game.,<strong>Move 47</strong> &#8211; Trying to take the corner instead of expanding my moyo was a pretty big mistake.<br />
-5,Overall Reading,<strong>Move 151</strong> &#8211; Being able to read out this attachment almost instantly was a proud moment for me.,<strong>Move 63</strong> &#8211; This was so painfully obvious to my opponent. Should have saved it for later.<br />
-6,Endgame,<strong>Move 161</strong> &#8211; Taking my sente to connect here is probably what eventually pushed my opponent to resign later.,<strong>Move 86</strong> &#8211; Seeing White fly into my area like that was so painful. It nearly ended the game.<br />
-[/table]
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-62/feed/</wfw:commentRss>
-		<slash:comments>24</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5471</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 61</title>
-		<link>/monday-go-meditation-game-61/</link>
-		<comments>/monday-go-meditation-game-61/#comments</comments>
-		<pubDate>Mon, 23 Jun 2014 11:15:57 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[3k opponent]]></category>
-		<category><![CDATA[b+resign]]></category>
-		<category><![CDATA[commentary]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[reboot]]></category>
-		<category><![CDATA[review]]></category>
-		<category><![CDATA[update]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=5470</guid>
-		<description><![CDATA[Introduction This week marks the reboot of the Monday Go Meditation (MGM) series! In the spirit of continuous improvement, I felt it was time to give this series an upgrade in order to continue striving for the perfect weekly column for my game reviews. Here are some enhancements that I have made: All MGM&#8217;s will now [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;"><strong>Introduction</strong></h2>
-<p>This week marks the reboot of the Monday Go Meditation (MGM) series! In the spirit of continuous improvement, I felt it was time to give this series an upgrade in order to continue striving for the perfect weekly column for my game reviews. Here are some enhancements that I have made:</p>
-<ol>
-<li><strong>All MGM&#8217;s will now include the game summary table. </strong>After doing the <a title="Thursday Go Tygem: Game 07" href="//thursday-go-tygem-game-07/">Thursday Go Tygem</a> series for a bit, it seemed that the table was a popular aspect of it since it allowed me to provide a broad overview of the game in the event you don&#8217;t have time to go through the entire game. As a result, I felt it would be a great addition to MGM.</li>
-<li>A<strong>ll games featured here will be 2 weeks old at the most.</strong> One thing I noticed is that the games being posted were starting to be a few weeks if not a month old, which is not good since it does not reflect my current progress as a player. Though this makes it a little harder for me since I can&#8217;t prepare as many game reviews in advance, I am confident this change will make this weekly column much more viable.</li>
-<li><strong>The commentary will also be taking on a more &#8220;stream of consciousness&#8221; type narrative</strong> in order to provide more context in terms of how I was feeling throughout the game and the emotions and thoughts I wrestled with. As a result, the game reviews will not be heavily focused on explaining things in depth or showing numerous variations since that is more of a teaching-oriented type review (which I do plan on featuring here in the future, but don&#8217;t feel it&#8217;s appropriate for MGM).</li>
-</ol>
-<p>So in light of all that, this week&#8217;s game features an even game against a 3k that I played last week before going on my losing streak. Haha. It&#8217;s a great game that illustrates how emotions can really cloud your judgment when it comes to the actual board position and how you&#8217;re really doing.<br />
-As always, it would be greatly appreciated if you could let me know what you think about these new changes. Hope you enjoy the review!<br />
-
-<div id='glift_display4' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display4","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.23-MGM-61.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.23-MGM-61.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.23-MGM-61.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">Using emotions to judge whether you are ahead or behind is typically a recipe for poor decision making.</p>
-<p style="text-align: center;"><span id="more-5470"></span></p>
-<h2 style="text-align: center;"><strong>Game Summary</strong></h2>
-[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
-no,Category,Good,Bad<br />
-1,Opening, <strong>Move 24:</strong> This move really gave me a nice advantage in the opening. See game commentary for a more in-depth explanations., <strong>Move 19:</strong> I’m not sure that I handled Black’s response here correctly. Perhaps the tenuki was a mistake.<br />
-2,Attack and Defense, <strong>Move 50:</strong> This diagonal jump was a new move I tried that seemed to do a great job keeping pressure on Black., <strong>Move 58:</strong> This move was too defensive and failed to keep pressure on Black.<br />
-3,Shape, Nothing worth mentioning., <strong>Move 64:</strong> Not connecting and letting Black push through to connect his groups together was a travesty.~~<strong>Move 52:</strong> The hane was bad and left too many cutting points for me to worry about later.<br />
-4,Strategy, <strong>Move 44:</strong> Leaving the cutting point to play continue my expansion of the top seemed to work out well overall., <strong>Move 86-88:</strong> The push and cut was a risky play since Black had a number of forcing moves to counter the strategy.<br />
-5,Overall Reading, Nothing to brag about since most sequences I read out usually had one fatal flaw that was luckily overlooked by my opponent., <strong>Move 76-85:</strong> This sequence was shameful since it was a result of wishful thinking and only made things worse.<br />
-6,Endgame, <strong>Move 120:</strong> Ignoring Black’s move to start my own endgame sequence was a proud moment for me.,<strong> Move 104:</strong> This jump may not be as big as I thought. Perhaps blocking at M2 would have been better.<br />
-[/table]
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-61/feed/</wfw:commentRss>
-		<slash:comments>10</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5470</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 60</title>
-		<link>/monday-go-meditation-game-60/</link>
-		<comments>/monday-go-meditation-game-60/#comments</comments>
-		<pubDate>Mon, 16 Jun 2014 11:15:31 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[1st baduk open championship]]></category>
-		<category><![CDATA[april challenge]]></category>
-		<category><![CDATA[calm]]></category>
-		<category><![CDATA[commentary]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[maaike]]></category>
-		<category><![CDATA[review]]></category>
-		<category><![CDATA[tournament]]></category>
-
-		<guid isPermaLink="false">//?p=5387</guid>
-		<description><![CDATA[Introduction With this week, we continue on with Game #4 of Maaike&#8217;s April Challenge, which also happens to be the first round of the 1st Washington Open Baduk Championship that I participated in a month or so ago. Though it ended up being a completely crazy roller coaster of a match, it is an excellent example of how volatile [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>With this week, we continue on with Game #4 of Maaike&#8217;s <a title="Maaike's April Challenge" href="http://www.thegochallenge.blogspot.com.au/2014/04/april-challenge.html">April Challenge</a>, which also happens to be the first round of the <a title="1st Washington Open Baduk Championship — Part I" href="//1st-washington-open-baduk-championship-part/">1st Washington Open Baduk Championship</a> that I participated in a month or so ago. Though it ended up being a completely crazy roller coaster of a match, it is an excellent example of how volatile games can be in tournaments. Because of the pressure of competition, players will look for any slack move or advantage they can to reverse the game. With that said, hang on to your seats cause this is going to be a bumpy one!<br />
-
-<div id='glift_display5' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display5","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.16-MGM-60.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.16-MGM-60.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.16-MGM-60.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">In a tournament game, you almost always want to play till the end. You never know if your opponent might crack under the pressure.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-60/feed/</wfw:commentRss>
-		<slash:comments>19</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5387</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 59</title>
-		<link>/monday-go-meditation-game-59/</link>
-		<comments>/monday-go-meditation-game-59/#comments</comments>
-		<pubDate>Mon, 09 Jun 2014 11:15:50 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[april challenge]]></category>
-		<category><![CDATA[b+ resign]]></category>
-		<category><![CDATA[calm]]></category>
-		<category><![CDATA[commentary]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[maaike]]></category>
-		<category><![CDATA[opponent black]]></category>
-		<category><![CDATA[review]]></category>
-
-		<guid isPermaLink="false">//?p=5325</guid>
-		<description><![CDATA[Introduction With this week, we continue on with Game #3 of Maaike&#8217;s April Challenge! In this game, I am playing a friend who is known for crazy plays and lots of trick plays. So whenever we play a game, I never know what to really expect. Haha. And since my challenge was to play calmly, I thought that [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>With this week, we continue on with Game #3 of Maaike&#8217;s <a title="Maaike's April Challenge" href="http://www.thegochallenge.blogspot.com.au/2014/04/april-challenge.html">April Challenge</a>! In this game, I am playing a friend who is known for crazy plays and lots of trick plays. So whenever we play a game, I never know what to really expect. Haha. And since my challenge was to play calmly, I thought that my friend would be a great person to test out myself.<br />
-
-<div id='glift_display6' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display6","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.09-MGM-59.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.09-MGM-59.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.09-MGM-59.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">When your group is weak, check to see if your opponent has any weak groups that you can counter attack instead of simply trying to run or make life.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-59/feed/</wfw:commentRss>
-		<slash:comments>11</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5325</post-id>	</item>
-		<item>
-		<title>My Experience with YSD &#8211; S9 &#8211; Part 1</title>
-		<link>/experience-ysd-s9-part-1/</link>
-		<comments>/experience-ysd-s9-part-1/#comments</comments>
-		<pubDate>Tue, 03 Jun 2014 11:15:39 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Reviews]]></category>
-		<category><![CDATA[Websites]]></category>
-		<category><![CDATA[anatoly]]></category>
-		<category><![CDATA[brian]]></category>
-		<category><![CDATA[commentary]]></category>
-		<category><![CDATA[dojang]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[league]]></category>
-		<category><![CDATA[oren]]></category>
-		<category><![CDATA[reviews]]></category>
-		<category><![CDATA[sauk]]></category>
-		<category><![CDATA[season 9]]></category>
-		<category><![CDATA[yunguseng]]></category>
-
-		<guid isPermaLink="false">//?p=5395</guid>
-		<description><![CDATA[Part I &#8211; Part II &#8211; Part III Overview Prelude: Out of respect to Sabum-nim (i.e., In-seong), the lessons learned are kept to a minimum since it is paid content and I do not want to infringe on that in any way, shape, or form. The game reviews also only contain highlights of concise highlights instead of my normal detailed [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p style="text-align: center;"><strong>Part I</strong> &#8211; <a title="My Experience with YSD — S9 — Part 2" href="//experience-ysd-s9-part-2/">Part II</a> &#8211; Part III</p>
-<h2>Overview</h2>
-<p><em>Prelude: Out of respect to Sabum-nim (i.e., In-seong), the lessons learned are kept to a minimum since it is paid content and I do not want to infringe on that in any way, shape, or form. The game reviews also only contain highlights of concise highlights instead of my normal detailed reviews since I would inadvertently write about what Sabum-nim taught in the review (which would essentially replicate his lecture). </em><br />
-As a new member to the <a title="Yunguseng Dojang Official Site" href="http://www.yunguseng.com/">Yunguseng Dojang</a> (YSD) during Season 9 of 2014, I was assigned to League A as my starting league (this is the highest league possible in the American division). I wasn&#8217;t sure what I was to expect, but I was excited at the prospect at being part of a formal training program.<br />
-<span id="more-5395"></span></p>
-<h2>Lectures &amp; Homework</h2>
-<p>For this month, the three lecture topics were:</p>
-<ol>
-<li><a href="http://ayd.yunguseng.com/videos/index.php?id=1138">Knight move across attachment / Break the dog&#8217;s face / Indirect defense</a></li>
-<li><a title="1-3-5 Opening Link" href="http://ayd.yunguseng.com/videos/index.php?id=1156">1-3-5 opening</a></li>
-<li><a title="All About 3-3 Invasion Link" href="http://ayd.yunguseng.com/videos/index.php?id=1174">All about 3-3 invasion</a></li>
-</ol>
-<p>Overall, I felt that Sabum-nim was very good at selecting topics that were relevant to his students. After watching his student&#8217;s play their games, he would often notice trends that were occurring and would then select lecture topics to address them.<br />
-In addition, the lectures were much more valuable if you could attend them in person because he made them interactive. There were usually numerous examples to show what he was trying to illustrate and to give the students a chance to show whether or not they understood what was being taught.<br />
-Unfortunately, I was didn&#8217;t end up participating in the second aspect of lectures which were the homework (which consists of taking what you learned in the lecture and applying it to your own games). I&#8217;m sure I could come up with some bogus excuse for why I couldn&#8217;t do it, but it was my own fault and I plan to do every homework next month.<br />
-Finally, another thing cool thing that Sabum-nim does is a lecture series that highlights the most important points from the games played that week (from both Europe and America division). It&#8217;s a cool series that has a lot of concise highlights and cool techniques that came up in actual games.</p>
-<h2 style="text-align: left;">My Games</h2>
-<h3 style="text-align: center;">Round 1</h3>
-<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; As this was the first game I would play in YSD, I felt a lot of pressure to try and play the best go I possibly could. To top it off, my opponent was known as one of the strongest players in the league, so I was more anxious than I would&#8217;ve liked. And so one of the things I did was to play out the game on a real board simultaneously. By doing so, I was hoping it would calm me down.</p>
-
-<div id='glift_display7' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display7","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round1.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round1.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round1.sgf[/download]
-<p style="text-align: left;"><strong>After the Game</strong> &#8211; Playing the game out on a real board ended up helping me calm down, but it also led to me being more adventurous/experimental and to also lose on time. When the pop-up flashed, &#8220;bengozen loses on time,&#8221; I sat there flustered as I tried to collect myself in thinking that at least I played a good game.</p>
-<p style="text-align: left;"><strong>After the Review</strong> &#8211; Turns out I was wrong on all counts. Not only was I not complimented on my play, but I was shown how badly I should have lost. I made numerous mistakes and deserved to lose (even regardless of time). Sigh. Definitely did not make the good impression I wanted to make on Sabum-nim.</p>
-<h3 style="text-align: center;">Round 2</h3>
-<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; Since my last game was so disastrous, I was eager to yet again prove myself. Similar to the first match however, my opponent was considered one of the strongest players in the league as well, so there was a bit of pressure to try and do well against the veteran.</p>
-
-<div id='glift_display8' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display8","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round2.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round2.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round2.sgf[/download]
-<p style="text-align: left;"><strong>After the Game</strong> &#8211; Though I lost my Round 1 game in part due to experimenting, I still ended up doing it again this round. And just like before, I lost again. I was really starting to doubt my abilities as a player and whether I even belonged in League A.</p>
-<p style="text-align: left;"><strong>After the Review</strong> &#8211; Similar to the Round 1, I didn&#8217;t play particularly well this game either. The only reprieve that I got was that the game resulted in a fun reading problem on the bottom that Sabum-nim liked. Otherwise than that though, I was still feeling pretty crappy about my performance so far.</p>
-<h3 style="text-align: center;">Round 3</h3>
-<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; Seeing as how I had lost my last two games, I had much lower expectations of myself this time around. I really had no idea if I was going to win. If anything, I was simply hoping I wouldn&#8217;t play another game that would add another mark of disappointment to Sabum-nim&#8217;s impression of me.</p>
-
-<div id='glift_display9' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display9","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round3.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round3.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round3.sgf[/download]
-<p style="text-align: left;"><strong>After the Game</strong> &#8211; The game was still a rather weird one for me. Still a lot more experimenting than I necessarily would have wanted, but it seemed I was not destined to play games that were in my comfort range. Luckily for me though, I was able to secure an advantage early on that allowed me to win the game.</p>
-<p style="text-align: left;"><strong>After the Review</strong> &#8211; Though this was my first win for YSD, the review still felt a bit mediocre for me overall. What I remember feeling like is that I was really only able to win because of my opponent&#8217;s overplay early on. Otherwise however, it wasn&#8217;t a particularly good game for me either.</p>
-<h3 style="text-align: center;">Round 4</h3>
-<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; I was unable to make the original time scheduled for Round 4, but I was lucky that my opponent could reschedule to the prior Sunday. Unfortunately, unlike my previous games, I was unable to play in a focused state of mind because I was at a local Starbucks and had a lot of other work needed to be done. So I was unable to give this game my all like I normally would.</p>
-
-<div id='glift_display10' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display10","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round4.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round4.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round4.sgf[/download]
-<p style="text-align: left;"><strong>After the Game</strong> &#8211; After my opponent resigned, I breathed a sigh of relief; but I was not terribly proud of the game that I had just played. After looking back over it, it was a haphazard game that I was lucky to win only because my opponent made a mistake and I got away with a few overplays that allowed me to reverse the game in my favor. So even though I won, it felt more like I had loss since my play was rather disappointing.</p>
-<p style="text-align: left;"><strong>After the Review</strong> &#8211; Continuing the trend of being a disappointment, Sabum-nim was quick to show how I was able to get away with numerous overplays in order to win the game. &#8220;This wasn&#8217;t supposed to work. And then that wasn&#8217;t supposed to work.&#8221; Although this time around, I knew that my play was rather abysmal since I was unable to give it my all at the time; so I was accepting of his criticism.</p>
-<h3 style="text-align: center;">Round 5</h3>
-<p style="text-align: left;"><strong>Preliminary Thoughts</strong> &#8211; With my record at 2-2, my ability to stay in League A rested on this final match. And so the pressure was particularly high for this game since I was unsure if I would be able to pull it off and the idea of being demoted terrified me. On top of all of that, it was against a friend who I&#8217;ve gotten to know quite well over the last few weeks, so it was a mixed bag of emotions as we dove into the epic clash that would determine my fate.</p>
-
-<div id='glift_display11' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display11","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/YSD-S9-Round5.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/YSD-S9-Round5.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/YSD-S9-Round5.sgf[/download]
-<p style="text-align: left;"><strong>After the Game</strong> &#8211; After clicking the resign button, I knew my fate was sealed. I was rather downtrodden, but there was a part of me that actually felt really good about the game. Unlike the other games, though I was <a title="My First Demotion" href="//first-demotion/">wrestling with disappointment of demotion at the time</a>, I actually felt like this game was something I could actually be proud of.</p>
-<p style="text-align: left;"><strong>After the Review </strong>&#8211; Finally, after four weeks of being a disappointment, I felt like I was finally able to play a game that Sabum-nim actually approved of. Of course as expected, I made a number of mistakes, but it felt like maybe I had finally played a game worthy of Sabum-nim&#8217;s time and energy. And on top of that, I felt start to awaken inside of me as a result of that game; but more on that later.</p>
-<h2 style="text-align: left;">Final Thoughts</h2>
-<p style="text-align: left;">When I first learned about how YSD worked, I have to admit that I thought 5 games a month would be a piece of cake. In reality, it is actually more difficult than it sounds since the games often take more than 90 minutes to complete and are scheduled. And well, you all know how life likes to get in the way of things. Nonetheless, I was really grateful that the program spurred us on to play more since that was one of my weaker areas at the time.</p>
-<p style="text-align: left;">As I look back at my thoughts after the reviews, I just wanted to clarify that Sabum-nim is really not an overly harsh or mean teacher. He simply tells it as it is without sugar-coating things since his goal is to teach you where your mistakes are and not to coddle you. In addition, it&#8217;s important to keep in mind that a major component to how I felt after each review derives from the fact that I am extremely self-critical of myself. So what else could you expect from someone rubbing salt into their own wounds? Haha.</p>
-<p style="text-align: left;">And though I was more disappointed and frustrated about being demoted to League B than I probably should have been, my exposure to League A was a great experience to show the gaps in my skills as a go player. I don&#8217;t know what is in store for me in League B, but I look forward to the challenge of climbing back up to League A. Until next month!</p>
-<p style="text-align: center;"><strong>Part I</strong> &#8211; <a title="My Experience with YSD — S9 — Part 2" href="//experience-ysd-s9-part-2/">Part II</a> &#8211; Part III</p>
-]]></content:encoded>
-			<wfw:commentRss>/experience-ysd-s9-part-1/feed/</wfw:commentRss>
-		<slash:comments>17</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5395</post-id>	</item>
-		<item>
-		<title>Monday Go Meditation: Game 58</title>
-		<link>/monday-go-meditation-game-58/</link>
-		<comments>/monday-go-meditation-game-58/#comments</comments>
-		<pubDate>Mon, 02 Jun 2014 11:15:20 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[april challenge]]></category>
-		<category><![CDATA[calm]]></category>
-		<category><![CDATA[capturing race]]></category>
-		<category><![CDATA[commentary]]></category>
-		<category><![CDATA[game]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[maaike]]></category>
-		<category><![CDATA[review]]></category>
-		<category><![CDATA[semeai]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=5316</guid>
-		<description><![CDATA[Introduction With this week, we continue on with Game #2 of Maaike&#8217;s April Challenge! Even though the game ended up culminating into a rather large capturing race, I felt that my decisions leading up to it were calm as a whole. Instead of trying to turn it into a capturing race from the beginning, there [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>With this week, we continue on with Game #2 of Maaike&#8217;s <a title="Maaike's April Challenge" href="http://www.thegochallenge.blogspot.com.au/2014/04/april-challenge.html">April Challenge</a>! Even though the game ended up culminating into a rather large capturing race, I felt that my decisions leading up to it were calm as a whole. Instead of trying to turn it into a capturing race from the beginning, there were a number of times when I would offer the possibility of a peaceful resolution. So in that regard, I believe that I was successful in playing a calm game. Hopefully you&#8217;ll think so too!<br />
-
-<div id='glift_display12' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display12","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/06\/2014.06.02-MGM-58.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/06/2014.06.02-MGM-58.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/06/2014.06.02-MGM-58.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">When all hopes seems lost, one must consider all moves before giving up, even the empty triangle.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-58/feed/</wfw:commentRss>
-		<slash:comments>4</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5316</post-id>	</item>
-		<item>
-		<title>Thursday Go Tygem: Game 01</title>
-		<link>/thursday-go-tygem-game-01/</link>
-		<comments>/thursday-go-tygem-game-01/#comments</comments>
-		<pubDate>Thu, 08 May 2014 18:50:34 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Thursday Go Tygem]]></category>
-		<category><![CDATA[commentary]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[korean]]></category>
-		<category><![CDATA[review]]></category>
-		<category><![CDATA[server]]></category>
-		<category><![CDATA[tygem]]></category>
-
-		<guid isPermaLink="false">//?p=5256</guid>
-		<description><![CDATA[Introduction Welcome to my new Thursday Go Tygem series! This series is inspired by fellow go blogger Eyecatcher&#8217;s WBaduk Challenge series where he posts the games from WBaduk to keep himself disciplined and force himself to review his games from there as well. As you might have guessed from the title of this series, the games featured [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>Welcome to my new Thursday Go Tygem series! This series is inspired by fellow go blogger Eyecatcher&#8217;s <a title="Eyecatcher's WBaduk Series Intro" href="http://www.truthandgo.com/?p=442">WBaduk Challenge series</a> where he posts the games from WBaduk to keep himself disciplined and force himself to review his games from there as well. As you might have guessed from the title of this series, the games featured on here will solely be from Tygem.<br />
-I&#8217;m sure some of you are wondering though, &#8220;What&#8217;s the difference between this and Monday Go Meditation?&#8221;</p>
-<ol>
-<li><strong>Higher Level Commentaries</strong> &#8211; Instead of being extremely detailed with every move, this series focuses on higher level commentary that highlights big points and any key aspects of how I thought the game went. In addition, it will abstain from any detailed explanation regarding variations in order to save on time and effort. By doing this, I am hoping that this will help speed up my process (since reviewing all my games via Monday Go Meditation is practically impossible).</li>
-<li><strong>Exclusively Dan Level Opponents</strong> &#8211;  The unique kicker to this entire series is that it will consist entirely of me playing dan players on Tygem. As some of you might remember, frozensoul once gave me the challenge to exclusively play dan players on Tygem in order to get stronger. Well, your wish is granted sensei. This series is the start of me embarking on that journey.</li>
-</ol>
-<p>And since this is a new series, it would be great if you could leave some feedback below to let me know whether or not I should continue with this series or if there are things I should do to improve it! Here we go!<br />
-
-<div id='glift_display13' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display13","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/05\/2014.05.08-TGT-01.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/05/2014.05.08-TGT-01.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/05/2014.05.08-TGT-01.sgf[/download]
-<h3 style="text-align: center;">Game Summary</h3>
-[table colwidth=&#8221;50|140|375|375&#8243; colalign=&#8221;center|center|center|center&#8221;]
-no,Category,Good,Bad<br />
-1,Opening,<strong>Moves 8-10</strong>: Ignoring White&#8217;s pincer to make my own enclosure and then diving in the corner felt like good timing overall.,<strong>Move 11</strong>: I messed up the lower left joseki due to carelessness.<br />
-2,Middle Game,<strong>Move 45-49</strong>: I was really proud of this sequence since I could break up White&#8217;s area while counter attacking at the same time., <strong>Move 56</strong>: I feel I may have mishandled this crosscut fight and gave away too much to White as a result.<br />
-3,Fighting,<strong>Move 158-160</strong>: I was proud of myself for not backing away from the ko fight., Nothing bad as far as I can tell.<br />
-4,Endgame,My endgame felt average this game. Nothing special.,<strong>Move 134</strong>: Letting White get this hane was really painful.<br />
-5,Overall Reading,Overall I think I did alright. Nothing I&#8217;m particularly proud of though., <strong>Move 100</strong>: Didn&#8217;t see that coming!<br />
-[/table]
-]]></content:encoded>
-			<wfw:commentRss>/thursday-go-tygem-game-01/feed/</wfw:commentRss>
-		<slash:comments>6</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">5256</post-id>	</item>
-		<item>
-		<title>&#034;Beat a Stronger Player in an Even Game&#034; Accomplishment Complete!</title>
-		<link>/beat-a-stronger-player-in-an-even-game-accomplishment-complete/</link>
-		<pubDate>Tue, 09 Oct 2012 17:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[achievement]]></category>
-		<category><![CDATA[baduk]]></category>
-		<category><![CDATA[even game]]></category>
-		<category><![CDATA[go]]></category>
-		<category><![CDATA[kifu]]></category>
-		<category><![CDATA[stronger opponent]]></category>
-		<category><![CDATA[weiqi]]></category>
-
-		<guid isPermaLink="false">//?p=24</guid>
-		<description><![CDATA[For those who have never tried it before, playing an even game against a player that is reportedly two stones stronger than you can be a scary feeling. On one hand, you think &#8220;This can&#8217;t be too bad.&#8221; Yet, on the other hand, the board looks quite naked as you stare at the empty board [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>For those who have never tried it before, playing an even game against a player that is reportedly two stones stronger than you can be a scary feeling. On one hand, you think &#8220;This can&#8217;t be too bad.&#8221; Yet, on the other hand, the board looks quite naked as you stare at the empty board while knowing that you should have two handicap stones sitting on the board. As someone who&#8217;s been through a couple experiences recently, it is quite the daunting feeling&#8230;</p>
-<div style="text-align: left;"><span id="more-24"></span></div>
-<p>Now, I understand that rank is, more often than not, a rather subjective one. A player can be stronger or weaker than his reported rank, and then of course there is the issue of whether your opponent&#8217;s playing style is weak to yours. Nonetheless, especially for players not yet in the high SDK and dan levels, the rank difference ends up impacting your mindset to some degree.<br />
-The game was an intense one that left me with a racing heart and slight anxiety that I would misclick as my shaking hands attempted to place each stone. That being said, I am proud to say that today&#8217;s kifu has allowed me to obtain the &#8220;Beat a Stronger Player in an Even Game&#8221; accomplishment! In addition, being able to win against a stronger player in an even game has helped to reinforce my confidence against stronger opponents. Granted, I&#8217;m not saying I believe I can knocking down high SDK&#8217;s with ease; but I am now at least able to stand a bit straighter when faced with stronger opponents.<br />
-Finally, today&#8217;s kifu has a special guest appearance from one of my favorite sensei&#8217;s: frozensoul! The kifu has a lot of great commentary and variations that I&#8217;m sure you could benefit from. The key lesson that I took away from his review is the usage of the double hane. If you are still feel a bit confused about that technique, be sure to look over the kifu for that explanation and more!</p>
-<div style="text-align: left;">
-<div id='glift_display14' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display14","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2012\/10\/2012.10.03-Beat-a-Stronger-Player-in-an-Even-Game.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2012/10/2012.10.03-Beat-a-Stronger-Player-in-an-Even-Game.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p></div>
-<div style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2012/10/2012.10.03-Beat-a-Stronger-Player-in-an-Even-Game.sgf[/download]</div>
-<div style="text-align: left;"></div>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">24</post-id>	</item>
-	</channel>
-</rss>

@@ -1,53 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>handling a loss &#8211; BenGoZen</title>
-	<atom:link href="/tag/handling-a-loss/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Losing a Won Game</title>
-		<link>/losing-a-won-game/</link>
-		<pubDate>Thu, 30 Aug 2012 16:00:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Advice]]></category>
-		<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[baduk]]></category>
-		<category><![CDATA[go]]></category>
-		<category><![CDATA[handling a loss]]></category>
-		<category><![CDATA[weiqi]]></category>
-
-		<guid isPermaLink="false">//?p=36</guid>
-		<description><![CDATA[In my experience thus far, one of the most difficult things to swallow is losing a won game. And let me tell you, boy did I royally screw this one up. The thing that makes this kind of loss worse is the fact that you know it&#8217;s entirely your fault. There&#8217;s no ifs and or [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>In my experience thus far, one of the most difficult things to swallow is losing a won game. And let me tell you, boy did I royally screw this one up.<br />
-The thing that makes this kind of loss worse is the fact that you know it&#8217;s entirely your fault. There&#8217;s no ifs and or buts to be said about it. Unlike other games where a slightly slower reaction time can make the difference or luck comes into play, Go is purely about your inner strength and ability to make the right decision.<br />
-<span id="more-36"></span><br />
-I&#8217;m writing this post right after a game that I knew I could definitely win, but my overconfidence allowed my opponent to advantage of my weaknesses and turn the game around in his favor [Move 250]. As you might guess, I am feeling pretty crappy at the moment.<br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2012\/08\/2012.08.30-Losing-a-Won-Game.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2012/08/2012.08.30-Losing-a-Won-Game.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-Here&#8217;s the thing though. When the game is over and you&#8217;re staring into the abyss thinking of the move you should have made, do not despair and fall into a spiraling pit of regret.<br />
-So I messed up this endgame pretty awfully this time around. Guess what. There will be numerous games after this where I will try my utmost to prevent from happening again. And when solid endgame play becomes second nature to me, guess who&#8217;ll be getting stronger once more?<br />
-I will not dwell on this any longer, as discovering a weakness is simply another opportunity for gaining strength. So onward I&#8217;ll go, towards the pursuit of the player I know that I am capable of becoming.</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">36</post-id>	</item>
-	</channel>
-</rss>

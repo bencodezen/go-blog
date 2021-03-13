@@ -1,54 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>ignoring &#8211; BenGoZen</title>
-	<atom:link href="/tag/ignoring/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Monday Go Meditation: Game 46</title>
-		<link>/monday-go-meditation-game-46/</link>
-		<comments>/monday-go-meditation-game-46/#comments</comments>
-		<pubDate>Mon, 10 Mar 2014 11:15:01 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[Monday Go Meditation]]></category>
-		<category><![CDATA[ignoring]]></category>
-		<category><![CDATA[tenuki]]></category>
-		<category><![CDATA[victory]]></category>
-		<category><![CDATA[white]]></category>
-
-		<guid isPermaLink="false">//?p=4725</guid>
-		<description><![CDATA[Introduction For this week&#8217;s go meditation, one of the primary themes of this game is trying to recognize when it&#8217;s worth it to respond to your opponent and when you should ignore your opponent. Throughout the game, there are numerous times where responding to my opponent locally would not have technically have been &#8220;wrong,&#8221; but [&#8230;]]]></description>
-				<content:encoded><![CDATA[<h2 style="text-align: center;">Introduction</h2>
-<p>For this week&#8217;s go meditation, one of the primary themes of this game is trying to recognize when it&#8217;s worth it to respond to your opponent and when you should ignore your opponent. Throughout the game, there are numerous times where responding to my opponent locally would not have technically have been &#8220;wrong,&#8221; but it would have been difficult on the board as a whole if I simply let my opponent get sente to play where he wanted. So be sure to pay attention to when I respond and why I have no problem doing so, but then it is equally important to note when I ignore my opponent and tenuki. Hope you enjoy!<a href="//wp-content/uploads/2014/03/2014.03.10-MGM-46.sgf"><br />
-</a><br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2014\/03\/2014.03.10-MGM-46.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2014/03/2014.03.10-MGM-46.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-<p style="text-align: center;">[download label=&#8221;Download Kifu&#8221;]//wp-content/uploads/2014/03/2014.03.10-MGM-46.sgf[/download]
-<h2 style="text-align: center;"><strong>One Point Lesson</strong></h2>
-<p style="text-align: center;">Unless it&#8217;s a matter of life and death, you can ignore your opponent a lot more often than you realize.</p>
-]]></content:encoded>
-			<wfw:commentRss>/monday-go-meditation-game-46/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-	<post-id xmlns="com-wordpress:feed-additions:1">4725</post-id>	</item>
-	</channel>
-</rss>

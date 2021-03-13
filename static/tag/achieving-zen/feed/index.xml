@@ -1,51 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	
-xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
->
-
-<channel>
-	<title>achieving zen &#8211; BenGoZen</title>
-	<atom:link href="/tag/achieving-zen/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Not your average go blog</description>
-	<lastBuildDate>Mon, 16 Apr 2018 00:20:31 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<site xmlns="com-wordpress:feed-additions:1">144214914</site>	<item>
-		<title>Everything is Connected to Everything</title>
-		<link>/everything-is-connected-to-everything/</link>
-		<pubDate>Thu, 21 Oct 2010 15:19:00 +0000</pubDate>
-		<dc:creator><![CDATA[BenGoZen]]></dc:creator>
-				<category><![CDATA[Journal]]></category>
-		<category><![CDATA[Kifu]]></category>
-		<category><![CDATA[achieving zen]]></category>
-		<category><![CDATA[emotional frustration]]></category>
-		<category><![CDATA[tilt]]></category>
-
-		<guid isPermaLink="false">//?p=60</guid>
-		<description><![CDATA[Yesterday I went on tilt and promptly lost four games in a row. After that, with no sleep and a ten page paper on my mind, it was game over for any other games I tried to start. It wasn&#8217;t until last night where I finally ended my streak with a win over a 14k. [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Yesterday I went on tilt and promptly lost four games in a row. After that, with no sleep and a ten page paper on my mind, it was game over for any other games I tried to start. It wasn&#8217;t until last night where I finally ended my streak with a win over a 14k.<br />
-So the question for new players is: how do we prevent this tilt? It&#8217;s something that I hope to be able to write about in length in the future; but for now, I hope that the following perspective will help shed some light for you.<br />
-<span id="more-60"></span><br />
-It dawned on me last night that I&#8217;ve been spending most of my days trying to improve at Go. There&#8217;s nothing wrong with this, except I feel that perhaps I may have neglected other priorities of mine. Why did I do so? I believed that by improving at Go I could derive my own weaknesses and improve myself in the real world. While I have found that I have achieved that so far, the reverse is the same as well. If I can improve myself in other areas outside of the board, it will show up in my play as well.<br />
-So what&#8217;s the critical point? Everything is connected with everything. You can spend 24/7 studying Go books, but if this devotion takes away from your other priorities, you&#8217;ll find that the emotional stress and pressure will eventually impact your game. Focusing solely on Go is like staring at one portion of the board, you may play a perfect corner, but you&#8217;ve lost the rest of the board.<br />
-And one more thing, I&#8217;m going to stop paying attention to my rank. No I won&#8217;t naively be ignorant of it, but<strong> it&#8217;s pointless to keep letting KGS monopolize my own perception of my strength</strong>. It makes me feel bummed when I rabbit jump, and frankly there are far more opponents that I want to outclass than simply gaining a stone on KGS. So from this point on, it&#8217;s all introspection and getting stronger on my own&#8230; regardless of KGS&#8217; estimation of my strength. My opponent is myself, and my opponents are simply there to test my strength and help me grow.<br />
-If you&#8217;re wondering where my emotional tilt began, it all started with my first game where I did not protect a vital cut and could not regain control of the game past that point. It occurs at Move 47.<br />
-
-<div id='glift_display1' style='height:500px; width:100%; position:relative;'></div>
-<script type='text/javascript'>gliftWidget = glift.create({"divId":"glift_display1","sgf":"http:\/\/bengozen.com\/\/wp-content\/uploads\/2010\/10\/2010.10.21-Everything-is-Connected-to-Everything.sgf","display":{"theme":"DEFAULT","drawBoardCoords":"1"}});</script>
-<p>&nbsp;</p>
-<div align ='center'><noscript>Please enable JavaScript to view this game.</noscript> <a href='//wp-content/uploads/2010/10/2010.10.21-Everything-is-Connected-to-Everything.sgf' download>Download SGF</a></div>
-<p>&nbsp;</p>
-]]></content:encoded>
-		<post-id xmlns="com-wordpress:feed-additions:1">60</post-id>	</item>
-	</channel>
-</rss>
